@@ -1,0 +1,483 @@
+## foods
+
+# Review
+
+# Bioactive Sugarcane Lipids in a Circular Economy Context
+
+**Francisca S. Teixeira, Susana S. M. P. Vidigal *, Lígia L. Pimentel *, Paula T. Costa, Manuela E. Pintado and**
+**Luís M. Rodríguez-Alcalá**
+
+Escola Superior de Biotecnologia, CBQF—Centro de Biotecnologia e Química Fina—Laboratório Associado,
+Universidade Católica Portuguesa, Rua Diogo Botelho 1327, 4169-005 Porto, Portugal;
+fsteixeira@porto.ucp.pt (F.S.T.); ptcosta@porto.ucp.pt (P.T.C.); mpintado@porto.ucp.pt (M.E.P.);
+lalcala@porto.ucp.pt (L.M.R.-A.)
+
+**Citation:** Teixeira, F.S.;
+Vidigal, S.S.M.P.; Pimentel, L.L.;
+Costa, P.T.; Pintado, M.E.;
+Rodríguez-Alcalá, L.M. Bioactive
+Sugarcane Lipids in a Circular
+Economy Context. *Foods* **2021,10,**
+1125. https://doi.org/10.3390/
+foods10051125
+
+***** Correspondence: svidigal@porto.ucp.pt (S.S.M.P.V.); lpimentel@porto.ucp.pt (L.L.P.)
+
+Academic Editor: Luís Manuel Lopes
+Rodrigues da Silva
+
+Received: 22 April 2021
+Accepted: 17 May 2021
+Published: 19 May 2021
+
+**Publisher’s Note:** MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+**Copyright:** © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+
+**Abstract:** Most of the global sugar and ethanol supply trade comes from the harvesting of *Saccharum
+officinarum* (i.e., sugarcane). Its industrial processing results in numerous by-products and waste
+streams, such as tops, straw, filter cake, molasses and bagasse. The recovery of lipids (i.e., octacosanol,
+phytosterols, long-chain aldehydes and triterpenoids) from these residues is an excellent starting point
+for the development of new products for various application fields, such as health and well-being,
+representing an important feature of the circular economy. By selecting green scalable extraction
+procedures, industry can reduce its environmental impact. Refluxed ethanol extraction methods
+have been demonstrated to meet these characteristics. On the other hand, effective non-solvent
+methodologies such as molecular distillation and supercritical CO<sub>2</sub>extraction can fractionate lipids
+based on high temperature and pressure application with similar yields. Sugarcane lipophilic extracts
+are usually analyzed through gas chromatography (GC) and liquid chromatography (LC) techniques.
+In many cases, the identification of such compounds involves the development of high-temperature
+GC–MS/FID techniques. On the other hand, for the identification and quantification of thermolabile
+lipids, LC–MS techniques are suitable for the separation and identification of major lipid classes.
+Generically, its composition includes terpenes, phytosterols, tocopherol, free fatty acids, fatty alcohols,
+wax esters, triglycerides, diglycerides and monoglycerides. These compounds are already known
+for their interesting application in various fields such as pharma and cosmetics due to their antihypercholesterolemic, anti-hyperglycemic, antioxidant and anti-inflammatory properties.
+
+$$
+\mathrm{CO}_{2}
+$$
+
+**Keywords:** sugarcane; bioactive lipids; circular economy; terpenes; fatty alcohols; phytosterols;
+tocopherols; anti-hypercholesterolemic; antioxidant; anti-inflammatory
+
+### 1. Introduction
+
+Nowadays, industrial processes that are not aligned with suitable sustainable standards can lead to undesirable consequences such as the pollution of all ecosystems [1] and
+the release of CO<sub>2</sub> and other greenhouse gases that are responsible for global warming.
+Concerns regarding this matter are being raised worldwide in several areas, encouraging
+the adoption of practices based on renewable concepts [2]. In fact, the current economic
+paradigm is based on a “take, make, dispose” policy [3] that increases social (i.e., poor
+working conditions, unemployment, poverty), environmental (water and land exhaustion
+and pollution) and economic instabilities (supply and financial risks) as a result of the
+lack of sustainability [4,5]. Thus, in order to assist in the environmental, energy and food
+production crisis that humankind is facing during the XX and XXI centuries, a new concept
+has been proposed and developed—the circular economy [6,7].
+
+$$
+CO_{2}
+$$
+
+Geissdoerfer et al. [4] define the circular economy as “a regenerative system in which
+resource input and waste, emission, and energy leakage are minimized by slowing, closing,
+and narrowing material and energy loops. This can be achieved through long-lasting
+design, maintenance, repair, reuse, remanufacturing, refurbishing, and recycling”.
+
+---
+
+In terms of the protection of natural resources, the abovementioned ideas, actions and
+strategies seek to result in processes that are more efficient and environmentally friendly.
+These concepts agree with the principles of green chemistry. Herein, by avoiding the use of
+toxic solvents, minimizing the number of production steps and designing safer processes,
+biodegradable residues can be produced [8]. Moreover, the European Union has introduced
+the circular economy as a high-level strategy to move our societies beyond the limits of
+growth. The circular economy aims at transforming waste into resources and bridging the
+activities of production with consumption [9,10].
+
+Within the various industrial activities, we can highlight the agro-industrial sector,
+where sugarcane residues can be harnessed in diverse areas. Therefore, it is crucial to ensure
+that this sector abides by the principles of the circular economy [11]. This current work
+aims to review the state of the art regarding sugarcane production’s impact on global trade
+as well as its application in the circular economy. Hence, the lipids extracted from this plant
+are an excellent starting point for the creation of new products, enhancing the economic
+system for various fields such as health and well-being, as well as new biomaterials.
+
+#### 1.1. Sugarcane Production, Residues and Circular Economy
+
+The demand for sugarcane (*Saccharum officinarum* L.)-derived products is increasing
+worldwide; its production increased from 1.7 to 1.9 billion tonnes from 2008 to 2018.
+According to statistics provided by the Food and Agriculture Organization (FAO), the main
+producing countries are Brazil (731 million tonnes) and India (337 million tonnes) [12].
+Currently, sugarcane cultivation aims to cover 80% of total sugar supply [13] but its crop
+and processing results in several by-products and waste streams [14].
+
+The resulting by-products from harvesting include tops and straw, while the wastes
+from the sugar processing steps are bagasse, press mud and molasses (Figure 1) [15]. Based
+on their composition (Table 1), this biomass has potential for use as bio-based products
+among different sectors, such as food, bioenergy and bio bulk materials [11].
+
+For example, bagasse wastes, which are mainly composed of cellulose (47–52%),
+hemicellulose (25–28%) and lignin (20–21%) [13], turn bagasse into an interesting raw
+material because of its low cost and good accessibility related to the constant and stable
+supply [16]. Furthermore, pre-hydrolyzed bagasse has been reported to be suitable for
+cattle feeding as it does not interfere with the activity of cellulolytic bacteria of rumen and
+therefore does not compromise feed digestibility [17].
+
+Press mud, or filter cake, results from slurry that is sent to filtration for sugar removal.
+It can be used for cane wax production or as a fertilizer in sugarcane fields due to its
+abundance in nitrogen, phosphorus, calcium and organic matter [15,17].
+
+Sugarcane tops, straw, molasses and bagasse are important materials applied for
+bioethanol production.
+
+---
+
+3 of 18
+3 of 21
+
+3 of 18 Foods 2021 , 10 , x FOR PEER REVIEW 3 of 21
+
+Straw
+Sugarcane
+Washing
+Crushing
+Milling
+Press Mud
+Filtration
+Sludge
+Bagasse
+Clarification
+Evaporation
+Crystallisation
+Sugar
+Drying
+Centrifugation
+Molasses
+
+**Figure 1.** Sugar production process and waste generation [15].
+**Figure 1.** Sugar production process and waste generation [15].
+
+**Table 1.** Sugarcane by-products, lipophilic extract yield (%) and their main bioactive lipids (%). **Table 1.** Sugarcane by-products, lipophilic extract yield (%) and their main bioactive lipids (%).
+
+| Sugarcane Byproducts | Isolation Method | Extract Yield (%) a | Bioactive Lipids | Biological Effect | Reference |
+| --- | --- | --- | --- | --- | --- |
+| Rind | Supercritic CO2 | 0.80 % | Long-chain aldehydes and n-policosanols (83%) | Prevention of osteoporosis, cardiovascular diseases such as deficient arterial function and hypercholesterolemia [18,19]. | [18] |
+| Leaves | Supercritic CO2 | 1.60 % | Triterpenoids (16.9 %) | Analgesia and anti-inflammatory potential, anti-cancer anti-bacterial activity. Vascularizing agent [18,20]. | [18] |
+| Bagasse | Soxhlet (Acetone) | 0.90 % | Aldehydes (48%) and n-fatty alcohols (23%) | Fatty alcohols can reduce platelet aggregation, LDL in blood and cholesterol synthesis and prevention of atherosclerosis. Aldehydes are intermediates in the biosynthesis of alcohols from fatty acids [21]. Phytosterols act as anti-inflammatory agents on macrophages (increase of phosphatase SHP-1 activity, secretion of anti-inflammatory interleukin IL-10, reducing transcription factor activation and decrease on the release of pro-inflammatory cytokines IL-12 and IL-5) [22,23]. | [21] |
+| Straw | Soxhlet (Acetone) | 1.40 % | Fatty acids (60%), sterols (10%) | Fatty alcohols can reduce platelet aggregation, LDL in blood and cholesterol synthesis and prevention of atherosclerosis. Aldehydes are intermediates in the biosynthesis of alcohols from fatty acids [21]. Phytosterols act as anti-inflammatory agents on macrophages (increase of phosphatase SHP-1 activity, secretion of anti-inflammatory interleukin IL-10, reducing transcription factor activation and decrease on the release of pro-inflammatory cytokines IL-12 and IL-5) [22,23]. | [21] |
+| Peel | Saponification and further extraction with Diethyl Ether | 0.027 % | Octacosanol (81%) | Increment of HDL levels and decrease of LDL and triglycerides. Reduction of oxidative stress by the increase on superoxide dismutase enzyme levels [18,19]. | [24] |
+| Filter Mud | Saponification and further extraction with Ethanol | 2.31 % | Octacosanol (47.8 %) | Increment of HDL levels and decrease of LDL and triglycerides. Reduction of oxidative stress by the increase on superoxide dismutase enzyme levels [18,19]. | [25] |
+
+<sup>a</sup> %  VWHUROV
+of the dry biomass weigh. DFWLYDWLRQDnGGHFUHDVH on the release of pro-
+(10%)
+
+---
+
+#### 1.2. Ethanol Production
+
+Environmental and fossil fuel supply issues have led to an increase in global bioethanol
+production since 2014 from 789.9 to 916.4 tonnes in 2019, from which 54% came from US,
+30% from Brazil and only 5% from the EU [26]. The evolution of the biofuel sector over
+the past decade has been strongly influenced by various policies, including supporting
+legislation measures and mandatory blending levels. Moreover, during the past decade,
+the use of ethanol as an octane additive has increased rapidly, due to the high fossil fuel
+prices [27]. Consequently, it is expected that there will be an increase in the worldwide
+consumption of ethanol from 111.5 to 129.2 million liters, of which 102.3 million liters will
+be used as biofuel [28].
+
+Bioethanol production from sugarcane fermentation is a paradigm in the implementation of a strategy to bypass the depletion of fossil fuels, in order to obtain replacement oils
+for spark-igniting engines (i.e., gasoline) [29]. The first-generation biofuels are obtained
+from seeds, grains or sugars, which are used for foodstuff consumption, leading to some
+concerns about biodiversity and land usage [30,31]. Currently, first-generation biofuels
+are mostly produced from sugar and starch-containing raw materials such as molasses
+that result from sugar refining, and they have been recently reported as suitable to for
+generating bioethanol by fermentation processes [32,33]. On the other hand, the secondgeneration biofuels make use of biomass and have recently attracted much interest, since
+there is no need for extra land or competition with food/feedstock. An example is the
+bioethanol production from lignocellulosic biomass (i.e., bagasse, straw) [34]. Further, both
+bagasse and straw are basically constituted of lignin, hemicellulose and cellulose, being
+suitable for producing second-generation biofuels through hydrolysis processes. Here,
+hemicellulose and cellulose are converted into sugars to afterwards be transformed into
+ethanol by fermentation processes [34].
+
+Some studies reported that processes using sugarcane and bagasse (second-generation)
+present similar ethanol yields as the ones using sugarcane molasses (first-generation) [35].
+However, while cellulose hydrolysis produces glucose, which can be easily fermented
+into ethanol, hemicellulose hydrolysis produces mostly xylose. Unfortunately, only a
+few microorganisms are capable of transforming xylose into ethanol [17], and additional
+research will be needed concerning the tolerance of such microbial strains to substratehydrolysates to further improve the second-generation biofuel production [29]. Despite the
+past four decades of work and significant methodology development, large industrial-scale
+processes for fermenting pentose and hexose still face technical and economic challenges,
+predominantly aiming at the improvement of biomass pre-treatments [36].
+
+Moreover, sugarcane lipids have been recently demonstrated to be suitable in the
+framework of the bioeconomy. On the basis that it is a high-biomass crop, this plant may
+exceed oil production from other oilseed harvests (i.e., soya), representing a way to decrease
+biofuel production costs [37]. Sugarcane oil accumulates in leaves and stems and is composed of phospholipids (that can be eliminated with acetone during biofuel production),
+triglycerides and free fatty acids, the latter being further converted into diglycerides [38].
+Moreover, other initiatives based on genetic engineering optimized lipid production to
+reach up to 20% [39]. This is a remarkable improvement since regular content increases
+from 0.1% to 0.3% depending on the variety, although the composition is far more complex since it includes fatty alcohols, phytosterols, ketosteroids, hydroxyketosteroids and
+terpenoids [40]. Biodiesel is obtained through reactions where fatty acids in the triglycerides are transesterified into fatty acid methyl esters in the presence of an alcohol (usually
+methanol in 6:1 ratio) and a catalyst, with sodium methoxide (0.5%) being the most common [41]. Interestingly, in the first days after the creation of the diesel motor, vegetable oils
+were proposed as possible fuels but their viscosity was a major problem (i.e., operational
+problems due to deposits) and the elimination of glycerol after transesterification reactions
+was then proposed [41].
+
+Oils from soya and rapeseed are widely used to produce biodiesel, with net energy
+outputs of 2.6 and 6.6. GJ/tonne crop, while with bioethanol from sugarcane, values are 2.3 GJ/tonne crop [42]. However, in terms of harvested land sugarcane yields, this
+is 153 GJ/ha, while for soya oil intended for biodiesel, this yield is 6.5 GJ/ha, and it is
+15.3 GJ/ha for rapeseed. Thus, as sugarcane is a high-yield crop (as commented above),
+the studies where lipid production was boosted represent an important development in
+energy production from vegetable sources.
+
+However, both biodiesel and bioethanol production require a great deal of energy due
+the fermentative or chemical steps (among others). Thus, the carbon footprint of bioethanol
+from sugarcane is 14 kg CO<sub>2</sub>eq/GJ, and in the case of biodiesel, it is 130 kg CO<sub>2</sub>eq/GJ (i.e.,
+soya) and 87 kg CO<sub>2</sub>eq/GJ (i.e., rapeseed). It is therefore expectable that if sugarcane could
+be used to produce oil suitable for biodiesel, the carbon footprint would be lower than with
+the current harvested plants [42]. Moreover, other environmental indicators such as the
+blue (i.e., surface and groundwater consumed during production), green (i.e., rainwater
+consumed during production) and grey (i.e., freshwater pollution due to production) water
+footprint are favorable to sugarcane. Indeed, the total water footprint in sugar crops during
+the period 1996 to 2005 was 193 m<sup>3</sup> /tonne and 2364 m<sup>3</sup> /tonne for oil crops [43].
+
+$$
+CO_{2}eq/G
+$$
+
+$$
+87kg CO_2eq/GJ(i.e.
+$$
+
+$$
+\mathrm{CO}_{2}\mathrm{eq}/\mathrm{GJ}\left(\mathrm{i.e.}\right.
+2364m^3,
+$$
+
+Accordingly, sugarcane lipids, simply through their direct application in energy
+production, can make a great impact within the bioeconomy since current information
+predicts lower land, water and carbon footprints. Nevertheless, it can be also expected
+that if genetic engineering brings new varieties of sugarcane with higher lipid yield, its
+bioproducts will also have higher contents. Until that moment arrives, exploring current
+possibilities can help to set in motion such opportunities.
+
+### 2. Sugarcane Lipophilic Molecules
+
+Lipids and their applications have recently attracted significant interest in several
+research fields since their diverse biological pathways in cell biology, physiology and
+pathology are being revealed [44]. A wide-ranging variety of lipids can be present in plants;
+these include hydrocarbons, wax esters, fatty alcohols, ketones, free sterols and sterol
+esters, as well as more common simple lipids such as triglycerides. Among these, wax
+esters are the main components of the surface lipids of plants [45], covering the epidermal
+cells of fruits, petals and leaves, designing the cuticle matrix. The cuticle (Figure 2) acts
+as a physical barrier and signaling trigger against pathogens (i.e., bacteria, yeast, fungi,
+virus and mites) and environmental conditions (i.e., wind and rain) [46,47]. It consists of
+an amorphous and non-soluble polyester formed by polyhydroxylated fatty acids C16
+and C18—denominated as the cutin matrix [48,49]. The biosynthetic pathways from fatty
+acids to cutin monomers are divided according to three reactions: coenzyme-A (CoA)
+conjugation, oxidation and acyl transfer to glycerol [50]. The connection between polymer
+structures, functions and properties is a promising area of research [51].
+
+#### 2.1. Classic Methods for Lipid Isolation
+
+In the isolation of lipids, Folch extraction (Figure 3) is the gold standard [52]. The
+procedure, originally developed to be assayed on biological samples, takes advantage of
+a biphasic solvent system consisting of chloroform:methanol:water [53]. Based on this
+idea, a rapid and less solvent-consuming method was proposed in 1959 by Bligh and
+Dyer [53,54]. This method was performed on wet tissue homogenized with a mixture of
+chloroform and methanol, forming a miscible system of chloroform:methanol:water at a
+2:2:1.8 (v/v/v) proportion.
+
+Later, in 1978, in order to review these techniques as potential health hazards due to
+the use of toxic solvents, Hara and Radin [55] proposed an improved extraction method
+using hexane:isopropanol 3:2 (v/v).
+
+---
+
+Phenolic compounds
+Intracuticular waxes
+Epicuticular wax layer
+Cutin
+Epidermal Cell
+Cell Wall
+Polysaccharide rich fraction
+
+the use of toxic solvents, Hara and Radin [55] proposed an improved extraction method 
+**Figure 2.** using hexane:isopropanol 3:2 ( Representation of the cross-section of sugarcane plant cuticle [ *v/v).* 48].
+Representation of the cross-section of sugarcane plant cuticle [48].
+
+2.1. Classic Methods for Lipid Isolation
+
+2. Mix sample with chloroform:methanol (2:1) *v/v*
+
+3. Add 0.2 equivalents of water to induce phase separation
+
+Upper phase chloroform:methanol:water (3:48:47) *v/v/v*
+
+Polar molecules (metabolites), salts, amino acids, etc
+
+Interface
+
+Precipitated proteins
+
+Lower phase chloroforms:methanol:water (86/14/1) v/v/v
+
+Lipids
+
+1. Sample (Blood Tissue, Microorganisms, Cell Pellet)
+
+**Figure 3.** Representation of Folch’s extraction method [55].
+
+More recently, a modification to the Folch procedure using methyl tert-butyl ether
+instead of chloroform was also proposed—the Matyash method [56]. Due to its lower
+density compared to the methanol/water phase, it was possible to recover the lipid layer
+in an easier way. Later on, a modified Matyash method, using solvent volumes analogous
+to the Bligh and Dyer protocol, was studied in order to achieve better reproducibility for
+metabolite analysis by UPLC–MS on lipid extracts of two bio-fluids (human plasma and
+urine) and on Daphinia magna tissue [57]. The improved reproducibility was evaluated
+based on the observation of a lower median relative standard deviation (mRSD) of peaks
+identified by UPLC–MS.
+
+Nonetheless, there are two major challenges to overcome: (1) the extraction efficiency
+and (2) the complete removal of non-lipid content. For example, phospholipids can bind
+to various biopolymers through ionic interactions that cannot be easily disrupted by organic solvents. In this context, pH adjustments during extraction can be beneficial for
+lipid maximal recovery and can also increase the ionization efficiency of lipids in mass
+spectrometry analysis [58]. For instance, the acidified Bligh and Dyer procedure can be
+used in order to extract the lipid content of Saccharomyces yeast cell homogenates, entailing
+the acidification of the aqueous phase with HCl (0.1 M) to ensure efficient extraction of the
+acidic phospholipids [59].
+
+Regarding these solvent-assisted extractions, Reis et al. [60] evaluated five solvent
+systems for the extractability of lipids accomplished with further analysis by HPLC–MS. A
+comparison between the Folch, Bligh and Dyer, acidified Bligh and Dyer, Matyash and Hara
+and Radin methods showed that there was a similarity in the predominant lipid classes
+(triglycerides, cholesterol esters and phosphatidylcholines) but differences in the extraction
+of minor lipid classes (phosphatidylinositols, lysolipids, ceramides and cholesterol sulfates).
+Both the Folch and acidified Bligh and Dyer methods had the best extraction efficiency
+over the range of lipid classes.
+
+Other extraction techniques using isopropanol, acetone, ethanol, methanol and acetonitrile have been identified for their lipophilic selectivity depending on the solvent
+
+[... middle omitted — see footer ...]
+
+*Steroids* **2006,71,** 647–652. [CrossRef] [PubMed]
+
+78. Gawro ´nska-Grzywacz, M.; Krzaczek, T. Identification and determination of triterpenoids in *Hieracium pilosella* L. *J. Sep. Sci.* **2007,**
+*30,* 746–750. [CrossRef]
+
+79. Rogowska, A.; Styczy ´nski, M.; P ˛aczkowski, C.; Szakiel, A.; Pinheiro de Carvalho, M.Â.A. GC-MS analysis of steroids and
+triterpenoids occurring in leaves and tubers of Tamus edulis Lowe. *Phytochem. Lett.* **2019,30,** 231–234. [CrossRef]
+
+80. López-Cobo, A.; Martín-García, B.; Segura-Carretero, A.; Fernández-Gutiérrez, A.; Gómez-Caravaca, A.M. Comparison of two
+stationary phases for the determination of phytosterols and tocopherols in mango and its by-products by GC-QTOF-MS. *Int. J.*
+*Mol. Sci.* **2017,18,** 1594. [CrossRef]
+
+81. Okazaki, Y.; Kamide, Y.; Hirai, M.Y.; Saito, K. Plant lipidomics based on hydrophilic interaction chromatography coupled to ion
+trap time-of-flight mass spectrometry. *Metabolomics* **2013,9,** 121–131. [CrossRef]
+
+82. Inarkar, M.B.; Lele, S.S. Extraction and Characterization of Sugarcane Peel Wax. *ISRN Agron.* 2012,2012, 1–6. [CrossRef]
+
+83. Abreu, S.; Solgadi, A.; Chaminade, P. Optimization of normal phase chromatographic conditions for lipid analysis and comparison
+of associated detection techniques. *J. Chromatogr. A* 2017,1514, 54–71. [CrossRef] [PubMed]
+
+84. Dunford, N.T.; Irmak, S.; Jonnala, R. Pressurised solvent extraction of policosanol from wheat straw, germ and bran. *Food Chem.*
+2010,119, 1246–1249. [CrossRef]
+
+85. Dominguez, E.; Heredia-Guerrero, J.A.; Heredia, A. The biophysical design of plant cuticles: An overview. *New Phytol.* 2011,189,
+938–949. [CrossRef]
+
+86. Ritter, B.; Schulte, J.; Schulte, E.; Thier, H.P. Detection of coating waxes on apples by differential scanning calorimetry. *Eur. Food
+Res. Technol.* 2001,212, 603–607. [CrossRef]
+
+---
+
+87. Espada, J.J.; Coutinho, J.A.P.; Peña, J.L. Evaluation of methods for the extraction and characterization of waxes from crude oils.
+*Energy Fuels* **2010,24,** 1837–1843. [CrossRef]
+
+88. Peltzer, M.; Jiménez, A. Determination of oxidation parameters by DSC for polypropylene stabilized with hydroxytyrosol
+(3,4-dihydroxy-phenylethanol). *J. Therm. Anal. Calorim.* **2009,96,** 243–248. [CrossRef]
+
+89. Cerqueira, N.M.F.S.A.; Oliveira, E.F.; Gesto, D.S.; Santos-martins, D.; Moorthy, H.N.; Ramos, M.J.; Fernandes, P.A. Cholesterol
+Biosynthesis: A Mechanistic Overview. *Biochemistry* **2016.** [CrossRef]
+
+90. Fahy, E.; Subramaniam, S.; Brown, H.A.; Glass, C.K.; Merrill, A.H.; Murphy, R.C.; Raetz, C.R.H.; Russell, D.W.; Seyama, Y.; Shaw,
+W.; et al. A comprehensive classification system for lipids. *Eur. J. Lipid Sci. Technol.* **2005,46,** 839–862. [CrossRef]
+
+91. Ouassou, H.; Zahidi, T.; Bouknana, S.; Bouhrim, M.; Mekhfi, H.; Ziyyat, A.; Legssyer, A.; Aziz, M.; Bnouham, M. Inhibition of α
+-Glucosidase, Intestinal Glucose Absorption, and Antidiabetic Properties by Caralluma europaea. *Evid.-Based Complement. Altern.*
+*Med.* 2018,2018, 1–8. [CrossRef]
+
+92. Zheng, R.; Su, S.; Zhou, H.; Yan, H.; Ye, J.; Zhao, Z.; You, L.; Fu, X. Antioxidant/antihyperglycemic activity of phenolics from
+sugarcane (*Saccharum officinarum* L.) bagasse and identification by UHPLC-HR-TOFMS. *Ind. Crops Prod.* **2017,** *101,* 104–114.
+[CrossRef]
+
+93. Szakiel, A.; P ˛aczkowski, C.; Pensec, F.; Bertsch, C. Fruit cuticular waxes as a source of biologically active triterpenoids. *Phytochem.*
+*Rev.* **2012,11,** 263–284. [CrossRef] [PubMed]
+
+94. Jung, S.H.; Ha, Y.J.; Shim, E.K.; Choi, S.Y.; Jin, J.L.; Yun-Choi, H.S.; Lee, J.R. Insulin-mimetic and insulin-sensitizing activities of a
+pentacyclic triterpenoid insulin receptor activator. *Biochem.* J.2007,250, 243–250. [CrossRef]
+
+95. Sharma, R.; Matsuzaka, T.; Kaushik, M.K.; Sugasawa, T.; Ohno, H.; Wang, Y.; Motomura, K.; Shimura, T.; Okajima, Y.; Mizunoe,
+Y.; et al. Octacosanol and policosanol prevent high-fat diet-induced obesity and metabolic disorders by activating brown adipose
+tissue and improving liver metabolism. *Sci. Rep.* **2019,** 1–7. [CrossRef]
+
+96. Ferguson, J.J.A.; Stojanovski, E.; MacDonald-Wicks, L.; Garg, M.L. Fat type in phytosterol products in fl uence their cholesterollowering potential: A systematic review and meta-analysis of RCTs. *Prog. Lipid Res.* **2016,64,** 16–29. [CrossRef] [PubMed]
+
+97. Zheng, R.; Su, S.; Li, J.; Zhao, Z.; Wei, J.; Fu, X.; Liu, R.H. Recovery of phenolics from the ethanolic extract of sugarcane (*Saccharum
+officinarum* L.) baggase and evaluation of the antioxidant and antiproliferative activities. *Ind. Crops Prod.* 2017,107, 360–369.
+[CrossRef]
+
+98. Meerod, K.; Weerawatanakorn, M.; Pansak, W. Effect of Liming Process on Physicochemical Properties and Phytochemical
+Components of Non-Centrifugal Sugar from Different Sugarcane Cultivars. *Agric. Res.* **2020,9,** 35–45. [CrossRef]
+
+99. Cai, H.; Steward, W.P.; Gescher, A.J. Determination of the putative cancer chemopreventive flavone tricin in plasma and tissues of
+mice by HPLC with UV-visible detection. *Biomed. Chromatogr.* **2005,19,** 518–522. [CrossRef] [PubMed]
+
+100. Piper, K.; Garelnabi, M. Eicosanoids: Atherosclerosis and cardiometabolic health. *J. Clin. Transl. Endocrinol.* **2020,19,** 100216.
+[CrossRef] [PubMed]
+
+101. Cox, M.M.; Nelson, D.L.L. *Principles of Biochemistry;* W.H. Freeman & Co.: New York, NY, USA, 2008.
+
+102. Chiurchiù, V.; Leuti, A.; Maccarrone, M. Bioactive lipids and chronic inflammation: Managing the fire within. *Front. Immunol.*
+**2018,9,** 1. [CrossRef]
+
+103. Burstein, S.H. Eicosanoid mediation of cannabinoid actions. *Bioorg. Med. Chem.* **2019,27,** 2718–2728. [CrossRef]
+
+104. Norris, P.C.; Dennis, E.A. A lipidomic perspective on inflammatory macrophage eicosanoid signaling. *Adv. Biol. Regul.* **2014,54,**
+99–110. [CrossRef] [PubMed]
+
+105. Dhall, S.; Wijesinghe, D.S.; Karim, Z.A.; Castro, A.; Vemana, H.P.; Khasawneh, F.T.; Chalfant, C.E.; Martins-Green, M. Arachidonic
+acid-derived signaling lipids and functions in impaired healing. *Wound Repair Regen.* **2015,23,** 644–656. [CrossRef] [PubMed]
+
+106. Balsinde, J.; Winstead, M.V.; Dennis, E.A. Phospholipase A2 regulation of arachidonic acid mobilization. *FEBS Lett.* 2002,531, 2–6.
+[CrossRef]
+
+107. Serhan, C.N.; Chiang, N.; Dalli, J.; Levy, B.D. Lipid mediators in the resolution of inflammation. *Cold Spring Harb. Perspect. Biol.*
+**2015,7,** 1–20. [CrossRef] [PubMed]
+
+108. Ledón, N.; Casacó, A.; Remirez, D.; González, A.; Cruz, J.; González, R.; Capote, A.; Tolón, Z.; Rojas, E.; Rodríguez, V.J.;
+et al. Effects of a mixture of fatty acids from sugar cane (*Saccharum officinarum* L.) wax oil in two models of inflammation:
+Zymosan-induced arthritis and mice tail test of psoriasis. *Phytomedicine* **2007,14,** 690–695. [CrossRef]
+
+109. Guo, T.; Lin, Q.; Li, X.; Nie, Y.; Wang, L.; Shi, L.; Xu, W.; Hu, T.; Guo, T.; Luo, F. Octacosanol Attenuates Inflammation in Both
+RAW264.7 Macrophages and a Mouse Model of Colitis. *J. Agric. Food Chem.* **2017,65,** 3647–3658. [CrossRef]
+
+110. Cajka, T.; Fiehn, O. Increasing lipidomic coverage by selecting optimal mobile-phase modifiers in LC-MS of blood plasma.
+*Metabolomics* **2016,12,** 34. [CrossRef]
+
+111. Lin, J.-H.; Liu, L.-Y.; Yang, M.-H.; Lee, M.-H. Ethyl Acetate/Ethyl Alcohol Mixtures as an Alternative to Folch Reagent for
+Extracting Animal Lipids. *J. Agric. Food Chem.* **2004,52,** 4984–4986. [CrossRef]
+
+──────── [TRUNCATED] ────────
+Showing 22,453 chars (head) + 7,390 chars (tail) of 78,815 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/ciencia.ucp.pt-e99c791799.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/ciencia.ucp.pt-e99c791799.md" offset=368 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

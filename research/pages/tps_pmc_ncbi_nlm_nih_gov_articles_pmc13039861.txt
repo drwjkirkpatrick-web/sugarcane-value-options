@@ -1,0 +1,259 @@
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.1038/s41598-026-46269-4) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/pdf/41598_2026_Article_46269.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Scientific Reports logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-scirep.jpg)
+
+Sci Rep
+
+. 2026 Mar 29;16:10682. doi: [10.1038/s41598-026-46269-4](https://doi.org/10.1038/s41598-026-46269-4)
+
+# Sustainable production of cellulose nanocrystals from sugarcane bagasse via statistically optimized acid hydrolysis
+
+[Kabtamu A Mamo](https://pubmed.ncbi.nlm.nih.gov/?term=%22Mamo%20KA%22[Author])
+
+### Kabtamu A Mamo
+
+1Department of Food Engineering, Dilla University, Dilla, Ethiopia
+
+Find articles by [Kabtamu A Mamo](https://pubmed.ncbi.nlm.nih.gov/?term=%22Mamo%20KA%22[Author])
+
+1, [Tebelay L Andualem](https://pubmed.ncbi.nlm.nih.gov/?term=%22Andualem%20TL%22[Author])
+
+### Tebelay L Andualem
+
+2Department of Chemical Engineering, Institute of Technology, University of Gondar, Gondar, Ethiopia
+
+Find articles by [Tebelay L Andualem](https://pubmed.ncbi.nlm.nih.gov/?term=%22Andualem%20TL%22[Author])
+
+2,✉, [Reddy Prasad DM](https://pubmed.ncbi.nlm.nih.gov/?term=%22DM%20RP%22[Author])
+
+### Reddy Prasad DM
+
+3Chemical and Energy Engineering Programme Area, Faculty of Engineering, Universiti Teknologi Brunei, Tungku Highway, Gadong, BE1410 Brunei Darussalam
+
+Find articles by [Reddy Prasad DM](https://pubmed.ncbi.nlm.nih.gov/?term=%22DM%20RP%22[Author])
+
+3,✉, [Manjula Muthu Narayanan](https://pubmed.ncbi.nlm.nih.gov/?term=%22Narayanan%20MM%22[Author])
+
+### Manjula Muthu Narayanan
+
+4Environmental and Life Sciences Program, Faculty of Science, Universiti Brunei Darussalam, Jalan Tungku Link, Gadong, BE1410 Brunei Darussalam
+
+Find articles by [Manjula Muthu Narayanan](https://pubmed.ncbi.nlm.nih.gov/?term=%22Narayanan%20MM%22[Author])
+
+4, [Natsanet A Bitew](https://pubmed.ncbi.nlm.nih.gov/?term=%22Bitew%20NA%22[Author])
+
+### Natsanet A Bitew
+
+2Department of Chemical Engineering, Institute of Technology, University of Gondar, Gondar, Ethiopia
+
+Find articles by [Natsanet A Bitew](https://pubmed.ncbi.nlm.nih.gov/?term=%22Bitew%20NA%22[Author])
+
+2, [Ermias A Debase](https://pubmed.ncbi.nlm.nih.gov/?term=%22Debase%20EA%22[Author])
+
+### Ermias A Debase
+
+5Chemical Engineering Department, Woldia University, Woldia, Ethiopia
+
+Find articles by [Ermias A Debase](https://pubmed.ncbi.nlm.nih.gov/?term=%22Debase%20EA%22[Author])
+
+5
+
+- Author information
+- Article notes
+- Copyright and License information
+
+1Department of Food Engineering, Dilla University, Dilla, Ethiopia
+
+2Department of Chemical Engineering, Institute of Technology, University of Gondar, Gondar, Ethiopia
+
+3Chemical and Energy Engineering Programme Area, Faculty of Engineering, Universiti Teknologi Brunei, Tungku Highway, Gadong, BE1410 Brunei Darussalam
+
+4Environmental and Life Sciences Program, Faculty of Science, Universiti Brunei Darussalam, Jalan Tungku Link, Gadong, BE1410 Brunei Darussalam
+
+5Chemical Engineering Department, Woldia University, Woldia, Ethiopia
+
+✉
+
+Corresponding author.
+
+Received 2025 Nov 26; Accepted 2026 Mar 25; Collection date 2026.
+
+© The Author(s) 2026
+
+**Open Access** This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit [http://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC13039861  PMID: [41905973](https://pubmed.ncbi.nlm.nih.gov/41905973/)
+
+## Abstract
+
+Cellulose nanocrystals (CNCs) were successfully produced from sugarcane bagasse (SCB) through acid hydrolysis with statistically optimized parameters using Central Composite Design (CCD). SCB, comprising 30–40 wt% of sugarcane by-products, offers an eco-friendly cellulose source without compromising food supply. The process involved mechanical, alkaline, and bleaching pretreatments to remove lignin and hemicellulose, followed by sulfuric acid hydrolysis. Process parameters are acid concentration 45–65 wt%, temperature 45–60 °C, and duration 30–60 min were optimized using CCD. The authors achieved a maximum CNC yield of 42% at 61.25 wt% acid concentration, 58.2 min, and 45 °C. Characterization confirmed successful CNC production: 90% of particles were nanoscale with 102.6 nm average diameter. SEM revealed rod-shaped morphology, while FTIR spectra showed progressive attenuation of characteristic lignin and hemicellulose peaks, consistent with their removal during pretreatment. XRD analysis showed crystallinity improvement from 44.7% (raw SCB) to 70.01% (CNCs). DSC demonstrated enhanced thermal stability with decomposition at approximately 335 °C. This study highlights the effectiveness of combining acid hydrolysis with statistical optimization for high-yield CNC production from agricultural waste. The sustainable valorization of SCB offers promising applications in bio-composites, packaging, and advanced nanomaterials.
+
+**Keywords:** Sugarcane bagasse, Cellulose nanocrystals, Acid hydrolysis, Process optimization, Crystallinity, Thermal stability
+
+**Subject terms:** Biotechnology, Chemistry, Engineering, Environmental sciences, Materials science, Nanoscience and technology
+
+## Introduction
+
+Global research now focuses on the sustainable valorization of agricultural residues, enhancing nanomaterial production and reducing landfill disposal through waste recycling, thereby promoting both economic and environmental sustainability[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR1), [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR2). Sugarcane is one of the major cash crops cultivated worldwide. In 2019, Brazil became the leading global producer of sugarcane, contributing approximately 39.3% of global sugarcane production (≈ 752 million tons), followed by India, China, Thailand, and Pakistan. Together, these top five countries account for more than 70% of sugarcane production worldwide[3](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR3).
+
+Sugarcane Bagasse (SCB), a major agricultural waste, has emerged as a feasible, cellulose-rich biomass substrate. It is a by-product of sugarcane processing and consists of 40–50% cellulose together with lignin, hemicelluloses and traces of silica and ash[4](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR4), [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR5). Sugarcane is a sucrose-rich, perennial tall grass belonging to the Gramineae family. Sugarcane extraction produces sugar and its by-products such as molasses, which is used in alcohol production[6](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR6) and SCB, a potential raw material for the sustainable chemical sector[7](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR7).
+
+Sugarcane has been grown around the prime sugar factories in Ethiopia, namely, Wonji-Shoa, Metahara, and Finchaa, with cultivation spanning roughly 33,777 hectares[8](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR8), [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR9). These factories produce approximately 1,393,600 tons of Ethiopian Sugarcane Bagasse (ESCB) annually. Most of the ESCB is converted to energy generation or utilized as animal feed, yet about 123,011 tons remain underutilized with limited industrial potential[8](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR8), [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR10).
+
+To leverage the economic potential of sugarcane, the Ethiopian government has launched a plan to expand sugarcane cultivation and processing by constructing new plants, modernizing existing facilities, and extending cultivation areas. The Wolkayit sugar project is expected to produce 484,400 tons annually[9](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR9).
+
+The capacities of sugar factories in Ethiopia, which are expected together to yield sugar output of 4.2 million metric tons by 2023, aiming to rank among the world’s top ten producers[11](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR11). This expansion is expected to increase ESCB production, which will serve as a valuable raw material for advanced biomaterials.
+
+Most of the sugarcane is consumed fresh or processed into juice for sugar production. SCB is commonly burned in sugar mills for heat and electricity generation, while tops are often employed as livestock feed[8](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR8). Nevertheless, SCB remains an underexploited lignocellulosic biomass with considerable potential as a sustainable source for CNC and other bio-based materials. Cellulose is a biodegradable and renewable resource that forms the principal component of SCB and represents the most abundant natural polymer on the earth. It is synthesized by various organisms, including plants, microbes, marine algae and some animals[12](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR12)– [14](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR14). Agricultural residues such as SCB, rice straw, corncobs, cotton and onion skin are rich in cellulose and are well recognized as sustainable raw material for industrial applications[6](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR6), [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR15), [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR16).
+
+Beyond sugarcane bagasse, the valorization of diverse industrial and agricultural wastes into functional nanomaterials and composite feedstocks has gained considerable momentum. Polyester waste, for instance, has been successfully upcycled into polyols suitable for polyurethane synthesis, demonstrating the viability of industrial waste streams as valuable chemical feedstocks[17](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR17), [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR18). In parallel, cellulose nanofibers (CNFs) derived from agricultural residues have been effectively incorporated into polyurethane composites, imparting improved mechanical properties. Natural fibers recovered from newsprint waste have similarly shown promise as reinforcing agents in rubber composite systems[19](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR19). Collectively, these studies underscore the growing emphasis on circular economy principles in materials science, where waste streams from multiple industries serve as renewable precursors for high-value products.
+
+Effective cellulose recovery from bagasse involves the pretreatment of lignocellulosic matrix to disrupt structural complexities that restrict enzymatic hydrolysis and subsequent fermentation[20](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR20). Variations in glucose linkage and intermolecular hydrogen bonding demonstrate the cellulose structural diversity, causing a unique structural configuration governed by the processing condition and sources material[21](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR21). Sugarcane processing can be viewed as a biorefinery platform generating multiple co-products (sugar, ethanol from molasses, bioelectricity from bagasse combustion, and bio-based nanomaterials). It highlights that CNC production from SCB fits within a broader biorefinery framework that maximizes value extraction from biomass while minimizing waste[22](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR22). CNCs possess notable physicochemical properties, including nanosized dimensions, robust crystallinity, and superior mechanical strength, establishing them as foremost cellulose-based nanomaterials[23](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR23). CNCs are derived from SCB fibers through acid hydrolysis, producing a robust nanocrystalline structure, with a nanometric dimension between 5 and 30 nm[7](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR7), [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR24).
+
+This study employed an inexpensive, productive method named sulfuric acid hydrolyzed to derive high quality CNCs from SCB, compared to other synthesis methods[13](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR13), [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR25). Enhanced CNC yield was produced via parameter optimization (acid concentration, reaction temperature, and time) using Response Surface Methodology (RSM) method[21](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR21). Sulfuric acid (H2SO4) and hydrochloric acid (HCl) are frequently utilized in lignocellulosic hydrolysis[13](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR13), [26](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR26).
+
+This study employs H₂SO₄ for lignocellulosic hydrolysis to induce the sulfate ester (negatively charged) groups onto CNC surfaces, which result in electrostatic repulsion, control clustering, CNC stabilization, and optimizing dispersibility and performance[15](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR15), [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR27). In contrast, HCL hydrolysis results in particle aggregation and reduce crystallinity[13](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR13), [28](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR28). Thus, the study aims to synthesis good quality of CNCs from ESCB via sulfuric hydrolysis optimization and to evaluate their physiochemical properties for innovative applications.
+
+Although CNC production from sugarcane bagasse has been widely explored, source-specific optimization for Ethiopian SCB (ESCB) using RSM-CCD with simultaneous multi-response integration of both yield and crystallinity has not been reported. To address this gap, RSM coupled with a central composite design (CCD) was employed as the most statistically efficient tool for multi-factor optimization with minimal experimental runs. This study is therefore the first to apply a systematic CCD-RSM approach to optimize sulfuric acid hydrolysis conditions for ESCB-derived CNCs, supported by comprehensive physicochemical characterization using PSA, FTIR, SEM, and XRD. It is useful to transform abundant agricultural residue into valuable nanomaterials for advanced applications in bio composites and sustainable packaging.
+
+## Materials and methods
+
+### Materials
+
+For this study, sugarcane bagasse (SCB), with an initial moisture of 50–60%, was obtained from the Wonji / Shoa sugar factory in Ethiopia. Preparation and characterization employed various equipment, including grinders, 60-mesh (250 μm) sieve, freeze dryer, desiccator, oven, tray dyer, Soxhlet apparatus, pH meter, autoclave reactor, centrifuge, ultrasonicator and rotary evaporator. Advanced analyses utilized a particle size analyzer (ZEN3600), SEM (FEI-INSPECT-F50), Attenuated Total Reflectance Fourier Transform Infrared Spectroscopy (ATR-FTIR) (Thermo SCIENTIFIC iS50 ABX), DSC (SKZ1052B), and XRD (BTX-528). Analytical-grade chemicals were obtained from Fine Chemical PLC (Addis Ababa Ethiopia) and AASTU laboratories, including, H₂SO₄ (98%), sodium hypochlorite (NaOCl), distilled water (DW), sodium hydroxide (97%), ethanol (97%), toluene (99%), chloroform (99%) and acetic acid (99.5%).
+
+### Methods
+
+#### Sample collection and preparation
+
+SCB with an initial moisture content of 50–60%, was collected from the Wonji/Shoa sugar factory in Ethiopia and subjected to sequential pretreatment steps for cellulose isolation and purifications. The SCB was sundried for at least 8 h to lower the moisture to approximately 30%, then washed with DW to remove impurities. Subsequently, the material was oven dried at 60 ℃ for 24 h, finely chopped, milled and uniform powder was obtained by sieving with 60-mesh (250 μm) sieve. Finally, the powder was packed in a plastic bag and stored in a desiccator for future use[7](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR7), [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR25).
+
+The powdered bagasse was first dewaxed in a Soxhlet apparatus using toluene-ethanol mixture (2:1 v/v) at 85 °C for 5 h to remove waxes, pectin and oils[7](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR7), [29](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR29). Afterwards the sample was neutralized via repeated rinsing with DW and ethanol, followed by removal of lignin through sodium chlorite (1.3%) acidification at pH 4, and the residue was dried at 45 °C for 4 h[6](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR6). These pretreatments not only removed non-cellulosic components but also reduced hydrolysis duration, leading to the production of uniform CNCs, as agreement with previous reports[4](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR4), [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR13).
+
+#### Cellulose extraction from sugarcane Bagasse
+
+Sequential chemical pretreatment disrupted and eliminated non-cellulosic components, yielding cellulose from SCB[30](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR30). Pretreatment methods namely dewaxing, alkaline treatment, and bleaching aid to remove the impurities (waxes, hemicellulose, lignin, and other extractives) in raw SCB, leading to isolation of partially purified cellulose. Further purification of cellulose was achieved through acid hydrolysis that degrades the acid prone amorphous regions of cellulose and maintains the structural stability of cellulose crystalline regions[31](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/#CR31). This highly purified cellulose serves as an excellent precursor to produce CNCs.
+
+##### Alkaline pretreatment
+
+
+[... middle omitted — see footer ...]
+
+- 45.Leão, R. M., Miléo, P. C., Maia, J. M. L. L. & Luz, S. M. Environmental and technical feasibility of cellulose nanocrystal manufacturing from sugarcane bagasse. _Carbohydr. Polym._ **175**, 518–530 (2017).
+\[ [DOI](https://doi.org/10.1016/j.carbpol.2017.07.087)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28917896/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?Le%C3%A3o,%20R.%20M.,%20Mil%C3%A9o,%20P.%20C.,%20Maia,%20J.%20M.%20L.%20L.%20&%20Luz,%20S.%20M.%20Environmental%20and%20technical%20feasibility%20of%20cellulose%20nanocrystal%20manufacturing%20from%20sugarcane%20bagasse.%20Carbohydr.%20Polym.175,%20518%E2%80%93530%20(2017).)\]
+- 46.Gao, Y. et al. Effects of different pretreatment methods on chemical composition of sugarcane bagasse and enzymatic hydrolysis. _Bioresour Technol._ **144**, 396–400 (2013).
+\[ [DOI](https://doi.org/10.1016/j.biortech.2013.06.036)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23891836/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?Gao,%20Y.%20et%20al.%20Effects%20of%20different%20pretreatment%20methods%20on%20chemical%20composition%20of%20sugarcane%20bagasse%20and%20enzymatic%20hydrolysis.%20Bioresour%20Technol.144,%20396%E2%80%93400%20(2013).)\]
+- 47.Abdel, A. et al. Processing and fundamental characterization of carbon fibers and cellulose nanocrystals derived from bagasse. _Carbon Lett._ 10.1007/s42823-019-00034-y (2019). \[ [Google Scholar](https://scholar.google.com/scholar_lookup?Abdel,%20A.%20et%20al.%20Processing%20and%20fundamental%20characterization%20of%20carbon%20fibers%20and%20cellulose%20nanocrystals%20derived%20from%20bagasse.%20Carbon%20Lett.10.1007/s42823-019-00034-y%20(2019).)\]
+- 48.Nandiyanto, A. B. D., Oktiani, R. & Ragadhita, R. How to read and interpret ftir spectroscope of organic material. _Indonesian J. Sci. Technol._ **4**, 97–118 (2019). \[ [Google Scholar](https://scholar.google.com/scholar_lookup?Nandiyanto,%20A.%20B.%20D.,%20Oktiani,%20R.%20&%20Ragadhita,%20R.%20How%20to%20read%20and%20interpret%20ftir%20spectroscope%20of%20organic%20material.%20Indonesian%20J.%20Sci.%20Technol.4,%2097%E2%80%93118%20(2019).)\]
+- 49.Tien, N., Rungsima, L. & Wirasak, C. Characterization of cellulose nanocrystals extracted from sugarcane bagasse for potential biomedical materials. _Sugar Tech._ 10.1007/s12355-016-0507-1 (2017). \[ [Google Scholar](https://scholar.google.com/scholar_lookup?Tien,%20N.,%20Rungsima,%20L.%20&%20Wirasak,%20C.%20Characterization%20of%20cellulose%20nanocrystals%20extracted%20from%20sugarcane%20bagasse%20for%20potential%20biomedical%20materials.%20Sugar%20Tech.10.1007/s12355-016-0507-1%20(2017).)\]
+- 50.Nang Vu, A., Hoang Nguyen, L., Yoshimura, K., Duy Tran, T. & Van Le, H. Cellulose nanocrystals isolated from sugarcane bagasse using the formic/peroxyformic acid process: structural, chemical, and thermal properties. _Arab. J. Chem._ **17**, 105845 (2024). \[ [Google Scholar](https://scholar.google.com/scholar_lookup?Nang%20Vu,%20A.,%20Hoang%20Nguyen,%20L.,%20Yoshimura,%20K.,%20Duy%20Tran,%20T.%20&%20Van%20Le,%20H.%20Cellulose%20nanocrystals%20isolated%20from%20sugarcane%20bagasse%20using%20the%20formic/peroxyformic%20acid%20process:%20structural,%20chemical,%20and%20thermal%20properties.%20Arab.%20J.%20Chem.17,%20105845%20(2024).)\]
+- 51.Marcos, R. et al. Cellulose nanocrystals from pineapple leaf, a new approach for the reuse of this agro-waste. _Ind. Crops Prod._ **50**, 707–714 (2013). \[ [Google Scholar](https://scholar.google.com/scholar_lookup?Marcos,%20R.%20et%20al.%20Cellulose%20nanocrystals%20from%20pineapple%20leaf,%20a%20new%20approach%20for%20the%20reuse%20of%20this%20agro-waste.%20Ind.%20Crops%20Prod.50,%20707%E2%80%93714%20(2013).)\]
+- 52.Achaby, M. et al. Processing and properties of eco-friendly bio- nanocomposite films filled with cellulose nanocrystals from sugarcane bagasse. _Int. J. Biol. Macromol._ 10.1016/j.ijbiomac.2016.12.040 (2016).
+\[ [DOI](https://doi.org/10.1016/j.ijbiomac.2016.12.040)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27988293/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?Achaby,%20M.%20et%20al.%20Processing%20and%20properties%20of%20eco-friendly%20bio-%20nanocomposite%20films%20filled%20with%20cellulose%20nanocrystals%20from%20sugarcane%20bagasse.%20Int.%20J.%20Biol.%20Macromol.10.1016/j.ijbiomac.2016.12.040%20(2016).)\]
+- 53.Aminu, M. Acid hydrolysis-mediated preparation of nanocrystalline cellulose from rice straw. _Int. J. Nanomater. Nanatechnol. Nanomed._ **3**, 051–056 (2017). \[ [Google Scholar](https://scholar.google.com/scholar_lookup?Aminu,%20M.%20Acid%20hydrolysis-mediated%20preparation%20of%20nanocrystalline%20cellulose%20from%20rice%20straw.%20Int.%20J.%20Nanomater.%20Nanatechnol.%20Nanomed.3,%20051%E2%80%93056%20(2017).)\]
+- 54.Listyanda, R. F., Wildan, M. W., Ilman, M. N., & Kusmono (2020). Preparation and characterization of cellulose nanocrystal extracted from ramie fi bers by sulfuric acid hydrolysis. Heliyon, 6(11), e05486 10.1016/j.heliyon.2020.e05486 \[ [DOI](https://doi.org/10.1016/j.heliyon.2020.e05486)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7670211/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33235939/)\]
+
+## Associated Data
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Data Availability Statement
+
+Data are available from the corresponding author upon request.
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.1038/s41598-026-46269-4)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (3.7 MB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13039861/pdf/41598_2026_Article_46269.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)
+
+──────── [TRUNCATED] ────────
+Showing 21,542 chars (head) + 7,119 chars (tail) of 103,407 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pmc.ncbi.nlm.nih.gov-f3144e8729.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pmc.ncbi.nlm.nih.gov-f3144e8729.md" offset=200 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

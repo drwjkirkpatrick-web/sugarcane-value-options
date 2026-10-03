@@ -1,0 +1,489 @@
+### SPECIAL ISSUE ARTICLE
+
+WILEY
+
+# Xylitol production on sugarcane biomass hydrolysate by newly identified Candida tropicalis JA2 strain
+
+Wilson G. Morais Junior|Thályta F. Pacheco|Débora Trichez|João R.M. Almeida|
+Sílvia B. Gonçalves
+
+Embrapa Agroenergia—Laboratory of Genetics
+and Biotechnology, Brasilia, DF, Brazil
+
+##### Correspondence
+
+João R. M. Almeida, Embrapa Agroenergia—
+Laboratory of Genetics and Biotecnology,
+Parque Estacao Biologica W3 Norte, Brasilia,
+DF 70770‐901, Brazil.
+Email: joao.almeida@embrapa.br;
+jricardo13@yahoo.com.br
+
+##### Funding information
+
+Banco Nacional de Desenvolvimento
+Econômico e Social; Conselho Nacional de
+Desenvolvimento Científico e Tecnológico;
+Brazilian Development Bank; Sugarcane
+Technology Center
+
+## Abstract
+
+Xylitol is a building block for a variety of chemical commodities, besides being
+widely used as a sugar substitute in the food and pharmaceutical industries. The
+aim of this work was to develop a microbial process for xylitol production using
+sugarcane bagasse hydrolysate as substrate. In this context, 218 non‐Saccharomyces
+yeast strains were screened by growth on steam‐exploded sugarcane bagasse
+hydrolysate containing a high concentration of acetic acid (8.0 g/L). Seven new
+Candida tropicalis strains were selected and identified, and their ability to produce
+xylitol on hydrolysate at low pH (4.6) under aerobic conditions was evaluated.
+The most efficient strain, designated C. tropicalis JA2, was capable of producing
+xylitol with a yield of 0.47 g/g of consumed xylose. To improve xylitol production
+by C. tropicalis JA2, a series of experimental procedures were employed to optimize
+pH and temperature conditions, as well as nutrient source, and initial xylose and
+inoculum concentrations. C. tropicalis JA2 was able to produce 109.5 g/L of xylitol
+with a yield of 0.86 g/g of consumed xylose, and with a productivity of 2.81 g·L·h,
+on sugarcane bagasse hydrolysate containing 8.0 g/L acetic acid and177 g/L xylose,
+supplemented with 2.0 g/L yeast nitrogen base and 4.0 g/L urea. Thus, it was
+possible to identify a new C. tropicalis strain and to optimize the xylitol production
+process using sugarcane bagasse hydrolysate as a substrate. The xylitol yield on
+biomass hydrolysate containing a high concentration of acetic acidobtained in here
+is among the best reported in the literature.
+
+KEYWORDS
+
+Candida tropicalis, fermentation, sugarcane biomass hydrolysate, xylitol
+
+## 1|INTRODUCTION
+
+In recent years, there has been a considerable increase in studies
+seeking more efficient uses of agro‐industrial residues for production
+of fuels and chemicals (Rocha, Rodrigues, Albuquerque, Gonçalves, &
+Macedo, 2014). Among several alternative uses of hexose and pentose
+sugars present in lignocellulosic hydrolysates, production of xylitol has
+been widely investigated (Albuquerque, Gomes, Marques, Silva, &
+
+Rocha, 2015). Xylitol is a pentose sugar alcohol with important applications because of its strong sweetening properties and capacity to
+inhibit microbial growth, as well as for its low calorie content, and lack
+of carcinogenic and cariostatic properties. It has been widely used as a
+replacement for sucrose in the food and pharmaceutical industries
+(Aguirre‐Zero, Zero, & Proskin, 1993; Imark, Canisag, Vokoun, &
+Meryemoglu, 2017; Lynch & Milgrom, 2003; Ronda, Gómez, Blanco,
+& Caballero, 2005). In addition, xylitol is considered one of the 12 major high added‐value intermediates that can be produced from biomass, due to it is being a building block for a variety of basic chemicals
+(Werpy & Petersen, 2004).
+
+Xylitol is industrially produced by catalytic hydrogenation of pure
+xylose solution under high temperature and pressure (Dasgupta,
+Bandhu, Adhikari, & Ghosh, 2017). This production process is
+expensive and presents low yields due to the complexity of the
+product recovery stages (Bier, Maranho, Azevedo, & da Silva, 2007).
+Alternatively, biochemical production processes have been extensively
+evaluated using different microorganisms and substrates such as vegetable waste (Zhang, Geng, Yao, Lu, & Li, 2012), bamboo (Miura et al.,
+2013), corncob (Cheng et al., 2009; Hongzhi, Keke, Jingping, &
+Wenxiang, 2011; Ping, Ling, Song, & Ge, 2013; Rodrigues, Kenealy,
+& Jeffries, 2011), and sugar cane bagasse (Arruda, Rodrigues, Silva, &
+Felipe, 2011; Prakash, Varma, Prabhune, Shouche, & Rao, 2011).
+Fermentative processes have gained attention due to the possibility
+of using yeasts to produce xylitol with yields as high as 85% of
+theoretical maximum (Bier et al., 2007).
+
+The major drawback of microbial production processes employing
+lignocellulosic‐derived hydrolysates is the presence of inhibitory
+compounds in their composition, which may hinder yeast metabolism
+(Dasgupta et al., 2017). During pretreatment and hydrolysis of
+biomass, cellulose and hemicellulose are broken down, releasing monomeric sugars but also microbial‐inhibitory compounds, such as
+furaldehydes, phenolic compounds, and acetic acid (Almeida et al.,
+2007; Kumar & Sharma, 2017). The composition and concentration
+of inhibitors vary depending on process conditions and biomass
+source. However, acetic acid is inherent to biomass hydrolysis
+conditions, as it is formed by deacetylation of hemicelluloses. This acid
+is a weak monocarboxylic acid (pKa 4.76) that shows antimicrobial
+effects mainly at low pH values (below pKa). Acetate penetrates the
+cell in its undissociated form, but once inside the cytoplasm,
+it dissociates, triggering high energy demand and an increase in cytoplasmic pH values (Hahn‐Hägerdal, Karhumaa, Fonseca, Spencer‐
+Martins, & Gorwa‐Grauslund, 2007; Sousa, Ludovico, Rodrigues, Leão,
+& Côrtes‐Real, 2012). In addition, it is capable of inhibiting yeast xylose
+metabolism (decreasing xylose reductase activity), and even at relatively low concentrations (5.4 g/L) it strongly inhibits xylitol production
+by Candida tropicalis (Rafiqul, Sakinah, & Zularisam, 2015). Thus, identification of microorganisms with higher tolerance to inhibitors, especially acetic acid, is essential for the development of an efficient
+xylitol production process (Bazoti et al., 2017; Xu & Hanna, 2010).
+
+Yeast species from the Candida, Pichia, Debaryomyces,
+Kluyveromyces, and Spathaspora genera have been evaluated for xylitol
+production from biomass hydrolysates. Among these, Candida species
+have shown good performance with production yields varying from
+19% to 72% of the theoretical maximum (Carvalheiro, Duarte, Medeiros, & Gírio, 2007; García‐Diéguez, Salgado, Roca, & Domínguez,
+2001; Miura et al., 2013; Rocha et al., 2014; Rodrigues et al., 2011;
+Zhang et al., 2012). C. tropicalis has shown good performance on lignocellulosic hydrolysates from corncob (Cheng et al., 2009; Guo et al.,
+2013; Ling, Cheng, Ge, & Ping, 2011; Misra, Raghuwanshi, & Saxena,
+2013; Wang et al., 2011), rice straw (Liaw, Chen, Chang, & Chen,
+
+2008), and sugarcane bagasse (Rao, Jyothi, Prakasham, Sarma, &
+Rao, 2006). The best reported value for xylitol production by
+C. tropicalis strains on sugarcane bagasse hydrolysate was 81.6 g/L
+of xylitol, with a yield of 0.57 g/g and productivity of 0.68 g/g h
+(Vallejos et al., 2016). However, under the conditions evaluated, the
+maximum acetic acid concentration was 1.39 g/L (Albuquerque et al.,
+2015). Although C. tropicalis is considered an opportunistic pathogen,
+the U.S. Food and Drug Administration has allowed its use for xylitol
+production (De Mello Lourenço, Dini‐Andrade, Aguilar‐Vildoso, &
+Basso, 2014).
+
+In the current work, a collection of xylose‐assimilating yeasts was
+screened for their ability to grow on sugarcane biomass hydrolysate.
+A strain with high tolerance towards hydrolysate was isolated and
+identified as C. tropicalis JA2. Subsequently, the xylitol production
+processed by this yeast was optimized through a series of experimental procedures in order to determine best pH and temperature conditions, as well as nutrient source, inoculum size, and substrate
+concentrations. Finally, a xylitol production process with high productivity and yield based on C. tropicalis JA2 and sugarcane biomass
+hydrolysate was obtained.
+
+## 2|MATERIAL AND METHODS
+
+Yeast strains were kept in yeast peptone dextrose (YPD) composed of
+10 g/L yeast extract, 10 g/L bacteriological peptone, and 20 g/L
+dextrose, or yeast peptone xylose (YPX) composed of 10 g/L yeast
+extract, 10 g/L bacteriological peptone, and 20 g/L xylose. In addition,
+minimal medium, yeast nitrogen base 6.7 g/L (YNB), was supplemented with 60 g/L xylose. When different concentrations of sugar
+were required, the value was specified appropriately.
+
+The sugarcane bagasse hydrolysate, kindly provided by the
+Sugarcane Technology Center (CTC), São Paulo, Brazil, was obtained
+by steam explosion followed by acid hydrolysis of the hemicellulose‐
+rich fraction. For each pretreatment batch, 8 kg of raw material
+(sugarcane bagasse) was processed in a steam explosion system for
+8 min at 15 kgf/cm<sup>2</sup> (equivalent to 197.85°C), with 50% humidity.
+For the breakdown of the oligomers, the liquid fraction of the
+steam explosion was subjected to hydrolysis with 0.5% H<sub>2</sub>SO<sub>4</sub> (w/w)
+at 130°C for 100 min. The final composition of the hydrolysate was
+(g/L):cellobiose, 2.21; glucose, 5.40; xylose, 90.32; acetic acid, 19.41;
+furfural, 2.93; and hydroxymethylfurfural (HMF), 0.54. This batch of
+hydrolysate was employed in all experiments described in this
+study, except in the experiment otherwise indicated. A second
+batch of hydrolysate was prepared following the same conditions
+employed before, and its composition was (g/L): cellobiose, 2.14;
+glucose, 4.96; xylose, 80.6; acetic acid, 19.62; furfural, 2.2; and
+hydroxymethylfurfural (HMF) 0.36.
+
+$$
+15\ kgf/cm^2
+$$
+
+$$
+197.85^{\circ}C)
+$$
+
+$$
+130^{\circ}C
+$$
+
+$$
+0.5\%\ H_2SO_4
+$$
+
+## 2.1|Screening of yeast strains
+
+The 218 non‐Saccharomycesyeast strains used in this work belong
+to the “Collection of Microorganisms and Microalgae Applied to
+
+---
+
+Agroenergy and Biorefining” from Embrapa Agroenergia. The yeast
+strains were previously isolated from soil and decaying wood samples
+collected in Brazilian Cerrado, and from fermentation broth in sugarcane mills. Their ability to grow on minimal medium supplemented
+with xylose as the sole carbon source was previously determined
+(unpublished data). In addition, the diversity among the 218 species
+was analyzed by sequencing of the D1/D2 region in some strains,
+and the following species were identified: Cyberlindnerafabianii,
+Wickerhamomycesanomalus, Kluyveromyces marxianus, Spathaspora
+brasiliensis, Meyerozyma guilliermondii, and Hanseniasporauvarum.
+
+$$
+200~\mu L
+$$
+
+In order to identify strains with a high xylose consumption rate
+and tolerance to sugarcane biomass hydrolysate, a serial screening
+in minimal medium and hydrolysate was performed. Initially, each
+purified strain was grown in 200 μL of 10% YPX medium (10 g/L
+yeast extract, 20 g/L bacteriological peptone and 100 g/L xylose)
+at 30°C for 24 hr in 96‐well microtiter plates on a rotating incubator
+at 200 rpm. After this, all 218 yeast strain suspensions were transferred to Erlenmeyer flasks (1 L) containing 400 ml of defined
+medium (6.7 g/L of yeast nitrogen base (YNB) and 100 g/L of
+xylose), which was incubated under the same conditions as the
+preculture for 48 hr. A second and third cycles of cultivation were
+carried out by inoculating the same fresh minimal medium with
+10% of the previous culture. Cycles 4, 5, and 6 were performed
+under the same conditions, except that the minimal medium was
+supplemented with 15%, 30%, and 45% (v/v) sugarcane bagasse
+hydrolysate, respectively. Samples were taken at the end of each
+cycle for metabolite quantification.
+
+$$
+30^{\circ}C
+$$
+
+After Cycle 6, the cultures were diluted and plated on YPD agar
+medium for isolation of single colonies. The plates were incubated at
+30°C for 48 hr and morphologically different colonies were isolated.
+
+$$
+30^{\circ}C
+$$
+
+The selected yeasts were deposited in the Collection of Microorganisms of Agricultural and Environmental Importance (CMAA) of
+the Brazilian Agriculture Research Corporation—EMBRAPA, located
+in Jaguariúna, Brazil. This collection is registered in the Culture
+Collection Information Worldwide of the World Data Centre for
+Microorganisms. The accession number is CMAA1716.
+
+## 2.2|Yeast taxonomy
+
+Selected yeast strains were grown in 5 ml of YPD, at 28°C for 20 hr,
+and afterwards genomic DNA (gDNA) was extracted using the
+PureLink Genomic DNA Kit (Invitrogen), following the manufacturer's
+instructions. The D1/D2 region from the large‐subunit of the rRNA
+gene was amplified by polymerase chain reaction using primers NL1
+(5′‐GCATATCAATAAGCGGAGGAAAAG‐3′) and NL4 (5′‐GGTCCG
+TGTTTCAAGACGG‐3′; Kurtzman & Robnett, 1998) and gDNA as
+template.
+
+$$
+28^{\circ}\mathsf{C}
+$$
+
+$$
+(5^{\prime}-G G T C C G
+$$
+
+Amplified DNA was purified and submitted to DNA sequencing
+at Eurofins Genomics (Louisville, KY, United States). Sequences
+were aligned, and the consensus sequences were compared with
+other yeast sequences deposited in GenBank with the following
+accession numbers: MH230894 (6.2), MH230895 (6.3), MH230896
+
+(6.4), MH230897 (6.5), MH230898 (6.6), MH230899 (6.7) e
+MH229983 (6.8).
+
+## 2.3|Optimization of fermentation
+
+## 2.3.1|Preculture procedure
+
+Single yeast colonies were propagated in 400 ml (1‐L flask) of YPX
+(100 g/L) and incubated at 30°C for 72 hr in a rotating incubator at
+200 rpm. Afterwards, the cells were separated by centrifugation at
+4,000 g for 5 min.
+
+$$
+30^{\circ}C
+$$
+
+The inoculum concentration was quantified by dry weight analysis.
+Samples were added to predried (105°C in oven, 30 min) and
+preweighed glass pads and then dried at 80°C overnight in a
+convection oven. Before determining the final weight after drying
+using an analytical balance, the glass pads and samples were cooled
+in a desiccator. The loss of weight was calculated as grams of dry
+weight per liter.
+
+$$
+(105^{\circ}C
+$$
+
+$$
+80^{\circ}C
+$$
+
+## 2.3.2|Fermentation of biomass hydrolysate
+
+After the screening and taxonomy steps, seven strains were tested
+for tolerance on sugarcane biomass hydrolysate, xylose consumption,
+and xylitol production. For this, 8.0 g/L of each strain was inoculated
+separately (with viability greater than 92%) into 125‐ml Erlenmeyer
+flasks containing 40 ml of medium composed of sugarcane bagasse
+hydrolysate (described in Section 2), diluted to 40% (v/v). The final
+hydrolysate‐fermentation medium contained YNB (6.7 g/L), xylose
+(75 g/L), glucose (12 g/L), and acetic acid (7.8 g/L), at pH 4.6. The
+pH value of biomass hydrolysate of sugarcane was adjusted with
+calcium hydroxide. The experiments were carried out at 30°C under
+stirring in a rotating incubator at 180 rpm. Samples were withdrawn
+periodically for biomass and metabolite quantification.
+
+$$
+30^{\circ}C
+$$
+
+## 2.3.3|Plackett–Burman experimental design for salts and nitrogen sources
+
+To determine which salts and nitrogen sources are required to
+improve the xylose consumption rate and xylitol production, a
+Plackett–Burmam (PB) design with 16 trials was used to screen the
+medium components. The design included 11 input variables and
+three replicates at the central point (Plackett & Burmam, 1946;
+Rodrigues & Iemma, 2012). The medium salts components and their
+respective ranges were KH<sub>2</sub>PO<sub>4</sub> from 0.0 to 4.0 g/L, MgSO<sub>4</sub> from
+0.0 to 2.0 g/L, (NH<sub>42</sub>) SO<sub>4</sub> from 0.0 to 4.0 g/L, ZnSO<sub>4</sub> from 0.0 to
+1.0 g/L, MnSO<sub>4</sub> from 0.0 to 1.0 g/L, Fe<sub>2</sub>SO<sub>4</sub> from 0.0 to 0.8 g/L, NaCl
+from 0.0 to 1.0 g/L, CuSO<sub>4</sub> from 0.0 to 0.1 g/L. For the nitrogen
+sources, the ranges were yeast extract from 0.0 to 5.0 g/L, YNB from
+2.0 to 4.0 g/L, and urea from 0.0 to 2.0 g/L.
+
+$$
+\mathrm{KH_{2}PO_{4}}
+$$
+
+$$
+MgSO_{4}
+$$
+
+$$
+2.0\ g/L,\ (NH_4)_2SO_4
+$$
+
+$$
+\mathsf{ZnSO_{4}}
+$$
+
+$$
+1.0\ g/L,MnSO_{4}
+$$
+
+$$
+1.0\ g/L,Fe_2SO_4
+$$
+
+$$
+\mathsf{CuSO_{4}}
+$$
+
+$$
+5.0\;g/L,
+$$
+
+$$
+4.0\;g/L,
+$$
+
+$$
+2.0\;g/L
+$$
+
+All fermentations were carried out using 8.0 g/L (dry weight)
+of C. tropicalis JA2 cells with viability greater than 94%, inoculated
+into 40 ml (125‐ml flasks) of medium containing 40% sugarcane
+biomass hydrolysate, with final concentration of 40 g/L xylose and
+
+---
+
+12 g/L glucose. The medium was supplemented with nutrients
+according to the PB design with 16 trials. The experiments were
+
+[... middle omitted — see footer ...]
+
+non‐detoxified corncob hemicellulose acid hydrolysate by Candida
+tropicalis. Biochemical Engineering Journal, 75, 86–91. https://doi.org/
+10.1016/j.bej.2013.03.022
+
+Plackett, R. L., & Burmam, J. P. (1946). The design of optimum multifactorial experiments. Biometrika, 33(4), 305–325. https://doi.org/10.1093/
+biomet/33.4.305
+
+Prakash, G., Varma, A. J., Prabhune, A., Shouche, Y., & Rao, M. (2011).
+Microbial production of xylitol from d‐xylose and sugarcane bagasse
+hemicellulose using newly isolated thermotolerant yeast
+Debaryomyceshansenii. Bioresource Technology, 102, 3304–3308.
+https://doi.org/10.1016/j.biortech.2010.10.074
+
+Rafiqul, I. S., Sakinah, A. M., & Zularisam, A. W. (2015). Inhibition by toxic
+compounds in the hemicellulosic hydrolysates on the activity of xylose
+reductase from Candida tropicalis. Biotechnology Letters, 37(1),
+191–196. https://doi.org/10.1007/s10529‐014‐1672‐5
+
+Rao, R. S., Jyothi, C. H. P., Prakasham, R. S., Sarma, P. N., & Rao, L. V.
+(2006). Xylitol production from corn fiber and sugarcane bagasse
+hydrolysates by Candida tropicalis. Bioresource Technology, 97,
+1974–1978. https://doi.org/10.1016/j.biortech.2005.08.015
+
+Rocha, M. V. P., Rodrigues, T. H. S., Albuquerque, T. L., Gonçalves, L. R. B., &
+Macedo, G. R. (2014). Evaluation of dilute acid pretreatment on cashew
+apple bagasse for ethanol and xylitol production. Chemical Engineering
+Journal, 243, 234–243. https://doi.org/10.1016/j.cej.2013.12.099
+
+Rodrigues, M. I., & Iemma, A. F. (2012). Experimental design and process
+optimization. Campinas, Brazil: Cárita Editora.
+
+Rodrigues, R. C. L. B., Kenealy, W. R., & Jeffries, T. W. (2011). Xylitol production from DEO hydrolysate of corn stover by Pichia stipitis YS‐30.
+Journal of Industrial Microbiology & Biotechnology, 38, 1649–1655.
+https://doi.org/10.1007/s10295‐011‐0953‐4
+
+Ronda, F., Gómez, M., Blanco, C. A., & Caballero, P. A. (2005). Effects of
+polyols and non‐digestible oligosaccharides on the quality of sugar‐
+
+free sponge cakes. Food Chemistry, 90, 549–555. https://doi.org/
+10.1016/j.foodchem.2004.05.023
+
+Sampaio, F. C., Moraes, C. A., Faveri, D. D., Perego, P., Converti, A., & Passos,
+F. M. L. (2006). Influence of temperature and pH on xylitol production
+from xylose by Debaryomyceshansenii UFV‐170. Process Biochemistry,
+41, 675–681. https://doi.org/10.1016/j.procbio.2005.08.019
+
+Sousa, M. J., Ludovico, P., Rodrigues, F., Leão, C., & Côrtes‐Real, M. (2012).
+Chapter 4—Stress and cell death in yeast induced by acetic acid. Cell
+Metabolism: Cell homeostasis and stress response (pp. 73–100). London,
+UK: IntechOpen.
+
+Swain, M. R., & Krishnan, C. (2015). Improved conversion of rice straw to
+ethanol and xylitol by combination of moderate temperature ammonia
+pretreatment and sequential fermentation using Candida tropicalis.
+Industrial Crops and Products, 77, 1039–1046. https://doi.org/10.
+1016/j.indcrop.2015.10.013
+
+Tesfaw, A., & Assefa, F. (2014). Current in bioethanol production by Saccharomyces cerevisae: Substrate, inhibitor reduction, growth variables,
+coculture and immobilization. International Scholarly Research Notices,
+2014, 1–11. https://doi.org/10.1155/2014/532852
+
+Trichez, D., Steindorff, A. S., Soares, C. E. V. F., Formighieri, E. F., &
+Almeida, J. R. M. (2018). Physiological and comparative genomic analysis of new yeasts Spathaspora sp. JA1 and Meyerozyma caribbica JA9
+reveal insights into xylitol production. FEMS Yeast Research. (submitted/under review)
+
+Vallejos, M. E., Chade, M., Mereles, E. B., Bengoechea, D. I., Brizuela, J. G.,
+Felissia, F. E., & Area, M. C. (2016). Strategies of detoxification and fermentation for biotechnological production of xylitol from sugarcane
+bagasse. Industrial Crops and Products, 91, 161–169. https://doi.org/
+10.1016/j.indcrop.2016.07.007
+
+Walker, G. M. (1998). Yeast Physiology and Biochemistry. John Wiley & Sons,
+Chichester.
+
+Wang, L., Yang, M., Fan, X., Zhu, X., Xu, T., & Yuan, Q. (2011). An environmentally friendly and efficient method for xylitol bioconversion with
+high‐temperature steaming corncob hydrolysate by adapted Candida
+tropicalis. Process Biochemistry, 46, 1619–1626. https://doi.org/
+10.1016/j.procbio.2011.05.004
+
+Wang, W., Ling, H., & Zhao, H. (2015). Steam explosion pretreatment of
+corn straw on xylose recovery and xylitol production using hydrolysate
+without detoxification. Process Biochemistry, 50, 1623–1628. https://
+doi.org/10.1016/j.procbio.2015.06.001
+
+Werpy, T., & Petersen, G. (2004). Top value added chemicals from biomass:
+Volume I ‐ Results of screening for potential candidates from sugars and
+synthesis gas. United States: The Pacific Northwest National Laboratory
+(PNNL) and the National Renewable Energy Laboratory (NREL).
+doi:10.2172/15008859
+
+Xu, Y. X., & Hanna, M. A. (2010). Optimum conditions for dilute acid hydrolysis of hemicellulose in dried distillers grains with solubles. Industrial
+Crops and Products, 32, 511–517. https://doi.org/10.1016/j.indcrop.
+2010.06.024
+
+Zhang, J., Geng, A., Yao, C., Lu, Y., & Li, Q. (2012). Xylitol production from
+d‐xylose and horticultural waste hemicellulosic hydrolysate by a new
+isolate of Candida athensensis SB18. Bioresource Technology, 105,
+134–141. https://doi.org/10.1016/j.biortech.2011.11.119
+
+How to cite this article: Morais Junior WG, Pacheco TF,
+Trichez D, Almeida JRM, Gonçalves SB. Xylitol production on
+sugarcane biomass hydrolysate by newly identified Candida
+tropicalis JA2 strain. Yeast. 2019;36:349–361. https://doi.
+<u>org/10.1002/yea.3394</u>
+
+──────── [TRUNCATED] ────────
+Showing 16,449 chars (head) + 5,490 chars (tail) of 75,516 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/www.alice.cnptia.embrapa.br-ccce17e3a0.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/www.alice.cnptia.embrapa.br-ccce17e3a0.md" offset=378 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

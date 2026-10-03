@@ -1,0 +1,651 @@
+REVISTA BRASILEIRA DE CIÊNCIA AVÍCOLA
+BRAZILIAN JOURNAL OF POULTRY SCIENCE
+
+Revista Brasileira de Ciência Avícola
+ISSN: 1516-635X
+revista@facta.org.br
+Fundação APINCO de Ciência e Tecnologia
+Avícolas
+Brasil
+
+Garcia, RG; Almeida Paz, ICL; Caldara, FR; Nääs, IA; Pereira, DF; Ferreira, VMOS
+Selecting the most adequate bedding material for broiler production in Brazil
+Revista Brasileira de Ciência Avícola, vol. 14, núm. 2, abril-junio, 2012, pp. 121-127
+Fundação APINCO de Ciência e Tecnologia Avícolas
+Campinas, SP, Brasil
+
+Available in: http://www.redalyc.org/articulo.oa?id=179723125005
+[Image: img4]
+
+---
+
+# Selecting the Most Adequate Bedding Material for Broiler Production in Brazil
+
+| Author(s) |
+| --- |
+| Garcia RG1 |
+| Almeida Paz ICL1 |
+| Caldara FR1 |
+| Náas IA1 |
+| Pereira DF2 |
+| Ferreira VMOS1 |
+| 1 College of Animal Science, Federal University of Grande Dourados - UFGD, Dourados, MS, Brazil |
+| 2 Experimental Unit of Tupã, State University of São Paulo - UNESP, Tupã, SP, Brazil |
+| ☑Mail Adress |
+| College of Animal Science, Federal University of Grande Dourados |
+| Dourados, MS, Brazil |
+| Email: RodrigoGarcia@ufgd.edu.br |
+| ☑Keywords |
+| Alternative bedding material, broiler production, multiple criteria analysis, AHP. |
+| Submitted: June/2011 |
+
+## ABSTRACT
+
+Broiler chicken production is widely dispersed across the globe, 
+and one important issue for growers is the selection of adequate 
+bedding material, as the availability and price of substrates varies 
+among countries and regions within a same country. This study aimed 
+at applying a multiple criteria analysis approach for the selection of 
+the most appropriate bedding material for broiler production. Based 
+on field research data and growers’ experience, the most desirable 
+characteristics of a litter material were chosen as the main criteria. The 
+selected materials were wood shavings, rice husks, chopped Napier 
+grass *(Pennisetum pupureum),* 50% sugar cane bagasse *(Saccharum 
+L.)* plus 50% wood shavings, 50% sugar cane bagasse *(Saccharum L.)* 
+plus 50% rice husks, and pure sugar cane bagasse *(Saccharum L.).* The 
+analytical hierarchy process (AHP) was applied for selecting the most 
+suitable bedding material. Validation was performed using data from 
+previous studies carried out in central-western Brazil on the effects of 
+different types of bedding material on broiler carcass quality. Considering 
+the selected criteria, several bedding materials were tested and ranked, 
+and the results showed that wood-shavings litter was the best option 
+(weight = 0.28), followed by rice husks (weight = 0.24). All other tested 
+alternatives presented lower scores and were, therefore, not considered 
+for use. The AHP approach was found to be an efficient tool to select 
+the most appropriate litter material under specific scenarios.
+
+## INTRODUCTION
+
+Bedding material acquisition and litter management are important 
+issues for broiler producers. The sustainability of broiler production 
+requires bedding material to be environmentally friendly, and the 
+replacement of litter needs to be efficient and cost-effective in order 
+to be implemented by growers in a profitable way (Mayne *et al.,* 2007; 
+Bilgili *et al.,* 2009). This requires the availability of alternative bedding 
+sources, as well as good understanding of how to reduce NH  emissions 
+3
+in reused litter. Managing litter moisture is challenging in reused 
+litter, especially during the last weeks of the growout. The important 
+factors that influence moisture in the rearing environment include 
+short downtimes between flocks, partial-house brooding, evaporative 
+cooling systems, and poor drinking water management (Bilgili *et al.,* 
+2009). Health issues and the incidence of breast burns and blisters, 
+leg abnormalities, and footpad lesions are reported in the literature as 
+partially due to poor litter conditions (Benabdewelil & Ayach, 1996).
+
+Amongst the available multi-attribute approaches, the analytic 
+hierarchy process (AHP) is the best because it is capable of combining 
+different types of criteria in a multi-level decision structure in order to 
+obtain a single score for each alternative and to rank the proposed 
+alternatives overall. Several studies have been published on different 
+AHP scenarios and arrays, and the conclusions support the suitability of this analysis for the selection of specific criteria 
+(Benabdewelil & Ayach, 1996; Karami, 2006; 
+Omkarprasad & Sushil, 2006; Halmar *et al.,* 2009; 
+Almeida Paz *et al.,* 2010).
+
+This study aimed at applying the AHP approach for 
+the selection of the most appropriate bedding material 
+considering all restrictions and benefits to the producer.
+
+## MATERIALS AND METHODS
+
+[Image: Im0] [Image: Im1]
+Applying[Image: Im2] AHP model involves the following steps: 
+(a) structuring the selection problem, (b) identifying 
+the technological options, (c) identifying the applicable 
+criteria, (d) developing the weighting schemes, and (e) 
+ranking the management or technological options. 
+These steps are detailed below.
+
+### Structuring the selection of the appropriate broiler bedding material and iden- tifying the options
+
+Identifying and structuring the 
+objective of selecting the proper 
+broiler bedding material required 
+careful literature investigation to 
+provide the basis for quantitative 
+modeling. The fundamental challenge was to identify the attributes that producers genuinely 
+consider important because the 
+objective hierarchies should be 
+constructed according to this classification (Rosado Jr. *et al.,* 2011). 
+In this specific study, the main goal 
+was to select the appropriate broiler bedding material for a specific scenario. The attributes were 
+selected based on the criteria broiler growers generally use when 
+purchasing bedding material 
+and on previous research results 
+(Bowers *et al.,* 2003; Bilgili *et al.,* 
+2009; Macklin & Krehling, 2010).
+
+Choosing a conventional or 
+alternative bedding material 
+involves selecting from a set of 
+available options, each of which 
+may fulfill some or all of the 
+desired criteria. Although there 
+theoretically are several types of 
+adequate bedding alternatives, 
+many options are often 
+considered to be untenable due
+
+to technical restrictions (Macklin *et al.,* 2005; Mayne *et 
+al.,* 2007; Bilgili *et al.,* 2009; Garcia *et al.,* 2010).
+
+### Identifying the applied selection criteria
+
+The selected criteria were chosen based on findings 
+published in the current literature (Bowers *et al.,* 2003; 
+Mayne *et al.,* 2007; Bilgili *et al.,* 2009; Freitas *et al.,* 
+2009) and on growers’ experience and knowledge. The 
+scheme of the system was designed using the following 
+three distinct levels: level 1 represented the goal, level 
+2 represented the most important characteristic of a 
+bedding material, and level 3 represented the related 
+characteristics that fulfill level 2 (Figure 1).
+
+Level 1 - Goal
+
+To select the most appropriate bedding for broiler chicken production
+
+Level2 Level3
+
+Cost Acquisition Transportation Storage Processing
+
+Availability Proximity of the supplier Reliability of supply Quantity Quality
+
+Easiness of handling Transporting Removal Decompacting Handling
+
+Possibility of reuse Number of flocks Capability of preserving quality Low level of contamination Easiness of treatment between flocks
+
+Absorption capacity
+
+Ability of avoiding compacting Good welfare conditions Less footpad dermatitis Less breast damage Less claw dermatitis Less bruising
+
+Low fermentation Low ammonia emission Low microbial development
+
+Environmental impact Waste Possibility of other uses
+
+Performance
+
+Carcass yield
+
+**Figure 1** - Schematic description of the criteria used for selecting the most appropriate 
+bedding material for broiler chicken production.
+
+---
+
+### Developing the weighting schemes and ranking the options
+
+The purpose of the AHP is to provide a vector of 
+weights expressing the relative importance of the 
+alternatives for each criterion. The adopted scale of 
+importance was defined according to the method 
+described by Saaty (1977), using a 1–9 score scale for 
+pairwise comparison (Table 1).
+
+**Table 1.** *Adopted scale of importance*
+
+| Intensity of importance | Definition |
+| --- | --- |
+| 1 | Equal importance |
+| 3 | Moderate importance |
+| 5 | Strong importance |
+| 7 | Very strong or demonstrated importance |
+| 9 | Extreme importance |
+| 2, 4, 6, 8 | Intermediate values |
+| Reciprocals of above | If factor i has one of the above numbers assigned to it when compared to factor j, then j has the reciprocal value when compared with i |
+
+#### Adapted from Saaty (1977)
+
+When the AHP approach is applied, a pairwise 
+comparison matrix is established. The rows and 
+columns of this matrix represent the components 
+that belong to the same parent component in the 
+decision hierarchy (Eq. 1). The weight of component 
+i compared to component j relative to the parent 
+[Image: Im0] [Image: Im1]
+component is determined using Saaty’s[Image: Im2] scale (Table 1). 
+The weight is then assigned to the (i, j)<sup>th</sup> position of the 
+pairwise comparison matrix (Saaty, 1980) in order to 
+support comparisons within a limited range, but with 
+sufficient sensitivity. The reciprocal of the assigned 
+number is assigned to the (j, i)<sup>th</sup> position. Once the 
+pairwise comparison matrix is established, the weights 
+of the components are calculated by solving for the 
+eigenvector of the pairwise comparison matrix:
+
+|  | Criterion 1 | Criterion 2 | Criterion 3 | ... |
+| --- | --- | --- | --- | --- |
+| A = | Criterion 1 | 1 | w12 | w13 |
+| A = | Criterion 2 | w21 | 1 | w23 |
+| A = | Criterion 3 | w31 | w32 | 1 |
+| A = | ... | ... | ... | ... |
+| A = | Criterion n | wn1 | wn2 | wn3 |
+
+where w is the weight of importance and the 
+criterion  is more important than . Pairwise comparisons 
+are then made between each pair of factors at a given 
+level of the hierarchy relative to their contribution to 
+the factor at the immediately preceding level. These 
+pairwise comparisons yield a reciprocal (n, n) matrix , 
+where a<sub>ii</sub> = 1 (diagonal elements) and a<sub>ji</sub> = 1/a<sub>ij</sub>. Suppose 
+that only the first column of matrix  is provided to state 
+the relative importance of factors 2, 3,  . . . ,  with 
+respect to factor 1. If the judgments were completely 
+consistent, then the remaining columns in the matrix 
+would be completely determined by the transitivity of 
+the relative importance of the factors. However, there 
+would be no consistency except for that created by 
+setting a<sub>ji</sub> = 1/a<sub>ij</sub>. Therefore, the comparison needs to 
+be repeated for each column of the matrix; specifically, 
+independent judgments must be made for each pair.  is 
+consistent if and only if λ<sub>max</sub> = . However, the inequality 
+of λ<sub>max</sub> >  always exists; therefore, the average of the 
+remaining eigenvalues (λ) can be used as a consistency 
+index (CI; Eq. 2), which is the difference between λ<sub>max</sub>
+and divided by the normalizing factor (n-1).
+
+$$
+a_{ij}=1/a_{ij}
+$$
+
+$$
+\mathsf{a}_{\mathsf{ij}}=1
+$$
+
+$$
+\alpha_{ij}=1/\alpha_{ij}
+$$
+
+$$
+\lambda_{max}=
+\lambda_{_{\max}}>
+$$
+
+$$
+\lambda_{max}
+$$
+
+$$
+\mathrm{Cl}=(\lambda\max-n)/(n-1)
+$$
+
+**Eq. 2**
+
+where CI = consistency index; λ<sub>max</sub> = highest 
+eigenvalue; and n = number of matrix elements.
+
+$$
+\lambda_{_{\max}}=
+$$
+
+The CI of the studied problem is compared with the 
+average random index (RI) obtained from associated 
+random matrices of order n to measure the error due to 
+inconsistency (Saaty, 1977; Saaty, 1980). A consistency 
+ratio (CR = CI/RI) with a value ≤ 0.1 should be maintained 
+for the matrix to be consistent; otherwise, the pairwise 
+comparisons should be revised. The homogeneity of 
+factors within each group, a small number of factors in 
+the group, and a better understanding of the decision 
+problem would improve the consistency index.
+
+### Field validation
+
+The validation was performed using data obtained 
+from a field study (Caldara *et al.,* 2009; Freitas *et 
+al.,* 2009; Bilgili *et al.,* 2009; Almeida Paz *et al.,*
+
+2010) comparing six different 
+bedding materials available in 
+most regions of Brazil, as well 
+as mixtures of these materials 
+**Eq. 1** such as wood shavings, rice 
+husks, chopped Napier grass 
+*(Pennisetum pupureum),* 50% sugarcane bagasse *(Saccharum L.)* plus 50% wood 
+shavings, 50% sugarcane bagasse *(Saccharum L.)*
+plus 50% rice husks, and pure sugarcane bagasse 
+*(Saccharum L.).* The wood shavings consisted of nearly 
+80% of *Eucaliptus saligna* and 20% of other mixed 
+woods. Chopped grass was 1 to 1.5 cm long, and 
+sugarcane bagasse was 0.1 to 3 cm long. All tested 
+bedding materials were applied at a depth of 10 cm. 
+A total of 3,240 broiler chickens (Manual, 2010) were 
+distributed in 60 pens measuring 4.5 m<sup>2</sup> each, each 
+equipped with a bell drinker and a tube feeder. Flock 
+density was 12 birds m<sup>-2</sup>, which is typical in Brazil. 
+House side walls were covered with curtains and inside 
+temperature was controlled using fans and foggers. 
+Chicks were brooded using 250 W infrared lamps, one 
+per pen. The lighting regime was 24 h of light during 
+the entire rearing period using 40 W lamps, which 
+provided an average of 22 lx. All birds received feed 
+and water *ad libitum* during the entire experimental 
+period. The feeding program included the following 
+three phases: a starter diet (day 1-21), a grower diet 
+(day 22-35), and a finisher diet (day 36-42).
+
+The following material features were studied: litter 
+microbiological aspects, temperature, litter moisture 
+content and caking index, ammonia emission, house 
+temperature, bird surface and body temperatures, and 
+bird performance (Freitas *et al.,* 2009; Almeida Paz *et 
+al.,* 2010). Data were recorded during the growout 
+period and carcass yield was evaluated at slaughter on 
+day 42.
+
+Computational analysis for calculating the criteria 
+weights and CR was performed using online software 
+MIR (2011).
+
+## RESULTS AND DISCUSSION
+
+Local weight represents the specific importance 
+of determined criteria as determined by the previous 
+level of judgment when the presented alternatives are 
+compared pairwise. The pairwise comparison started 
+at the lowest level, which was the level 3, in order to 
+build up the local and global weights in level 2. The 
+global weight represents the importance of a criterion 
+within the level 2, which may influence the goal (level 
+1). CR values were adjusted to be acceptable (CR ≤ 
+0.1), and this procedure was automatically carried out 
+using the multi-criteria software program.
+
+The weight results of the criteria for selecting broiler 
+chicken bedding material show the highest value for 
+“possibility of reuse” (weight = 0.16), followed by 
+“ease of handling” (weight = 0.15) and “cost” (weight
+
+= 0.13), as shown in Table 2. Considering those criteria 
+and the tested types of bedding material, it can be seen 
+that wood shavings is the alternative that offers the 
+highest “possibility of reuse” and “ease of handling” 
+(weight = 0.06), followed by rice husks (weight = 0.05 
+and 0.04, respectively). The criteria “cost” had the 
+highest value (weight = 0.03) for chopped Napier grass 
+*(Pennisetum pupureum)* and the sugarcane bagasse 
+*(Saccharum L.),* while other material alternatives 
+remained in third place (weight = 0.02).
+
+Criteria were prioritized based on their relative 
+importance to every other choice in their hierarchy and 
+with respect to a dominant choice; therefore, criteria 
+are compared relative to the goal, and the alternatives 
+relative to each criterion. The results of the pairwise 
+comparisons were recorded in a positive consistency 
+matrix. The most favorable is criterion option compared 
+to the alternatives, the higher the value of its weight. 
+Therefore, the high value of “cost” credited to the 
+material means that it is the less expensive bedding 
+alternative. Attention needs to be called upon the 
+fact that not all broiler producers have Napier grass 
+planted on their farm but, when available, it may be 
+the most cost-effective solution (weight = 0.03); this 
+is also applicable when considering sugarcane bagasse 
+as bedding material (weight = 0.03). None of the three 
+highest-scoring criteria (“possibility of reuse”, “ease of 
+handling”, and “cost”) alone or combined was sufficient 
+to determine the best choice of bedding material. Such 
+calculation may require the use of a complex multiple 
+criteria model, with extra levels included.
+
+Although producers’ primary goal is to maximize 
+performance and carcass yield, these two criteria 
+accounted for little in the overall decision weight, 
+which is consistent with the results presented by Bilgili
+*et al.* (2009). These authors evaluated commercial 
+and alternative bedding materials and found that 
+they had little influence on broiler live performance in 
+three successive trials. The incidence and severity of 
+footpad dermatitis significantly varied among bedding 
+materials, and were related to high litter moisture 
+and caking scores. From the standpoint of preventing 
+footpad dermatitis, the capacity of a bedding material 
+to absorb and quickly release moisture may be its most 
+important characteristic (Loch *et al.,* 2011). It has been 
+reported that wet litter conditions increase volatilization 
+of ammonia from the litter (Nagaraj *et al.,* 2007) and 
+that ammonia emissions from wood shavings were 
+19% greater than from wheat straw around drinkers. 
+In addition, worse caking was observed when wheat 
+straw was used (Tasistro *et al.,* 2007).
+
+---
+
+**Table 2** - Local weight, global weight and final score of bedding materials, considering the given weights of selection criteria .
+
+| Level 2 Criteria | Alternatives of bedding material |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Level 2 Criteria | Wood shavings | Rice husks | Chopped Napier grass (Pennisetum pupureum) | 50% sugarcane bagasse plus 50% wood shavings | 50% sugarcane bagasse plus 50% rice husks | Only sugarcane bagasse (Saccharum L.) | Global weight 1 |
+| Level 2 Criteria | Local weight |  |  |  |  |  |  |
+| Cost | 0.02 | 0.02 | 0.03 | 0.02 | 0.02 | 0.03 | 0.13 |
+| Availability | 0.02 | 0.04 | 0.01 | 0.02 | 0.02 | 0.01 | 0.12 |
+| Ease of handling | 0.06 | 0.04 | 0.02 | 0.01 | 0.01 | 0.01 | 0.15 |
+| Possibility of reuse | 0.06 | 0.05 | 0.02 | 0.01 | 0.01 | 0.01 | 0.16 |
+| Absorption capacity | 0.03 | 0.02 | 0.01 | 0.01 | 0.01 | 0.00 | 0.08 |
+| Capacity to prevent caking | 0.02 | 0.02 | 0.01 | 0.01 | 0.01 | 0.00 | 0.06 |
+| Low fermentation | 0.02 | 0.02 | 0.01 | 0.01 | 0.01 | 0.00 | 0.06 |
+| Environmental impact | 0.02 | 0.01 | 0.00 | 0.01 | 0.01 | 0.00 | 0.05 |
+| Performance | 0.03 | 0.02 | 0.02 | 0.02 | 0.02 | 0.02 | 0.12 |
+| Carcass yield | 0.02 | 0.02 | 0.01 | 0.01 | 0.02 | 0.01 | 0.08 |
+| Final ranking1 | 0.28 (1) | 0.24 (2) | 0.13 (3) | 0.13 (3) | 0.12 (4) | 0.10 (5) | 1.00 |
+
+<sup>1</sup>The sum of the final weight scores of each alternative is equal to 1 (Saaty, 1980)
+
+The number betweeb parentheses is the ranking of the alternatives of the each tested bedding material
+
+A significant percentage of the crop area in Brazil is 
+used to produce sugarcane, rice and pastures for beef 
+cattle (Table 3). Napier grass is used for cattle grazing 
+and accounts for the smallest harvested area among 
+the crops used in the present study as litter material. 
+Considering that Napier grass is not a residual product 
+of agricultural activities, that its availability is low in 
+the studied region, and that it has high nutritional 
+value for beef cattle production (NRC, 1996; Fontes
+*et al.,* 2005), this substrate may not be the most costeffective material to use as broiler chicken litter. The 
+availability of sugarcane and rice varies across different 
+regions of Brazil. In the southern region, a large 
+percentage the planted area (nearly 45%) is used for 
+sugarcane, resulting in high production of bagasse. In 
+the northern region, large areas of rice are planted, 
+generating large quantities of this product. However, 
+sugarcane is a seasonal crop and its accessibility and 
+availability vary throughout the year.
+
+Sugarcane bagasse has a high nutritional value for 
+beef cattle (Bulle *et al.,* 2002; Leme *et al.,* 2003) and 
+presents high energy value (Cortez & Gómez, 1998; 
+Sosa-Arnao *et al.,* 2004). In addition, it is used for 
+generating energy by the sugar plants and to produce 
+ethanol, limiting its use as poultry bedding. Rice 
+husks are available in large quantities in some regions 
+of Brazil, where is it used as broiler litter, but the 
+performance of flocks raised on this material is worse 
+compared with wood shavings. Shields *et al.* (2004) 
+tested four types of bedding materials and found that 
+broilers did not present some natural behaviors, such 
+as dust bathing, when raised on rice husks. According 
+
+[... middle omitted — see footer ...]
+
+do not have a high energy value and are usually 
+considered as waste, and therefore, in most regions, 
+are considered a low cost broiler bedding material. 
+Broiler performance and welfare were found to be 
+improved when the birds are reared on wood shavings 
+(Neme *et al.,* 2000).
+
+The final ranking of alternatives (Table 2) shows 
+that the most appropriate broiler litter material under 
+the studied scenario was wood shavings, followed 
+by rice husks. Most studies comparing poultry 
+bedding materials have reported that, when birds 
+are reared on alternative bedding materials, their 
+performance is equal to or worse than that of birds 
+reared on wood shavings (Benabdewelil & Ayach, 
+1996; Grimes *et al.,* 2002). However, according to 
+Tasistro *et al.* (2007), broiler mortality was not affected 
+when nonconventional bedding materials were used, 
+although weight gain was significantly lower when 
+birds were reared on wheat straw relative to wood 
+shavings.
+
+## CONCLUSIONS
+
+The results of the present study show that the AHP 
+model can be used as a valuable decision analysis tool 
+for the selection of broiler bedding material under a 
+specific scenario. Wood shavings seemed to be the 
+best choice of bedding material for broiler producers 
+in Central-Western Brazil.
+
+An alternative, economical and efficient 
+source of bedding material presenting favorable, 
+environmentally-friendly characteristics that allows 
+recycling or reducing waste may be needed to meet 
+future demands of broiler producers.
+
+## ACKNOWLEDGEMENTS
+
+The authors thank the Foundation of Support of the 
+Development of Education, Science and Technology of 
+the State of Mato Grosso do Sul (FUNDECT), CAPES, 
+and the PET/MEC/SESu Program.
+
+## REFERENCES
+
+Almeida Paz ICL, Garcia RG, Bernardi R, Nääs IA, Caldara FR, Freitas LW, 
+Seno LO, Ferreira VMOS, Pereira DF, Cavichiolo FI. Selecting appropriate 
+bedding to reduce locomotion problems in broilers. Brazilian Journal of 
+Poultry Science 2010; 12: 189-195.
+
+Benabdewelil K, Ayach A. Evaluation of alternative litter materials for 
+poultry. Journal of Applied Poultry Research 1996; 5: 203-209.
+
+Bilgili SF, Hess JB, Blake JP, Macklin KS, Saenmahayak B, Sibley JL. Influence 
+of bedding material on footpad dermatitis in broiler chickens. Journal 
+of Applied Poultry Research 2009; 18: 583–589.
+
+Bowers BD, Hess JB, Bilgili SF, Blake JP, Eckman MK, Guertal EA. Nutrient 
+buildup in sand litter. Journal of Applied Poultry Research 2003; 12: 
+522-525.
+
+Bulle MLM, Ribeiro FG, Leme PR, Titto EAL, Lanna DPD. Desempenho 
+de tourinhos cruzados em dietas de alto teor de concentrado com 
+bagaço de cana-de-açúcar como único volumoso. Revista Brasileira de 
+Zootecnia 2002; 31: 444-450.
+
+Cortez LAB, Gómez EO. A method for energy analysis of sugarcane bagasse 
+boilers. Brazilian Journal Chemical Engineering 1998; 15:1-4.
+
+Fontes CAA, Oliveira RC, Erbesdobler ED, Queiroz DS, Lombardi CT. 2005. 
+Conteúdo de energia líquida par mantença e ganho do capim-elefante 
+e mudanças na composição corporal de novilhos em pastejo, durante 
+estação chuvosa. Revista Brasileira de Zootecnia 2005; 34: 1711-1720.
+
+Freitas LW, Garcia RG, Graciano JD, Amadori AH, Vargas Junior FM. 
+Compactação da cama de frangos de corte composta por diferentes 
+substratos. IProceedings of the 27ª Conferência FACTA de Ciência e 
+Tecnologia Avícola; 2009; Porto Alegre, Santa Catarina. Brazil. p. 1-4, 
+2009.
+
+Garcia RG, Almeida Paz ICL, Caldara FR, Nääs IA, Pereira DF, Freitas LW, 
+Schwingel AW, Lima NDS, Graciano JD. Effect of the litter material on 
+drinking water quality in broiler production. Brazilian Journal of Poultry 
+Science 2010; 12: 165-169.
+
+Grimes JL, Smith J, Williams CM. 2002. Some alternative litter materials 
+used for growing broilers and turkeys. World’s Poultry Science Journal 
+2002; 58:515–525.
+
+Halmar H, Stigebrandt A, Rehbein M, McKinnon AD. Developing a decision 
+support system for sustainable cage aquaculture. Environmental 
+Modelling & Software 2009; 24: 694–702.
+
+IBGE - Instituto Brasileiro de Geografia e Estatística [citado 2010 April 26]. 
+Disponível em: http://www.sidra.ibge.gov.br/.
+
+---
+
+Karami E. Appropriateness of farmers’ adoption of irrigation methods: The 
+application of the AHP model. Agricultural Systems 2006; 87: 101–119.
+
+Leme PR, Silva SL, Pereira ASC, Putrino SM, Lanna DPD, Nogueira Filho 
+JCM. Utilização do bagaço de cana-de-açúcar em dietas com elevada 
+proporção de concentrados para novilhos Nelore em confinamento. 
+Revista Brasileira de Zootecnia 2003; 31: 1786-1791.
+
+Loch FC, Oliveira MC, Silva D, Gonçalves BN, Faria BF, Menezes JFS. Quality 
+of poultry litter submitted to different treatments in five consecutive 
+flocks. Revista Brasileira de Zootecnia 2011; 40:1025-1030.
+
+Macklin KS, Hess JB, Bilgili SF, Norton RA. Bacterial levels of pine shavings 
+and sand used as poultry litter. Journal of Applied Poultry Research 
+2005; 14: 238-245
+
+Macklin KS, Krehling JT. The use of metam-sodium to reduce bacteria in 
+poultry litter. Journal of Applied Poultry Research 2010; 19: 274-278.
+
+MIR – Make it rational[cited 2011 Nov 3]. Available from: http://
+makeitrational.com/
+
+Mayne RK, Else RW, Hocking PM. 2007. High litter moisture is sufficient 
+to cause footpad dermatitis in growing turkeys. British Poultry Science 
+2007; 48:538–545.
+
+Nagaraj M, Wilson CAP, Saenmahayak B, Hess JB, Bilgili SF. Efficacy of a 
+litter amendment to reduce pododermatitis in broiler chickens. Journal 
+of Applied Poultry Research 2007; 16: 255–261.
+
+Neme R, Sakomura NK, Oliveira MDS, Longo FA, Figueiredo NA. Adição 
+de gesso agrícola em três tipos de cama de aviário na fixação de 
+nitrogênio e no desempenho de frangos de corte. Ciência Rural 2000; 
+30: 687-692.
+
+NRC - National Research Council. Nutrient requirements of beef cattle. 7<sup>th</sup>
+ed. Washington, DC; 1996.
+
+Omkarprasad SV, Sushil K. Analytic hierarchy process: An overview of 
+applications. European Journal of Operational Research 2006; 169: 
+1–29.
+
+Rosado Jr AG, Lobato JFP, Muller C. Building consolidated performance 
+indicators for an agribusiness company: A case study. Revista Brasileira 
+de Zootecnia 2011; 40: 454-461.
+
+Ross Breeders [2010 Aprim 20]. Available from: http://www.rossbreeders.
+com
+
+Saaty TL. A scaling method for priorities in hierarchical structures. Journal 
+of Mathematics Psychology 1977; 15: 234 – 281.
+
+Saaty TL. The analytic hierarchy process. New York: McGraw-Hill; . 1980.
+
+Shields SJ, Garner JP, Mench JA. Dustbathing by broiler chickens: a 
+comparison of preference for four different substrates. Applied Animal 
+Behaviour Science 2004; 87: 69-82.
+
+Sosa-Arnao JH, Oliveira FM, Corrêa JLG, Silva MA, Nebra SA. Sugarcane 
+bagasse drying – a review. In: Proceedings of the  14<sup>th</sup> International 
+Drying Symposium; 2004;, São Paulo, SP. Brazil. p. 990-997
+
+Tasistro AS, Ritz CW, Kissel DE. Ammonia emissions from broiler litter: 
+response to bedding materials and acidifiers. British Poultry Science 
+2007; 48: 399 – 405.
+
+──────── [TRUNCATED] ────────
+Showing 20,968 chars (head) + 6,995 chars (tail) of 29,138 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/www.redalyc.org-e8ff35430a.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/www.redalyc.org-e8ff35430a.md" offset=479 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

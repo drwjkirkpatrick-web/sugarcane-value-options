@@ -1,0 +1,315 @@
+open AI companion
+
+[Biofuels, Bioproducts and Biorefining](https://scijournals.onlinelibrary.wiley.com/journal/19321031 "Biofuels, Bioproducts and Biorefining homepage")
+
+[Volume 12, Issue 4](https://scijournals.onlinelibrary.wiley.com/toc/19321031/2018/12/4) pp. 536-541 [![Biofuels, Bioproducts and Biorefining](https://scijournals.onlinelibrary.wiley.com/pb-assets/journal-banners/19321031-1644844239667.jpg)](https://scijournals.onlinelibrary.wiley.com/journal/19321031 "Biofuels, Bioproducts and Biorefining homepage")
+
+In the Field
+
+# Production of polyhydroxyalkanoates (PHA) from a non-lignocellulosic component of sugarcane bagasse: fueling a biobased economy
+
+[Priyam Tyagi](https://scijournals.onlinelibrary.wiley.com/authored-by/Tyagi/Priyam),
+
+Priyam Tyagi
+
+Centre for Cellular and Molecular Biology, Amity Institute of Biotechnology, Noida, Uttar Pradesh, India
+
+[Search for more papers by this author](https://scijournals.onlinelibrary.wiley.com/authored-by/Tyagi/Priyam)
+[Nitesh Kumar Saxena](https://scijournals.onlinelibrary.wiley.com/authored-by/Saxena/Nitesh+Kumar),
+
+Nitesh Kumar Saxena
+
+Centre for Cellular and Molecular Biology, Amity Institute of Biotechnology, Noida, Uttar Pradesh, India
+
+[Search for more papers by this author](https://scijournals.onlinelibrary.wiley.com/authored-by/Saxena/Nitesh+Kumar)
+[Aarti Sharma](https://scijournals.onlinelibrary.wiley.com/authored-by/Sharma/Aarti),
+
+Corresponding Author
+
+Aarti Sharma
+
+- [asharma11@amity.edu](mailto:asharma11@amity.edu "Link to email address")
+
+- [orcid.org/0000-0003-4503-3597](https://orcid.org/0000-0003-4503-3597)
+
+Centre for Cellular and Molecular Biology, Amity Institute of Biotechnology, Noida, Uttar Pradesh, India
+
+Correspondence to: Aarti Sharma, Molecular Genetics Research Lab, Centre for Cellular and Molecular Biology, Amity Institute of Biotechnology, Amity University, Sector 125, Noida, Uttar Pradesh 201301, India. E-mail: [asharma11@amity.edu](mailto:asharma11@amity.edu "Link to email address") [Search for more papers by this author](https://scijournals.onlinelibrary.wiley.com/authored-by/Sharma/Aarti)
+
+[Priyam Tyagi](https://scijournals.onlinelibrary.wiley.com/authored-by/Tyagi/Priyam),
+
+Priyam Tyagi
+
+Centre for Cellular and Molecular Biology, Amity Institute of Biotechnology, Noida, Uttar Pradesh, India
+
+[Search for more papers by this author](https://scijournals.onlinelibrary.wiley.com/authored-by/Tyagi/Priyam)
+[Nitesh Kumar Saxena](https://scijournals.onlinelibrary.wiley.com/authored-by/Saxena/Nitesh+Kumar),
+
+Nitesh Kumar Saxena
+
+Centre for Cellular and Molecular Biology, Amity Institute of Biotechnology, Noida, Uttar Pradesh, India
+
+[Search for more papers by this author](https://scijournals.onlinelibrary.wiley.com/authored-by/Saxena/Nitesh+Kumar)
+[Aarti Sharma](https://scijournals.onlinelibrary.wiley.com/authored-by/Sharma/Aarti),
+
+Corresponding Author
+
+Aarti Sharma
+
+- [asharma11@amity.edu](mailto:asharma11@amity.edu "Link to email address")
+
+- [orcid.org/0000-0003-4503-3597](https://orcid.org/0000-0003-4503-3597)
+
+Centre for Cellular and Molecular Biology, Amity Institute of Biotechnology, Noida, Uttar Pradesh, India
+
+Correspondence to: Aarti Sharma, Molecular Genetics Research Lab, Centre for Cellular and Molecular Biology, Amity Institute of Biotechnology, Amity University, Sector 125, Noida, Uttar Pradesh 201301, India. E-mail: [asharma11@amity.edu](mailto:asharma11@amity.edu "Link to email address") [Search for more papers by this author](https://scijournals.onlinelibrary.wiley.com/authored-by/Sharma/Aarti)
+
+First published: 17 April 2018
+
+[https://doi.org/10.1002/bbb.1879Digital Object Identifier (DOI)](https://doi.org/10.1002/bbb.1879)
+
+view metrics
+
+
+[![](https://scijournals.onlinelibrary.wiley.com/specs/products/acropolis/pericles/releasedAssets/images/pdf-icon-169a2eb30e52100e76dfa5f4b66998e6.png)PDF](https://scijournals.onlinelibrary.wiley.com/doi/epdf/10.1002/bbb.1879 "ePDF")
+
+### Abstract
+
+The present study examines the use of residual sugar from sugarcane bagasse for the production of polyhydroxyalkanoates (PHA), a class of biodegradable microbial polymers. To achieve this, 26 bacterial isolates were screened for PHA production. From the strains isolated, ART\_MKT2E was found to produce PHA and was selected to discover its capability to use a bagasse-based medium (BGM). To date, the lignocellulosic component of bagasse has been used as a substrate by treating bagasse with acids. This study demonstrates the use of residual sugar from bagasse as a substrate for PHA production. The concentration of bagasse filtrate was found to be optimum at 60%, along with yeast extract and additional salts (pH 7.0 ± 0.5). The maximum PHA production (w/w) was 55%. These results indicate the successful use of non-lignocellulosic BGM. The remaining lignocellulosic component of bagasse could be fed as a substrate for another production process, promoting a sustainable, biobased economy. © 2018 Society of Chemical Industry and John Wiley & Sons, Ltd
+
+## Refererences
+
+- 1Lemoigne M, Produits de dehydration et de polymerisation de l'acide ß-oxobutyrique. _Bull Soc Chim Biol_ 8: 770–782 (1926).
+
+
+
+
+
+[CAS](https://scijournals.onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=32&doi=10.1002%2Fbbb.1879&key=1%3ACAS%3A528%3ADyaB2sXpt1yl&getFTLinkType=true&doiForPubOfPage=10.1002%2Fbbb.1879&refDoi=e_1_2_6_2_1%3ACOI&linkType=COI&linkSource=FULL_TEXT&linkLocation=Reference)[Google Scholar](https://scijournals.onlinelibrary.wiley.com/action/getFTRLinkout?url=http%3A%2F%2Fscholar.google.com%2Fscholar_lookup%3Fhl%3Den%26volume%3D8%26publication_year%3D1926%26pages%3D770-782%26journal%3DBull%2BSoc%2BChim%2BBiol%26author%3DM%2BLemoigne%26title%3DProduits%2Bde%2Bdehydration%2Bet%2Bde%2Bpolymerisation%2Bde%2Bl%2527acide%2B%25C3%259F%25E2%2580%2590oxobutyrique&doi=10.1002%2Fbbb.1879&linkType=gs&linkLocation=Reference&linkSource=FULL_TEXT)
+
+- 2Bugnicourt E, Cinelli P, Alvarez V and Lazzeri A, Polyhydroxyalkanoate (PHA): Review of synthesis, characteristics, processing and potential applications in packaging. _Express Polym Lett_ 8: 791–808 (2014).
+
+10.3144/expresspolymlett.2014.82
+
+
+
+[CAS](https://scijournals.onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=32&doi=10.1002%2Fbbb.1879&key=1%3ACAS%3A528%3ADC%252BC2MXisFansrw%253D&getFTLinkType=true&doiForPubOfPage=10.1002%2Fbbb.1879&refDoi=10.3144%2Fexpresspolymlett.2014.82&linkType=COI&linkSource=FULL_TEXT&linkLocation=Reference)[Web of Science®](https://scijournals.onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=128&doi=10.1002%2Fbbb.1879&key=000341773500002&getFTLinkType=true&doiForPubOfPage=10.1002%2Fbbb.1879&refDoi=10.3144%2Fexpresspolymlett.2014.82&linkType=ISI&linkSource=FULL_TEXT&linkLocation=Reference)[Google Scholar](https://scijournals.onlinelibrary.wiley.com/action/getFTRLinkout?url=http%3A%2F%2Fscholar.google.com%2Fscholar_lookup%3Fhl%3Den%26volume%3D8%26publication_year%3D2014%26pages%3D791-808%26journal%3DExpress%2BPolym%2BLett%26author%3DE%2BBugnicourt%26author%3DP%2BCinelli%26author%3DV%2BAlvarez%26author%3DA%2BLazzeri%26title%3DPolyhydroxyalkanoate%2B%2528PHA%2529%253A%2BReview%2Bof%2Bsynthesis%252C%2Bcharacteristics%252C%2Bprocessing%2Band%2Bpotential%2Bapplications%2Bin%2Bpackaging&doi=10.1002%2Fbbb.1879&doiOfLink=10.3144%2Fexpresspolymlett.2014.82&linkType=gs&linkLocation=Reference&linkSource=FULL_TEXT)
+
+- 3Kulpreecha S, Boonruangthavorn A, Meksiriporn B and Thongchul N, Inexpensive fed-batch cultivation for high poly(3-hydroxybutyrate) production by a new isolate of _Bacillus megaterium_. _J Biosci Bioeng_ 107(3): 240–245 (2009).
+
+10.1016/j.jbiosc.2008.10.006
+
+
+
+[CAS](https://scijournals.onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=32&doi=10.1002%2Fbbb.1879&key=1%3ACAS%3A528%3ADC%252BD1MXlvVGjs7c%253D&getFTLinkType=true&doiForPubOfPage=10.1002%2Fbbb.1879&refDoi=10.1016%2Fj.jbiosc.2008.10.006&linkType=COI&linkSource=FULL_TEXT&linkLocation=Reference)[PubMed](https://scijournals.onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=8&doi=10.1002%2Fbbb.1879&key=19269585&getFTLinkType=true&doiForPubOfPage=10.1002%2Fbbb.1879&refDoi=10.1016%2Fj.jbiosc.2008.10.006&linkType=PMID&linkSource=FULL_TEXT&linkLocation=Reference)[Web of Science®](https://scijournals.onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=128&doi=10.1002%2Fbbb.1879&key=000265311200005&getFTLinkType=true&doiForPubOfPage=10.1002%2Fbbb.1879&refDoi=10.1016%2Fj.jbiosc.2008.10.006&linkType=ISI&linkSource=FULL_TEXT&linkLocation=Reference)[Google Scholar](https://scijournals.onlinelibrary.wiley.com/action/getFTRLinkout?url=http%3A%2F%2Fscholar.google.com%2Fscholar_lookup%3Fhl%3Den%26volume%3D107%26publication_year%3D2009%26pages%3D240-245%26journal%3DJ%2BBiosci%2BBioeng%26issue%3D3%26author%3DS%2BKulpreecha%26author%3DA%2BBoonruangthavorn%26author%3DB%2BMeksiriporn%26author%3DN%2BThongchul%26title%3DInexpensive%2Bfed%25E2%2580%2590batch%2Bcultivation%2Bfor%2Bhigh%2Bpoly%25283%25E2%2580%2590hydroxybutyrate%2529%2Bproduction%2Bby%2Ba%2Bnew%2Bisolate%2Bof%2BBacillus%2Bmegaterium&doi=10.1002%2Fbbb.1879&doiOfLink=10.1016%2Fj.jbiosc.2008.10.006&linkType=gs&linkLocation=Reference&linkSource=FULL_TEXT)
+
+- 4Wu Q, Huang H, Hu G, Chen J, Ho K and Chen GQ, Production of poly-3-hydroxybutyrate by _Bacillus sp_. JMa5 cultivated in molasses media. _Antonie van Leeuwenhoek_ 80(2): 111–118 (2001).
+
+10.1023/A:1012222625201
+
+
+
+[PubMed](https://scijournals.onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=8&doi=10.1002%2Fbbb.1879&key=11759044&getFTLinkType=true&doiForPubOfPage=10.1002%2Fbbb.1879&refDoi=10.1023%2FA%3A1012222625201&linkType=PMID&linkSource=FULL_TEXT&linkLocation=Reference)[Web of Science®](https://scijournals.onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=128&doi=10.1002%2Fbbb.1879&key=000171656200002&getFTLinkType=true&doiForPubOfPage=10.1002%2Fbbb.1879&refDoi=10.1023%2FA%3A1012222625201&linkType=ISI&linkSource=FULL_TEXT&linkLocation=Reference)[Google Scholar](https://scijournals.onlinelibrary.wiley.com/action/getFTRLinkout?url=http%3A%2F%2Fscholar.google.com%2Fscholar_lookup%3Fhl%3Den%26volume%3D80%26publication_year%3D2001%26pages%3D111-118%26journal%3DAntonie%2Bvan%2BLeeuwenhoek%26issue%3D2%26author%3DQ%2BWu%26author%3DH%2BHuang%26author%3DG%2BHu%26author%3DJ%2BChen%26author%3DK%2BHo%26author%3DGQ%2BChen%26title%3DProduction%2Bof%2Bpoly%25E2%2580%25903%25E2%2580%2590hydroxybutyrate%2Bby%2BBacillus%2Bsp.%2BJMa5%2Bcultivated%2Bin%2Bmolasses%2Bmedia&doi=10.1002%2Fbbb.1879&doiOfLink=10.1023%2FA%3A1012222625201&linkType=gs&linkLocation=Reference&linkSource=FULL_TEXT)
+
+- 5Jiang Y, Song X, Gong L, Li P, Dai C and Shao W, High poly(β-hydroxybutyrate) production by _Pseudomonas fluorescens_ A2a5 from inexpensive substrates. _Enzyme Microb Technol_ 42(2): 167–172 (2008).
+
+10.1016/j.enzmictec.2007.09.003
+
+
+
+[PubMed](https://scijournals.onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=8&doi=10.1002%2Fbbb.1879&key=22578867&getFTLinkType=true&doiForPubOfPage=10.1002%2Fbbb.1879&refDoi=10.1016%2Fj.enzmictec.2007.09.003&linkType=PMID&linkSource=FULL_TEXT&linkLocation=Reference)[Web of Science®](https://scijournals.onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=128&doi=10.1002%2Fbbb.1879&key=000253045400010&getFTLinkType=true&doiForPubOfPage=10.1002%2Fbbb.1879&refDoi=10.1016%2Fj.enzmictec.2007.09.003&linkType=ISI&linkSource=FULL_TEXT&linkLocation=Reference)[Google Scholar](https://scijournals.onlinelibrary.wiley.com/action/getFTRLinkout?url=http%3A%2F%2Fscholar.google.com%2Fscholar_lookup%3Fhl%3Den%26volume%3D42%26publication_year%3D2008%26pages%3D167-172%26journal%3DEnzyme%2BMicrob%2BTechnol%26issue%3D2%26author%3DY%2BJiang%26author%3DX%2BSong%26author%3DL%2BGong%26author%3DP%2BLi%26author%3DC%2BDai%26author%3DW%2BShao%26title%3DHigh%2Bpoly%2528%25CE%25B2%25E2%2580%2590hydroxybutyrate%2529%2Bproduction%2Bby%2BPseudomonas%2Bfluorescens%2BA2a5%2Bfrom%2Binexpensive%2Bsubstrates&doi=10.1002%2Fbbb.1879&doiOfLink=10.1016%2Fj.enzmictec.2007.09.003&linkType=gs&linkLocation=Reference&linkSource=FULL_TEXT)
+
+- 6Nikel PI, de Almeida A, Melillo EC, Galvagno MA and Pettinari MJ, New recombinant _Escherichia coli_ strain tailored for the production of poly(3-hydroxybutyrate) from agroindustrial by-products. _Appl Environ Microbiol_ 72(6): 3949–3954 (2006).
+
+10.1128/AEM.00044-06
+
+
+
+[CAS](https://scijournals.onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=32&doi=10.1002%2Fbbb.1879&key=1%3ACAS%3A528%3ADC%252BD28XmtV2gt74%253D&getFTLinkType=true&doiForPubOfPage=10.1002%2Fbbb.1879&refDoi=10.1128%2FAEM.00044-06&linkType=COI&linkSource=FULL_TEXT&linkLocation=Reference)[PubMed](https://scijournals.onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=8&doi=10.1002%2Fbbb.1879&key=16751501&getFTLinkType=true&doiForPubOfPage=10.1002%2Fbbb.1879&refDoi=10.1128%2FAEM.00044-06&linkType=PMID&linkSource=FULL_TEXT&linkLocation=Reference)[Web of Science®](https://scijournals.onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=128&doi=10.1002%2Fbbb.1879&key=000238620100018&getFTLinkType=true&doiForPubOfPage=10.1002%2Fbbb.1879&refDoi=10.1128%2FAEM.00044-06&linkType=ISI&linkSource=FULL_TEXT&linkLocation=Reference)[Google Scholar](https://scijournals.onlinelibrary.wiley.com/action/getFTRLinkout?url=http%3A%2F%2Fscholar.google.com%2Fscholar_lookup%3Fhl%3Den%26volume%3D72%26publication_year%3D2006%26pages%3D3949-3954%26journal%3DAppl%2BEnviron%2BMicrobiol%26issue%3D6%26author%3DPI%2BNikel%26author%3DA%2BAlmeida%26author%3DEC%2BMelillo%26author%3DMA%2BGalvagno%26author%3DMJ%2BPettinari%26title%3DNew%2Brecombinant%2BEscherichia%2Bcoli%2Bstrain%2Btailored%2Bfor%2Bthe%2Bproduction%2Bof%2Bpoly%25283%25E2%2580%2590hydroxybutyrate%2529%2Bfrom%2Bagroindustrial%2Bby%25E2%2580%2590products&doi=10.1002%2Fbbb.1879&doiOfLink=10.1128%2FAEM.00044-06&linkType=gs&linkLocation=Reference&linkSource=FULL_TEXT)
+
+- 7Solaiman DKY, Ashby RD, Foglia TA and Marmer WN, Conversion of agricultural feedstock and coproducts into poly(hydroxyalkanoates). _Appl Microbiol Biotechnol_ 71(6): 783–789 (2006).
+
+10.1007/s00253-006-0451-1
+
+
+
+[CAS](https://scijournals.onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=32&doi=10.1002%2Fbbb.1879&key=1%3ACAS%3A528%3ADC%252BD28Xns1Sms7k%253D&getFTLinkType=true&doiForPubOfPage=10.1002%2Fbbb.1879&refDoi=10.1007%2Fs00253-006-0451-1&linkType=COI&linkSource=FULL_TEXT&linkLocation=Reference)[PubMed](https://scijournals.onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=8&doi=10.1002%2Fbbb.1879&key=16708192&getFTLinkType=true&doiForPubOfPage=10.1002%2Fbbb.1879&refDoi=10.1007%2Fs00253-006-0451-1&linkType=PMID&linkSource=FULL_TEXT&linkLocation=Reference)[Web of Science®](https://scijournals.onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=128&doi=10.1002%2Fbbb.1879&key=000240353800002&getFTLinkType=true&doiForPubOfPage=10.1002%2Fbbb.1879&refDoi=10.1007%2Fs00253-006-0451-1&linkType=ISI&linkSource=FULL_TEXT&linkLocation=Reference)[Google Scholar](https://scijournals.onlinelibrary.wiley.com/action/getFTRLinkout?url=http%3A%2F%2Fscholar.google.com%2Fscholar_lookup%3Fhl%3Den%26volume%3D71%26publication_year%3D2006%26pages%3D783-789%26journal%3DAppl%2BMicrobiol%2BBiotechnol%26issue%3D6%26author%3DDKY%2BSolaiman%26author%3DRD%2BAshby%26author%3DTA%2BFoglia%26author%3DWN%2BMarmer%26title%3DConversion%2Bof%2Bagricultural%2Bfeedstock%2Band%2Bcoproducts%2Binto%2Bpoly%2528hydroxyalkanoates%2529&doi=10.1002%2Fbbb.1879&doiOfLink=10.1007%2Fs00253-006-0451-1&linkType=gs&linkLocation=Reference&linkSource=FULL_TEXT)
+
+- 8Ng KS, Wong YM, Tsuge T and Kumar S, Biosynthesis and characterization of poly(3-hydroxybutyrate-co-3-hydroxyvalerate) and poly(3-hydroxybutyrate-co-3-hydroxyhexanoate) copolymers using jatropha oil as the main carbon source. _Process Biochem_ 46(8): 1572–1578 (2011).
+
+10.1016/j.procbio.2011.04.012
+
+
+
+[Web of Science®](https://scijournals.onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=128&doi=10.1002%2Fbbb.1879&key=000293438300007&getFTLinkType=true&doiForPubOfPage=10.1002%2Fbbb.1879&refDoi=10.1016%2Fj.procbio.2011.04.012&linkType=ISI&linkSource=FULL_TEXT&linkLocation=Reference)[Google Scholar](https://scijournals.onlinelibrary.wiley.com/action/getFTRLinkout?url=http%3A%2F%2Fscholar.google.com%2Fscholar_lookup%3Fhl%3Den%26volume%3D46%26publication_year%3D2011%26pages%3D1572-1578%26journal%3DProcess%2BBiochem%26issue%3D8%26author%3DKS%2BNg%26author%3DYM%2BWong%26author%3DT%2BTsuge%26author%3DS%2BKumar%26title%3DBiosynthesis%2Band%2Bcharacterization%2Bof%2Bpoly%25283%25E2%2580%2590hydroxybutyrate%25E2%2580%2590co%25E2%2580%25903%25E2%2580%2590hydroxyvalerate%2529%2Band%2Bpoly%25283%25E2%2580%2590hydroxybutyrate%25E2%2580%2590co%25E2%2580%25903%25E2%2580%2590hydroxyhexanoate%2529%2Bcopolymers%2Busing%2Bjatropha%2Boil%2Bas%2Bthe%2Bmain%2Bcarbon%2Bsource&doi=10.1002%2Fbbb.1879&doiOfLink=10.1016%2Fj.procbio.2011.04.012&linkType=gs&linkLocation=Reference&linkSource=FULL_TEXT)
+
+- 9Solomon S, Sugarcane by-products based industries in India. _Sugar Tech_ 13(4): 408–416 (2011).
+
+10.1007/s12355-011-0114-0
+
+
+
+[Web of Science®](https://scijournals.onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=128&doi=10.1002%2Fbbb.1879&key=000208816300018&getFTLinkType=true&doiForPubOfPage=10.1002%2Fbbb.1879&refDoi=10.1007%2Fs12355-011-0114-0&linkType=ISI&linkSource=FULL_TEXT&linkLocation=Reference)[Google Scholar](https://scijournals.onlinelibrary.wiley.com/action/getFTRLinkout?url=http%3A%2F%2Fscholar.google.com%2Fscholar_lookup%3Fhl%3Den%26volume%3D13%26publication_year%3D2011%26pages%3D408-416%26journal%3DSugar%2BTech%26issue%3D4%26author%3DS%2BSolomon%26title%3DSugarcane%2Bby%25E2%2580%2590products%2Bbased%2Bindustries%2Bin%2BIndia&doi=10.1002%2Fbbb.1879&doiOfLink=10.1007%2Fs12355-011-0114-0&linkType=gs&linkLocation=Reference&linkSource=FULL_TEXT)
+
+- 10Hunsigi G, Production of Sugarcane: Theory and Practice. Springer Science & Business Media, Berlin (1993).
+
+10.1007/978-3-642-78133-9
+
+
+
+[Google Scholar](https://scijournals.onlinelibrary.wiley.com/action/getFTRLinkout?url=http%3A%2F%2Fscholar.google.com%2Fscholar_lookup%3Fhl%3Den%26publication_year%3D1993%26author%3DG%2BHunsigi%26title%3DProduction%2Bof%2BSugarcane%253A%2BTheory%2Band%2BPractice&doi=10.1002%2Fbbb.1879&doiOfLink=10.1007%2F978-3-642-78133-9&linkType=gs&linkLocation=Reference&linkSource=FULL_TEXT)
+
+- 11Lavarack BP, Griffin GJ and Rodman D, The acid hydrolysis of sugarcane bagasse hemicellulose to produce xylose, arabinose, glucose and other products. _Biomass Bioenergy_ 23(5): 367–380 (2002).
+
+10.1016/S0961-9534(02)00066-1
+
+
+
+
+[... middle omitted — see footer ...]
+
+
+
+## Citing Literature
+
+[![](https://scijournals.onlinelibrary.wiley.com/cms/asset/6d85c692-6b15-4cbb-8269-0448439ee8cb/bbb.2018.12.issue-4.cover.jpg)](https://scijournals.onlinelibrary.wiley.com/toc/19321031/2018/12/4 "View Volume 12, Issue 4")
+
+[Volume12, Issue4](https://scijournals.onlinelibrary.wiley.com/toc/19321031/2018/12/4 "View Volume 12, Issue 4")
+
+July/August 2018
+
+Pages 536-541
+
+- [**References**](https://scijournals.onlinelibrary.wiley.com/doi/10.1002/bbb.1879#pane-pcw-references)
+- [**Related**](https://scijournals.onlinelibrary.wiley.com/doi/10.1002/bbb.1879#pane-pcw-related)
+- [**Information**](https://scijournals.onlinelibrary.wiley.com/doi/10.1002/bbb.1879#pane-pcw-details)
+
+### Recommended
+
+- [PHA bioplastic: A value‐added coproduct for biomass biorefineries](https://scijournals.onlinelibrary.wiley.com/doi/full/10.1002/bbb.161)
+
+
+
+[Kristi D. Snell](https://scijournals.onlinelibrary.wiley.com/authored-by/Snell/Kristi+D.), [Oliver P. Peoples](https://scijournals.onlinelibrary.wiley.com/authored-by/Peoples/Oliver+P.),
+
+
+
+[Biofuels, Bioproducts and Biorefining](https://scijournals.onlinelibrary.wiley.com/journal/19321031)
+
+- [Potential of sugarcane bagasse as feedstock for biogas production in Nigeria](https://scijournals.onlinelibrary.wiley.com/doi/full/10.1002/bbb.2811)
+
+
+
+[AbdulAzeez Shobajo](https://scijournals.onlinelibrary.wiley.com/authored-by/Shobajo/AbdulAzeez), [Viktoriia Chubur](https://scijournals.onlinelibrary.wiley.com/authored-by/Chubur/Viktoriia), [Hynek Roubík](https://scijournals.onlinelibrary.wiley.com/authored-by/Roub%C3%ADk/Hynek),
+
+
+
+[Biofuels, Bioproducts and Biorefining](https://scijournals.onlinelibrary.wiley.com/journal/19321031)
+
+- [Cross‐sectoral citrus sugarcane biorefinery: polyhydroxyalkanoates production in Brazil](https://scijournals.onlinelibrary.wiley.com/doi/full/10.1002/bbb.2571)
+
+
+
+[Mariana Teixeira Kanbe](https://scijournals.onlinelibrary.wiley.com/authored-by/Kanbe/Mariana+Teixeira), [Luiziana Ferreira da Silva](https://scijournals.onlinelibrary.wiley.com/authored-by/Silva/Luiziana+Ferreira), [José Gregório Cabrera Gomez](https://scijournals.onlinelibrary.wiley.com/authored-by/Gomez/Jos%C3%A9+Greg%C3%B3rio+Cabrera),
+
+
+
+[Biofuels, Bioproducts and Biorefining](https://scijournals.onlinelibrary.wiley.com/journal/19321031)
+
+- [Conversion of rice husks to polyhydroxyalkanoates (PHA) via a three-step process: optimized alkaline pretreatment, enzymatic hydrolysis, and biosynthesis by _Burkholderia cepacia_ USM (JCM 15050)](https://scijournals.onlinelibrary.wiley.com/doi/full/10.1002/jctb.4993)
+
+
+
+[King-Sern Heng](https://scijournals.onlinelibrary.wiley.com/authored-by/Heng/King%E2%80%90Sern), [Rajni Hatti-Kaul](https://scijournals.onlinelibrary.wiley.com/authored-by/Hatti%E2%80%90Kaul/Rajni), [Farook Adam](https://scijournals.onlinelibrary.wiley.com/authored-by/Adam/Farook), [Toshiaki Fukui](https://scijournals.onlinelibrary.wiley.com/authored-by/Fukui/Toshiaki), [Kumar Sudesh](https://scijournals.onlinelibrary.wiley.com/authored-by/Sudesh/Kumar),
+
+
+
+[Journal of Chemical Technology & Biotechnology](https://scijournals.onlinelibrary.wiley.com/journal/10974660)
+
+- [Hydrogen fuel production from sugarcane and its byproducts – a critical review](https://scijournals.onlinelibrary.wiley.com/doi/full/10.1002/bbb.70051)
+
+
+
+[Jaqueline Calixto de Sousa](https://scijournals.onlinelibrary.wiley.com/authored-by/Sousa/Jaqueline+Calixto), [Tâmili Vitória Duarte de Souza](https://scijournals.onlinelibrary.wiley.com/authored-by/Souza/T%C3%A2mili+Vit%C3%B3ria+Duarte), [Elisiane Rocha Lufan Prado](https://scijournals.onlinelibrary.wiley.com/authored-by/Prado/Elisiane+Rocha+Lufan), [Rafael Cardoso Rial](https://scijournals.onlinelibrary.wiley.com/authored-by/Rial/Rafael+Cardoso),
+
+
+
+[Biofuels, Bioproducts and Biorefining](https://scijournals.onlinelibrary.wiley.com/journal/19321031)
+
+
+### Details
+
+© 2018 Society of Chemical Industry and John Wiley & Sons, Ltd
+
+- Check for updates
+
+### Research funding
+
+- Science and Engineering Research Board
+- Department of Science and Technology
+
+### Keywords
+
+- [polyhydroxyalkanoates](https://scijournals.onlinelibrary.wiley.com/action/doSearch?field1=Keyword&text1=polyhydroxyalkanoates)
+- [biopolymer](https://scijournals.onlinelibrary.wiley.com/action/doSearch?field1=Keyword&text1=biopolymer)
+- [bagasse](https://scijournals.onlinelibrary.wiley.com/action/doSearch?field1=Keyword&text1=bagasse)
+- [biodegradable](https://scijournals.onlinelibrary.wiley.com/action/doSearch?field1=Keyword&text1=biodegradable)
+- [biobased economy](https://scijournals.onlinelibrary.wiley.com/action/doSearch?field1=Keyword&text1=biobased%20economy)
+
+### Publication History
+
+- Issue Online: 12 July 2018
+- Version of Record online: 17 April 2018
+- Manuscript accepted: 09 March 2018
+- Manuscript revised: 06 March 2018
+- Manuscript received: 20 February 2018
+
+![](https://scijournals.onlinelibrary.wiley.com/specs/products/acropolis/pericles/releasedAssets/images/spinner-1ffd60b3aabe5b09bc98c48345208fd9.gif)
+
+[Close Figure Viewer](https://scijournals.onlinelibrary.wiley.com/doi/10.1002/bbb.1879# "close")
+
+[Previous Figure](https://scijournals.onlinelibrary.wiley.com/doi/10.1002/bbb.1879# "previous figure") [Next Figure](https://scijournals.onlinelibrary.wiley.com/doi/10.1002/bbb.1879# "next figure")
+
+[Caption](https://scijournals.onlinelibrary.wiley.com/doi/10.1002/bbb.1879# "Open/Close Caption")
+
+[Download PDF](https://scijournals.onlinelibrary.wiley.com/doi/pdf/10.1002/bbb.1879)
+
+back
+
+wiley.scienceconnect.io
+
+# wiley.scienceconnect.io is blocked
+
+**wiley.scienceconnect.io** refused to connect.
+
+ERR\_BLOCKED\_BY\_RESPONSE
+
+**wiley.scienceconnect.io** refused to connect.
+
+![](<Base64-Image-Removed>)![](<Base64-Image-Removed>)
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://scijournals.onlinelibrary.wiley.com/doi/10.1002/bbb.1879#addtoany "Show all")
+
+A2A
+
+Close crossmark popup
+
+Have questions about this content? **Try AI Companion.**
+
+BETA
+
+──────── [TRUNCATED] ────────
+Showing 18,569 chars (head) + 6,063 chars (tail) of 37,530 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/onlinelibrary.wiley.com-f24fc82275.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/onlinelibrary.wiley.com-f24fc82275.md" offset=168 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

@@ -1,0 +1,491 @@
+# Synthesis and Production of Activated Carbon from Sugarcane Bagasse for the Adsorptive Removal of Methylene Blue Dye from Wastewater
+
+***<sup>1</sup>Isah Mohammed Kimpa, <sup>2</sup>Adamu Salahudeen Gene, <sup>1</sup>Stanley Chukwuebuka Ugochukwu, <sup>4</sup>Daniel Thomas** 
+**Ojonugwa, <sup>1</sup>Haruna Isah, <sup>1</sup>Fati Abdullahi, <sup>3</sup>Labake Ajoke Fadipe, <sup>1</sup>Uno Essang Uno**
+
+<sup>1</sup>Department of Physics, School of Physical Sciences, Federal University of Technology, Minna, Niger State, Nigeria.
+<sup>2</sup>Department of Physics, Faculty of Applied Science and Technology, Ibrahim Badamasi Babangida University, Lapai, Niger 
+State, Nigeria.
+
+<sup>3</sup>Department of Chemistry, School of Physical Sciences, Federal University of Technology, Minna, Niger State, Nigeria.
+<sup>4</sup>Department of Physics, Faculty of Physical Sciences, Alex Ekwueme Federal University Ndufu-Alike, Abakaliki, Ebonyi
+State, Nigeria.
+
+## ABSTRACT
+
+*Corresponding authors’ email: <u>kimpa@futminna.edu.ng</u>
+
+A major global environmental challenge is water pollution from synthetic dyes. Conventional remediation 
+techniques such as coagulation-flocculation, chemical oxidation, membrane filtration, ion exchange, and 
+biological treatment can be expensive and frequently fail to effectively remove low pollution levels. The 
+production and analysis of activated carbon from sugarcane bagasse (ScBAC) utilizing a chemical activation 
+procedure with sulfuric acid (H2SO4) is the main objective of this study. The research assesses the material's 
+capacity to adsorb and extract methylene blue (MB) dye from wastewater. After carbonizing raw sugarcane 
+bagasse at 250°C, it was steeped in H2SO4 for 24h at a 1:3 (w/v) ratio. The final product was properly described, 
+dried in an oven, and carefully rinsed until neutral. Three primary phases of heat degradation were identified 
+by thermo gravimetric analysis (TGA), involving the breakdown of cellulose and hemicellulose between 200 
+and 450°C. ScBAC is primarily amorphous, with large peaks between 23–26° and 43° (2θ) that correspond to 
+the disordered structure of graphitic carbon, using X-ray diffraction (XRD) research. According to Brunauer-
+Emmett-Teller (BET) measurements, the chemical activation significantly enhanced the material's textural 
+characteristics, raising the micropore volume from 0.096 to 0.225 cc/g and the specific surface area from 
+112.836 m<sup>2</sup>/g to 254.612 m<sup>2</sup>/g. ScBAC was able to eliminate up to 99.28% of MB  and noted  maximum 
+adsorption capacity of 36.83mg/g in just 25 minutes of contact using 0.2 g ScBAC per 100 mL of 74.2 mg/L 
+MB solution, in accordance with UV-visible spectrophotometry. These promising findings demonstrate that 
+sugarcane bagasse, a plentiful and reasonably priced agricultural waste, may be transformed into a highly 
+efficient adsorbent for dye removal, providing an environmentally benign and sustainable method for treating 
+industrial wastewater. To access the effects of competing ions and organic pollutants, more research utilizing 
+actual wastewater systems is needed.
+
+$$
+250^{\circ}C
+$$
+
+$$
+450^{\circ}C
+$$
+
+$$
+23-26^{\circ}
+$$
+
+$$
+112.836\ m^2/g
+$$
+
+**Keywords:** Sugarcane Bagasse, Activated Carbon, Methylene Blue, Chemical Activation, Wastewater 
+Treatment
+
+## INTRODUCTION
+
+Water pollution has become a major worldwide concern due 
+to the substantial increase in pollution of this resource. Global 
+water quality has been steadily declining over the past few 
+years due to the worsening of the situation (Tadesse et al., 
+2025; Han et al., 2024). Water is a necessary resource for life 
+to continue on earth (Tadesse et al., 2025; Iwuozor et al., 
+2023). The aquatic ecology, human health, and other species 
+are all at risk due to this reduction in water quality (Lin et al., 
+2023; Kumaravel et al., 2024; Kouassi et al., 2022). One of 
+the most significant environmental issues in recent decades, 
+industrial wastewater contamination is now a widespread 
+issue in the majority of nations (Kerrou et al., 2021).
+
+Dyes used in several industries, including printing, food, 
+cosmetics, and pharmaceuticals, but especially in the textile 
+sector, are considered industrial discharges (Siqueira et al., 
+2020; Kerrou et al., 2021; Zhou et al., 2022; Wasilewska et 
+al., 2024). Because organic dyes are extremely toxic, 
+carcinogenic, mutagenic, and teratogenic, their direct 
+discharge into the environment can cause major 
+environmental problems as well as health risks to people and 
+other living things (Zhou et al., 2022). Among the dyes 
+released in aqueous systems is Methylene Blue dye (MB)
+
+(Elshabrawy et al., 2023; Murthy & Sahu 2025; Kouassi et al., 
+2022). This dye possesses ecotoxicity, with zooplankton 
+which is highly sensitive and at low concentrations, it can 
+seriously harm the ecosystem (Li et al., 2023). Because of 
+this, a lot of work goes into investigating various methods of 
+treating trash before it is released into the environment in 
+order to comply with regulatory requirements (Zeitoun et al., 
+2020). The WWDR 2024 report and more recent SDG 6 
+monitoring show that wastewater treatment coverage is 
+improving but 40 – 42% of wastewater worldwide is still not 
+adequately treated (UN WWDR 2024). In order to reduce 
+pollution and safeguard water resources, efficient wastewater 
+monitoring and treatment techniques are crucial (Kadadou et 
+al., 2024).
+
+Filtration, coagulation, flocculation, membrane technology, 
+plasma-activated treatment, chemical precipitation, reverse 
+osmosis, and electrochemical treatment are some of the 
+methods used to remove pollutants from wastewater (Zhou et 
+al., 2022; Majamo et al., 2024; Tadesse et al., 2025). Yet, 
+these traditional techniques frequently fail to eliminate lowconcentration pollutants, have significant operating costs, and 
+result in secondary pollution (Tadesse et al., 2025). As a 
+result, scientists are looking into more environmentally
+
+---
+
+**_FJS_**
+
+friendly and sustainable wastewater treatment options. Due to 
+its widespread application in water treatment, adsorption 
+continues to be one of the simpler technologies (Kerrou et al., 
+2021). In adsorption science, the term "adsorbent" refers to 
+the solid surface that provides the adsorption sites, while 
+"adsorbate" refers to the substances that are adsorbed at the 
+solid surface (Alaei Shahmirzadi et al., 2018). With benefits 
+including high specific surface area, affordability, and ease of 
+use, activated carbon-based adsorption is a successful method 
+for removing dyes from wastewater. However, the 
+manufacturing of conventional activated carbon depends on 
+forestry biomass (wood) or nonrenewable resources (coal), 
+which makes it expensive and restricts its broad use (Husien 
+et al., 2022).
+
+The ability of a wide range of inexpensive adsorbents, 
+including peat, bentonite, steel-plant slag, fly ash, China clay, 
+maize cob, wood shavings, and silica, to remove color from 
+wastewater has been studied. These inexpensive adsorbents 
+must be employed in large quantities because they often have 
+limited adsorption capabilities.  Finding novel, affordable, 
+readily accessible, and extremely efficient adsorbents is 
+therefore necessary (Siqueira et al., 2020).
+
+Sugarcane bagasse-based water treatment systems have 
+demonstrated significant promise in eliminating dissolved 
+particles, organic matter, and heavy metals to a variety of 
+water and wastewater types (Iwuozor et al., 2023). Major
+amounts of sugarcane bagasse are created during the sugar 
+extraction process, and a major portion of this bagasse is 
+burned in the field, which contributes to air pollution. 
+Sugarcane bagasse has demonstrated promise for 
+advantageous processing, despite the fact that this method is 
+detrimental to the environment. It has high percentages of 
+cellulose, hemicellulose, and lignin and is inexpensive and 
+easily accessible (Naqvi et al., 2020; Siddiqi et al., 2019; 
+Inthapat et al., 2025). As a result, using it as a carbon source 
+provides a useful solution to get rid of sugarcane bagasse 
+while creating vast amounts of inexpensive carbon-based 
+material that may be utilized as an adsorbent for treating 
+wastewater (Mahawong et al., 2025; Hiranobe et al., 2024). 
+Apart from its high carbon content and low commercial value, 
+sugarcane bagasse has a number of advantages over other 
+biomass sources. Because of its low ash content, non-carbon 
+residues that may have an impact on pore structure and 
+adsorption effectiveness are less likely to occur. It produces 
+activated carbon with a well-developed pore network because 
+of its fibrous, porous structure, which promotes pore 
+development. Additionally, sugarcane offers a sustainable 
+and renewable material source because it is harvested once a 
+year (Mahawong et al., 2025).
+
+On the whole, chemical activation and physical activation are 
+the two conventional techniques for producing AC. By 
+impregnating the raw material with dehydrating chemicals 
+like H3PO4, ZnCl2, K2CO3, NaOH, or KOH and then
+
+carbonizing it in an inert environment at the appropriate 
+temperature, chemical activation combines one-step 
+carbonization and activation. In order to improve the internal 
+structure, physical activation, which is commonly used to 
+generate AC for commercial use, involves carbonizing the 
+raw material and then placing it in an oxidizing gas condition 
+of CO2, water steam, air, or some combination of these 
+activating agents at a relatively high temperature (800–
+1100◦C) (Somyanonthanakun et al., 2023). Because chemical 
+activation yields carbons with greater surface areas, higher 
+porosity, and improved adsorption capacity at lower 
+activation temperatures and shorter durations, it is often 
+regarded as more efficient than physical activation. 
+Additionally, the technique offers better control over the 
+distribution of pore sizes, and the yield of activated carbon is 
+frequently higher (Bogale et al., 2025). Chemical activation 
+using sulfuric acid was selected due to its strong dehydrating 
+ability, low cost, and proven effectiveness in creating 
+microporous structures at moderate temperatures.
+
+$$
+\mathrm{CO}_{2},
+$$
+
+Since sugarcane bagasse activated carbon has been the subject 
+of several studies, the H2SO4 activation process still has to be 
+optimized under unified condition particularly for real 
+complex wastewaters and for simultaneously improving 
+adsorption performance, expense, and environmental 
+impacts, despite the fact that numerous studies have shown 
+that sugarcane bagasse-derived activated carbons can 
+efficiently remove dyes, pharmaceuticals, heavy metals, and 
+organic substances from aqueous solutions utilizing different 
+activation routes and process conditions (Ahmed et al., 2023; 
+Mahawong et al., 2025; Ismail et al., 2023). With an emphasis 
+on enhancing carbonization parameters, characterizing 
+structural as well as surface characteristics, and evaluating 
+adsorption performance using contact time, this study 
+attempts to generate activated carbon from sugarcane bagasse 
+via a chemical activation procedure and assess its efficacy in 
+eliminating methylene blue dye from wastewater.
+
+$$
+\mathrm{H_{2}SO_{4}}
+$$
+
+## MATERIALS AND METHODS Raw Materials and Chemicals
+
+The main raw material for this research was sugarcane, which 
+was obtained from Lapai Market in Niger State, Nigeria. After 
+the liquid was extracted from the fresh sugarcane stalks by 
+hand, the fibrous residue known as sugarcane bagasse was 
+gathered and saved for additional processing. The chemical 
+activating agent used was sulfuric acid (H2SO4), which has a 
+molecular mass of 98.08 g/mol. The Chemistry Department 
+of Ibrahim Badamasi Babangida (IBB) University in Lapai, 
+Niger State, provided this reagent. Furthermore, the Center 
+for Applied Science and Technology Research (CASTER), 
+Ibrahim Badamasi Babangida University, IBB University, 
+Lapai, Niger State, provided the distilled water used in all of 
+the experimental processes.
+
+(a) Sugarcane
+
+(b) Sugarcane bagasse
+
+Figure 1: Biomass Physical Transformation: (A) Sugarcane Feedstock And (B) 
+Sugarcane Bagasse Following Juice Extraction, Before Carbonization
+
+---
+
+**_FJS_**
+
+## Instrumentations
+
+A muffle furnace, an analytical weighing scale, crucibles, 
+beakers, measuring cylinders, test tubes, filter sheets, funnels, 
+Petri dishes, and sample containers are among the tools and 
+equipment utilized in this investigation.
+
+## Methods
+
+## Preparation of Sugarcane Bagasse Activated Carbon (ScBAC)
+
+After properly cleaning the sugarcane bagasse with distilled 
+water to remove surface contaminants, it was air-dried in the 
+sun to lower its moisture content. The sample was dried out 
+further in an oven for a period of 45 minutes to guarantee total 
+elimination of any remaining moisture. After that, it was 
+moved to a muffle furnace and carbonized for 25 minutes at 
+250°C. An analytical weighing scale was used to record the 
+sample's initial mass prior to carbonization, allowing the 
+percentage mass loss related to ash production to be 
+calculated later. The sample was put back in the muffle 
+furnace and heated to 250°C for half an hour after the initial
+
+$$
+250^{\circ}C
+$$
+
+$$
+250^{\circ}C
+$$
+
+carbonization. After the material was turned into charcoal, it 
+was taken out and left to cool to normal temperature. Prior to 
+the charcoal being ground into a fine powder, the postcarbonization mass was measured.
+
+## Chemical Activation Process for Sugarcane Bagasse Activated Carbon (ScBAC)
+
+At room temperature of 25°C for 24hours, a determined 
+amount of 12.40 g of sugarcane bagasse powder was 
+impregnated in a 1:3 (w/v) concentration of sulfuric acid 
+(H<sub>2</sub>SO<sub>4</sub>) under static condition. The purpose of this 
+impregnation process was to enhance the surface area and 
+pore structure of the final activated carbon. Following the 
+impregnation period, the sample was filtered, and the solid 
+that was obtained was repeatedly rinsed with distilled water 
+to get rid of any remaining acid until pH indicator paper 
+verified that the filtrate had a neutral pH. After being dried in 
+an oven at 70°C for 12 hours, the acid-free activated carbon 
+was kept in a sealed plastic container for further examination 
+and characterization.
+
+$$
+25^{\circ}C
+$$
+
+$$
+70^{\circ}\mathbf{C}
+$$
+
+40°C
+
+Figure 2: Visual Depiction of the Precursors: (a) Sugarcane Bagasse Powder that has 
+been Impregnated and (b) Sugarcane Bagasse Activated Carbon (ScBAC) after H2SO4
+Chemical Activation
+
+$$
+\mathrm{H_{2}SO_{4}}
+$$
+
+**_Characterization of Sugarcane Activated Carbon (ScBAC)_**
+
+The aforementioned characterization and analysis were done 
+in this research. Thermogravimetric analysis (TGA) was 
+performed on a 15.226 mg sample of sugarcane bagasse 
+utilizing a PerkinElmer thermal analyzer to determine the 
+ideal carbonization temperature at which significant thermal 
+decomposition starts. X-ray diffraction (XRD) analysis was 
+performed to determine whether the synthesized ScBAC was 
+crystalline or amorphous. Brunauer-Emmett-Teller (BET) 
+technique was used to analyze the surface area and pore 
+structure and volume.
+
+## Batch Adsorption and Analysis
+
+The amount of methylene blue (MB) that remained in solution 
+following contact with ScBAC at various time intervals was 
+measured using UV-visible spectrophotometry. Each of the 
+six water samples, one raw and untreated control and five 
+treated samples (C1 – C5), each containing 0.2 g of ScBAC 
+in 100mL of MB solution and initial concentration of 
+74.189mg/L. The samples were exposed to contact times of 5, 
+10, 15, 20, and 25 minutes, respectively.
+
+$$
+(\lambda_{ma}^{x}=
+$$
+
+All experiments were conducted in duplicate and mean values 
+reported. Before UV-Vis measurement, all samples were 
+filtered with Whatman (1) filter paper to eliminate suspended 
+carbon particles. Using the Beer-Lambert law calibration at 
+the typical maximum absorption wavelength of MB (λₘₐˣ = 
+664 nm), the absorbance observations were transformed into 
+concentration values.
+
+The percentage of dye removal was calculated using the 
+equation (1) below:
+<u>C C</u>
+
+(1)
+
+$$
+\%\mathrm{Removal}=\frac{C_{0}-C_{e}}{C_{0}}\times100
+$$
+
+0
+Where Co represents the initial dye concentrations (mg/L) and 
+Ce is the dye concentration at time t (mg/L) (Elshabrawy et 
+al., 2023)
+
+The equilibrium adsorption capacity q<sub>e</sub>(mg/g) was calculated 
+
+[... middle omitted — see footer ...]
+
+L. (2025). Single-step upcycling of sugarcane bagasse and 
+iron scrap into magnetic carbon for high-performance 
+adsorbents. *Molecules,* 30, 2040. 
+https://doi.org/10.3390/molecules30092040
+
+Majamo, S. L., Amibo, T. A., & Mekonnen, D. T. (2024). 
+Experimental investigation on adsorption of methylene blue 
+dye from wastewater using corncob cellulose-based hydrogel. 
+*Scientific Reports,* 14, 4540. https://doi.org/10.1038/s41598-
+<u>024-54511-0</u>
+
+Mohamed, F., Shaban, M., Zaki, S. K., Abd-Elsamie, M. S., 
+Sayed, R., Zayed, M., Khalid, N., Saad, S., Omar, S., Ahmed, 
+A. M., Gerges, A., Abd El-Mageed, H. R., & Soliman, N. K. 
+(2022). Activated carbon derived from sugarcane and 
+modified with natural zeolite for efficient adsorption of 
+methylene blue dye: Experimental and theoretical 
+approaches. *Scientific Reports,* 12, 18031. 
+https://doi.org/10.1038/s41598-022-22421-8
+
+Murthy, G. N., & Sahu, U. K. (2025). Methylene blue dye 
+removal from aqueous solution using activated carbon 
+prepared from corn cob stem: Kinetics, isotherms and 
+mechanism studies. *AUIQ Complementary Biological System,* 
+2(1), 35–48. https://doi.org/10.70176/3007-973X.1024
+
+Najafi, H., Sani, A. G., & Sobati, M. A. (2024). 
+Thermogravimetric and thermo-kinetic analysis of sugarcane 
+bagasse pith: A comparative evaluation with other sugarcane 
+residues. *Scientific Reports,* 14, 2076. 
+https://doi.org/10.1038/s41598-024-52500-x
+
+Naqvi, S. R., Ali, I., Nasir, S., Ali Ammar Taqvi, S., Atabani, 
+A. E., & Chen, W. H. (2020). Assessment of agro-industrial 
+residues for bioenergy potential by investigating thermokinetic behavior in a slow pyrolysis process. *Fuel,* 278, 
+118259.
+
+Nazbakhsh, M., Nabavi, S. R., & Jafarian, S. (2025). 
+Optimized production of high-performance activated biochar 
+from sugarcane bagasse via systematic pyrolysis and 
+chemical activation. *Sustainability,* 17, 1554. 
+https://doi.org/10.3390/su17041554
+
+Rahmawati, F., Ridassepri, A. F., Chairunnisa, Wijayanta, A. 
+T., Nakabayashi, K., Miyawaki, J., & Miyazaki, T. (2021). 
+Carbon from bagasse activated with water vapor and its 
+adsorption performance for methylene blue. *Applied Sciences,*
+11, 678. https://doi.org/10.3390/app11020678
+
+Raut, E. R., Bedmohata (Thakur), M. A., & Chaudhari, A. R. 
+(2023). Study of synthesis and characterization of raw 
+bagasse, its char and activated carbon prepared using 
+chemical additive. *Water Science and Technology,* 87(9), 
+2233–2247. https://doi.org/10.2166/wst.2023.134
+
+Salatein, N. M., Shaaban, M., & Fahim, I. S. (2025). 
+Comparing low-cost activated carbon made from coffee waste 
+and bagasse to remove heavy metals and methylene blue dye. 
+*Results in Chemistry,* 13, 102020. 
+https://doi.org/10.1016/j.rechem.2025.102020
+
+Shimizu, S., & Matubayasi, N. (2022). Surface area 
+estimation: Replacing the Brunauer–Emmett–Teller model 
+with the statistical thermodynamic fluctuation theory. 
+Langmuir, 38(26), 7989–
+<u>8002.https://doi.org/10.1021/acs.langmuir.2c00753</u>
+
+Siddiqi, H., Bal, M., Kumari, U., & Meikap, B. C. (2019). Indepth physiochemical characterization and detailed thermokinetic study of biomass wastes to analyze its energy 
+potential. *Renewable Energy,* 148, 756–771.
+https://doi.org/10.1016/j.renene.2019.10.162
+
+Siqueira, T. C. A., da Silva, I. Z., Rubio, A. J., Bergamasco, 
+R., Gasparotto, F., Paccola, E. A. de S., & Yamaguchi, N. U. 
+(2020). Sugarcane bagasse as an efficient biosorbent for 
+methylene blue removal: Kinetics, isotherms and 
+thermodynamics. *International Journal of Environmental 
+Research and Public Health,* 17(2), 526. 
+https://doi.org/10.3390/ijerph17020526
+
+Somyanonthanakun, W., Greszta, A., Roberts, A. J., & 
+Thongmee, S. (2023). Sugarcane bagasse-derived activated 
+carbon as a potential material for lead ions removal from 
+aqueous solution and supercapacitor energy storage 
+application. *Sustainability,* 15, 5566. 
+https://doi.org/10.3390/su15065566
+
+Tadesse, A. W., Huang, M., & Zhou, T. (2025). Biochar for 
+wastewater treatment: Preparation, modification, 
+characterization, and its applications. *Molecules,* 30(21), 
+4288. https://doi.org/10.3390/molecules30214288
+
+UNESCO World Water Assessment Programme. (2024). The 
+United Nations world water development report 2024: Water 
+for prosperity and peace. UNESCO Publishing. 
+https://unesdoc.unesco.org/ark:/48223/pf0000388948
+
+Vasiljević, N., Panić, S., Tadić, G., Vuković, J., Novaković, 
+N., & Mićić, V. (2025). Investigation of the kinetics of the 
+adsorption of methylene blue on activated carbon. 
+*Engineering Proceedings,* 99, 4. 
+https://doi.org/10.3390/engproc2025099004
+
+Wasilewska, M., Deryło-Marczewska, A., & Marczewski, A. 
+W. (2024). Comprehensive studies of adsorption equilibrium 
+and kinetics for selected aromatic organic compounds on 
+activated carbon. *Molecules,* 29(9), 2038. 
+https://doi.org/10.3390/molecules29092038
+
+Zeitoun, Z., El-Shazly, A. H., Nosier, S., Elmarghany, M.R., 
+Salem, M.S., & Taha, M.M. (2020). Performance evaluation 
+and kinetic analysis of photocatalytic membrane reactor in 
+wastewater treatment. *Membranes,* 10, 1–18. 
+https://doi.org/10.3390/membranes10100276
+
+Zhou, F., Li, K., Hang, F., Zhang, Z., Chen, P., Wei, L., & 
+Xie, C. (2022). Efficient removal of methylene blue by 
+activated hydrochar prepared by hydrothermal carbonization 
+and NaOH activation of sugarcane bagasse and phosphoric 
+acid. *RSC Advances,* 12, 1885–1894. 
+https://doi.org/10.1039/D1RA08325B
+
+──────── [TRUNCATED] ────────
+Showing 16,478 chars (head) + 5,451 chars (tail) of 49,743 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/fjs.fudutsinma.edu.ng-11556e1c86.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/fjs.fudutsinma.edu.ng-11556e1c86.md" offset=363 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

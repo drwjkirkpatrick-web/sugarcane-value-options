@@ -1,0 +1,882 @@
+# Low-carbon Africa: Kenya
+
+POVERTY
+
+# Kennedy S Muzee, Practical Action Consulting November 2011
+
+This report is one of six African country case studies commissioned by Christian Aid to support the report 
+*Low-Carbon Africa: Leapfrogging to a Green Future.* All are available at: christianaid.org.uk/low-carbon-africa
+
+## Contents
+
+**1. Country Context**
+1.1 Background to the Energy 
+Sector in Kenya
+1.2 Renewable Energy Potential
+1.3 Low-carbon Strategy
+1.4 Barriers to Low-carbon 
+Development and Energy Access 
+1.5 Links between Energy and 
+Climate Resilience 
+and Adaptation
+1.6 National Potential Benefits for 
+Low-Carbon Development
+**2. Case Studies**
+2.1 Bagasse Cogeneration 
+Project
+2.2 Davsam Windpump Project
+2.3 Upesi Stove Project
+**3. Leapfrog Fund Potential**
+3.1 Co-generation
+3.2 Windpump Technology
+3.3 Upesi Stove
+3.4 Biogas
+3.5 Small hydro
+3.6 Solar PVs
+3.7 Conclusion
+3.8 Recommendations
+**Endnotes** 
+**References**
+**Appendix 1: Estimating** 
+**Baseline Emission Reduction 
+from Diesel Water Pump**
+
+**1**
+**1**
+**2**
+**4**
+**4**
+**5**
+**6**
+**9**
+**9**
+**10**
+**12**
+**13**
+**13**
+**13**
+**14**
+**14**
+**14**
+**15**
+**15**
+**15**
+**16**
+**16**
+**17**
+
+## 1. Country Context
+
+### 1.1 Background to the Energy Sector in Kenya
+
+Available energy resources in 
+Kenya include biomass, petroleum, 
+hydropower, geothermal power 
+and renewable sources of energy: 
+solar, wind, small hydropower and 
+biomass residue in the agriculture 
+industry. The Kenyan energy scene 
+is dominated by over reliance 
+on the ever decreasing biomass 
+energy resource to meet most of 
+the energy needs especially of 
+the rural households. The recent 
+rapid but unsustainable growth 
+of the country has been spurred 
+on by dependence on imported 
+petroleum for local consumption. 
+Petroleum products demand 
+grew by 4.3 per cent from 3,610 
+thousand tonnes in 2009 to 3,760.7 
+thousand tonnes in 2010. During 
+the same period, the GDP grew by 
+5.6 per cent with 2011 projections 
+estimated between 3.5 per cent 
+and 4.5 per cent (Government of 
+Kenya, 2011). The decelerated but 
+positive GDP growth is attributed to 
+high international oil prices brought 
+about by instability in Libya and the 
+Middle East.
+
+The reliable power supply 
+experienced in 2010 as a result of 
+good rainfall between March-April 
+to May-June and October-December 
+saw the manufacturing sector 
+grow by 4.4 per cent compared to 
+marginal growth of 1.3 per cent the 
+previous year. Figure 1 illustrates the 
+total primary energy supply (TPES).
+
+**Figure 1: Share of total primary** 
+**energy supply  in 2008<sup>1</sup>**
+
+## energy supply in 2008 1
+
+| Category | Share of total primary energy supply in 2008 (%) |
+| --- | --- |
+| Coal/Peat | -1 |
+| Combined renewable & Wastes | 77 |
+| Geothermal/Wind/ Solar | 6 |
+| Oil | 16 |
+| Hydro | 1 |
+
+Source: IEA, 2011
+
+---
+
+The consumption of modern 
+energy is still very low in spite of 
+the economic growth. Kenya’s per 
+capita electricity consumption is 
+estimated at 156 kWh per capita 
+(IEA, 2011) compared to the global 
+average of 2,751 kWh per capita 
+(World Bank, 2007). The total 
+installed capacity increased from 
+1,361 MW in 2009 to 1,471 MW in 
+2010 with the effective capacity 
+under average hydrology increasing 
+from 1,310 MW to 1,416 MW (Kenya 
+Power and Lighting Company, 2011). 
+This is approximately 16 times less 
+than Argentina’s installed capacity 
+with a similar population size. The 
+growth in electricity generation 
+was mainly driven by a 49.3 per 
+cent increase in production from 
+hydro power sources associated 
+with improved water levels in the 
+seven hydro dams. Figure 2 shows 
+electricity generation by source.
+
+**Figure 2: Kenya’s electricity 
+generation by source**
+
+| Category | Share of electricity generation (%) |
+| --- | --- |
+| Hydro | 57.73 |
+| Thermal | 30.04 |
+| Geothermal | 14.02 |
+| Cogen | 1.84 |
+| Wind | 0.36 |
+
+Source: KPLC, 2011
+
+#### The number of electrical
+
+connections has risen five-fold 
+from a low of 265,413 customers in 
+1990 to a high of 1,463,639 in 2010 
+(KPLC, 2011) representing a 451 per 
+cent increase. However, electricity 
+access is still very low with rural 
+access averaging below 5 per cent 
+while urban access is estimated at 
+51 per cent. As of June 2010, the 
+rural electrification programme had 
+connected a total of 251,056 homes, 
+which was a 22.3 per cent increase
+
+from the previous year (GoK, 
+2011). The electricity utility has a 
+target of reaching 100,000 annual 
+connections and the expansion of 
+rural electrification penetration to 
+20 per cent by 2010 and 40 per cent 
+by 2020 respectively. Unfortunately, 
+the 2010 target has not been met 
+and judging from the trend, it will 
+take much longer unless drastic 
+measures are instituted to, first 
+of all, increase the country’s 
+generation capacity.
+
+### 1.2 Renewable Energy Potential
+
+Kenya is endowed with significant 
+amounts of diverse renewable 
+energy sources, including biomass, 
+solar, wind, geothermal, biogas, 
+mini/micro hydro, and bagasse 
+cogeneration. The section below 
+provides the specific potential for the 
+various sources of renewable energy.
+
+Solar: Kenya receives an estimated 
+4 to 6 KwH per square metre per 
+day of solar insolation, equivalent 
+to about 300 million tonnes of oil 
+equivalent (toe) per day (AFREPREN, 
+2004). However, only a tiny fraction 
+of this resource is harnessed for 
+commercial and household activities 
+including crop and animal products 
+drying, water heating, pumping 
+and electricity generation. There is 
+significant potential for solar energy 
+to be exploited particularly in the 
+northern parts of Kenya.
+
+Pico, mini and micro-hydro: The 
+potential of pico, mini and microhydro systems is estimated at 
+3,000 MW nationwide with only six 
+small, mini or micro hydro plants 
+in operation with a total capacity of 
+13.64 MW (small-hydro.com). The 
+exploitation of these resources is 
+hampered by high capital costs. 
+Pico, mini and micro-hydro systems 
+can be very useful for off-grid rural 
+electrification. To date, only one site 
+has been able to supply 0.3 MW of 
+electricity to the national grid – a 
+mini hydro at the Imenti tea factory 
+in Meru (KPLC, 2011). With only less 
+than 1 per cent of pico, mini and 
+micro-hydro exploited, there is still 
+more room for the exploitation of 
+the resource.
+
+Wind: Kenya has one of the best 
+wind speeds in the world averaging 
+between 3 and 10m/s with northern 
+parts recording speeds of up to 
+11m/s. Estimated installed capacity 
+from wind generated power is 5.1 
+MW. Although northern Kenya is 
+considered barren owing to a lack 
+of or minimal precipitation, the 
+area is pristine for setting up of 
+wind farms. This is also the case 
+along the Kenyan coastal line where 
+significant wind speeds have been 
+recorded.
+
+Solar Thermal: approximately 5,000 
+square metres of collector area for 
+solar water heating systems are 
+installed annually in Kenya. This 
+is based on the Ministry of Energy 
+pre-feasibility studies done in the 
+period 2006/7. Institutions such 
+as schools, hospitals and prisons 
+stand to benefit from installation 
+of solar water heaters to reduce 
+on cost of electricity. This is made 
+more feasible with most areas in 
+the country receiving more than six 
+hours of sunshine daily. The Kenya 
+government recently formulated 
+the Solar Water Heating Regulation 
+which it hopes will increase upscale 
+of solar water heating technology. 
+The benefits the households and 
+institutions are expected to get 
+include: development and utilisation 
+of indigenous energy resources 
+(the sun); enhanced national energy 
+security through diversification of 
+energy supply mix and reduction 
+in the over-reliance on petroleum 
+imports; reduced demand for 
+expensive fuel fired peaking power 
+plants resulting from grid electricity 
+peak demand attributed to water 
+heating; increased environmental 
+conservation through reduction 
+of greenhouse gases; increased 
+employment especially in the 
+rural areas, capacity building and 
+income generation resulting from 
+the expanded solar water heating 
+industry. Large scale uptake and 
+development of the solar water 
+heating is foreseen to lead to 
+reduced unit costs as a result of 
+increased economies of scale 
+(MoE, 2011).
+
+Windpumps: approximately 350-400 
+windpumps are in operation mainly 
+in the arid and remote parts of the country. The windpumps are applied 
+in domestic water supply, irrigation 
+and watering dairy cattle and 
+ranching. Kenya has been struggling 
+with food insecurity concerns and 80 
+per cent of the country is classified as 
+either arid or semi-arid; there is great 
+potential for adoption of windpump 
+technology for irrigation purposes.
+
+Geothermal: technical potential is 
+estimated at about 7,000-10,000 MW 
+but only 202 MW has been exploited. 
+Currently, Geothermal Development 
+Corporation (GDC) has harnessed 
+about 168 MW of steam in Olkaria 
+that will run the 280 MW Olkaria IV 
+geothermal power plant scheduled 
+to be operational in 2013. It also 
+plans to drill 1,400 steam wells to 
+provide steam for the generation 
+of 5,000 MW of geothermal power 
+by 2030 (gdc.co.ke). Kenya has so 
+far exploited only 2 per cent of the 
+total technical geothermal potential 
+leaving a massive share to be 
+exploited. The Kenya government 
+has put in place a US$800m budget 
+for development of 400 MW from 
+geothermal resource.
+
+Biomass: as earlier indicated, over 
+80 per cent of Kenyans do not 
+have access to modern energy 
+services and rely on biomass for 
+their daily energy cooking needs. 
+As the population continues to
+
+grow and the economy expands, 
+competing demands on the existing 
+resources will keep rising and 
+demand on biomass in its many 
+forms will continue to grow. The 
+over-dependence can be explained 
+by the undeveloped grid electricity 
+infrastructure, high prevalence 
+of poverty which limits the levels 
+of economic power to afford grid 
+power and other forms of modern 
+energy, and poor supply chains 
+for other fuels. Poorer households 
+use greater quantities of traditional 
+biomass (open fires), which are 
+very inefficient and produce 
+harmful emissions while higher 
+income families tend to rely more 
+on improved biomass cookstoves 
+which are more efficient.
+
+According to the most recent 
+biomass study (2005) by the Kenyan 
+government, close to 89 per cent 
+of rural and 7 per cent of urban 
+households regularly use firewood 
+for cooking and lighting, giving 
+a national average of 67 per cent 
+of all households. The average 
+annual per capita consumption is 
+approximately 741kg and 691kg 
+for rural and urban households, 
+respectively. For urban areas, it is 
+the lowest income households who 
+depend on firewood the most. The 
+consumption was reported to be
+
+34.3 million tonnes of which 15.1 
+million tonnes was in the form of 
+fuelwood while 16.5 million tonnes 
+was wood for charcoal. These 
+require annual harvesting of 240,000 
+and 298,000 hectares for fuelwood 
+and charcoal respectively. From the 
+same study, charcoal consumption 
+was about 47 per cent at the national 
+level representing 82 per cent and 
+34 per cent of urban and rural 
+households, respectively. Per capita 
+consumption was 156 kg in urban 
+areas and 152 kg in rural areas.
+
+One consequence of using biomass 
+directly or for production of charcoal 
+is the emission of carbon dioxide 
+(CO2) through burning although 
+replacement of felled or harvested 
+trees has zero net emissions. The 
+emissions are estimated at 14.4 
+million tonnes of CO2 per year 
+which is equivalent to 52,000 
+hectares per year.
+
+Biomass residue in the agriculture 
+sector: There is great potential 
+of generating electricity from 
+agricultural residues for example 
+bagasse and rice husks. Currently, 
+an estimated 38 MW capacity is 
+installed in Kenya’s six operational 
+sugar factories which use bagasse 
+to generate electricity (Mbuthi 
+et al, 2005). Cogeneration is 
+the simultaneous production of
+
+**Table 1: Planned electricity generation projects**
+
+| Developer | Project type | Capacity (MW) | Estimated commission date |
+| --- | --- | --- | --- |
+| KenGen | Geothermal well head units | 70 | June 20112 |
+| KenGen | Eburu (geothermal) | 2.5 | Dec 2011 |
+| KenGen | Ngong 3 (wind) | 15 | July 2012 |
+| KenGen | Olkaria IV (geothermal) | 140 | January 2013 |
+| KenGen | Olkaria I Units IV &amp; V (geothermal) | 140 |  |
+| IPPs | Lake Turkana (wind) | 300 | July 2013 |
+| IPPs | Osiwo Wind - Ngong&amp;Kajiado | 50 |  |
+| IPPs | Aeolus - Kinangop &amp; Ngong (wind) | 160 |  |
+| IPPs | OrPower 4 (Olkaria III) (geothermal) | 52 | July 2014 |
+| Total RE |  | 929.5 |  |
+
+Source: KPLC, 2011 electricity and process heat from 
+a single dynamic plant. Bagasse is 
+the waste generated after sugar has 
+been extracted from the sugarcane.
+
+Over the past four years, the 
+country has experienced significant 
+economic growth, which has 
+translated to vibrant industrial 
+growth resulting in increased 
+demand for electricity. To meet 
+this challenge, the country was 
+expected to inject an additional 
+201 MW by 2009/10 from projects 
+it had committed. Several power 
+generation projects are at various 
+stages of implementation by 
+KenGen and independent power 
+producers (IPPs), which will increase 
+the power capacity by 1,353 MW 
+by 2014. To achieve this, KenGen 
+intends to develop an additional 
+capacity of 233 MW by end of 2011 
+and a total of 553 MW by 2014, 
+while IPPs will provide more than 
+800 MW of additional capacity in 
+the same period.
+
+Table 1 shows some of the planned 
+renewable energy projects to 
+mitigate against climate change 
+risks: poor hydrology and 
+environmental degradation with 
+other global macroeconomic factors 
+beyond Kenya’s control such as high 
+international fuel prices.
+
+### 1.3 Low-carbon Strategy
+
+The continued unabated 
+encroachment of agricultural and 
+commercial activities into the water 
+catchment areas  – in Mau forest, 
+Cherangani hills, Mt. Kenya and 
+Mt. Elgon – appears to be making 
+hydropower development more 
+vulnerable to the impacts of drought 
+and to the erratic weather patterns 
+currently being experienced in 
+Kenya and the horn of Africa. As 
+a result, the country has been 
+diversifying its energy generation 
+sources previously dominated by 
+hydro and thermal sources.
+
+To mitigate and adapt to climate 
+change, the Kenya government 
+developed the National Climate 
+Change Response Strategy paper 
+(GoK, 2010) which firstly proposes 
+to  control river abstraction in 
+the upstream so as to improve 
+availability of water for hydro-
+
+power production. Secondly, it 
+recommends zero rating of taxes 
+on renewable energy technologies. 
+This is foreseen to reduce the high 
+upfront cost of such technologies. 
+Thirdly, it emphasises the promotion 
+of use of alternative renewable 
+energy such as solar, biomass, wind, 
+biofuels and agricultural wastes. 
+Finally, the strategy paper identifies 
+the role the firewood cookstoves has 
+to play in mitigating against climate 
+change. The paper advocates for 
+concerted effort in promotion of 
+efficient firewood cookstoves, 
+solar and liquefied petroleum gas 
+(LPG) cookers with the government 
+taking centre stage on issues of cost 
+through provision of subsidies and/
+or tax waivers to vulnerable groups 
+in the society.
+
+Prior to formulation of the Climate 
+Change Response Strategy paper, 
+the government introduced feedin tariffs policy for electricity 
+generated from small hydro, wind 
+and biomass in 2008 (MoE, 2008).
+Ever since, there has been an influx 
+of interest in proven renewable 
+energy technologies such as the 
+Lake Turkana Wind Project which 
+is planned to inject 300 MW of 
+green power to the national grid. 
+A pre-determined feed-in tariff is 
+a guarantee for securing financing 
+for renewable energy projects 
+and promoting market stability 
+for investors in renewable energy 
+electricity generation. Local 
+companies already benefiting from 
+these tariffs include: Mumias Sugar 
+Company which supplies 26 MW to 
+the national grid through bagassebased cogeneration and Imenti 
+tea factory which supplies 0.3 MW 
+through a small hydro (KPLC, 2011).
+
+To attract investors and reduce the 
+high exploration costs and risks, 
+the government through GDC has 
+created numerous investment 
+opportunities in the geothermal 
+development sector ranging from 
+supply of equipment and materials; 
+development of steam fields and 
+power plants; supply of early 
+generation equipment and civil 
+engineering and construction works. 
+This is intended to reduce drastically 
+the cost (and risks) of geothermal 
+exploitation.
+
+### 1.4 Barriers to Low- carbon Development and Energy Access
+
+The success of renewables in the 
+country and indeed the entire sub-
+Saharan region has been limited by 
+a combination of factors that include 
+(Beck and Martinot, 2004, GoK, 
+2010):
+
+**•**	high initial capital costs
+
+**•**	lack of skilled manpower
+
+**•**	poor policy and legal frameworks
+
+**•**	inadequate planning
+
+**•**	lack of co-ordination and linkages 
+in renewable energy programmes
+
+**•**	pricing distortions that 
+place renewable energy at a 
+disadvantage
+
+**•**	weak dissemination strategies
+
+**•**	poor baseline information
+
+**•**	low maintenance capacity.
+
+For example, according to 2007 
+estimates, it costs between 
+US$1.2m and US$2.6m to install 
+a commercial wind turbine for 
+every MW of electricity generated 
+(windustry.com) while the cost 
+of establishing a cogeneration 
+plant requires an investment in 
+the range of US$1.5m per MW 
+(Karekezi, et al 2008). In the case 
+of geothermal exploitation, it 
+costs roughly US$2.5m to drill and 
+operate a geothermal well in the 
+Rift Valley (Karekezi and Kithyoma, 
+2005). These high initial costs 
+have somewhat been reduced by 
+GDC through offering geothermal 
+exploration services and hire of their 
+equipment. Another advantage of 
+geothermal electricity generation 
+is that it has very low running costs 
+as compared to thermal electricity 
+sources. Unfortunately, this is not 
+enough and more financing options 
+need to be established to ensure 
+more players are taken on board in 
+geothermal exploitation.
+
+There exists a high level of illiteracy 
+especially in the rural areas owing 
+to low levels of education and 
+therefore getting skilled labourers 
+to operate a wind or hydro turbine is normally very difficult, often 
+limiting their roles to manual tasks. 
+The National Climate Change 
+Response Strategy paper (GoK, 
+2010) identifies a deficiency in 
+research and development in 
+renewable energy technologies 
+and research on the production 
+chain and sustainability of biofuels, 
+commercialisation and widespread 
+utilisation of renewable energy 
+technologies, improved kilns and 
+stoves that reduce the consumption 
+
+[... middle omitted — see footer ...]
+
+Cogeneration in Mauritius - A model for 
+Eastern and  Southern Africa,  Occasional 
+Paper No. 2, AFREPREN, Nairobi, 2001.
+
+##### EIA, Kenya Energy Profile, 2001,
+
+eia.gov/cfapps/country/country_energy_
+data.cfm?fips=KE (accessed 6 July 2011)
+
+National Charcoal Survey: Exploring 
+Potential for sustainable Charcoal 
+Industry in Kenya, Energy for Sustainable 
+Development Africa, 2005.
+
+Ezzati M, and Kammen D, Household 
+Energy, Indoor Air Pollution and Health in 
+Developing Countries: Knowledge Base for 
+Effective Interventions, in Annual Review 
+of Energy and the Environment, 2002.
+
+Geothermal Development Corporation, 
+www.gdc.co.ke/ (accessed 1 July 2011)
+
+GoK, Kenya Economic Survey 2011, 
+Highlights, Government of Kenya (GoK),2011.
+
+knbs.or.ke/news/econ2011minister.pdf 
+(accessed 20 July 2011)
+
+GoK National Climate Change Response 
+Strategy, GoK, 2010, Government Printer, 
+Ministry of Environment and Natural 
+Resources, Nairobi, 2010.
+
+Economic Survey 2004, GoK, Nairobi, 2004.
+
+Goldemberg et al, A Global Clean Cooking 
+Fuel Initiative, Energy for Sustainable 
+Development, Volume VIII No 31, 
+September 2004.
+
+IEA Energy Statistics - Energy Indicators 
+for Kenya: Selected 2008 Indicators for 
+Kenya, IEA, 2011.
+
+iea.org/stats/indicators.asp?COUNTRY_
+CODE=KE (Accessed 27 June 2011)
+
+Johansson TB, The Potentials of Renewable 
+Energy, Thematic Background Paper No 
+10 for the International Conference on 
+Renewable Energies, Bonn, 2004.
+
+Karekezi S Kimani J, Atiang’ J Onguru O 
+and Mbithi J, .Sustainable Energy and 
+Community Participation in Biomass-based 
+Cogeneration in Africa, AFREPREN/FWD 
+Occasional Paper No. 32, Nairobi, 2008.
+
+Karekezi S and Kithyoma W, Sustainable 
+Energy in Africa: Cogeneration and 
+Geothermal in East and Horn of Africa – 
+Status and Potential Prospects, AFREPREN/
+FWD and Heinrich Boll Foundation 
+Regional Office for East and Horn of Africa 
+(HBF Nairobi), 2005.
+
+Karekezi S and Kithyoma W, Renewable 
+Energy Strategies for Rural Africa: is a 
+PV-led renewable energy strategy the right 
+approach for providing modern energy to 
+the rural poor of sub-Saharan Africa? in the 
+Energy Policy Journal – Special Issue, Vol 
+30, No. 11-12 (1071-1086), Elsevier Science 
+Limited, Oxford, 2002.
+
+Karekezi S, and Ranja T, Renewable Energy 
+Technologies in Africa, ZED Books, London, 
+1997.
+
+KenGen: Annual Report, 2010, Kenya 
+Electricity Generation Company (KenGen), 
+Nairobi, 2011.
+
+Joint Geophysical Imaging Methodology 
+for Geothermal Reservoir Assessment: 
+A Proposal for GEF/UNEP FundingKenya 
+Electricity Generation Company (KenGen), 
+KenGen,  Nairobi, 2002.
+
+KPLC Annual Report 2010/2011, Kenya 
+Power and Lighting Co Ltd (KPLC), Nairobi.
+
+Mariita N, The Socio-Economic and 
+Environmental Impact of Geothermal 
+Energy on the Rural Poor in Kenya,  
+AFREPREN Occasional Paper Number 12, 
+AFREPREN/FED, Nairobi, 2002.
+
+Mapako M and Mbewe A, (Eds), 
+Renewables and Energy for Rural 
+Development in sub-Saharan Africa, pp15, 
+Zed Books, London, 2004.
+
+Martin D, Wind Generator Technology, 
+AFREPREN Occasional Paper 10: 
+Renewable Energy Technologies in Africa 
+– An Energy Training Course Handbook, 
+Nairobi, AFREPREN, 2001.
+
+Mbuthi P, Yuko D, Karekezi S. and 
+Kithyoma W, Sustainable Energy in Africa: 
+Cogeneration and Geothermal in the East 
+and Horn of Africa – Status and Potential, 
+AFREPREN/FWD and HBF, Nairobi, 2005.
+
+Mbuthi P, HBF Geothermal Study: Kenya,  
+AFREPREN, Nairobi, 2004.
+
+Draft: Scaling-Up Renewable Energy 
+Program (SREP) - Investment Plan for 
+Kenya, Ministry of Energy (MOE), 
+Nairobi, 2011.
+
+Feed-in Tariffs Policy on Wind, Biomass, 
+and Small Hydro Resource Generated 
+Electricity,  MOE, Nairobi, 2008.
+
+Draft national energy policy MOE, Nairobi, 
+2004.
+
+Renewable Energy Development in Kenya, 
+Country Paper presented to participants of
+
+---
+
+EU-ACP Energy Initiative Africa Regional 
+Conference, Gigiri UNEP Headquarters, 20-
+21 November 2003. Nairobi.
+
+Ogada M, Financing of Small-Scale 
+Hydropower Projects & Risks Mitigation 
+for Tea factories: A Case for Unilever Tea 
+Kenya Limited, Unilever Kenya Limited, 
+Nairobi, 2007.
+
+Qureshi S and Smakhtin V, Extracting 
+Wetness from Dryness: Water Harvesting 
+against Droughts in Pakistan, Sri Lanka, 
+(undated), fao.org/ag/agl/aglw/wh/docs/
+Qureshi.doc
+
+Small-hydro small-hydro.com (Accessed 
+30 July 2011).
+
+SNV, Domestic Biogas Newsletter, Issue 4 
+– January 2011, Netherlands Development 
+Organisation, 2011.
+
+Wind Industry, windustry.org (Accessed 1 
+July 2011).
+
+World Bank, African Development 
+Indicators, The World Bank Group, 
+Washington DC, 2007.
+
+World Bank, World Development 
+Indicators, The World Bank Group, 
+Washington DC, 2004
+
+Appendix 1: Estimating Baseline Emission 
+Reduction from Diesel Water Pump
+
+World Bank, World Development Report, The 
+World Bank Group. Washington DC, 2000.
+
+Emissions factor
+Density of diesel
+
+= 3,140 g / kg
+= 840g / ltr
+
+#### Therefore:
+
+1 kg of diesel 
+Emissions factor
+
+= 0.84 ltrs
+= 3,738g/ltr of diesel
+
+**From the emissions factor:**
+
+3,140 g
+3,738 g
+
+= 0.84 ltrs
+= 1 ltr
+
+#### A typical generator:
+
+Hourly consumption
+Emissions per hour
+Annual operation hours
+Annual emissions
+Emissions over the project life (20yrs)
+
+= 4 ltrs
+= 4 ltrs x 3.738 = 14.952 kg of CO2
+= 3,420 
+= 3,420 x 14.952 = 51,135.84 kg
+= 51,135.84 x 20 = 1,022,716.8 kg 
+of CO2
+
+#### Confirmation of calculation:
+
+Generator annual diesel consumption
+Emissions from 1 ltr of diesel
+Total annual emission
+Emissions over the project life (20yrs)
+
+= 13,680 ltrs
+= 3.738 kg
+= 13,680 x 3.738 kg = 51,135.84
+= 51,135.84 x 20 = 1,022,716.8 kg 
+of CO2
+
+Cost of diesel per litre (1st August 2011) = Kshs. 115
+
+**Reference:** IPCC, 2007: Emission Factor Detail (ID: 19646), ipccnggip.iges.or.jp/
+EFDB/ef_detail.php, Geneva, intergovernmental Panel on Climate Change (IPCC)
+
+christianaid.org.uk
+christianaid.ie
+
+UK registered charity number 1105851 Company number 5171525 
+Scotland charity number SC039150
+
+Northern Ireland charity number XR94639 Company number NI059154
+Republic of Ireland charity number CHY 6998 Company number 426928
+
+The Christian Aid name and logo are trademarks of Christian Aid 
+Poverty Over is a trademark of Christian Aid
+© Christian Aid November 2011 12-354-B
+
+──────── [TRUNCATED] ────────
+Showing 18,737 chars (head) + 6,219 chars (tail) of 77,214 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/www.christianaid.org.uk-cefdf91a2d.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/www.christianaid.org.uk-cefdf91a2d.md" offset=631 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

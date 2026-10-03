@@ -1,0 +1,330 @@
+[Skip to main content](https://link.springer.com/article/10.1007/s44509-026-00033-z?#main)
+
+## Search
+
+Search by keyword or author
+
+Search
+
+## Navigation
+
+- [Find a journal](https://link.springer.com/journals/)
+- [Publish with us](https://www.springernature.com/gp/authors)
+- [Track your research](https://link.springernature.com/home/)
+
+# Recent advances and future prospects of sugarcane bagasse-derived cellulosic films for sustainable packaging
+
+- Review
+- [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+- Published: 03 September 2026
+
+- Volume 1, article number 29 (2026)
+
+- [Cite this article](https://link.springer.com/article/10.1007/s44509-026-00033-z?#citeas)
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](https://link.springer.com/content/pdf/10.1007/s44509-026-00033-z.pdf)
+
+[Save article](https://link.springer.com/article/10.1007/s44509-026-00033-z/save-research?_csrf=WuvhIR9rroIfGb8ICfwL2cCplGuy9Dp3)
+
+[View saved research](https://link.springer.com/saved-research)
+
+[![](https://media.springernature.com/w72/springer-static/cover-hires/journal/44509?as=webp)Discover Green Chemistry](https://link.springer.com/journal/44509) [Aims and scope](https://link.springer.com/journal/44509/aims-and-scope) [Submit manuscript](https://submission.nature.com/new-submission/44509/3)
+
+Recent advances and future prospects of sugarcane bagasse-derived cellulosic films for sustainable packaging
+
+
+[Download PDF](https://link.springer.com/content/pdf/10.1007/s44509-026-00033-z.pdf)
+
+## Abstract
+
+Sugarcane bagasse, a lignocellulosic by-product of the sugar industry, has emerged as a promising renewable feedstock for the development of sustainable packaging materials. Growing environmental concerns associated with petroleum-based plastics have accelerated the demand for biodegradable and eco-friendly alternatives. In this context, bagasse-derived cellulosic films offer a biodegradable, compostable, and low-carbon solution aligned with circular economy principles. This review comprehensively examines recent advances in the extraction, processing, and application of cellulose and cellulose nanomaterials derived from sugarcane bagasse for packaging applications. Conventional chemical, ultrasound-assisted, and enzymatic extraction strategies are critically discussed with respect to cellulose yield, crystallinity, and environmental impact. Film fabrication techniques, including casting, plasticization, and composite reinforcement, are evaluated in relation to their effects on mechanical strength, flexibility, and barrier performance. The physicochemical, thermal, mechanical, and biodegradation properties of bagasse-based cellulosic films are compared with conventional plastics and other bio-based packaging materials such as polylactic acid and seaweed derived films. Furthermore, recent innovations in nanocomposites, surface modification, and smart packaging functionalities are highlighted. Key challenges related to moisture sensitivity, processing scalability, and market adoption are identified, and future research directions focusing on advanced nanocomposite design, green surface coatings, and industrial integration are proposed. Overall, sugarcane bagasse-derived cellulosic films demonstrate significant potential as sustainable alternatives to conventional packaging materials, particularly at laboratory and pilot scales. However, challenges related to large-scale processing, moisture sensitivity, and industrial infrastructure must be addressed before their widespread commercial adoption can be realized.
+
+**Clinical trial:** N/A
+
+## Graphical Abstract
+
+![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs44509-026-00033-z/MediaObjects/44509_2026_33_Figa_HTML.png)
+
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-032-17907-4?as=webp)
+
+### [Sustainable Cellulose Films as Packaging Materials to Reduce Plastic Waste](https://link.springer.com/chapter/10.1007/978-3-032-17907-4_6?fromPaywallRec=false)
+
+Chapter© 2026
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1007%2Fs41783-020-00089-7/MediaObjects/41783_2020_89_Fig1_HTML.png)
+
+### [Lignocellulosic Agricultural Biomass as a Biodegradable and Eco-friendly Alternative for Polymer-Based Food Packaging](https://link.springer.com/article/10.1007/s41783-020-00089-7?fromPaywallRec=false)
+
+Article22 April 2020
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-032-17907-4?as=webp)
+
+### [Replacing Plastic with Cellulose Film-Based Plastic Towards Greener Solutions](https://link.springer.com/chapter/10.1007/978-3-032-17907-4_7?fromPaywallRec=false)
+
+Chapter© 2026
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+- [Bioinspired Materials](https://link.springer.com/subjects/bioinspired-materials)
+- [Biomethanol](https://link.springer.com/subjects/biomethanol)
+- [Solid Biofuels](https://link.springer.com/subjects/solid-biofuels)
+- [Polyhydroxyalkanoates](https://link.springer.com/subjects/polyhydroxyalkanoates)
+- [Porous Materials](https://link.springer.com/subjects/porous-materials)
+- [Sugar Alcohol](https://link.springer.com/subjects/sugar-alcohol)
+- [Active Packaging Technologies for Food Preservation](https://link.springer.com/subjects/active-packaging-technologies-for-food-preservation)
+
+## 1 Introduction
+
+Every year, nearly 8 million metric tonnes of plastic enter oceanic ecosystems due to the widespread use of synthetic plastics, creating a severe environmental challenge \[ [1](https://link.springer.com/article/10.1007/s44509-026-00033-z#ref-CR1 "Singh RV, Sharma P, Sambyal K. Application of sugarcane bagasse in chemicals and food packaging industry: potential and challenges. Circular Econ Sustain. 2022;2(4):1479–500.                    https://doi.org/10.1007/s43615-022-00167-9                                    .")\]. Conventional packaging materials derived from fossil fuels contribute significantly to resource depletion, greenhouse gas emissions, and persistent environmental contamination \[ [2](https://link.springer.com/article/10.1007/s44509-026-00033-z#ref-CR2 "Thongsomboon W, Baimark Y, Srihanam P. Valorization of cellulose-based materials from agricultural waste: Comparison between sugarcane bagasse and rice straw. Polymers. 2023;15(15):3190.                    https://doi.org/10.3390/polym15153190                                    .")\]. Increasing regulatory restrictions and consumer demand are driving a paradigm shift in the packaging industry toward renewable and biodegradable alternatives \[ [3](https://link.springer.com/article/10.1007/s44509-026-00033-z#ref-CR3 "Sylvere N, Omar T, Youness A, El Farissi L, Lina G. Innovative Applications of Sugarcane Bagasse in the Global Sugarcane Industry. Processes. 2025;13(12):3796.                    https://doi.org/10.3390/pr13123796                                    .")\].
+
+Sugarcane is one of the most significant agricultural products in the world, with an annual production exceeding 2 billion tonnes. A major challenge in the sugar industry is the management of bagasse, a fibrous residue generated after sugar extraction. Over 80% of the bagasse produced worldwide is currently utilized for energy generation in sugar mills, representing a relatively low-value use of this cellulose-rich biomass \[ [4](https://link.springer.com/article/10.1007/s44509-026-00033-z#ref-CR4 "Casanova F, Freixo R, Pereira CF, Ribeiro AB, Costa EM, Pintado ME, Ramos ÓL. Comparative study of green and traditional routes for cellulose extraction from a sugarcane by-product. Polymers. 2023;15(5):1251.                    https://doi.org/10.3390/polym15051251                                    .")\]. Although sugarcane bagasse has considerable potential for valorisation into high-value products, its utilization is influenced by competing industrial applications, economic feasibility, and regional processing infrastructure \[ [1](https://link.springer.com/article/10.1007/s44509-026-00033-z#ref-CR1 "Singh RV, Sharma P, Sambyal K. Application of sugarcane bagasse in chemicals and food packaging industry: potential and challenges. Circular Econ Sustain. 2022;2(4):1479–500.                    https://doi.org/10.1007/s43615-022-00167-9                                    ."), [3](https://link.springer.com/article/10.1007/s44509-026-00033-z#ref-CR3 "Sylvere N, Omar T, Youness A, El Farissi L, Lina G. Innovative Applications of Sugarcane Bagasse in the Global Sugarcane Industry. Processes. 2025;13(12):3796.                    https://doi.org/10.3390/pr13123796                                    .")\].
+
+**Fig. 1**
+
+![Fig. 1](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs44509-026-00033-z/MediaObjects/44509_2026_33_Fig1_HTML.png)
+
+[Full size image](https://link.springer.com/article/10.1007/s44509-026-00033-z/figures/1)
+
+Life cycle of sugarcane bagasse based biodegradable packaging, from cultivation and processing to use, composting, and carbon return to soil
+
+Figure [1](https://link.springer.com/article/10.1007/s44509-026-00033-z#Fig1) illustrates the closed-loop carbon cycle associated with bagasse-derived packaging materials, emphasizing their potential contribution to carbon neutrality. However, the actual environmental sustainability of such systems depends strongly on energy inputs during extraction, processing, and film fabrication, which are often not fully represented in simplified lifecycle models. Additionally, factors such as chemical usage, transportation, and energy-intensive nanocellulose production may influence the overall environmental footprint and must be critically considered for realistic sustainability assessment.
+
+Cellulose, hemicellulose (20–30%), and lignin (18–24%) are the three primary lignocellulosic constituents of sugarcane bagasse (Fig. [2](https://link.springer.com/article/10.1007/s44509-026-00033-z#Fig2)) \[ [5](https://link.springer.com/article/10.1007/s44509-026-00033-z#ref-CR5 "Nigam S, Das AK, Matkawala F, Patidar MK. An insight overview of bioplastics produced from cellulose extracted from plant material, its applications and degradation. Environ Sustain. 2022;5(4):423–41.                    https://doi.org/10.1007/s42398-022-00248-3                                    .")\]. The relatively high cellulose content makes bagasse an attractive feedstock for the production of cellulosic films. Compared to conventional wood-based cellulose production, which requires approximately five tonnes of wood to produce one tonne of pulp, bagasse requires only about 1.5 tonnes of raw material to achieve a similar yield \[ [3](https://link.springer.com/article/10.1007/s44509-026-00033-z#ref-CR3 "Sylvere N, Omar T, Youness A, El Farissi L, Lina G. Innovative Applications of Sugarcane Bagasse in the Global Sugarcane Industry. Processes. 2025;13(12):3796.                    https://doi.org/10.3390/pr13123796                                    .")\]. This higher conversion efficiency, combined with reduced chemical requirements during bleaching (e.g., lower chlorine usage), enhances both the environmental and economic viability of bagasse as a sustainable raw material for packaging applications \[ [6](https://link.springer.com/article/10.1007/s44509-026-00033-z#ref-CR6 "Bhardwaj NK, Kaur D, Chaudhry S, Sharma M, Arya S. Approaches for converting sugarcane trash, a promising agro residue, into pulp and paper using soda pulping and elemental chlorine-free bleaching. J Clean Prod. 2019;217:225–33.                    https://doi.org/10.1016/j.jclepro.2019.01.223                                    .")\].
+
+**Fig. 2**
+
+![Fig. 2](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs44509-026-00033-z/MediaObjects/44509_2026_33_Fig2_HTML.png)
+
+[Full size image](https://link.springer.com/article/10.1007/s44509-026-00033-z/figures/2)
+
+Multiscale hierarchical structure of sugarcane bagasse cellulose for packaging applications
+
+The multiscale structure illustrated in Fig. [2](https://link.springer.com/article/10.1007/s44509-026-00033-z#Fig2) highlights the hierarchical organization of cellulose from microfibers to nanoscale fibrils, which plays a critical role in determining the mechanical strength and barrier properties of the resulting films. The presence of tightly packed crystalline regions contributes to rigidity and reduced permeability, whereas amorphous regions influence flexibility and moisture sensitivity \[ [7](https://link.springer.com/article/10.1007/s44509-026-00033-z#ref-CR7 "Venkatesh T, Sajeev MS, Venugopal VV, Kothakota A. An Insight Into the Role of Humidity and Temperature on Phenolic Retention, Powder Flow, Glass Transition, and Crystalline Changes During Non-centrifugal Sugar Drying. J Food Process Eng. 2024;47(12):e70020.                    https://doi.org/10.1111/jfpe.70020                                    .")\]. However, efficient utilization of this hierarchical structure depends on the effectiveness of extraction and fibrillation processes. Incomplete removal of lignin and hemicellulose or poor nanofibril dispersion can limit the achievable performance of cellulosic films, leading to variability in reported properties across studies.
+
+This review critically examines recent advances in the extraction, processing, and application of cellulosic films derived from sugarcane bagasse. Particular emphasis is placed on comparing extraction technologies, analysing structure-property relationships, and evaluating mechanical, barrier, and biodegradation performance in relation to conventional packaging materials. Furthermore, the review addresses techno-economic challenges, scalability limitations, and emerging strategies for improving material performance, thereby providing a comprehensive perspective on the potential and limitations of bagasse-derived packaging systems.
+
+## 2 Extraction and preparation of cellulose from sugarcane bagasse
+
+Cellulose is extracted from sugarcane bagasse through a sequence of chemical pretreatment and delignification steps aimed at removing lignin and hemicellulose while preserving the cellulose structure (Fig. [3](https://link.springer.com/article/10.1007/s44509-026-00033-z#Fig3)).
+
+**Fig. 3**
+
+![Fig. 3](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs44509-026-00033-z/MediaObjects/44509_2026_33_Fig3_HTML.png)
+
+[Full size image](https://link.springer.com/article/10.1007/s44509-026-00033-z/figures/3)
+
+Comprehensive process flowchart for sugarcane bagasse valorization into cellulosic packaging films
+
+The process flow illustrated in Fig. [3](https://link.springer.com/article/10.1007/s44509-026-00033-z#Fig3) highlights multiple stages, including pretreatment, delignification, bleaching, and nanofibrillation, each of which significantly influences the final material properties. While chemical extraction methods are effective in achieving high cellulose purity, they often involve intensive chemical use and generate environmentally challenging effluents \[ [8](https://link.springer.com/article/10.1007/s44509-026-00033-z#ref-CR8 "Verdini F, Calcio Gaudino E, Grillo G, Tabasso S, Cravotto G. Cellulose recovery from agri-food residues by effective cavitational treatments. Appl Sci. 2021;11(10):4693.                    https://doi.org/10.3390/app11104693                                    .")\]. In addition, energy-intensive steps such as mechanical fibrillation and drying represent critical bottlenecks for large-scale implementation. Therefore, although the process is well established at the laboratory scale, its industrial scalability remains constrained by environmental and economic considerations.
+
+### 2.1 Conventional chemical extraction methods
+
+Cellulose extraction from sugarcane bagasse typically begins with hot-water pretreatment at temperatures ranging from 100 to 120 °C to promote partial hemicellulose solubilization \[ [9](https://link.springer.com/article/10.1007/s44509-026-00033-z#ref-CR9 "Wolf M, Berger F, Hanstein S, Weidenkaff A, Endreß HU, Oestreich AM, Czermak P. Hot-water hemicellulose extraction from fruit processing residues. ACS omega. 2022;7(16):13436–47.                    https://doi.org/10.1021/acsomega.1c06055                                    .")\]. This is followed by alkaline delignification using sodium hydroxide (NaOH) solutions (2–5% w/v), which selectively cleave ester linkages between lignin and carbohydrate polymers, yielding cellulose-rich pulp \[ [10](https://link.springer.com/article/10.1007/s44509-026-00033-z#ref-CR10 "Vaidya AA, Murton KD, Smith DA, Dedual G. A review on organosolv pretreatment of softwood with a focus on enzymatic hydrolysis of cellulose. Biomass Convers biorefinery. 2022;12(11):5427–42.                    https://doi.org/10.1007/s13399-022-02373-9                                    .")\]. The efficiency of alkaline treatment depends strongly on process conditions, and excessive chemical use may lead to cellulose degradation and increased wastewater generation, creating a trade-off between delignification efficiency and environmental sustainability.
+
+Following delignification, the cellulose undergoes stepwise bleaching using hydrogen peroxide (H₂O₂) under alkaline conditions (pH 9–11) to remove residual lignin and chromophoric compounds, thereby improving whiteness and purity \[ [11](https://link.springer.com/article/10.1007/s44509-026-00033-z#ref-CR11 "Ezeilo UR, Zakaria II, Huyop F, Wahab RA. Enzymatic breakdown of lignocellulosic biomass: the role of glycosyl hydrolases and lytic polysaccharide monooxygenases. Biotechnol Biotechnol Equip. 2017;31(4):647–62.                    https://doi.org/10.1080/13102818.2017.1330124                                    .")\]. A subsequent mild alkali treatment (1% NaOH) further eliminates surface impurities \[ [9](https://link.springer.com/article/10.1007/s44509-026-00033-z#ref-CR9 "Wolf M, Berger F, Hanstein S, Weidenkaff A, Endreß HU, Oestreich AM, Czermak P. Hot-water hemicellulose extraction from fruit processing residues. ACS omega. 2022;7(16):13436–47.                    https://doi.org/10.1021/acsomega.1c06055                                    .")\]. Although bleaching substantially enhances cellulose quality, it also increases chemical consumption and processing costs. Recent studies have reported cellulose recovery exceeding 85% under optimized conditions; however, yield alone does not fully reflect process sustainability, which must also account for chemical usage, energy consumption, and effluent treatment requirements.
+
+Overall, conventional chemical extraction methods are effective in producing high-purity cellulose suitable for film fabrication. Nevertheless, their dependence on chemical reagents and the generation of wastewater highlight the need for greener and more sustainable extraction strategies.
+
+### 2.2 Advanced extraction technologies
+
+Advanced extraction technologies have emerged as sustainable alternatives to conventional chemical methods by reducing chemical consumption while improving cellulose quality. Among these, ultrasound-assisted extraction utilizes cavitation effects to disrupt the fiber matrix and facilitate nanofiber separation. This approach reduces reliance on harsh chemicals and improves cellulose crystallinity, with studies reporting a relative increase of approximately 25% compared with untreated bagasse fibers \[ [12](https://link.springer.com/article/10.1007/s44509-026-00033-z#ref-CR12 "Shahi N, Min B, Sapkota B, Rangari VK. Eco-friendly cellulose nanofiber extraction from sugarcane bagasse and film fabrication. Sustainability. 2020;12(15):6015.                    https://doi.org/10.3390/su12156015                                    .")\]. However, despite these advantages, large-scale implementation remains challenging because uniform energy distribution and effective process control are difficult to maintain in industrial-scale systems.
+
+Enzymatic pretreatment represents another environmentally friendly strategy, employing cellulase and hemicellulase under mild operating conditions (pH 4–5, approximately 50 °C) to selectively degrade non-cellulosic components while preserving the cellulose structure \[ [10](https://link.springer.com/article/10.1007/s44509-026-00033-z#ref-CR10 "Vaidya AA, Murton KD, Smith DA, Dedual G. A review on organosolv pretreatment of softwood with a focus on enzymatic hydrolysis of cellulose. Biomass Convers biorefinery. 2022;12(11):5427–42.                    https://doi.org/10.1007/s13399-022-02373-9                                    .")\]. When combined with mechanical processing, enzymatic pretreatment improves cellulose recovery efficiency and reduces the environmental burden associated with chemical-intensive extraction methods \[ [11](https://link.springer.com/article/10.1007/s44509-026-00033-z#ref-CR11 "Ezeilo UR, Zakaria II, Huyop F, Wahab RA. Enzymatic breakdown of lignocellulosic biomass: the role of glycosyl hydrolases and lytic polysaccharide monooxygenases. Biotechnol Biotechnol Equip. 2017;31(4):647–62.                    https://doi.org/10.1080/13102818.2017.1330124                                    .")\]. Nevertheless, its industrial application is currently constrained by high enzyme costs, longer processing times, and limited enzyme reusability, highlighting the need for cost-effective enzyme formulations and further process optimization.
+
+Overall, advanced extraction technologies offer significant environmental advantages over conventional chemical methods by lowering chemical usage and improving cellulose quality. However, challenges related to scalability, process efficiency, and economic feasibility must be overcome before these approaches can be widely adopted in commercial cellulose production.
+
+### 2.3 Cellulose nanofiber (CNF) and nanocrystal synthesis
+
+
+[... middle omitted — see footer ...]
+
+
+Vijay Kumar
+
+4. Department of Food Technology and Nutrition, School of Agriculture, Lovely Professional University, Phagwara, 144411, Punjab, India
+
+Avinash Kumar Jha
+
+5. Department of Food Process Technology, College of Post-Harvest Technology and Food Processing, Sardar Vallabhbhai Patel University of Agriculture and Technology, Modipuram, Meerut, Uttar Pradesh, 250110, India
+
+Arun Kumar Gupta
+
+
+Authors
+
+1. Aditya Pathak
+
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=Aditya%20Pathak)
+
+
+
+
+
+Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Aditya%20Pathak) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Aditya%20Pathak%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+2. Himanshu Kumar
+
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=Himanshu%20Kumar)
+
+
+
+
+
+Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Himanshu%20Kumar) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Himanshu%20Kumar%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+3. Bindu Naik
+
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=Bindu%20Naik)
+
+
+
+
+
+Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Bindu%20Naik) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Bindu%20Naik%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+4. Vijay Kumar
+
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=Vijay%20Kumar)
+
+
+
+
+
+Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Vijay%20Kumar) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Vijay%20Kumar%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+5. Avinash Kumar Jha
+
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=Avinash%20Kumar%20Jha)
+
+
+
+
+
+Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Avinash%20Kumar%20Jha) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Avinash%20Kumar%20Jha%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+6. Arun Kumar Gupta
+
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=Arun%20Kumar%20Gupta)
+
+
+
+
+
+Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Arun%20Kumar%20Gupta) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Arun%20Kumar%20Gupta%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+7. Pankaj Kumar
+
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=Pankaj%20Kumar)
+
+
+
+
+
+Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Pankaj%20Kumar) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Pankaj%20Kumar%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+
+### Contributions
+
+Pankaj Kumar & Arun Kumar Gupta: Conceptualization, Supervision, Resources, Reviewing and Editing. Himanshu Kumar and Aditya Pathak: Writing-original draft preparation. Bindu Naik, Vijay Kumar, Avinash Kr Jha: Resources, Reviewing and Editing
+
+### Corresponding authors
+
+Correspondence to
+[Arun Kumar Gupta](mailto:guptaarunkumar714@gmail.com) or [Pankaj Kumar](mailto:panks.svpuat@gmail.com).
+
+## Ethics declarations
+
+### Ethical approval
+
+Not applicable.
+
+### Consent to participate
+
+Not applicable.
+
+### Consent for publication
+
+Not applicable.
+
+### Competing interests
+
+The authors declare no competing interests.
+
+## Additional information
+
+### Publisher’s note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+## Rights and permissions
+
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/).
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Recent%20advances%20and%20future%20prospects%20of%20sugarcane%20bagasse-derived%20cellulosic%20films%20for%20sustainable%20packaging&author=Aditya%20Pathak%20et%20al&contentID=10.1007%2Fs44509-026-00033-z&copyright=The%20Author%28s%29&publication=3091-4019&publicationDate=2026-09-03&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY)
+
+## About this article
+
+[![Check for updates. Verify currency and authenticity via CrossMark](<Base64-Image-Removed>)](https://crossmark.crossref.org/dialog/?doi=10.1007/s44509-026-00033-z)
+
+### Cite this article
+
+Pathak, A., Kumar, H., Naik, B. _et al._ Recent advances and future prospects of sugarcane bagasse-derived cellulosic films for sustainable packaging.
+_Discov. Green Chem._ **1**, 29 (2026). https://doi.org/10.1007/s44509-026-00033-z
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1007/s44509-026-00033-z?format=refman&flavour=citation)
+
+- Received: 23 February 2026
+
+- Revised: 15 August 2026
+
+- Accepted: 20 August 2026
+
+- Published: 03 September 2026
+
+- Version of record: 03 September 2026
+
+- DOI: https://doi.org/10.1007/s44509-026-00033-z
+
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+
+### Keywords
+
+- [Sugarcane bagasse cellulosic films](https://link.springer.com/search?query=Sugarcane%20bagasse%20cellulosic%20films&facet-discipline=%22Chemistry%22)
+- [Biodegradable packaging](https://link.springer.com/search?query=Biodegradable%20packaging&facet-discipline=%22Chemistry%22)
+- [Cellulose nanofibers](https://link.springer.com/search?query=Cellulose%20nanofibers&facet-discipline=%22Chemistry%22)
+- [Sustainable materials](https://link.springer.com/search?query=Sustainable%20materials&facet-discipline=%22Chemistry%22)
+
+### Profiles
+
+1. Arun Kumar Gupta [View author profile](https://link.springer.com/researchers/73012465SN)
+
+──────── [TRUNCATED] ────────
+Showing 22,179 chars (head) + 7,457 chars (tail) of 157,856 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/link.springer.com-1662dd4df7.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/link.springer.com-1662dd4df7.md" offset=144 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

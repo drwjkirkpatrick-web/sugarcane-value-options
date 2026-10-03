@@ -1,0 +1,391 @@
+[![Previous Page](https://www.fao.org/4/s8850e/back.GIF)](https://www.fao.org/4/s8850e/S8850E11.htm)[![Table of Contents](https://www.fao.org/4/s8850e/toc.GIF)](https://www.fao.org/4/s8850e/S8850E00.htm#TOC)[![Next Page](https://www.fao.org/4/s8850e/next.GIF)](https://www.fao.org/4/s8850e/S8850E13.htm)
+
+* * *
+
+# BAGAZO COMO ALIMENTO PARA RUMIANTES   por   P.C. Martín
+
+Los subproductos fibrosos de la caña de azúcar adquieren una gran
+importancia como alimentos para rumiantes. El bagazo integral y su
+componente más fino, el bagacillo, pueden constituír el 28 por ciento
+de la caña en su conjunto. Desde años atrás (Beames, 1961, Kirk,
+Peacock, Davis, 1962) se ha utilizado el bagazo en las raciones para
+rumiantes. Sin embargo, su baja digestibilidad y contenido de
+nitrógeno, limitaron su uso a servir de relleno en los concentrados o
+en muy bajos niveles de inclusión en las raciones. De esta forma, el
+aporte de nutrimientos del bagazo resulta insignificante. Ello, a
+pesar de que el contenido en carbohidratos potencialmente digestibles
+por el rumiante es alto (más del 70 por ciento). Sin embargo, el alto
+porcentaje de lignina (más del 20 por ciento) y el bajo contenido en
+nitrógeno limitan el aporte de energía de este subproducto.
+
+Con vistas a transformar esta limitación en el valor nutritivo
+del bagazo y del bagacillo, se han ensayado diferentes variantes:
+
+- Predigestión por medios químicos y físicos.
+
+- Mezclado con carbohidratos de fácil fermentación y nitrógeno no
+  proteico.
+
+
+1\. EFECTO DE LA PREDIGESTION POR MEDIOS QUIMICOS Y FISICOS
+
+Inicialmente se compararon 2 reactivos químicos: el hidróxido de
+sodio y el hidróxido de calcio. El primero es señalado por la
+literatura desde inicios de siglo como un agente capaz de elevar la
+digestibilidad de residuos lignocelulósicos (Beckman, 1921) y el
+segundo, aunque se trata de una base débil y de poca solubilidad,
+presenta la ventaja de hacerse disponible en Cuba y otros países que
+no producen el hidróxido de sodio. Los resultados de esta primera
+prueba (Cuadro 1) indicaron que el Ca(OH)2 no ofrece posibilidades
+para lograr un aumento de digestibilidad apreciable, evidenciando el
+hidróxido de sodio su superioridad con este fin.
+
+Una posibilidad que brindan las fábricas de azúcar es tener
+disponible presión de vapor, la cual ha sido probada como medio de
+predigestión del bagazo y del bagacillo. En el Cuadro 2 se muestran
+los resultados. Estos resultados coinciden con los anteriores, es
+decir, la digestibilidad aumenta con el nivel de hidróxido de sodio
+empleado. Sin embargo quedaron descartados bajos niveles de presión
+para lograr un incremento adecuado de digestibilidad.
+
+Para descartar el efecto combinado de ambos factores, se realizó
+una prueba con 3 niveles de hidroóxido de sodio y tratamiento con 3
+presiones (Cuadro 3).
+
+Se concluyó que el efecto del nivel de hidróxido de sodio es más
+importante que el nivel de presión. No obstante, a medida que el nivel
+de NaOH se incrementa, la aplicación de 4–6 atm resulta eficiente para
+situar la digestibilidad de estos materiales en un valor cercano al de
+los pastos de mediana a buena calidad (60 por ciento).
+
+El objectivo de beneficiar con los tratamientos de predigestión
+estos subproductos de la caña de azúcar es el de elevar la energía que
+para el rumiante se hace disponible a partir de ellos. Con esta
+finalidad se realizaron pruebas donde queda claramente establecido que
+el nivel de NaOH modifica significativamente los ácidos grasos
+volátiles disponibles a partir de bagazo y bagacillo (Cuadro 4).
+
+Cuando se comparan estos valores, que son reflejo de la energía
+disponible para el rumiante, con los que caracterizan los pastos
+tropicales fertilizados y regados se observa que niveles entre 6 y 8
+por ciento de NaOH son suficientes para obtener un aporte energético
+similar al reportado por Reyes y Sutherland (1969) para gramíneas
+cultivadas y cortadas a intervalos entre 36 y 45 días de edad.
+
+Este efecto sobre la digestibilidad y su expresión material, la
+producción de AGV totales, se debe a una profunda modificación de la
+composición química de los materiales lignocelulósicos tratados con
+hidróxido de sodio. En el Cuadro 5 se presentan algunos resultados de
+como influye en la composición química el nivel de NaOH y la presión,
+siendo significativa la disminución en el contenido de lignina y el
+aumento de los solubles, fundamentalmente. Por otra parte el efecto de
+la presión no fue significativo dentro de cada nivel de NaOH.
+
+En base a estos resultados se diseñó una tecnología nacional para
+la fabricación de alimentos para la ganadería vacuna. En unos casos se
+empleó la variante de utilizar las mezclas de bagacillo/melaza urea y
+en otros se fabrica el bagacillo predigerido.
+
+2\. EFECTO DE LA MEZCLA CON FUENTES DE CARBOHIDRATOS DE FACIL
+FERMENTACION Y NITROGENO NO PROTEICO
+
+De esta forma se formularon 2 alimentos, los cuales son
+utilizados comercialmente en todo el país. El primero, similar al
+CAMOLA, sin emplear predigestión y con una relación bagacillo:
+melaza/urea de 64:36, el segundo incorpora la tecnología de la
+predigestión y mantiene una relación bagacillo: melaza/urea de 85:15.
+
+A partir de lo anterior es fácil sugerir que la predigestión no
+sólo es un medio para aumentar la digestibilidad del bagazo, sino para
+preparar fórmulas con similar valor nutritivo, empleando significati- vamente menos melaza, subproducto este último por el cual compite toda
+la industria fermentativa.
+
+Vacas Lecheras
+
+Para la confirmación a escala comercial del valor de estos dos
+alimentos se realizó una prueba en 4 lecherías con un total de 734
+vacas F1 Holstein x Cebú y se consideró la comparación entre 2
+períodos consumiendo melaza/bagacillo/urea (A y B); un período con
+bagacillo predigerido (C) y un período con ensilaje de gramíneas (D).
+Los resultados fundamentales se muestran en la Figura 1.
+
+La tendencia general fue a mejorar la producción de leche cuando
+los animales consumieron el bagacillo predigerido, manteniéndose la
+producción entre 5 y 7 litros con el bagacillo sin predigerir y entre
+6,5 y 7,0 con el predigerido. Ambos tuvieron un comportamiento similar
+al ensilaje pero con la tendencia a ser menor la producción con la
+mezcla preparada con bagacillo sin predigerir. Como se puede observar
+los días de lactancia no favorecieron de forma ostensible a ninguno de
+los tratamientos.
+
+Cuando los promedios de litros por vaca por día obtenidos en cada
+una de los períodos fueron los que aparecen en la figura, el comportamiento de los grupos de alta producción de esas mismas lecherías
+(1–100 días de lactancia) fue como se muestra en el Cuadro 6.
+
+De nuevo se observó la tendencia favorable al bagacillo
+predigerido y al ensilaje superior al bagacillo sin predigerir. No
+obstante, con cualquiera de las mezclas de bagacillo empleados en
+función del potencial de los animales se alcanzaron entre 7 y 13
+litros de leche aproximadamente. El resto del sistema fue común, y
+consistió en 4 horas de pastoreo y 0.45 kg de concentrado por litro de
+leche a partir del 5to.
+
+A partir de estos resultados se generalizó la comercialización de
+estos dos productos y ya en su primer año los resultados se vieron
+confirmados y permitían concluír que la mezcla de bagacillo
+predigerido es superior a la mezcla de bagacillo sin predigerir; que
+la primera sostiene niveles de rendimiento entre 9 y 14 litros en
+comparación con 6–10 litros la segunda y que ambas constituyen una
+posibilidad real de aumentar la producción bajo condiciones de alta
+carga y en las etapas de sequía cuando los pastos reducen su
+producción y es necesario reducir el horario de pastoreo.
+
+Otra forma de utilización del bagacillo predigerido es como
+materia prima para la elaboración de concentrados completos. Este
+enfoque de trabajo ha sido desarrollado por el grupo de Puerto Rico
+desde finales de los años 60 obteniendo como resultado la posibilidad
+de disminuir el maíz de 64 a 18 por ciento en piensos para vacas
+lecheras (Randel, 1969; Randel, Carrero, Valencia, 1970). En Cuba
+utilizando bagacillo predigerido hemos obtenido los siguientes
+resultados. En el Cuadro 7 se muestra el comportamiento del
+rendimiento lechero antes de suministrarse un pienso preparado a base
+de bagacillo predigerido (30 por ciento) suplementando al pastoreo y
+en el período en que éste fue suministrado. Este trabajo se aplicó
+comercialmente en 30 vaquerías y más de 3.600 vacas en ordeño,
+obteniéndose un incremento en la producción del 8 por ciento. Las
+medias de rendimiento de las vaquerías oscilaron entre 3,9 y 10,7
+antes de ser suplementadas y entre 4,8 y 11,3 después de ser
+suplementadas.
+
+Novillas Lecheras y Terneros
+
+Actualmente en Cuba la utilización del bagacillo predigerido
+mezclado con melaza y urea está dirigido a la alimentación de vacas
+lecheras y ganado en desarrollo. Para la confirmación práctica de los
+resultados en estas categorías se realizaron varias pruebas. Sobre un
+rebaño de 600 novillas Holstein que tenías acceso durante 4 horas al
+pasto natural, se realizó un muestreo de 2 grupos: uno suplementado
+hasta el momento de la inseminación y otro sin suplementar (Cuadro 8).
+
+Como se observa, la suplementación ejerció un efecto muy
+significativo tanto en ganancia diaria como en el porcentaje de
+gestación y en el índice de repetición, siendo igual el porcentaje de
+inseminadas lo cual es un reflejo de que aún sin suplementación se
+logró una buena presentación del celo. El suplemento suministrado en
+la prueba fue de baja calidad (sólo 2,2 Mcal EM/kg de MS y 9 por
+ciento de P.B.), sin embargo, tanto su contenido en proteína natural
+como en fósforo fundamentalmente, fueron suficientes para que se
+evidenciaran las diferencias que se reportan.
+
+Para probar la posibilidad de uso en terneros sometidos a crianza
+artificial, se tomaron 236 animales de diferentes edades y se
+sometieron a control. Se evidenció que la edad al inicio del consumo
+de bagacillo predigerido/melaza/urea no ejerció un efecto de
+significación oscilando la ganacia diaria entre 500 y 600 g/d. Si
+bien a las edades más tempranas el consumo de predigerido es de poca
+significación, en relación con los aportes del concentrado y la leche,
+el aporte del mismo va creciendo al aumentar la edad y desarrollarse
+tanto anatómicamente como fisiológicamente el rumen.
+
+En esa misma instalación comercial fue comparado el sistema
+heno/leche/concentrado con el sistema bagacillo predigerido/leche/
+concentrado. La Figura 2 muestra los resultados por sexo y son
+indicativos de que las ganacias mínimas se obtuvieron en machos y se
+situaron en 450 g/d, mientras las hembras crecieron a un ritmo de 650
+g/d. En ambos sexos el comportamiento con bagacillo predigerido fue
+superior al heno, cuando éste no fue molido, lo cual no es práctica
+frecuente.
+
+3\. CONSIDERACIONES GENERALES
+
+Experimentación con otros tratamientos físicos y químicos
+(radiaciones, amoníaco, etc) se ha realizado en los últimos 10 años
+con resultados variables. No obstante, ninguno de estos programas de
+investigaciones ha tenido una salida comercializable hasta el momento.
+Algunos de ellos, como el tratamiento con amoníaco, resultan
+promisorios. Sin embargo, es necesario esperar más información sobre
+sus posibilidades de implementación tecnológica. La experiencia
+anterior permite establecer que por distintas vías la disponibilidad
+de energía del bagazo y delo bagacillo de caña para ser utilizado como
+alimentos, puede ser elevada hasta cerca de 60 por ciento de
+digestibilidad. Una vez en ese punto las formas de utilización en el
+animal no deben diferir a las obtenidas en condiciones comerciales en
+Cuba donde desde hace años, más de 600,000 animales consumen estas
+mezclas en el período seco.
+
+REFERENCIAS
+
+Beames, 1961 R.M. Bagomolasses as the basis of a fattening ration for
+cattle. Queensland Journal of Agricultural Science. 18:425.
+
+Beckman, 1921 E. Conversion of grainstraw into feeds of high nutrient
+value. Kaiser Wilheim-Ges for derung wies 16:765.
+
+Kirk, W.G.; 1962 Peacock, F.M.; Davis, G.K. Utilizing bagasse in cattle
+fattening rations. Bulletin 641, Florida Agricultural
+Experiment Station.
+
+Martín, 1976 P.C. Mejoramiento del Potencial Energético y Utilización de
+Bagazo y Bagacillo de Caña por los Rumiantes. Tesis en opción
+al Grado Científico de Candidato a Doctor en Ciencias, ISCAH,
+La Habana.
+
+Martín, 1977 P.C.; Cabello, A.; Elías, A. Utilización de los subproductos
+fibrosos de la caña de azúcar por los rumiantes 3. Efecto del
+nivel de NaOH sobre la producción in vitro de AGV-totales de
+bagazo y bagacillo tratados. Revista Cubana de Ciencia
+Agrícola. 11:65.
+
+Martín, 1974 P.C.; Cribeiro, T.C.; Cabello, A.; Elías, A. Efecto del
+hidróxido de sodio y la presión sobre la digestibilidad de la
+materia seca de bagazo y bagacillo de caña. Revista Cubana de
+Ciencia Agrícola 8:21.
+
+Randel, 1969 P.F. Prueba de un alimento bulky con bagazo en una finca
+comercial durante una lactancia completa. Universidad de
+Puerto Rico. Publicación Miscelánea No. 66.
+
+Randel, 1970 P.F.; Carrero, R.; Valencia, Inés. Estudio preliminar sobre el
+uso del bagazo tratado químicamente en raciones completas
+para vacas lecheras. Universidad de Puerto Rico. Publicación
+Miscelánea No. 70.
+
+Reyes, 1969 Isabel; Sutherland, T.M. Efecto de la frecuencia de corte sobre
+la digestibilidad in vitro de varios forrajes tropicales
+cortados en estación seca. Revista Cubana de Ciencia Agrícola
+3:175.
+
+Figure 1: Rendimiento Lechero y dias de Lactancia segû
+sistema de alimentación en cuatro vaquerias
+
+![Figure 1](https://www.fao.org/4/s8850e/S8850E13.gif)
+
+Figure 2: Efecto del sexo sobre el comportamiento
+de terneros en 2 sistemas de alimentación
+
+![Figure 2](https://www.fao.org/4/s8850e/S8850E14.gif)
+
+| Tratamiento | Digestibilidad in situ MS % |
+| --- | --- |
+| Bagazo | Bagacillo |
+| Testigo sin tratar | 9,2 | 3,8 |
+| 3% NaOH | 25,9 | 33,3 |
+| 6% NaOH | 46,6 | 59,0 |
+| 14% NaOH | 77,0 | 78,8 |
+| 8% Ca(OH)2 | 40,5 | 10,7 |
+| 16% Ca(OH)2 | 44,0 | 43,1 |
+
+Cuadro 1: Efecto del NaOH ó Ca(OH)2 sobre la digestibilidad in situ -de la materia seca (Martin, Cribeiro, Cabello, Elias, 1974).
+
+| Tratamiento | Digestibilidad in vitro MS % |
+| --- | --- |
+| Bagazo | Bagacillo |
+| Testigo | 11,4 | 20,5 |
+| 4% NaOH | 32,5 | 48,6 |
+| 5% NaOH | 37,7 | 53,6 |
+| 6% NaOH | 57,0 | 57,2 |
+| 8% NaOH | 63,3 | 66,9 |
+| 12% NaOH | 77,2 | 78,4 |
+| 4 atm 15 min | 28,3 | 21,4 |
+| 4 atm 30 min | 30,1 | 21,2 |
+| 6 atm 15 min | 24,9 | 35,4 |
+| 6 atm 30 min | 44,9 | 60,0 |
+
+Cuadro 2: Efecto del NaOH ó la presión sobre la digestibilidad
+in vitro de la materia seca (Martin, Cribeiro, Cabello,
+Elias, 1974)
+
+| Tratamiento | Digestibilidad in vitro MS% |
+| --- | --- |
+| Bagazo | Bagacillo |
+| Testigo | 11,4 | 24,0 |
+| 4% NaOH - 2 atm | 35,2 | 56,9 |
+| 4% NaOH - 4 atm | 44,1 | 57,9 |
+| 4% NaOH - 6 atm | 45,5 | 60,1 |
+| 5% NaOH - 2 atm | 46,9 | 61,4 |
+| 5% NaOH - 4 atm | 52,1 | 64,5 |
+| 5% NaOH - 6 atm | 56,9 | 67,6 |
+| 6% NaOH - 2 atm | 58,2 | 67,0 |
+| 6% NaOH - 4 atm | 59,1 | 67,4 |
+| 6% NaOH - 6 atm | 61,7 | 72,7 |
+
+Cuadro 3: Efecto de la combinación NaOH-presión sobre la
+digestibilidad in vitro de la materia seca (Martin, 1976).
+
+| Tratamiento | AGV - Totales, meq/g MS |
+| --- | --- |
+| Bagazo | Bagacillo |
+| Testigo | 1,37 | 1,81 |
+| 4% NaOH | 2,35 | 2,75 |
+| 5% NaOH | 2,92 | 3,25 |
+| 6% NaOH | 3,73 | 3,57 |
+| 8% NaOH | 4,74 | 3,92 |
+| 12% NaOH | 5,60 | 4,63 |
+
+Cuadro 4: Efecto del NaOH sobre la producción in vitro de AGV-totales
+(Martin, Cabello, Elias, 1977)
+
+| % NaOH | 0 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- |
+| Presión, atm | 0 | 2 | 4 | 6 | 2 | 4 | 6 | 2 | 4 | 6 |
+| Solubles | 5,8 | 20,3 | 20,2 | 17,5 | 18,5 | 18,5 | 27,0 | 26,5 | 31,4 | 29,1 |
+| Lignina | 22,6 | 11,5 | 12,2 | 13,0 | 8,0 | 11,4 | 10,6 | 10,7 | 10,7 | 14,8 |
+| Cenizas | 5,3 | 9,1 | 8,6 | 7,7 | 8,6 | 8,2 | 9,8 | 10,2 | 10,6 | 9,8 |
+
+Cuadro 5: Efecto del NaOH y la presión sobre la composición quimica - (Martin, 1976)
+
+| kg/vaca/dia | A | B | C | D |
+| --- | --- | --- | --- | --- |
+| Vaqueria 1 | 8,4 | 8,1 | 9,9 | 8,9 |
+| Vaqueria 2 | 7,4 | 7,2 | 7,4 | 7,8 |
+| Vaqueria 3 | 11,2 | 11,5 | 12,8 | 13,7 |
+| Vaqueria 4 | 10,2 | 8,5 | 8,9 | 8,8 |
+
+Cuadro 6: Comportamiento de los grupos de alta producción en
+lecherias bajo diferentes periodos de alimentación [1](https://www.fao.org/4/s8850e/S8850E12.htm#NOTE6.1).
+
+1 A y B: Bagacillo sin predigerir/melaza/urea; C: bagacillopredigerido; D: ensilaje.
+
+| Granja | Lts/vaca anterior | Lts/vaca suplement. | No. de lecherias | No. de vacas |
+| --- | --- | --- | --- | --- |
+| SC | 10,69 | 11,27 | 5 | 550 |
+| FI | 8,68 | 9,52 | 6 | 475 |
+| VE | 9,78 | 10,07 | 7 | 630 |
+| SE | 7,30 | 7,63 | 6 | 897 |
+| CA | 3,90 | 4,78 | 6 | 1 068 |
+
+Cuadro 7: Efecto de la suplementación con concentrado a partir de sub-productos de la caña de azúcar en la producción de leche
+
+| Medida | No suplementadas | Suplementadas |
+| --- | --- | --- |
+| Ganancia de Peso Vivo, kg/dia | 0,295 | 0,586 |
+| % de inseminadas | 85 | 85 |
+| % de gestadas | 66 | 82 |
+| % de repitentes | 35 | 23 |
+
+Cuadro 8: Comportamiento de novillas Holstein consumiendo bagacillo - predigerido.
+
+# BAGASSE FOR RUMINANT FEEDING   by   P.C.Martin
+
+Treatment of bagasse and bagacillo with pressure and NaOH has been
+tried and its effect on composition and nutritive value studied. Two feeds
+are formulated for commercial use in Cuba based on treated or non-treated
+bagacillo together with molasses urea and minerals. They are used for
+feeding young bulls, heifers and milk cows. Treatment of bagasse and
+bagacillo improved its chemical composition, diminishing by 14 units its
+lignine percentage and augmenting by 40 units its digestibility. Also
+treatment augments 2.2 times the production of total VFA per gram of dry
+matter. The mixture of bagacillo/molasses/urea as basic diet can support
+in growing cattle a daily liveweight gain of 400–600 grams and 8–10 litres
+of milk per cow per day. When the diet was based on treated
+bagacillo/molasses/urea, the daily milk production rose by 8%. Neither the
+composition of the milk nor the animal health were affected by this feeding
+system.
+
+It is suggested that the implementation of technologies in favour
+of bagasse permits producing feeds capable of diminishing the effects of
+drought and guaranteeing a medium level of animal production.
+
+* * *
+
+[![Previous Page](https://www.fao.org/4/s8850e/back.GIF)](https://www.fao.org/4/s8850e/S8850E11.htm)[![Top of Page](https://www.fao.org/4/s8850e/top.GIF)](https://www.fao.org/4/s8850e/S8850E12.htm#TopOfPage)[![Next Page](https://www.fao.org/4/s8850e/next.GIF)](https://www.fao.org/4/s8850e/S8850E13.htm)

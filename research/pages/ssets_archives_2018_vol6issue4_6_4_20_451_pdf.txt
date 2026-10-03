@@ -1,0 +1,250 @@
+# Vermicomposting of sugarcane bagasse using <em>Eudrillus eugeniae</em>
+
+## Vermicomposting of sugarcane bagasse using Eudrillus eugeniae
+
+Sakthivel Vellaikkannu<sup>1</sup>, Jayashri Selvakumar<sup>2</sup>, Vinoth Mohan<sup>3</sup>, Saralabai Viswanathan Chathlingathe<sup>4</sup>
+
+<sup>1, 2</sup>Department of Biotechnology, P.G. Extension Centre, Bharathidasan University, Perambalur, Tamil Nadu. India
+<sup>3</sup>Department of Microbiology, Bharathidasan University Constituent College, Perambalur. Tamil Nadu. India
+<sup>4</sup>P.G. Research Department of Botany, Government Arts College, (Autonomous), Coimbatore, Tamil Nadu, India
+
+## Abstract
+
+India is the largest producer and consumer of sugar in the world. Among the several industries, sugar industry is the most 
+important industry. Bagasse is the name for the residual fibers that remain after the squeezing of sugarcanes at the sugar 
+production. Usually, they consist of 40 – 60% cellulose, 20 – 30% hemicellulose, and about 20% lignin. Vermicomposting is a 
+simple biotechnological process of composting, in which earthworms are used for recycling of organic waste into ecofriendly end 
+product. In this study, the role of earthworm in converting sugarcane bagasse into a valuable product is assessed. The sugarcane 
+bagasse was mixed with cow dung and earthworm *Eudrillus eugeniae* and left for vermicomposting for 30 days. After 30 days, the 
+vermicompost was collected and the physico-chemical parameters were analyzed by using the standard protocols. Organic carbon 
+and the pH were reduced dramatically at 30-day of vermicomposting. *Eudrillus eugeniae* is found to be the best candidate, for 
+converting sugarcane bagasse into nutrient rich vermicasting in a short period of time (30-day). Thus, the recycling of wastes 
+through vermitechnology reduces the problem of accumulation of sugar industry wastes effectively. Vermicastings are found to be 
+rich in nutrients like N, K, Ca, Mg and P.
+
+**Keywords:** sugarcane bagasse, cow dung, *Eudrillus eugeniae,* vermicompost
+
+## 1. Introduction
+
+In India, many industries are consuming agricultural produce 
+as their raw material and generate various types of wastes.
+More than 600 sugar factories are in the country and estimated 
+that the production would go up to 26 Mt in 2015–16 (1). At 
+the same time, annual by-product production through these 
+industries is more than 8 Mt of press mud, 7.5 Mt of molasses, 
+43.8 Mt of bagasse, and 7.4 Mt bagasse ash <sup>[2]</sup>. Bagasse is the 
+by-product of sugarcane industries during the extraction of 
+juice from cane. It is dry pulpy residue and fibrous in nature.
+
+The application of bagasse in agricultural crop production 
+system can be reduced the application rate of fertilizers. 
+During application, it is suggested that these bagasse properly 
+chopped; and applied one month prior to seed sowing in the 
+field for proper decomposition. Rate of decomposition is also 
+affected by temperature, moisture, and population and 
+diversity of soil micro-organisms <sup>[3]</sup>. Vermicomposting is 
+carried out as an alternative eco-friendly technology to 
+overcome all these drawbacks.
+
+The recycling of waste through vermitechnology reduces the 
+problem of non-utilization of agro wastes. Vermicomposting 
+is a bio-oxidation process in which, earthworm interacts with 
+microorganisms and other soil fauna, accelerating the 
+decomposition process and thereby stabilizes the organic 
+matter. Earthworms consume raw materials and excrete it in 
+digested form called “worm cast” (black gold), which is rich 
+in nutrients, growth promoting substances, beneficial soil 
+micro flora and become a major component of organic 
+farming system. Vermicomposting is a simple
+
+Biotechnological process of composting, in which, certain 
+species of earthworms are used to enhance the process of 
+waste conversion and produce a better end product. 
+Earthworms consume various organic wastes and reduce the 
+volume by 40-60%. Earthworm weighs about 0.5 to 0.6g, eats 
+waste equivalent to its body weight, and produce cast about 
+50% of the wastes, it consumes in a day. The worm castings 
+contain higher percentage of both macro and micronutrients 
+than the garden compost <sup>[4]</sup>.
+
+The present study has been taken up to recycle sugarcane 
+bagasse by using both cow dung and earthworm. *Eudrillus 
+eugeniae,* commonly referred as the African Night Crawler, 
+occurs all over the World is employed in this present study. 
+This worm species can breakdown cellulose material without 
+as much help from the soil bacteria and when they eat, they 
+leave behind worm casting that can be used as organic 
+fertilizer <sup>[5]</sup>.
+
+## 2. Materials and Methods
+
+The healthy adult African red earthworms *(Eudrillus 
+eugeniae)* were purchased from Thanthai Han’s Roever 
+Agricultural College, Perambalur were used in this present 
+study. Cow dung was procured from the dairy farm situated in 
+the Kurumbalur village, Kurumbalur. Cow dung was spread 
+for 10 days for shadow air drying, so that unwanted gases and 
+heat were removed, which may harm the earthworms. 
+Sugarcane bagasse collected from Eraiyur sugar mills, 
+Eraiyur, Perambalur Dt., dried in shadow for 15 days was 
+used.
+
+---
+
+## 3. Experimental Design
+
+The experiment was carried out in a plastic bin of size 48 X 45 
+X 21cm were filled with mixture of cow dung and sugarcane 
+bagasse. The plastic bin was spread with non-oven cloth to 
+avoid spillage of compost as well as to avoid escape of 
+earthworms. The bottom of the bin was uniformly spread with 
+pure sand for about 1 inch height. Above this, the thoroughly 
+mixed sugarcane bagasse and cow dung was filled in the ratio 
+of 1:1. Then 250g of earthworms were introduced into the 
+substrate for vermicomposting. Then the vermicomposting bin 
+was placed in the plastic tray to collect the vermiwash. The 
+entire setup was maintained in a cool area for about 30 days. 
+The substrate moisture content was maintained to 60-80% by 
+sprinkling water every day. Once in 3 days, the surface of the 
+substrate was ploughed well for better aeration with the help 
+of wooden stick to speed up the vermicomposting and to 
+eliminate volatile toxic gases. At the end of the experiment, 
+worms, hatchlings and cocoons were removed. The 
+vermicompost was sieved, air dried and stored in plastic bags 
+for physico-chemical analysis.
+
+## 4. Physico-Chemical Analysis
+
+5g of air dried sample was dissolved in 50 ml of distilled 
+water (1:10 ratio) and shaken well for 40 min. Then the 
+supernatant was collected, filtered and the pH and EC of the 
+filtrate was tested by using pH and EC meter. The porosity, 
+water holding capacity, bulk density, organic carbon content 
+(%), C:N ratio were determined as per standard protocols. The 
+K, Ca, Mg, Cu, Fe, Zn were determined by using Atomic 
+Absorption Spectrophotometer (Perkin Elmer analyst -100, 
+New Jersey, USA). Total nitrogen and phosphorous contents 
+were quantified by the standard methods.
+
+## 5. Results and Discussion
+
+Table 1 shows the physico-chemical properties of 
+vermicompost of sugarcane bagasse. The pH of the 
+vermicompost is decreased from 7.5 to 7.0; whereas the EC 
+significantly increased (41 % over control) probably due to the 
+degradation of organic matter and thereby releasing minerals 
+such as calcium, magnesium, potassium and phosphorous. 
+Vermicomposting converts sugarcane bagasse into compost in 
+30 days, reduces the C:N ratio and increases N, P and K. 
+Vermicomposting has improved the porosity (78 % over 
+control) and water holding capacity (25% over control), 
+whereas decreased the bulk density due to the high humus 
+content <sup>[6-8]</sup>. The major and micronutrients were also increased 
+significantly indicating the degradation of organic materials 
+into exchangeable calcium, magnesium, phosphorous, 
+potassium, nitrogen, copper and zinc <sup>[7-9]</sup>. To sum up, 
+vermicomposting of sugarcane bagasse is a natural, 
+ecofriendly, cost-benefited, less laboured and speedy process 
+where, earthworms are ingested the organic material and 
+produced humus like vermicastings (Black Gold). 
+Vermicastings are rich in nutrient and thereby enriched the 
+physico-chemical parameters of the soil. In addition, the 
+reduced pH solubilizes the macro and micronutrients, which 
+make them readily available to the plant kingdom. This is in 
+consonance with the findings of Suthar and Singh<sup>[9]</sup> and 
+Sakthivel, et al. <sup>[10]</sup>.
+
+**Table 1:** Physico-chemical parameters of vermicompost of sugarcane 
+bagasse at different time intervals. The Data are mean values of three 
+different experiments. (Data in parenthesis indicates % over control)
+
+| S. NO | Parameters | 0 - day | 30 - day |
+| --- | --- | --- | --- |
+| 1 | pH | 7.5 | 7.0 (93) |
+| 2 | EC (mS/cm) | 7.90 | 11.20 (141) |
+| 3 | Water holding capacity (%) | 47.5 | 59.5 (125) |
+| 4 | Bulk density (Kg m-3) | 586 | 462 (78) |
+| 5 | Porosity (%) | 43.55 | 77.62 (178) |
+| 6 | Organic carbon (%) | 23.5 | 14.5 (62) |
+| 7 | C:N ratio | 25.8 | 18.5 (72) |
+| 8 | Nitrogen (%) | 0.85 | 1.92 (223) |
+| 9 | Phosphorous (%) | 0.40 | 0.75 (187) |
+| 10 | Potassium (%) | 0.65 | 0.90 (138) |
+| 11 | Calcium (%) | 1.65 | 3.80 (230) |
+| 12 | Magnesium (%) | 0.38 | 0.51 (134) |
+| 13 | Copper (ppm) | 113 | 128 (113) |
+| 14 | Iron (ppm) | 141 | 163 (116) |
+| 15 | Zinc (ppm) | 123 | 166 (135) |
+
+## 6. References
+
+1. Business Standard Sugar production for 2015-16 
+estimated at 26 million tonnes, 2015, 
+http://www.business-standard.com/article/economypolicy
+/sugar-production-for -2015-16-estimated-at-26-milliontonnes-115101000041_1.html. Assessed 12 May 2016
+
+2.
+
+FAI. Fertilizer statistics 2010–11, 56th edn. Fertilizer 
+Association of India, New Delhi, 2011.
+
+3.
+
+Dotaniya ML, Datta SC, Biswas DR, Dotaniya CK, 
+Meena BL, Rajendiran S, *et al.* Manju Lata Use of 
+sugarcane industrial by-products for improving sugarcane 
+productivity and soil health, International Journal of 
+Recycling of Organic Waste in Agriculture.2 011; 
+5(3):185-194.
+
+4.
+
+Vinothini V, Anuradha R, Senthilkumar R. 
+Vermicompost production and nutrient analysis using 
+*Eudrillus eugeniae,* World Journal of Pharmaceutical 
+research. 2016; 5(6):1250-1257.
+
+5.
+
+Senapathi BK. Vermitechnology - an option for recycling of 
+cellulosic wastes of India. New trends in Biotechnology. 
+New Trends in Biotechnology. Oxford and IBH 
+Publications Pvt. Co. Ltd. Calcutta, 1992, 357-358.
+
+6.
+
+Guoxue L, Zhang F, Sun Y, Wong WC, Fang M. 
+Chemical evaluation of sewage composting as mature 
+indicator for composting process, Water Air Soil Sludge 
+Pollution. 2001; 132:333-345.
+
+7.
+
+Suhane RK. Vermicompost, Publication of Rejendra 
+Agricultural University, PUSA, Bihar, India, 2007, 88.
+
+8.
+
+Tognetti C, Laos F, Mazzarino MJ, Hernndez MT. 
+Composting Vs vermicomposting: a companion of end 
+product quality. Compost Science Utility. 2005; 1:6-13.
+
+9.
+
+Suthar S, Singh S. Vermicomposting of domestic waste 
+by using two epigeic earthworms (*Perionyx excavatus*
+and *Perionyx sansibaricus).* International Journal of 
+Environment Science and Technology. 2008; 5(1):99-106.
+
+10.
+
+Sakthivel V, Malathi C, Jayashri S, Saralabai VC. 
+Physico-chemical analysis of vermicompost produced 
+from tea leaves waste mixed with cow dung using 
+*Eudrillus eugeniae,* European Journal of Biotechnology
+
+---
+
+European Journal of Biotechnology and Bioscience
+
+and Bioscience. 2017; 5(6):35-36.

@@ -1,0 +1,211 @@
+[Skip to main content](https://link.springer.com/article/10.1007/s42247-023-00603-y#main)
+
+## Search
+
+Search by keyword or author
+
+Search
+
+## Navigation
+
+- [Find a journal](https://link.springer.com/journals/)
+- [Publish with us](https://www.springernature.com/gp/authors)
+- [Track your research](https://link.springernature.com/home/)
+
+# Sugarcane bagasse-based biochar and its potential applications: a review
+
+- Review
+- [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+- Published: 08 December 2023
+
+- Volume 7, pages 133–161 (2024)
+
+- [Cite this article](https://link.springer.com/article/10.1007/s42247-023-00603-y#citeas)
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](https://link.springer.com/content/pdf/10.1007/s42247-023-00603-y.pdf)
+
+[Save article](https://link.springer.com/article/10.1007/s42247-023-00603-y/save-research?_csrf=XG9k0N5EumfY1CppHfA2UKJs49ZSzlbI)
+
+[View saved research](https://link.springer.com/saved-research)
+
+[![](https://media.springernature.com/w72/springer-static/cover-hires/journal/42247?as=webp)Emergent Materials](https://link.springer.com/journal/42247) [Aims and scope](https://link.springer.com/journal/42247/aims-and-scope) [Submit manuscript](https://submission.springernature.com/new-submission/42247/3)
+
+Sugarcane bagasse-based biochar and its potential applications: a review
+
+
+[Download PDF](https://link.springer.com/content/pdf/10.1007/s42247-023-00603-y.pdf)
+
+## Abstract
+
+The effective management of agro-industrial waste plays a pivotal role in mitigating various forms of pollution. Sugarcane bagasse (SB), a substantial biomass waste generated in the sugar industry after cane juice extraction, necessitates sustainable handling. Although some sugar mills utilize wet sugarcane bagasse for fueling the milling process, a significant portion remains stockpiled and is often incinerated on-site, resulting in a highly flammable biomass that poses significant risks to the industry and its surroundings. Recognizing the importance of addressing this issue, researchers have identified the conversion of agricultural waste into biochar as an efficient means of harnessing energy following biomass devolatilization. There is scientific interest in the transformation of biomass into value-added products, including biochar, biogas, and biofuel. This comprehensive literature review delves into various pyrolysis processes applicable for converting sugarcane bagasse into char materials, showcasing its potential for diverse applications in line with current scientific interests.
+
+### Graphical Abstract
+
+![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs42247-023-00603-y/MediaObjects/42247_2023_603_Figa_HTML.png)
+
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1007%2Fs13369-020-05119-9/MediaObjects/13369_2020_5119_Fig1_HTML.png)
+
+### [Thermochemical Co-conversion of Sugarcane Bagasse-LDPE Hybrid Waste into Biochar](https://link.springer.com/article/10.1007/s13369-020-05119-9?fromPaywallRec=false)
+
+Article20 November 2020
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1007%2Fs11356-022-21889-1/MediaObjects/11356_2022_21889_Fig1_HTML.png)
+
+### [Sugarcane bagasse into value-added products: a review](https://link.springer.com/article/10.1007/s11356-022-21889-1?fromPaywallRec=false)
+
+Article08 July 2022
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-981-97-7228-5?as=webp)
+
+### [Sugarcane By-Product-Based Industries in Asian Countries](https://link.springer.com/chapter/10.1007/978-981-97-7228-5_1?fromPaywallRec=false)
+
+Chapter© 2024
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+- [Crop waste](https://link.springer.com/subjects/crop-waste)
+- [Deoxy Sugar](https://link.springer.com/subjects/deoxy-sugar)
+- [Solid Biofuels](https://link.springer.com/subjects/solid-biofuels)
+- [Sugar Alcohol](https://link.springer.com/subjects/sugar-alcohol)
+- [Sugar Phosphate](https://link.springer.com/subjects/sugar-phosphate)
+- [Biogas](https://link.springer.com/subjects/biogas)
+- [Sustainability Assessments in Bioethanol Production Systems](https://link.springer.com/subjects/sustainability-assessments-in-bioethanol-production-systems)
+
+## 1 Introduction
+
+Sugarcane, a prominent cash crop on a global scale, plays a crucial role in providing not only sugar but also ethanol and jaggery. By-products of sugarcane find utility as animal feed in numerous countries. The cultivation of sugarcane has expanded to regions with warm climates worldwide. The largest contributor to the global sugarcane production is from the American continent including countries Brazil, Mexico, the USA, and others accounting for about 51% of the total output, closely followed by Asia (41.6%), Africa (5%), and Oceania (1.7%) \[ [1](https://link.springer.com/article/10.1007/s42247-023-00603-y#ref-CR1 "Food and Agriculture Organization of the United Nations (FAO). FAO Global Statistical Yearbook, FAO Regional Statistical Yearbooks. Available at:                    http://www.fao.org/faostat/en/#data/QC                                    . Accessed 25 October 2023 (2021)")\]. The leading countries in sugarcane production are Brazil, India, China, Thailand, and Pakistan. These five nations are at the forefront when it comes to cultivating and harvesting sugarcane \[ [2](https://link.springer.com/article/10.1007/s42247-023-00603-y#ref-CR2 "J. Murugesan, M. Suguna, M. Jayanthi, Sugarcane production in India—an overview, International Journal of Emerging Technologies and Innovative Research, ISSN:2349–5162, Vol.8, Issue 10, page no. d702-d705, Available at:                    http://www.jetir.org/papers/JETIR2110375.pdf                                    . Accessed 25 October 2023 (2021)")\]. India surpasses other countries such as Brazil, Thailand, and China in sugarcane production, with an impressive output of 29.66 million metric tons as per some estimates. This significant production volume establishes India as a leading global player in the sugarcane industry \[ [3](https://link.springer.com/article/10.1007/s42247-023-00603-y#ref-CR3 "K.A. Hussnain, A.W. Raza, Ethanol: sugar versus ethanol nexus in Pakistan market. Pakistan Sugar Journal, 36(1), 17–26, Apr. 2021. ISSN 1028–1193. Available at:<                   http://srdb.gop.pk/journal/index.php/PSJ/article/view/169                                    >. Accessed 25 October 2023. (2021)")\]. As per a bi-annual report released in May 2022 by the Foreign Agricultural Service/USDA, the global sugar production has risen to 181.2 million tons. Notably, India stands out by contributing 2.1 million tons to the total sugar output of 8.4 million tons, primarily attributed to favorable weather conditions and increased crop yields. This significant increase in production further highlights India’s noteworthy role in the global sugar industry \[ [4](https://link.springer.com/article/10.1007/s42247-023-00603-y#ref-CR4 "USDA, Sugar: World Markets and Trade, United States Department of Agriculture. Foreign Agricultural Service, Available at:                    https://apps.fas.usda.gov/psdonline/circulars/sugar.pdf                                    . Accessed 25 October 2023 (2022)")\] (Fig. [1](https://link.springer.com/article/10.1007/s42247-023-00603-y#Fig1)).
+
+**Fig. 1**
+
+![Fig. 1](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs42247-023-00603-y/MediaObjects/42247_2023_603_Fig1_HTML.png)
+
+[Full size image](https://link.springer.com/article/10.1007/s42247-023-00603-y/figures/1)
+
+**a** Production share of sugarcane by region averages from 2011 to 2021. **b** Production of sugarcane by 5 major sugarcane-producing countries’ average from 2011 to 2021 \[ [7](https://link.springer.com/article/10.1007/s42247-023-00603-y#ref-CR7 "Source : Food and Agricultural Organization of United Nations, Link                    https://www.fao.org/faostat/en/#data/QCL/visualize                                     Accessed 18 November 2023.")\]
+
+Over the past few decades, there has been a notable rise in sugarcane production, driven by the increasing demand for sugar, ethanol, and jaggery derived from this versatile crop. Consequently, the sugar industry generates a significant amount of agricultural waste. This waste primarily takes the form of bagasse, which remains after sugarcane undergoes processing in factories to extract sucrose or alcohol. Without proper utilization, bagasse is commonly disposed of as solid waste or utilized as a fuel source for the milling process. For every ton of sugarcane, approximately 280 kg of wet bagasse is produced, highlighting the substantial quantity of this residue \[ [5](https://link.springer.com/article/10.1007/s42247-023-00603-y#ref-CR5 "H. Fu, S.T. Yang, M. Wang, J. Wang, I.C. Tang, Butyric acid production from lignocellulosic biomass hydrolysates by engineered Clostridium tyrobutyricum overexpressing xylose catabolism genes for glucose and xylose co-utilization. Bioresour. Technol. 234, 389–396 (2017).                    https://doi.org/10.1016/j.biortech.2017.03.073                                    ")\]. Sugarcane bagasse biomass (SB) has the potential to be transformed into energy, materials, and fine chemicals \[ [6](https://link.springer.com/article/10.1007/s42247-023-00603-y#ref-CR6 "S.I. Akinfalabi, U. Rashid, C. Ngamcharussrivichai, I.A. Nehd, Synthesis of reusable biobased nano-catalyst from waste sugarcane bagasse for biodiesel production. Environ. Technol. Innov. 18, 100788 (2020).                    https://doi.org/10.1016/j.eti.2020.100788                                    ")\].
+
+
+[... middle omitted — see footer ...]
+
+
+2. Rachel Alveera Menezes
+
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=Rachel%20Alveera%20Menezes)
+
+
+
+
+
+Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Rachel%20Alveera%20Menezes) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Rachel%20Alveera%20Menezes%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+3. H. Venkatachalam
+
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=H.%20Venkatachalam)
+
+
+
+
+
+Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=H.%20Venkatachalam) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22H.%20Venkatachalam%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+4. K. Subrahmanya Bhat
+
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=K.%20Subrahmanya%20Bhat)
+
+
+
+
+
+Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=K.%20Subrahmanya%20Bhat) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22K.%20Subrahmanya%20Bhat%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+
+### Contributions
+
+Mohd. Khalid Zafeer: collecting the literature, preparation of draft, and revision; Rachel Alveera Menezes: editing and revision; H. Venkatachalam: editing and revision, K. Subrahmanya Bhat: editing, supervision, and improvement of its intellectual content.
+
+### Corresponding author
+
+Correspondence to
+[K. Subrahmanya Bhat](mailto:sbkjrf@yahoo.co.in).
+
+## Ethics declarations
+
+### Ethics approval
+
+No ethical approvals required as the study involve no human subjects or animal studies.
+
+### Competing interests
+
+The authors declare no competing interests.
+
+## Rights and permissions
+
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/).
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Sugarcane%20bagasse-based%20biochar%20and%20its%20potential%20applications%3A%20a%20review&author=Mohd.%20Khalid%20Zafeer%20et%20al&contentID=10.1007%2Fs42247-023-00603-y&copyright=The%20Author%28s%29&publication=2522-5731&publicationDate=2023-12-08&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY)
+
+## About this article
+
+[![Check for updates. Verify currency and authenticity via CrossMark](<Base64-Image-Removed>)](https://crossmark.crossref.org/dialog/?doi=10.1007/s42247-023-00603-y)
+
+### Cite this article
+
+Zafeer, M.K., Menezes, R.A., Venkatachalam, H. _et al._ Sugarcane bagasse-based biochar and its potential applications: a review.
+_emergent mater._ **7**, 133–161 (2024). https://doi.org/10.1007/s42247-023-00603-y
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1007/s42247-023-00603-y?format=refman&flavour=citation)
+
+- Received: 09 September 2023
+
+- Accepted: 29 November 2023
+
+- Published: 08 December 2023
+
+- Version of record: 08 December 2023
+
+- Issue date: February 2024
+
+- DOI: https://doi.org/10.1007/s42247-023-00603-y
+
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+
+### Keywords
+
+- [Biochar](https://link.springer.com/search?query=Biochar&facet-discipline=%22Materials%20Science%22)
+- [Sugarcane bagasse](https://link.springer.com/search?query=Sugarcane%20bagasse&facet-discipline=%22Materials%20Science%22)
+- [Sustainable development](https://link.springer.com/search?query=Sustainable%20development&facet-discipline=%22Materials%20Science%22)
+- [Environmental remediation](https://link.springer.com/search?query=Environmental%20remediation&facet-discipline=%22Materials%20Science%22)
+- [Waste reduction](https://link.springer.com/search?query=Waste%20reduction&facet-discipline=%22Materials%20Science%22)
+
+### Profiles
+
+1. Mohd. Khalid Zafeer [View author profile](https://link.springer.com/researchers/10016975SN)
+2. K. Subrahmanya Bhat [View author profile](https://link.springer.com/researchers/42532074SN)
+
+──────── [TRUNCATED] ────────
+Showing 9,969 chars (head) + 5,239 chars (tail) of 354,436 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/link.springer.com-1aa6d9f7b6.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/link.springer.com-1aa6d9f7b6.md" offset=94 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

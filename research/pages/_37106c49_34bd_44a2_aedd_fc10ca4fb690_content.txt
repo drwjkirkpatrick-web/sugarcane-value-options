@@ -1,0 +1,404 @@
+# An innovative approach of developing agro-industrial waste to biofuel value Chain to avoid charcoal driven deforestation in Kenya
+
+Belachew Gizachew Zeleke<sup>1</sup>, Peter Ogutu<sup>2</sup>, Jack Ochieng<sup>2</sup>, Eric Okola<sup>3</sup>
+
+<sup>1</sup>Norwegian Institute of Bioeconomy Research (NIBIO); 1431 Ås, Norway 
+<u>belachew.gizachew@nibio.no</u>
+
+<sup>2</sup>Kenyan Forestry Research Institute, 20412-00200 Nairobi, Kenya.
+
+#### <sup>3</sup>Sugar Directorate, Sukari Plaza, Upper Kabete, Off Waiyaki way P.O. Box 51500 – 00200 Nairobi
+
+## Abstract
+
+We present an innovative value chain on upscaling and commercial production of carbonized biobriquettes from agro-industrial waste (mainly a sugarcane bagasse), that aims at substituting a 
+forest-based charcoal for household consumption and thus reduce deforestation. We demonstrate 
+the three main pillars of the value-chain: (1). Empowering and capacity building of members of the 
+cooperatives (mainly women), through developing technical skills, using and maintaining 
+technologies and tools, ergonomics and safety, businesses, and marketing. (2). Innovative locally 
+built biowaste to biofuel conversion technologies. This are technologies for raw material (biowaste) 
+preparation (transport, drying and storage), locally developing carbonization kilns of high efficiency 
+and commercial volume, biochar production, selection of bio-based binders, local fabrication of 
+briquetting machines, production of briquettes, drying and storage of briquettes. This section 
+demonstrates (using videos and pictures) on how a daily briquettes production of 3-tonnes is 
+achieved, with briquette qualities comparable to that of wood-based charcoal. We also demonstrate 
+production of custom-made cookstoves for briquettes by modifying existing local cookstoves. 
+Further, we demonstrate the amount of avoided deforestation through such innovative local 
+approaches. (3). Business and market development: This aims at bringing green-jobs to villages in 
+sustainable supply, distribution, and sales of clean locally produced bio-briquettes. The program 
+enables capacity building of members of the cooperatives in business and marketing, building 
+partnership with key market segments and cooperation with private sector such as distributors, 
+consumers, lenders, and banks. The complete value-chain is a result of a successful development 
+and partnership program (2018-2021) supported by the government of Norway that involved 
+Kenyan national institutions, local community cooperatives and international partners.
+
+*Keywords: Bagasse, Kenya, Briquette, Deforestation, value chain*
+
+---
+
+## 1. Introduction, scope and main objectives
+
+Charcoal remains the major energy source for millions of Kenyans, meeting close to 70% of 
+household energy demand. Charcoal, although produced mainly in rural areas, is consumed in periurban and urban areas, involving numerous actors (wood providers, charcoal producers, 
+transporters, wholesalers, retailers) to form a value chain. The charcoal value chain is one of the 
+most important sources of employment, and a major source of livelihood for an estimated well over 
+half a million people in Kenya (Kiruki et al., 2020). Consequently, charcoal production became among 
+the major drivers of deforestation in Kenya (Kiruki et al., 2017), where annual deforestation between 
+2014–2017 was estimated at 10,459 ha per year (Rodriguez-Veiga et al., 2020). National as well as 
+international efforts to reducing forest loss (<u>UNFCCC</u>, 2015), will not be successful unless the actual 
+drivers of deforestation are addressed, and alternative household energy sources is made available.
+
+On the other hand, Kenya has a large agro-industrial waste particularly sugarcane bagasse from the 
+its network of sugar industries, which can be a potential biomass-based energy resource (Yuko, 
+2005).  Annual bagasse production in Kenya has been between 1.5 - 2 million tonnes per year during 
+1990 -2017 (Kenya Statistics Bureau, 2018).  Up to 60% of the bagasse produced annually is being 
+used as a fuel within the sugar milling industry, but the remining 40% is often left to decay around 
+the sugar factories or taken to dumping sites.
+
+Converting sugarcane bagasse into carbonized briquettes, a value-added solid biofuel product, is a 
+promising opportunity for increasing access to renewable energy options for rural populations, while 
+potentially reducing unemployment. Given the availability of large amount of sugarcane bagasse, 
+since recently there are community-based micro-and small enterprises (MSEs) in in western Kenya. 
+Majority of the MSEs produce non-carbonized briquettes for industrial applications targeting large 
+factories. However, the non-carbonized briquettes run in inefficient cook stoves emit smoke and are 
+less preferable for household applications. Carbonized briquettes if produced using efficient 
+carbonization and briquetting technologies may provide a suitable alternative to charcoal from wood 
+for direct application as a substitute to wood charcoal for households, local enterprises, and 
+institutions such as schools and hospitals (Brunerov et al., 2020; Lubwama and Yiga, 2017). However, 
+there are still operational, technical, market, financial and policy barriers to develop profitable 
+biofuel enterprises converting bagasse to carbonized briquettes.
+
+A project, “Biofuel4Kenya” supported by the Norwegian Agency for Development Cooperation 
+(Norad) was designed and became operational since 2017 in western Kenya. The project aims at 
+developing a bagasse-based briquette value chain through upscaling the production of carbonized 
+bagasse briquettes. The expected impacts were to contribute to (1) the renewable energy sector in 
+Kenya with direct effects on the domestic energy supply to households by providing bio-briquettes 
+for household consumption, and (2) reducing deforestation by substituting natural forest-based 
+wood fuel and charcoal. The major challenges were lack of appropriate technology, technical skills, 
+and markets for biochar-based briquettes. The project activities have been slowed down mainly due 
+to COVID-19 during 2020 and parts of the year 2021. Consequently, data/information on the some of 
+the elements in the production value chain are on preparation. Therefore, discussions presented 
+here are based on preliminary results, pending a more detailed quantitative description to later.
+
+---
+
+## 2. Approach
+
+The approach followed here is description of technical procedure and specific technical elements for 
+a complete production line for a bagasse-based briquettes is represented by the diagram (Fig. 1). 
+The overall value chain consists of three main packages of activities: a) capacity building of local 
+partners and village cooperative members, b) access to production technologies, raw material, and 
+skills, and c) business development and access to markets. This paper, however, focusses on- access 
+to production technologies- particularly, designing and locally fabricating technologies for biomass 
+feedstock drying, carbonization, briquetting machine, and briquette-fired cookstoves. The paper 
+describes preliminary findings of the optimized low-tech technologies from bagasse handling to 
+production of carbonized briquettes, to adapting charcoal cookstoves to bagasse-based briquettes. 
+Further, a brief account will be provided on the potential socio-economic and environmental 
+significance of the value chain if fully implemented and upscaled.
+
+Collection and transport of bagasse
+
+Sun or greenhouse drying of bagasse
+
+Sun drying briquettes
+
+Briquetting
+
+Mixing
+
+Water
+
+Binder
+
+Carbonization
+
+Packaging
+
+Distribution & Sales
+
+Fig 1. Workflow diagram of for the technical activities involved in the value chain of carbonized bagasse- briquettes.
+
+source
+
+---
+
+## 3. Results and discussion
+
+### 3.1 Bagasse resources and bagasse drying
+
+Bagasse yield per year in Kenya amounts to 1.5-2 million tonnes since 1990s (Kenya Statistics 
+Bureau, 2018). In the sugar cane industries of Kenya, for each unit of crushed sugarcane, 0.27 tonnes
+of bagasse is used to produce process energy (steam and electricity) in the sugar industries (UNFCCC, 
+2013). This leaves a surplus of millions of tonnes of bagasse annually, which is left in the yards of the 
+factories or dumped to landfills to decompose. We receive freshly produced bagasse at the bagasse 
+extrusion point of the Sukari Industries LTD- the sugar milling factory. The wet bagasse at the point 
+of collection has a moisture content of 50-60%. But biochar production requires the moisture 
+reduced to 10 -15% (Lubwama and Yiga, 2017). In an open sun. reducing the moisture content to an 
+optimum takes 3 - 5 days, depending on the season. To facilitate faster drying. We constructed a 
+greenhouse provided with a wind drawn ventilators on rooftop (Fig. 1) to expel moisture.
+
+A
+
+C
+
+Fig 2. Bagasse delivery near a greenhouse (left) and drying in a greenhouse (5 m x 30 m long) supplied with wind drown 
+ventilators (Photo by Jack Ochieng).
+
+The preliminary result shows that using greenhouse requires one full day to reduce the MC to an 
+optimum of 10-15%. However, if a large-scale commercial production is anticipated, a much larger 
+size greenhouse is required, which requires an additional resource (land and cost). Therefore, where 
+sufficient land for drying is available, and if a large volume of commercial production is anticipated, 
+an open sun drying followed by immediate carbonization is generally less costly, particularly during 
+dry seasons. In our context, the green house is often used for the rainy days, while and open-air 
+drying is being practiced for dry seasons.
+
+---
+
+### 3.2 Bagasse carbonization kilns and biochar
+
+The purpose of carbonization is to convert waste bagasse into a carbon-rich char through a process 
+of a slow pyrolysis. Under carbonization, the bagasse is heated in an inert atmosphere to high 
+temperatures until volatiles are expelled, thus enriching the heating value and energy content of the 
+resulting biproduct- biochar. For carbonization, we designed steel kilns (Fig. 1) and perform several 
+runs of preliminary tests. We modified the traditional Top-lit Updraft Kilns (TLUD) gasifier, originally 
+designed for wood charcoal, by Thomas Reed and the Norwegian architect Paal Wendelbo, during 
+1985-1988 (Anderson, 2009).  A modification was needed as the bagasse requires design 
+reconsiderations given the density and surface area that is different from that of wood. Using 
+experience, trials and errors as well as basic scientific principles of carbonization, we incorporated an 
+internal perforated chimney to facilitate air movement from the primary air inlets at the bottom. In 
+the Modified TLUD (M-TLUD), bagasse will be filled from the top, just below the secondary air inlet 
+holes. Ignition will be from the top for the carbonization to start. Air then flows in through the 
+internal perforated chimney from primary to the secondary air inlets.  We further incorporated a 
+mechanism for easy bagasse loading from the top and char-harvesting steel box at the bottom. The 
+technical and economic considerations in the construction of the kilns included- cost, availability of 
+local construction material, ease of construction, speed of carbonization, ease of operation and 
+maintenance. The result is construction of 25 units M-TLUD (Fig. 3), with a capacity of producing 120 
+kg of biochar each pr day using 3-4 batches of operation and bagasse to biochar efficiency of 18 -
+22%. The M-TLUD kilns are easy to operate manually after a short training and easy to maintain by 
+local workshops. The dry bagasse is then subjected to carbonization at a temperature of 250-300 ºC. 
+The resulting biochar (see fig 4) has physical structure similar to that of dry bagasse, with a feathery 
+dust-like structure.
+
+---
+
+Chimney
+
+Door Opener
+
+Internal Chimney
+
+Stirer
+
+Bottom Sliding Door
+
+Biochar Collection Trough
+
+Fig.3. The schematic diagram of the modified TLUD (M-TLUD) carbonization Kiln (left panel) and series of M-TLUDS under
+operation (right panel). (Design and Photo by Jack Ochieng).
+
+COBRA
+
+PRODUCTION FACILITY
+
+Fig 4. Bagasse biochar (left) and the resulting briquettes (right). (Photo: Jack Ochieng)
+
+---
+
+### 3.3 Briquetting machine and the briquettes
+
+Briquetting biowaste (molding and densifying a biochar mixed with a binder into a briquette) is a 
+common technology (Brunerov et al., 2020; Lubwama and Yiga, 2017). However, adapting to 
+different types of raw material, biochar-binder mix and improving capacity as well as efficiency 
+require series of testing. Furthermore, there are technical and economic considerations including 
+cost and availability of construction material, ease of construction and maintenance by local 
+artisans, and speed or efficiency of pressing for small scale commercial production.
+
+We designed, constructed, and tested an extrusion screw-press type briquetting machine (Fig. 4), 
+suitable for a small-scale commercial production, with the technical and economic considerations. 
+The machine is provided with a slanting manual feed (hopper), switch box, a screw conveyor, 
+bearings, couplers, gearbox, motor, pulleys and belts, screw, barrel, and extruder (see Fig 5, left 
+panel). Power is transmitted through pulleys and belts from the motor to the gearbox which then 
+transmits the torque to the screw. The preferred binder is a low-grade gum Arabic with an optimum 
+ratio of 1:24 (1 Kg of gum Arabic mixed with 24 Kgs of biochar). The mix is fed manually into the 
+slanting feeder (hopper) which feeds to a powered screw, rotating at 300 rpm using a 15-kW electric 
+motor. the rotating screw takes the mix from the hopper and compacts it against a die which assists 
+the build-up of a pressure gradient along the screw and extrudes a wet freshly pressed cylindrical 
+briquette (Fig. 5 right panel). Finally, 3- of briquetting machines, with a capacity of 150-200 kgs pr 
+hour each, were fabricated locally.
+
+hopper Auger Housing Extruder Auger Fins Pulley Bearings Auger Shaft Belt Guard Universal Joint 3Ph Motor
+
+JU
+
+Fig 5. The schematic diagram of the basic screw-type char briquetting machine (Design and Photo by Jack Ochieng)
+
+The produced briquettes are sun dried for a period of up to 7 days to remove the moisture, and thus 
+to enhance ignition and the burning time. The physical and thermal properties of briquettes 
+influence its characteristics as a fuel. The resulting carbonized briquettes produced have the average 
+physical properties of- Fixed Carbon = 36.3%; Volatile Matter = 21%; Ash Content = 35 %; Moisture 
+Content = 7.13%, and heating value of 16 MJ/kg.  The volatile matter and moisture content are lower 
+or comparable to the results from recent tests of briquettes originating from bagasse (Lubwama and 
+Yiga, 2017). The ash content however is rather high, thus lowering the heating value.  Increasing the carbonization temperatures and the use of mixtures of various binder proportions are among the 
+approaches to improve the fuel quality of biochar (Manyuchi et al., 2019). These tests to reduce the 
+ash content and improve heating values are ongoing but results not reported here.
+
+### 3.4 Briquette-fired cookstoves
+
+Wood charcoal consuming homes in Kenya commonly use the Kenya Ceramic Jiko cookstoves, most 
+of which are designed for wood charcoal, and thus could not be used directly, because of the 
+different physical properties such as density, ash content and calorific value of the briquettes. We 
+modified the wood-charcoal based cookstoves and produced the first set of 20 cookstoves (Fig. 5) of
+which 10 were designed for households and 10 large-sized for schools and restaurants considering 
+these characteristics. The cookstoves were distributed among rural users, along with the briquettes, 
+both near the project sites and up-markets in western Kenya. User’s opinions and rankings were 
+collected to further modify according to opinions. Re-design and modifications were considered 
+based on consumer ratings and opinions including briquette loading and lighting, ash storage and 
+removal, increased air movement, and prices compared to existing wood based cookstoves. The 
+modified stoves provided with a better air flow and ash deposit at the base were recommended for 
+further production and distribution. Scaling up of manufacturing the modified cookstoves will follow 
+further testing of the re-designed cookstoves, which is ongoing by the time of this report.
+
+Fig. 5. Improved small-scale household cookstove (left) (Design and Photo by Jack Ochieng), and larger sized cookstoves for 
+schools and restaurants, right (Design and Photo: Peter Ogutu,).
+
+---
+
+## 4. The socio-economic and environmental significance
+
+Members of three independent cooperatives, with 40-60 members each were, were involved from 
+project inception to the progress thus far. Short term, practical, technical, and business management 
+training were conducted in cooperative governance and management, feed stock handling and 
+carbonization, techniques of biomass briquette production, marketing of briquettes, basic 
+bookkeeping, as well as ergonomics and safety. Furthermore, partnerships with key market 
+segments and cooperation with private sector such as distributors, consumers, lenders, and banks 
+were introduced. The value chain is not yet in a full-scale operation but has already created a 
+number of jobs within the cooperatives and a few outside the cooperatives. At the current stage of 
+the pilot production and distribution of bio briquettes, every stage in the value chain generated jobs 
+for the locals. However, when full scale production is achieved, and the domestic energy value of 
+carbonized briquettes are realized, we anticipate a considerable potential for jobs and improved 
+livelihoods associated with, processing of raw material, production, transport and distribution and 
+sales of briquettes.
+
+### 5. The potential for reducing deforestation
+
+In Kenya, wood charcoal has been an important source of energy for decades and continued today. 
+With increased population and urbanization, demand will continue to increase. Consequently, 
+charcoal production is one of the substantial drivers of deforestation in Kenya. Furthermore, a new 
+regulation, since 2018 of banning logging and charcoal production in Kenya has left consumers with 
+few alternatives. Briquettes produced using resources such as sugarcane bagasse, which otherwise 
+are considered waste, with improved technologies can have the potential to reduce deforestation.  
+We demonstrate the potential avoided deforestation based on the following assumptions: (a) the 
+cooperatives will be able to operate at the maximum capacity and produce at least 600 tonnes of 
+briquets per year; (b) deforestation of Kenyan Forests (dense forests and Open woodlands) continues 
+at an annual rate of ca 11 000 ha per year, if not abated, as estimated by (Rodriguez-Veiga et al., 2020), 
+and( C) woody biomass conversion to charcoal is at a ratio of  7:1 as  estimated by (FAO, 2020).
+
+Given these assumptions, along with a projected annual briquette production of 600 tonnes pr year 
+(projected from current daily production rate), 60-350 ha of forests could be saved per year (Table 1.).  
+Sugar cane is a short rotation plant, which can be produced on a much shorter rotation and higher 
+frequency than trees. Thus, the use of bagasse waste as an energy source can be considered a 
+renewable, and an alternative to reduce deforestation through reducing the dependence on woodbased charcoal for domestic energy. However, a large-scale effort is needed to substitute a forestbased charcoal for household consumption and thus reduce deforestation.
+
+Table 1. Potential avoided deforestation in ha per year assuming a production of 600 tonnes per year of bagasse-based 
+briquettes, within the established value chain.
+
+| Forest types of Kenya | AGB (t/ha) (Rodriguez-Veiga et al., 2020) | Charcoal pr ha using Biomass to Charcoal ratio FAO estimates: (7:1)(FAO, 2020) | Avoided deforestation (ha/yr) Due to briquet (600 t/yr) |
+| --- | --- | --- | --- |
+| Open to Dense Forests | 72 (+/- 34) | 10 t/ha | 60 ha/yr |
+| Wooded Grass Land (60% of forest) | 12 (+/-6) | 1.7 t/ha | 352 ha/yr |
+
+---
+
+## Conclusions
+
+We presented an overview and a preliminary finding of the process, the optimized low-tech 
+technology for production of carbonized briquettes from sugarcane bagasse. The main outcomes are 
+availability of low-tech locally fabricated briquette production infrastructure as well as 
+demonstrated possibility of locally producing biochar-based carbonized briquettes of acceptable 
+quality, with room for further improvement. We showed that technically this is achievable using only 
+locally accessible construction material, and locally available workshops and skills. We also see that 
+it’s of paramount importance to strengthen technical skills and organizational capacity among the 
+rural producers for an effective large scale commercial production and marketing of carbonized 
+briquettes. This may motivate a large-scale effort that aims at substituting a forest-based charcoal 
+for household consumption and thus reduce deforestation significantly.
+
+As an additional benefit, converting bagasse into briquettes can greatly help in waste management, 
+which has become a major issue in the sugar cane sector. Currently, only about half of the generated 
+bagasse is used for electricity or heat generation within the sugar milling system. The rest is left as 
+waste occupying a large space and as a source of methane emission and pollutant to the environment. 
+The pilot briquette production presented here clearly showed ways to re-use waste as an important 
+contribution to waste management. Since carbonization is a more carbon-efficient way to capture 
+bioenergy compared to other bioenergy systems, production and storage of biochar would add 
+significant benefits to soil health as well as carbon storage in agricultural soils. While biochar 
+applications to agricultural soils is currently most widely practiced, other land uses including forests 
+can benefit from addition of biochar to soils.
+
+Despite all these potentials, we also see that commercial scale production of carbonized briquettes in 
+the current rural settings of countries such as Kenya is challenging in terms of logistics and finance. The 
+resource requirements including land, electricity, and water as well as establishment costs for the 
+construction and operation can be daunting. This can make briquette production at commercial scale 
+expensive or inaccessible to rural households or small business start-ups. This may therefore hinder 
+local communities to engage in the production component of the biowaste to biofuel value chain. 
+Therefore, there is a need for a financing mechanism through for example private sector engagement 
+to scale up and replication of production and marketing of carbonized briquettes at commercial scale.
+
+## Acknowledgements
+
+Funding and partnership: The project is part of a program “Development and partnership program” (2018-2021) 
+Funded by the government of Norway through the Norwegian Agency for Development Cooperation (Norad). 
+Biofuel4Kenya QZA-0746 KEN — 17/0009 (1700734). Project implementers are the Norwegian Institute of 
+Bioeconomy Research (NIBIO), Royal Norwegian Society for Development (Norges Vel); Kenyan Forestry Research 
+Institute (KEFRI), The Sugar Directorate, Agriculture and Food Authority (AFA-SD) of Kenya, Fine Aromas, 
+community cooperatives at Ligodho and Sinoka in Homa Bay County, Kenya. The views expressed in this 
+information product are those of the author(s) and do not necessarily reflect the views or policies of the funding 
+or implementing institutions.
+
+---
+
+## References
+
+Anderson, P. S. (2009). Construction Plans For Champion TLUD Gasifier Cookstove incluing 
+operational instructions. https://www.scribd.com/document/86742654/Construction-Plans-
+<u>for-Champion-TLUD-Stove</u>. Accessed October 2021. .
+
+Brunerov, A., Roubk, H., Brozek, M., Dung, D. V., Phung, L. D., Hasanudin, U., Iryani, D. A., and Herk, 
+D. (2020). Briquetting of sugarcane bagasse as a proper waste management technology in 
+Vietnam. *Waste Management & Research* **38,** 1239-1250.
+
+FAO (2020). Logistics of charcoal production. http://www.fao.org/3/x5328e/x5328e02.htm.
+
+Kenya Statistics Bureau (2018). Kenya: Bagasse, production (thousand metric tons). 
+https://www.tilasto.com/en/country/kenya/energy-and-environment/bagasse-production. 
+accessed october 2021.
+
+Kiruki, H. M., van der Zanden, E. H., Kariuki, P., and Verburg, P. H. (2020). The contribution of 
+charcoal production to rural livelihoods in a semi-arid area in Kenya. *Environment 
+Development and Sustainability* **22,** 6931-6960.
+
+Kiruki, H. M., van der Zanden, E. H., Malek, Z., and Verburg, P. H. (2017). Land Cover Change and 
+Woodland Degradation in a Charcoal Producing Semi-Arid Area in Kenya. *Land Degradation 
+& Development* **28,** 472-481.
+
+Lubwama, M., and Yiga, V. A. (2017). Development of groundnut shells and bagasse briquettes as 
+sustainable fuel sources for domestic cooking applications in Uganda. *Renewable Energy*
+**111,** 532-542.
+
+Manyuchi, M. M., Mbohwa, C., and Muzenda, E. (2019). Evaluating the Usability of Bio Coal from 
+Sugar Cane Bagasse as a Solid Fuel. *Procedia Manufacturing* **33,** 516-521.
+
+Rodriguez-Veiga, P., Carreiras, J., Smallman, T. L., Exbrayat, J. F., Ndambiri, J., Mutwiri, F., Nyasaka, 
+D., Quegan, S., Williams, M., and Balzter, H. (2020). Carbon Stocks and Fluxes in Kenyan 
+Forests and Wooded Grasslands Derived from Earth Observation and Model-Data Fusion. 
+*Remote Sensing* **12.**
+
+UNFCCC (2013). 35 MW Bagasse Based Cogeneration Project Mumias Sugar Company Limited. 
+UNFCCC Clean Development Mechanism Project Design Document. 
+https://cdm.unfccc.int/Projects/DB/TUEV-SUED1193228673.11/view. Accessed  October 
+2010.
+
+<u>UNFCCC</u> (2015). Adoption of the Paris agreement. Draft decision−/CP.21, Conference of the Parties 
+Twenty-First Session, Paris,30 November to 11 December 2015. Available at 
+http://unfccc.int/resource/docs/2015/cop21/eng/l09.pdf.
+
+Yuko, D. (2005). Potential for electricity generation from bagasse in Kenya. *International Sugar 
+Journal* **107,** 32-37.

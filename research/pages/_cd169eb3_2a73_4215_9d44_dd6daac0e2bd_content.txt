@@ -1,0 +1,710 @@
+# GRIFFITH UNIVERSITY
+
+# Effect of Wet, Hemi-Solid, and Solid-State Conditions and Substrate to Inoculum Ratio on Methane Production from Sugarcane Bagasse
+
+## Author
+
+Edwiges, Thiago, Kaparaju, Prasad
+
+## Published
+
+2025
+
+## Journal Title
+
+Sustainability
+
+## Version
+
+Version of Record (VoR)
+
+## DOI
+
+<u>10.3390/su17030892</u>
+
+## Rights statement
+
+© 2025 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article
+distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license
+(https://creativecommons.org/licenses/by/4.0/).
+
+## Downloaded from
+
+https://hdl.handle.net/10072/435536
+
+## Griffith Research Online
+
+https://research-repository.griffith.edu.au
+
+---
+
+*Article*
+
+# Effect of Wet, Hemi-Solid, and Solid-State Conditions and Substrate to Inoculum Ratio on Methane Production from Sugarcane Bagasse
+
+**Thiago Edwiges<sup>1</sup> and Prasad Kaparaju <sup>2,</sup>***
+
+Thiago Edwiges 1 and Prasad Kaparaju 2, *
+
+<sup>1</sup>Department of Biological and Environmental Sciences, Federal University of Technology—Parana, Avenida
+Brasil, 4232, Medianeira 85884-000, Brazil; thiagoe@utfpr.edu.br
+
+<sup>2</sup>School of Engineering and Built Environment, Griffith University, 170 Kessels Road, Brisbane, QLD 4111,
+Australia
+
+***** Correspondence: p.kaparaju@griffith.edu.au
+
+#### Abstract:
+
+Sugarcane bagasse (SCB) constitutes up to 28% of the weight of crushed sugarcane,
+with significant potential for bioenergy production. Solid-state anaerobic digestion with
+total solids (TSs) over 15% is an interesting technology that can be used to treat agricultural
+wastes such as SCB, resulting in smaller reactor sizes and lower water consumption. This
+study investigates methane production from SCB under wet (10% TS), hemi-solid (15%
+TS), and solid-state (20% TS) anaerobic digestion with substrate-to-inoculum ratios (SIR) of
+1, 2, 3, and 4. Batch experiments were conducted under mesophilic conditions (37 <sup>◦</sup>C) to
+evaluate methane yields, volumetric methane productivity, and kinetic parameters. Results
+−1
+revealed that the highest methane yields—125, 115, and 106 L CH<sub>4</sub>kg VS —were achieved
+for wet, hemi-solid, and solid-state digestion, respectively. Despite similar methane yields
+across TS conditions, volumetric methane productivities increased by 118% and 128%
+from hemi-slid and solid-state digestion, demonstrating their potential for scaling up in
+commercial biogas plants. The first-order kinetic model best-predicted methane production
+2 −1
+(R > 0.984), with hydrolysis identified as the limiting step (K<sub>hyd</sub>*≤* 0.05 d). These findings
+highlight the advantages of solid-state anaerobic digestion for lignocellulosic feedstocks
+like SCB, contributing to bioenergy sustainability and the circular economy.
+
+check for updates
+
+Academic Editor: Attila Bai
+
+Received: 20 December 2024
+Revised: 7 January 2025
+Accepted: 21 January 2025
+Published: 23 January 2025
+
+**Citation:** Edwiges, T.; Kaparaju, P.
+Effect of Wet, Hemi-Solid, and
+Solid-State Conditions and Substrate
+to Inoculum Ratio on Methane
+Production from Sugarcane Bagasse.
+*Sustainability* **2025,17,** 892. https://
+doi.org/10.3390/su17030892
+
+**Copyright:** © 2025 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license
+(https://creativecommons.org/
+licenses/by/4.0/).
+
+$$
+(37\;^{\circ}C)
+$$
+
+$$
+\mathrm{CH}_{4}\operatorname{kg}\mathrm{VS}^{-1}
+$$
+
+1. Introduction Published: 23 January 2025
+
+$$
+(R^{2}>0.984)
+$$
+
+$$
+\mathrm{K_{hyd}}\leq0.05\mathrm{d}^{-1}
+$$
+
+**Keywords:** biogas; circular economy; dry digestion; sustainability; waste to energy
+
+### 1. Introduction
+
+The demand for cleaner and cheaper sources of energy to replace fossil fuels is increasing worldwide. The renewable energy obtained by the bioconversion of the carbohydrate
+content from lignocellulosic biomass into biofuels is an attractive option to meet part of
+the global energy demand and minimize associated environmental aspects of energy production and solid waste management [1]. Sugarcane is a widely cultivated crop used to
+produce sugar, livestock feed, and energy such as first-generation bioethanol. According
+to the International Sugar Organization [2], about 64 million tons per year of sugar is
+internationally traded, and Brazil, India, China, Thailand, the US, and Australia are among
+the top sugarcane producers.
+
+Despite being considered one of the most efficient substrates for biofuel production,
+processing sugarcane causes significant environmental impacts, especially related to the
+storage and management of the surplus bagasse. About 25–28% of each ton of crushed
+sugarcane is generated as bagasse (SCB) and 65–75% of it is burned to produce low-pressure steam and electricity in the sugar mills [3], resulting in 25–35% of the remaining bagasse
+available for second generation bioenergy production.
+
+Anaerobic digestion (AD) is a sustainable and decentralized alternative to treat a
+wide range of biowastes such as animal manure, wastewater sludge, food waste, and crop
+residues. The two main by-products of AD are a green source of energy in the form of
+biogas, mainly composed of carbon dioxide (CO<sub>2</sub>) and methane (CH<sub>4</sub>), and a digestate that
+can be potentially used as a biofertilizer to improve soil fertility, which also contributes to
+the circular economy of nutrients [4]. AD is a multistage biological process conventionally
+divided into hydrolysis, acidogenesis, acetogenesis, and methanogenesis. According to the
+total solids (TS) content, the AD process can be classified as wet (W-AD) with TS < 10%,
+hemi-solid (HS-AD) with TS between 10 and 15%, and solid-state (SS-AD) with TS > 15%,
+the later also known as dry-digestion [5].
+
+$$
+(CO_{2})
+$$
+
+$$
+(CH_{4})
+$$
+
+$$
+TS<10\%
+$$
+
+$$
+TS>15\%
+$$
+
+The moisture content of the feedstock and inoculum source are key factors that influence mass transfer between the gas–liquid–solid phases and the rate of substrate degradation during AD [6]. W-AD is widely applied to biomasses limited to high moisture
+content, such as animal manure and agro-industrial wastewater. However, it requires
+significant energy for piping, mixing, and heating and generates a substantial volume of
+liquid digestate to be managed. Nonetheless, SS-AD is suitable for agricultural wastes with
+low moisture and high lignocellulose content. It has some advantages over W-AD, such as
+higher volumetric methane productivity, lower consumption of water, smaller reactor sizes,
+lower energy requirements for heating and mixing, minimal material handling, positive
+energy balances, and the easiest management of end products [7]. Therefore, the adequate
+digestion of agricultural wastes like SCB, in addition to generating benefits such as optimized bioenergy production and the generation of a stabilized biofertilizer, can contribute
+to the circular economy indicators of agribusiness [8,9].
+
+However, one of the main disadvantages of SS-AD is that it needs a high amount of
+inoculum to achieve good start-up and efficient biogas production. Despite the potential
+use of SS-AD for solid biomasses, the comparative studies with W-AD also demonstrated
+longer digestion times and reduced methane yields due to the higher organic loading
+rates [10]. In addition, the concentration of lignin and the crystallinity of cellulose limit
+the biodegradability of lignocellulosic substrates, making the hydrolysis step one of the
+bottlenecks in anaerobic digestion [11]. The effect of lignocellulosic degradation on methane
+production has been extensively investigated, but most of the studies are developed for
+W-AD with TS content under 15% [4]. Since the hydrolysis rate and maximum microbial
+growth rate are influenced by the water content and the substrate-to-inoculum ratio (SIR),
+which ultimately affect methane productivity, the inoculation phase becomes a significant
+step affecting SS-AD, especially for mono-digestion [12].
+
+Therefore, the aim of this study was to investigate the effect of solids loading under
+wet-AD (10% TS), hemi-solid AD (15% TS), and solid-state AD (20% TS) and compare
+the results in terms of methane yields, volumetric methane productivity, and kinetic
+parameters during the batch anaerobic mono-digestion of SCB under mesophilic conditions.
+The inoculation strategy was also investigated by testing each of the solids loading with
+increased proportions of the substrate in relation to the inoculum (SIR) o 1, 2, 3, and 4. The
+results obtained identify the most effective solids loading to support decision-making for
+the use of SCB for bioenergy production.
+
+### 2. Materials and Methods
+
+#### 2.1. Substrate and Inoculum
+
+SCB was obtained from the Racecourse Sugar mill (Mackay/Australia). Upon arrival
+at the laboratory, bagasse was dried at room temperature and milled using a Retsch SM100 ball mill in Germany to attain a homogenous material with a particle size of <20 mm. The
+prepared material was stored at 4 <sup>◦</sup>C until further use.
+
+$$
+4\;^{\circ}C
+$$
+
+The anaerobically digested material from a full-scale plant treating sewage sludge
+at 37 <sup>◦</sup>C (Queensland Urban Utilities, Brisbane) was used as the inoculum source. At the
+plant, digested material was separated into solid (cake) and liquid (digestate) fractions by
+using a decanter centrifuge. A mixture of digestate and solid cake (40:60 *w/w*) was adopted
+to achieve a final TS content of 20%. Before use, inoculum was degassed at 37 <sup>◦</sup>C for 7 days
+to minimize the endogenous methane production. To assess the quality of inoculum, pH,
+volatile fatty acids (VFAs), and total ammoniacal nitrogen TAN) in the inoculum were
+determined and compared with values reported elsewhere [13].
+
+$$
+37\;^{\circ}C
+$$
+
+$$
+(40:60\;w/w)
+$$
+
+$$
+37\;^{\circ}C
+$$
+
+#### 2.2. Biochemical Methane Potential Assays
+
+Batch experiments were conducted to determine the biochemical methane potential
+(BMP) of SCB. BMP assays were carried out in 160 mL glass serum bottles, and headspace
+was kept in the range of from 48% to 51%. To each assay, SCB and inoculum were added
+to attain a final TS concentration of 10%, 15%, and 20%, simulating wet, hemi-solid, and
+solid-state digestion, respectively. Distilled water was used to adjust TS concentration.
+
+Further, the effect of SIR of 1, 2, 3, and 4 based on volatile solids (VS) was determined
+at each solid loading to explore the optimized substrate load with minimum limitation from
+hydrolysis. The initial VS concentration of SCB in the bottles ranged from 27 to 38, from 35
+to 47, and from 41 to 52 g VS L<sup>−1</sup> for W-AD, HS-AD, and SS-AD, respectively. Assays with
+inoculum alone were used as blanks. Microcrystalline cellulose (Sigma Aldrich) was used
+as a positive control to evaluate the biological activity of inoculum. Assays were sealed
+with butyl rubber stoppers and aluminum crimps. Headspace in the assays was purged
+with nitrogen gas (99.9%) for 3 min to create anaerobic conditions. The experiment was
+conducted in duplicates and incubated at 37 <sup>◦</sup>C. Biogas volume was measured using glass
+syringes and methane concentration was determined every day during the first 10 days of
+digestion and thereafter every 2–3 days during the 94 days of digestion until the cumulative
+methane curve was less than 5% variation for three consecutive measurements. Prior to
+each gas measurement, the assays were shaken manually for about 1 min. The BMP results
+were expressed in L CH<sub>4</sub>/kgVS<sub>added</sub>and values were converted to standard temperature
+and pressure (STP).
+
+$$
+52g V S L^{-1}
+$$
+
+$$
+37\;^{\circ}C.
+$$
+
+$$
+\mathrm{LCH_{4}/kgVS_{added}}
+$$
+
+#### 2.3. Kinetic Study
+
+The kinetic analysis of biogas production was performed by using the first-order
+kinetic model (Equation (1)) and the modified Gompertz model (Equation (2)). The firstorder model was applied assuming hydrolysis to be the rate-limiting step during the
+anaerobic digestion [14].
+(−kt)
+G(t) = G × (1 − e)
+
+$$
+G(t)=G_0\times(1-\mathrm{e}^{(-kt)})
+$$
+
+(1)
+
+G(t): cumulative methane yield at digestion time t (L kg VS
+
+−1
+);
+
+$$
+\mathfrak{t}(\mathrm{L}\mathrm{kg}\mathrm{VS}^{-1}),
+$$
+
+G<sub>0</sub>: methane potential of the substrate (L kg VS
+
+−1
+);
+
+$$
+\xi VS^{-1}),
+$$
+
+K: methane production rate constant (first-order disintegration rate constant, d<sup>−1</sup>);
+
+$$
+\mathsf{d}^{-1});
+$$
+
+t: time (day).
+
+The modified Gompertz model was applied assuming that the biogas production is
+proportional to the microbial activity following Equation (2).
+{ []}
+
+$$
+G(t)=G_{0}\cdot\exp\left\{-\exp\left[\frac{R_{m a x}\cdot e}{G_{0}}(\lambda-t)+1\right]\right\}
+$$
+
+(2)
+
+−1
+R<sub>max</sub>: maximum methane production rate (L kg VS d);
+
+$$
+\mathbb{R}_{max}:
+$$
+
+λ: lag phase (day);
+
+---
+
+e: exp (2.7183).
+
+The ‘Solver’ function in Microsoft Excel (Microsoft 2010) was used to calculate the
+parameters of the kinetic models using nonlinear regression. The statistical indicators of
+the kinetic models were evaluated through the coefficient of determination (R<sup>2</sup>) and the
+root mean square error (RMSE) (Equation (3)).
+
+$$
+(\mathbb{R}^2)
+$$
+
+$$
+MSE=\sqrt{\frac{\sum_{i=1}^{n}\left(P_{i}-O_{i}\right)^{2}}{n}}
+$$
+
+(3)
+
+n: number of data pairs;
+
+i: ith values;
+
+O: observed methane yield (L kg VS<sup>−1</sup>);
+
+$$
+(\mathrm{L}\operatorname{kg}\mathrm{VS}^{-1});
+$$
+
+P: predicted methane yield (L kg VS<sup>−1</sup>).
+
+$$
+(\operatorname{L}\operatorname{kg}\operatorname{VS}^{-1})
+$$
+
+#### 2.4. Theoretical Methane Potential and Biodegradability
+
+The theoretical methane potential (TBMP) of the SCB was estimated by using Buswell
+and Mueller [15] as shown in Equations (4) and (5).
+) () ()
+
+$$
+C_{\mathrm{n}}\mathrm{H}_{\mathrm{a}}\mathrm{O}_{\mathrm{b}}\mathrm{N}_{\mathrm{c}}+\left(n-\frac{a}{4}-\frac{b}{2}+\frac{3c}{4}\right)H_{2}O\rightarrow\left(\frac{n}{2}+\frac{a}{8}-\frac{b}{4}-\frac{3c}{8}\right)\\CH_{4}+\left(\frac{n}{2}-\frac{a}{8}+\frac{b}{4}+\frac{3c}{8}\right)CO_{2}+cNH_{3}
+$$
+
+(4)
+
+$$
+TBMP\left(\frac{NL\ CH_{4}}{kg\ VS}\right)=\frac{22.4\ \times\ 1000\ \times\ \left(\frac{n}{2}+\frac{a}{8}-\frac{b}{4}-\frac{3c}{8}\right)}{12n+a+16b+14c}
+$$
+
+(5)
+
+The biodegradability (BD%) of the SCB was then calculated according to the ratio
+between the BMP and the TBMP (%) [16].
+
+#### 2.5. Analytical Methods
+
+pH, TS and VS were determined according to Standard Methods [17]. Cellulose,
+hemicellulose, lignin, and extractives were determined according to the protocol of The
+National Renewable Energy Laboratory NREL [18]. Elemental compositions (C, N, H, S, O)
+of substrate were determined according to the method published elsewhere [19]. Soluble
+and total metal ions, along with the total Kjeldahl phosphorus (TKP) and total Kjeldahl
+nitrogen (TKN), were analyzed by using an inductivity-coupled plasma–optical emission
+spectroscopy (ICP-OES) equipped with WinLab32 for ICP software (Perkin Elmer, Waltham,
+MA, USA Optima 7300 DV) as described elsewhere [20]. Total ammonia nitrogen (TAN)
+consists of ammonia ion (NH<sub>4+</sub>) and free ammonia (NH<sub>3</sub>).
+
+$$
+\mathrm{(NH_4^+)}
+$$
+
+Methane and carbon dioxide concentrations in the biogas were determined simultaneously by a gas chromatograph (GC) (Shimadzu GC-2014, Kyoto, Japan) fitted with a
+thermal conductivity detector (TCD) and ShinCarbon ST 100/120 packed column (2.0 m
+length; 1/16<sup>′′</sup> OD; 1 mm ID). A Volvo GC valve sampling loop (1 mL) was used for injecting
+the gas sample into the GC. The oven temperature of 110 <sup>◦</sup>C, and detector and injector
+temperature of 120 <sup>◦</sup>C and 75 <sup>◦</sup>C, respectively, were used. Argon gas was used as the carrier
+gas, being the sum of the corrected measured values as 100%, assuming that the ammonia
+and hydrogen sulfide fractions are insignificant quantities (Equation (6)) [16].
+
+$$
+1/16^{\prime\prime}OD;1
+$$
+
+$$
+110\;^{\circ}C,
+$$
+
+$$
+120^{\circ}C
+$$
+
+$$
+75\;^{\circ}C,
+$$
+
+$$
+CH_{4}^{\ dry}=CH_{4}\cdot\frac{100}{(CH_{4}+CO_{2})}
+$$
+
+(6)
+
+where CH4 dry, coris the corrected concentration of methane in the dry gas (%), and CH<sub>4</sub>
+and CO<sub>2</sub>are the measured concentrations of methane and carbon dioxide in the gas (%).
+
+$$
+\mathrm{CH_{4\Delta dry,cor}}
+$$
+
+$$
+\mathrm{CH}_{4}
+$$
+
+$$
+\mathrm{CO}_{2}
+$$
+
+---
+
+#### 2.6. Statistical Analysis
+
+The triplicate BMP data were submitted to analysis of variance (ANOVA) using IBM
+SPSS Statistics 26. The differences between the means of the treatments were compared by
+the Tukey test (α = 5%).
+
+### 3. Results
+
+#### 3.1. Chemical Composition of Sugarcane Bagasse and Inoculum
+
+Table 1 presents the chemical composition of SCB and inoculum. TS and VS content of
+the inoculum were 13.6% and 9.8%, respectively (Table 1). The VS/TS ratio of the inoculum
+was 71.8%, greater than the 50% recommended by the BMP protocol [21]. pH, VFA, and
+−1
+ammonia concentration of the inoculum were 7.9, 1.1 gCH<sub>3</sub>COOH L, and 2.0 gN-NH<sub>4</sub>
+−1
+L, respectively. All these parameters were in concentrations that are within the optimal
+−1 −1
+ranges of from pH 7.0 to 8.5; VFA *≤* 1.0 gCH<sub>3</sub>COOH L and ammonia < 2.5 gN-NH<sub>4</sub>L,
+as reported by Holliger et al. [13]. The C/N ratio of the inoculum was 6.9, indicating a
+good buffering capacity and a nitrogen concentration that is sufficient for microbial growth
+in the batch tests.
+
+$$
+7.9,1.1gCH_3COOH L^{-1}
+$$
+
+$$
+2.0\;gN-NH_4
+$$
+
+$$
+\mathrm{L}^{-1}
+$$
+
+$$
+8.5;VFA\leq1.0gCH_3COOH L^{-1}
+$$
+
+$$
+<2.5\ gN-NH_4\ L^{-1}
+$$
+
+**Table 1.** Physical and chemical characterization of sugarcane bagasse.
+
+| Parameter | Sugarcane Bagasse | Inoculum |
+| --- | --- | --- |
+| TS (%) | 82.9 (± 0.2) | 13.6 (± 0.3) |
+| VS (%) | 75.6 (± 0.9) | 9.8 (± 0.0) |
+| pH | N.D. | 7.9 (± 0.1) |
+| Glucan (%) | 28.5 (± 0.8) | N.D. |
+| Xylan (%) | 15.6 (± 0.7) | N.D. |
+| Arabinan (%) | 2.3 (± 0.0) | N.D. |
+| Acid insoluble lignin (%) | 17.7 (± 0.7) | N.D. |
+| Acid soluble lignin (%) | 4.5 (± 0.0) | N.D. |
+| Ash (%) | 6.2 (± 0.3) | N.D. |
+| Extractives (%) | 2.5 (± 0.0) | N.D. |
+| C (%) | 42.7 (± 0.7) | 36.8 (± N.D.) |
+| N (%) | 0.4 (± 0.0) | 5.6 (± N.D.) |
+| H (%) | 5.3 (± 0.1) | N.D. |
+| S (%) | 0.0 (± 0.0) | N.D. |
+| O (%) | 31.4 (± 1.3) | N.D. |
+| C/N | 106.8 | 6.9 |
+
+TS: total solids; VS: volatile solids. Each value represents mean
+expressed in dried basis (% TS).
+
+*±* SD of three replications. Percentage results are
+
+The TS and VS contents of the SCB were 82.9% and 75.6%, respectively. Similar values
+of TS of 87.7% and VS of 81.0% for SCB were reported in the literature [22,23]. The high
+VS/TS ratio of 91.2% indicated that SCB is high in organic material. However, lignocellulose
+content (mono- and disaccharides and lignin) accounted for 68.6% of the feedstock VS,
+suggesting that a high concentration of feed VS contains less degradable organic matter.
+This was also indicated by the very high C/N ratio of 106.8, when compared to the optimal
+range of 20–30 for biological treatments [24]. Extractives accounted for 2.5% of VS of
+the SCB. This was lower than the value of 5.1–35.1 reported for different lignocellulosic
+substrates [4]. The very low content of extractives in the SCB, when compared to other
+biomass streams, indicates limited availability of easily degradable organic matter, thereby
+leading to low daily biogas production, especially in the first days of digestion. In general,
+extractives are composed of easily degradable free sugars, oligosaccharides, and organic
+acids [25]. These extractives can be degraded and potentially be converted into biogas in a
+relatively short time.
+
+---
+
+#### 3.2. Effect of Different Solids Concentration on Methane Yields from SCB
+
+−1
+The endogenous methane production from inoculum was 55 *±* 9 L CH<sub>4</sub>kgVS added.
+This result was in accordance with the recommended value of approximately 50 L CH<sub>4</sub>
+−1
+kgVS added reported in the literature [13]. This result indicates that the inoculum in the
+present study has been degassed sufficiently and only a small amount of residual substrate
+was left. The methane yield of microcrystalline cellulose, used as a positive control, was
+−1
+517 *±* 7 L CH<sub>4</sub>kgVS added. This experimental methane yield was 80% of the theoretical
+methane potential (375 L CH<sub>4</sub> kgVS<sup>−1</sup> added) after 30 days of digestion [21]. This result
+demonstrates that the biological activity of the inoculum was adequate.
+
+$$
+55\pm9L CH_4kgVS^{-1}
+$$
+
+$$
+50L CH_4
+$$
+
+$$
+\mathrm{kgVS}^{-1}
+$$
+
+$$
+517\pm7\mathrm{L}\mathrm{CH}_{4}\mathrm{kgVS}^{-1}
+$$
+
+$$
+(375\mathrm{L}\mathrm{CH}_{4}\mathrm{kgVS}^{-1}
+$$
+
+##### 3.2.1. Wet Anaerobic Digestion (W-AD)
+
+Figure 1 shows the effect of SIR on the methane production from SCB at 10% solids (W-
+AD). The results showed that biogas production in all W-AD assays started after a lag phase
+of 1 day (Figure 1). However, SIR had a profound influence on the methane production
+rates and cumulative methane yields from SCB under W-AD conditions. An increase in SIR
+from 2 to 4 resulted in delayed and lower mean methane production rates than at SIR 1. For
+−1 −1
+instance, the highest daily methane production rate of 10 L CH<sub>4</sub>kgVS d was obtained
+after 1 day of digestion at SIR 1 (Figure 1d). On the other hand, the highest daily methane
+−1 −1
+production rates of 5, 4, and 4 L CH<sub>4</sub>kgVS d were achieved after 3, 10, and 13 days of
+digestion for SIR 2, 3, and 4, respectively. The lower and delayed methane production rates
+observed when the SIR was increased can be explained by the reduction in the proportion
+of pertinent microbes in the inoculum in relation to the substrate for W-AD.
+
+$$
+\mathrm{CH}_{4}\;\mathrm{kgVS}^{-1}\;\mathrm{d}^{-1}
+$$
+
+$$
+4\mathrm{L}\mathrm{CH}_{4}\mathrm{kgVS}^{-1}\mathrm{d}^{-1}
+$$
+
+Similarly, an increase in SIR for W-AD also resulted in a decrease in cumulative
+−1
+methane yields. Mean cumulative methane yields were 125, 97, 85, and 71 L CH<sub>4</sub>kgVS
+added, obtained at SIR 1, 2, 3, and 4, respectively (Table 2). The methane yields obtained
+in the present study were lower than those reported in the literature. Bolado-Rodríguez
+−1
+et al. [26] and Liu et al. [27] reported methane yields of 222 and 248 L CH<sub>4</sub>kgVS added
+for the same biomass. The difference in the SIR used in the above studies is the possible
+explanation for this discrepancy. For instance, the SIR used in the above studies was the
+
+[... middle omitted — see footer ...]
+
+and exposure time in the alkaline pretreatment applied to sugarcane bagasse for methane production. *Environ. Technol.* **2022,44,**
+2843–2855. [CrossRef] [PubMed]
+
+4. Brown, D.; Shi, J.; Li, Y. Comparison of solid-state to liquid anaerobic digestion of lignocellulosic feedstocks for biogas production.
+*Bioresour. Technol.* 2012,124, 379–386. [CrossRef]
+
+5. Li, Y.; Zhang, R.; Chen, C.; Liu, G.; He, Y.; Liu, X. Biogas production from co-digestion of corn stover and chicken manure under
+anaerobic wet, hemi-solid, and solid state conditions. *Bioresour. Technol.* 2013,149, 406–412. [CrossRef]
+
+6. Ge, X.; Xu, F.; Li, E. Solid-state anaerobic digestion of lignocellulosic biomass: Recent progress and perspectives. *Bioresour. Technol.*
+2016,205, 239–249. [CrossRef]
+
+7. Su, L.; Sun, X.; Liu, C.; Ji, R.; Zhen, G.; Chen, M.; Zhang, L. Thermophilic solid-state anaerobic digestion of corn straw, cattle
+manure, and vegetable waste: Effect of temperature, total solid content, and C/N ratio. *Archea* **2020,1,** 8841490. [CrossRef]
+
+8. Fu, Y.; Luo, T.; Mei, Z.; Li, J.; Qiu, K.; Ge, Y. Dry anaerobic digestion technologies for agricultural straw and acceptability in China.
+*Sustainability* **2018,10,** 4588. [CrossRef]
+
+9. Rossi, E.; Pecorini, I.; Iannelli, R. Multilinear regression model for biogas production prediction from dry anaerobic digestion of
+OFMSW. *Sustainability* **2022,14,** 4393. [CrossRef]
+
+10. Li, Y.; Lu, J.; Xu, F.; Li, Y.; Ly, D.; Wang, G.; Li, S.; Shang, H.; Wu, Y.; Shah, A.; et al. Reactor performance and economic
+evaluation of anaerobic co-digestion of dairy manure with corn stover and tomato residues under liquid, hemi-solid, and solid
+state conditions. *Bioresour. Technol.* 2018,270, 103–112. [CrossRef]
+
+---
+
+11. Frigon, J.C.; Guiot, S.R. Biomethane production from starch and lignocellulosic crops: A comparative review. *Biofuel Bioprod. Bio.*
+**2010,4,** 447–458. [CrossRef]
+
+12. Motte, J.C.; Escudié, R.; Bernet, N.; Delgenes, J.P.; Steyer, J.P.; Dumas, C. Dynamic effect of total solid content, low substrate/inoculum ratio and particle size on solid-state anaerobic digestion. *Bioresour. Technol.* **2013,** *144,* 141–148. [CrossRef]
+[PubMed]
+
+13. Holliger, C.; Alves, M.; Andrade, D.; Angelidaki, I.; Astals, S.; Baier, U.; Bougrier, C.; Buffière, P.; Carballa, M.; De Wilde, V.; et al.
+Towards a standardization of biomethane potential tests. *Water Sci. Technol.* **2016,74,** 2515–2522. [CrossRef] [PubMed]
+
+14. Kafle, G.K.; Chen, L. Comparison on batch anaerobic digestion of five different livestock manures and prediction of biochemical
+methane potential (BMP) using different statistical models. *Waste Manag.* **2016,48,** 492–502. [CrossRef] [PubMed]
+
+15. Buswell, A.M.; Mueller, H.F. Mechanism of methane fermentation. *Ind. Eng. Chem.* **1952,44,** 550–552. [CrossRef]
+
+16. Triolo, J.M.; Soomer, S.G.; Møller, B.H.; Weisbjerg, M.R.; Jiang, X.Y. A new algorithm to characterize biodegradability of biomass
+during anaerobic digestion: Influence of lignin concentration on methane production potential. *Bioresour. Technol.* 2011,102,
+9395–9402. [CrossRef]
+
+17. American Public Health Association. *Standard Methods for the Examination of Water and Wastewater,* 21st ed; American Water Works
+Association: Washington, DC, USA, 2005.
+
+18. Sluiter, A.; Hames, B.; Ruiz, R.; Scarlata, C.; Sluiter, J.; Templeton, D.; Crocker, D. *Determination of Structural Carbohydrates and
+Lignin in Biomass;* National Renewable Energy Laboratory (NREL): Golden, CO, USA, 2008; p. 18.
+
+19. Li, Y.Q.; Zhang, R.H.; Liu, X.Y.; Chen, C.; Xiao, X.; Feng, L.; He, Y.F.; Liu, G.Q. Evaluating methane production from anaerobic
+mono- and co-digestion of kitchen waste, corn stover, and chicken manure. *Energy Fuels* **2013,27,** 2085–2091. [CrossRef]
+
+20. Bressy, F.C.; Brito, G.B.; Barbosa, I.S.; Teixeira, L.S.G.; Korn, M.G.A. Determination of trace element concentrations in tomato
+samples at different stages of maturation by ICP OES and ICP-MS following microwave-assisted digestion. *Microchem.* **J.2013,**
+*109,* 145–149. [CrossRef]
+
+21. VDI 4630. *Fermentation of Organic Materials—Characterisation of the Substrate, Sampling. Collection of Material Data and Fermentation
+Tests;* Verein Deutscher Ingenieure (Germany Association of Engineers): Düsseldorf, Germany, 2006; p. 96.
+
+22. Paranhos, A.G.O.; Adarne, O.F.H.; Barreto, G.F.; Silva, S.Q.; Aquino, S.F. Methane production by co-digestion of poultry manure
+and lignocellulosic biomass: Kinetic and energy assessment. *Bioresour. Technol.* 2020,300, 122588. [CrossRef]
+
+23. Paulose, P.; Kaparaju, P. Anaerobic mono-digestion of sugarcane trash and bagasse with and without pretreatment. *Ind. Crop
+Prod.* 2021,170, 113712. [CrossRef]
+
+24. Chen, Y.; Cheng, J.J.; Creamer, K.S. Inhibition of anaerobic digestion process: A review. *Bioresour. Technol.* **2008,99,** 4044–4064.
+[CrossRef]
+
+25. Chen, S.F.; Mowery, R.A.; Scarlata, C.J.; Chambliss, C.K. Compositional analysis of water-soluble materials in corn stover. *J. Agric.*
+*Food Chem.* **2007,55,** 5912–5918. [CrossRef] [PubMed]
+
+26. Bolado-Rodríguez, S.; Toquero, C.; Martín-Juárez, J.; Travaini, R. Effect of thermal, acid, alkaline and alkaline-peroxide pretreatments on the biochemical methane potential and kinetics of the anaerobic digestion of wheat straw and sugarcane bagasse.
+*Bioresour. Technol.* 2016,201, 182–190. [CrossRef] [PubMed]
+
+27. Liu, X.; Hiligsmann, S.; Gourdon, R.; Bayard, R. Anaerobic digestion of lignocellulosic biomasses pretreated with Ceriporiopsis
+subvermispora. *J. Environ. Manag.* 2017,193, 154–162. [CrossRef] [PubMed]
+
+28. Edwiges, T.; Bastos, J.A.; Alino, J.H.L.; D’avila, L.; Frare, L.M.; Somer, J.G. Comparison of various pretreatment techniques to
+enhance biodegradability of lignocellulosic biomass for methane production. *J. Environ. Chem. Eng.* **2019,7,** 103495. [CrossRef]
+
+29. Lima, D.R.S.; Adarme, O.F.H.; Baêta, B.E.L.; Gurgel, L.V.A.; Aquino, S.F. Influence of different thermal pretreatments and
+inoculum selection on the biomethanation of sugarcane bagasse by solid-state anaerobic digestion: A kinetic analysis. *Ind. Crop
+Prod.* 2018,111, 684–693. [CrossRef]
+
+30. Pham, C.H.; Triolo, J.M.; Cu, T.T.T.; Pedersen, L.; Sommer, S. Validation and recommendation of methods to measure biogas
+production potential of animal manure. *Asian Australas. J. Anim. Sci.* **2013,26,** 864–873. [CrossRef]
+
+31. De Oliveira, D.E.P.; Miranda, A.C.; Junior, M.V.; Santana, J.C.C.; Tambourgi, E.B.; Facchini, F.; Iavagnilio, R.; Pinto, L.F.R. Economic
+and environmental feasibility of cogeneration from food waste: A case study in São Paulo city. *Sustainability* **2024,** *16,* 2979.
+[CrossRef]
+
+32. Yang, L.; Xu, F.; Ge, X.; Li, Y. Challenges and strategies for solid-state anaerobic digestion of lignocellulosic biomass. *Renew. Sust.*
+*Energ. Rev.* **2015,44,** 824–834. [CrossRef]
+
+33. Jansoon, A.T.; Patinvoh, R.J.; Taherzadeh, M.J.; Horváth, I.S. Effect of organic compounds on dry anaerobic digestion of food and
+paper industry wastes. *Bioengineered* **2020,11,** 502–509. [CrossRef]
+
+**Disclaimer/Publisher’s Note:** The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+──────── [TRUNCATED] ────────
+Showing 22,460 chars (head) + 7,451 chars (tail) of 82,988 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/research-repository.griffith.edu.au-a7e26e9363.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/research-repository.griffith.edu.au-a7e26e9363.md" offset=600 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

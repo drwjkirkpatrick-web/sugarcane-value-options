@@ -1,0 +1,216 @@
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.3390/insects15100771) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/pdf/insects-15-00771.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Insects logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-insects.png)
+
+Insects
+
+. 2024 Oct 6;15(10):771. doi: [10.3390/insects15100771](https://doi.org/10.3390/insects15100771)
+
+# Comparison of Growth and Composition of Black Soldier Fly ( _Hermetia illucens_ L.) Larvae Reared on Sugarcane By-Products and Other Substrates
+
+[Nooshin Zandi-Sohani](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zandi-Sohani%20N%22[Author])
+
+### Nooshin Zandi-Sohani
+
+1Department of Plant Protection, Faculty of Agriculture, Agricultural Sciences and Natural Resources University of Khuzestan, Mollasani 63417-73637, Iran
+
+Conceptualization, Methodology, Formal analysis, Writing – original draft
+
+Find articles by [Nooshin Zandi-Sohani](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zandi-Sohani%20N%22[Author])
+
+1,\*, [Jeffery K Tomberlin](https://pubmed.ncbi.nlm.nih.gov/?term=%22Tomberlin%20JK%22[Author])
+
+### Jeffery K Tomberlin
+
+2Department of Entomology, Texas A&M University, College Station, TX 77840, USA; jeffery.tomberlin@ag.tamu.edu
+
+Writing – review & editing
+
+Find articles by [Jeffery K Tomberlin](https://pubmed.ncbi.nlm.nih.gov/?term=%22Tomberlin%20JK%22[Author])
+
+2
+
+Editors: Brian T Forschler, Patrizia Falabella
+
+- Author information
+- Article notes
+- Copyright and License information
+
+1Department of Plant Protection, Faculty of Agriculture, Agricultural Sciences and Natural Resources University of Khuzestan, Mollasani 63417-73637, Iran
+
+2Department of Entomology, Texas A&M University, College Station, TX 77840, USA; jeffery.tomberlin@ag.tamu.edu
+
+\*
+
+Correspondence: nzandisohani@yahoo.com
+
+#### Roles
+
+**Nooshin Zandi-Sohani**: Conceptualization, Methodology, Formal analysis, Writing – original draft
+
+**Jeffery K Tomberlin**: Writing – review & editing
+
+**Brian T Forschler**: Academic Editor
+
+**Patrizia Falabella**: Academic Editor
+
+Received 2024 Aug 8; Revised 2024 Sep 24; Accepted 2024 Sep 30; Collection date 2024 Oct.
+
+© 2024 by the authors.
+
+Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)).
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC11508635  PMID: [39452347](https://pubmed.ncbi.nlm.nih.gov/39452347/)
+
+## Abstract
+
+### Simple Summary
+
+The black soldier fly (BSF) has recently gained global popularity for converting organic waste into valuable biomass for animal feed. Previous studies have demonstrated the ability of BSF larvae to consume various food wastes and animal manure. In this study, we used sugarcane by-products—such as bagasse, vinasse, and molasses—as a food source for BSF larvae and compared their development and nutritional value with those fed with university canteen leftovers (UCLs). The BSF larvae grew longer and heavier when fed university canteen leftovers compared to other treatments. The UCL treatment also resulted in the larvae’s highest protein and oil content. Overall, the BSF larvae exhibited the best growth on the UCL substrate, while the combination of bagasse and vinasse (BV) proved to be the most suitable substrate among the sugarcane by-products for BSF larva development.
+
+### Abstract
+
+Black soldier fly larvae (BSFL) can convert organic waste into high-quality biomass. In this study, we tested the potential of sugarcane by-products as a food source for BSFL and compared larval development and nutritional value with some other organic substrates. Seven different substrates were used, including carrot pomace (C), carrot pomace and leftover bread (CB) (50/50), bagasse and vinasse (BV), bagasse and molasses (BM), bagasse, vinasse, and molasses (BVM), a mixture of all the above treatments (MX), and university canteen leftovers (UCLs). The larval weight and length were measured for two weeks from day 5 to 19. Then, the BSFL were harvested and analyzed for dry matter, crude protein, oil, ash, mineral, and fatty acid composition. Larval weight and length varied depending on the feeding substrate provided. University canteen leftovers resulted in the BSFL having at least 18% greater length (17.00 mm) and 56% greater weight (3.15 g) compared to other treatments. The highest amounts of protein (38.9%) and oil (39.06%) were observed in the UCL treatment, while the BV treatment larvae had the highest quantities of ash (28.9%) and dry matter (28.0%). The fatty acid profile of the BSFL revealed three-times-higher levels of saturated fatty acids than unsaturated fatty acids in the UCL treatment and was at least twice as high in other treatments. Overall, the BSFL had the best growth on the UCL substrate, and the combination of bagasse and vinasse (BV) was the most appropriate substrate for BSFL development among the sugarcane by-products.
+
+**Keywords:** entomophagy, food waste, sugarcane by-product
+
+## 1\. Introduction
+
+The global population is projected to reach 9.8 billion by 2050, with most of this growth occurring in Global South nations \[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B1-insects-15-00771)\]. Therefore, to sustainably feed the world, the demand for food production should rise by 50% by 2030 and by 70–100% of current levels by 2050 \[ [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B2-insects-15-00771)\].
+
+One of the challenges faced by this demand for increased food production is the constraints on natural resources such as land, energy, and water. On the other hand, food production in its current method brings about issues such as deforestation, environmental degradation, and greenhouse gas emissions \[ [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B3-insects-15-00771)\]. Therefore, it is important to identify new food sources that are less associated with the challenges mentioned above.
+
+Insects serve as a valuable source of proteins, lipids, minerals, vitamins, and energy and can be a promising alternative for both human consumption and animal feed \[ [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B4-insects-15-00771)\]. When comparing edible insects to traditional livestock rearing, they offer several advantages, including the ability to consume low-value and waste materials \[ [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B5-insects-15-00771)\], reduced environmental impact, high feed conversion rates, higher fecundity with a short life span, less space and water for rearing, and significantly lower emissions of greenhouse gases and ammonia \[ [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B4-insects-15-00771), [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B6-insects-15-00771), [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B7-insects-15-00771)\].
+
+Entomophagy, the practice of eating insects, traces back to ancient times and is a practice referenced in various religious texts, including Christian, Jewish, and Islamic literature \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B8-insects-15-00771)\]. Between 1600 and 2300 species of edible insects have been documented globally. These insects are consumed as both food and medicine by approximately two billion people from around 3000 ethnic groups over 113 countries, primarily situated in Africa, Asia, and Latin America \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B8-insects-15-00771), [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B9-insects-15-00771)\].
+
+The black soldier fly (BSF) ( _Hermetia illucens_ L., Diptera: Stratiomyidae) is a non-pest, adaptable, saprophagous insect native to the tropical and subtropical climates of the Americas, and it has been globally distributed across similar climates \[ [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B10-insects-15-00771), [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B11-insects-15-00771), [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B12-insects-15-00771)\]. Black soldier fly larvae (BSFL) demonstrate a high bioconversion rate and possess great potential for large-scale production among insects, making them an economically advantageous option as feed \[ [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B11-insects-15-00771), [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B13-insects-15-00771)\]. They contain high amounts of protein with a balanced profile of essential amino acids and are a good source of lipids, including nutritionally valuable fatty acids \[ [14](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B14-insects-15-00771)\]. Recently, BSFL meal has been successfully utilized as a part of feed for poultry \[ [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B15-insects-15-00771)\], swine \[ [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B16-insects-15-00771)\], and fish \[ [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B17-insects-15-00771)\].
+
+Food loss and waste pose significant challenges to global food security, economic sustainability, and environmental health \[ [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B18-insects-15-00771)\]. As the global population continues to rise, so does the generation of waste and by-products, with approximately 1.3 billion tonnes generated annually today. Effective and urgent management of these waste streams is crucial \[ [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B19-insects-15-00771)\]. Approximately one-third of the edible parts of food produced for human consumption worldwide are lost or wasted, estimated at around one trillion USD \[ [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B18-insects-15-00771)\]. University canteens are among the places where a lot of food is wasted. The disposal of leftover plates leads to the wastage of significant quantities of diverse nutritional compounds derived from both plant and animal sources \[ [20](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B20-insects-15-00771)\].
+
+BSFL can be fed low-value organic waste streams and provide rich larval biomass and a good source of protein and oil \[ [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B11-insects-15-00771)\]. Depending on the substrate they are fed with, the larvae’s protein and oil content can reach up to 53% and 41% on a dry matter basis, respectively \[ [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B6-insects-15-00771)\]. Moreover, BSFL appear to be well adapted and capable of tolerating the presence of various pollutant substances, including the residues of pesticides, heavy metals, and mycotoxins, within their diets \[ [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B10-insects-15-00771), [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B21-insects-15-00771)\]. It seems that BSFL do not accumulate contaminants above the European feed legislation limits, except for certain metals (i.e., cadmium, lead, and zinc). However, there are still concerns about the other chemical compounds that require extensive research \[ [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B10-insects-15-00771)\].
+
+Sugarcane ( _Saccharum officinarum_) is primarily cultivated globally for sugar and ethanol production in tropical and subtropical regions. In 2020, it reached a harvest volume of approximately 1.87 billion tonnes, making it the most-produced crop worldwide. However, sugarcane processing and its by-products can have adverse environmental impacts \[ [22](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B22-insects-15-00771)\]. Iranian sugarcane is exclusively cultivated in Khuzestan province, located in the southwest. The annual sugarcane production in this region amounts to approximately eight million tonnes, covering an area of more than 100,000 ha \[ [23](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B23-insects-15-00771)\]. Typical by-products of the sugarcane production industry include bagasse, molasses, press mud, vinasse, filter cake, cane trash, and bagacillo \[ [22](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B22-insects-15-00771)\]. Bagasse is a fibrous residue left after the extraction of the sugar-bearing juice from sugarcane stalks. It is a valuable by-product of sugarcane processing and is commonly used as a biofuel, as animal feed, and in manufacturing paper and various building materials \[ [22](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B22-insects-15-00771)\]. Vinasse, another by-product of sugarcane, is a dark liquid residue, abundant in organic matter and nutrients, generated during the distillation of sugarcane alcohol. However, its elevated levels of pollutants restrict its consumption, and its disposal poses significant environmental challenges \[ [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B24-insects-15-00771)\]. Another common by-product of sugarcane, molasses, is composed of 45–55% sucrose, 20–30% glucose and fructose, and 10–20% water and is mainly used for animal feed, fermentation, production of ethanol, and other chemicals \[ [22](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B22-insects-15-00771)\]. The objective of the present study was to compare the suitability of some sugarcane by-products, including bagasse, vinasse, and molasses, with accessible food waste like university canteen leftovers and carrot pomace for feeding BSFL. We tested their effects on the growth rate and chemical composition of BSFL.
+
+## 2\. Materials and Methods
+
+### 2.1. Black Soldier Fly Colony
+
+Black soldier fly eggs were collected from a colony established in September 2022 and maintained in the Agricultural Sciences and Natural Resources University of Khuzestan Entomology laboratory in Mollasani, Khuzestan, Iran. The source population of neonate larvae (3–4-day-old) was bought from the company Larviran in Mashhad, Iran. The insects were reared on kitchen waste for two generations before the tests. Egg traps made of triple-layer corrugated cardboard (5 × 3 cm) were used to collect eggs from the colony. The eggs used in this study were <6 h old \[ [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/#B25-insects-15-00771)\] As the eggs came from multiple traps, first, they were homogenized by mixing them in a small plastic cup using a fine, dampened paintbrush. Then, three grams of eggs were weighed using a laboratory balance (A&D, EK600H, Tokyo, Japan) and introduced into 500 mL plastic containers containing a mixture of 50 g wheat bran and 40 g flour at 70% moisture. The containers were covered with lids, and ventilation holes were made to ensure proper airflow. The eggs were kept in the laboratory at 28.0 ± 1.0 °C and 70.0% relative humidity and for a photoperiod of 16:8 (L:D) h until hatching. Subsequently, the neonates were maintained under the same conditions for five days.
+
+### 2.2. Larval Feeding Experiments
+
+
+[... middle omitted — see footer ...]
+
+- 42.Ewald N., Vidakovic A., Langeland M., Kiessling A., Sampels S., Lalander C. Fatty acid composition of black soldier fly larvae (Hermetia illucens)—Possibilities and limitations for modification through diet. Waste Manag. 2020;102:40–47. doi: 10.1016/j.wasman.2019.10.014. \[ [DOI](https://doi.org/10.1016/j.wasman.2019.10.014)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31655329/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Waste%20Manag.&title=Fatty%20acid%20composition%20of%20black%20soldier%20fly%20larvae%20(Hermetia%20illucens)%E2%80%94Possibilities%20and%20limitations%20for%20modification%20through%20diet&author=N.%20Ewald&author=A.%20Vidakovic&author=M.%20Langeland&author=A.%20Kiessling&author=S.%20Sampels&volume=102&publication_year=2020&pages=40-47&pmid=31655329&doi=10.1016/j.wasman.2019.10.014&)\]
+- 43.Hoc B., Genva M., Fauconnier M.-L., Lognay G., Francis F., Caparros Megido R. About lipid metabolism in Hermetia illucens (L. 1758): On the origin of fatty acids in prepupae. Sci. Rep. 2020;10:11916. doi: 10.1038/s41598-020-68784-8. \[ [DOI](https://doi.org/10.1038/s41598-020-68784-8)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7368053/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32680992/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sci.%20Rep.&title=About%20lipid%20metabolism%20in%20Hermetia%20illucens%20(L.%201758):%20On%20the%20origin%20of%20fatty%20acids%20in%20prepupae&author=B.%20Hoc&author=M.%20Genva&author=M.-L.%20Fauconnier&author=G.%20Lognay&author=F.%20Francis&volume=10&publication_year=2020&pages=11916&pmid=32680992&doi=10.1038/s41598-020-68784-8&)\]
+- 44.Suryati T., Julaeha E., Farabi K., Ambarsari H., Hidayat A.T. Lauric acid from the black soldier fly (Hermetia illucens) and its potential applications. Sustainability. 2023;15:10383. doi: 10.3390/su151310383. \[ [DOI](https://doi.org/10.3390/su151310383)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sustainability&title=Lauric%20acid%20from%20the%20black%20soldier%20fly%20(Hermetia%20illucens)%20and%20its%20potential%20applications&author=T.%20Suryati&author=E.%20Julaeha&author=K.%20Farabi&author=H.%20Ambarsari&author=A.T.%20Hidayat&volume=15&publication_year=2023&pages=10383&doi=10.3390/su151310383&)\]
+- 45.Beenakkers A.T., Van der Horst D., Van Marrewijk W. Energy Metabolism in Insects. Springer; Boston, MA, USA: 1981. Role of lipids in energy metabolism; pp. 53–100. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?title=Energy%20Metabolism%20in%20Insects&author=A.T.%20Beenakkers&author=D.%20Van%20der%20Horst&author=W.%20Van%20Marrewijk&publication_year=1981&)\]
+- 46.Kaczmarek A., Bogus M. The metabolism and role of free fatty acids in key physiological processes in insects of medical, veterinary and forensic importance. PeerJ. 2021;9:e12563. doi: 10.7717/peerj.12563. \[ [DOI](https://doi.org/10.7717/peerj.12563)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8710053/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/35036124/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=PeerJ&title=The%20metabolism%20and%20role%20of%20free%20fatty%20acids%20in%20key%20physiological%20processes%20in%20insects%20of%20medical,%20veterinary%20and%20forensic%20importance&author=A.%20Kaczmarek&author=M.%20Bogus&volume=9&publication_year=2021&pages=e12563&pmid=35036124&doi=10.7717/peerj.12563&)\]
+- 47.Cattaneo A., Meneguz M., Dabbou S. The fatty acid composition of black soldier fly larvae: The influence of feed substrate and applications in the feed industry. J. Insects Food Feed. 2023;1:1–26. doi: 10.1163/23524588-20230068. \[ [DOI](https://doi.org/10.1163/23524588-20230068)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Insects%20Food%20Feed&title=The%20fatty%20acid%20composition%20of%20black%20soldier%20fly%20larvae:%20The%20influence%20of%20feed%20substrate%20and%20applications%20in%20the%20feed%20industry&author=A.%20Cattaneo&author=M.%20Meneguz&author=S.%20Dabbou&volume=1&publication_year=2023&pages=1-26&doi=10.1163/23524588-20230068&)\]
+
+## Associated Data
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Data Availability Statement
+
+The data presented in this study are all included on the manuscript.
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.3390/insects15100771)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (522.4 KB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508635/pdf/insects-15-00771.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)
+
+──────── [TRUNCATED] ────────
+Showing 18,111 chars (head) + 6,055 chars (tail) of 88,034 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pmc.ncbi.nlm.nih.gov-55d25c641b.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pmc.ncbi.nlm.nih.gov-55d25c641b.md" offset=164 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

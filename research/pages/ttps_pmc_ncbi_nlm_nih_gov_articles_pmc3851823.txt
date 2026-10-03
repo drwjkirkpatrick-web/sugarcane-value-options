@@ -1,0 +1,326 @@
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.1186/1754-6834-6-142) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/pdf/1754-6834-6-142.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Biotechnology for Biofuels logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-biotbiofuel.png)
+
+Biotechnol Biofuels
+
+. 2013 Oct 3;6:142. doi: [10.1186/1754-6834-6-142](https://doi.org/10.1186/1754-6834-6-142)
+
+# Bioelectricity versus bioethanol from sugarcane bagasse: is it worth being flexible?
+
+[Felipe F Furlan](https://pubmed.ncbi.nlm.nih.gov/?term=%22Furlan%20FF%22[Author])
+
+### Felipe F Furlan
+
+1Chemical Engineering Graduate Program, Federal University of São Carlos, PPGEQ/UFSCar Via Washington Luis, km 235, São Carlos, SP, Brazil
+
+Find articles by [Felipe F Furlan](https://pubmed.ncbi.nlm.nih.gov/?term=%22Furlan%20FF%22[Author])
+
+1, [Renato Tonon Filho](https://pubmed.ncbi.nlm.nih.gov/?term=%22Filho%20RT%22[Author])
+
+### Renato Tonon Filho
+
+1Chemical Engineering Graduate Program, Federal University of São Carlos, PPGEQ/UFSCar Via Washington Luis, km 235, São Carlos, SP, Brazil
+
+Find articles by [Renato Tonon Filho](https://pubmed.ncbi.nlm.nih.gov/?term=%22Filho%20RT%22[Author])
+
+1, [Fabio HPB Pinto](https://pubmed.ncbi.nlm.nih.gov/?term=%22Pinto%20FHPB%22[Author])
+
+### Fabio HPB Pinto
+
+1Chemical Engineering Graduate Program, Federal University of São Carlos, PPGEQ/UFSCar Via Washington Luis, km 235, São Carlos, SP, Brazil
+
+Find articles by [Fabio HPB Pinto](https://pubmed.ncbi.nlm.nih.gov/?term=%22Pinto%20FHPB%22[Author])
+
+1, [Caliane BB Costa](https://pubmed.ncbi.nlm.nih.gov/?term=%22Costa%20CBB%22[Author])
+
+### Caliane BB Costa
+
+1Chemical Engineering Graduate Program, Federal University of São Carlos, PPGEQ/UFSCar Via Washington Luis, km 235, São Carlos, SP, Brazil
+
+2Department of Chemical Engineering, Federal University of São Carlos, DEQ/UFSCar Via Washington Luis, km 235, São Carlos, SP, Brazil
+
+Find articles by [Caliane BB Costa](https://pubmed.ncbi.nlm.nih.gov/?term=%22Costa%20CBB%22[Author])
+
+1,2, [Antonio JG Cruz](https://pubmed.ncbi.nlm.nih.gov/?term=%22Cruz%20AJG%22[Author])
+
+### Antonio JG Cruz
+
+1Chemical Engineering Graduate Program, Federal University of São Carlos, PPGEQ/UFSCar Via Washington Luis, km 235, São Carlos, SP, Brazil
+
+2Department of Chemical Engineering, Federal University of São Carlos, DEQ/UFSCar Via Washington Luis, km 235, São Carlos, SP, Brazil
+
+Find articles by [Antonio JG Cruz](https://pubmed.ncbi.nlm.nih.gov/?term=%22Cruz%20AJG%22[Author])
+
+1,2, [Raquel LC Giordano](https://pubmed.ncbi.nlm.nih.gov/?term=%22Giordano%20RLC%22[Author])
+
+### Raquel LC Giordano
+
+1Chemical Engineering Graduate Program, Federal University of São Carlos, PPGEQ/UFSCar Via Washington Luis, km 235, São Carlos, SP, Brazil
+
+2Department of Chemical Engineering, Federal University of São Carlos, DEQ/UFSCar Via Washington Luis, km 235, São Carlos, SP, Brazil
+
+Find articles by [Raquel LC Giordano](https://pubmed.ncbi.nlm.nih.gov/?term=%22Giordano%20RLC%22[Author])
+
+1,2, [Roberto C Giordano](https://pubmed.ncbi.nlm.nih.gov/?term=%22Giordano%20RC%22[Author])
+
+### Roberto C Giordano
+
+1Chemical Engineering Graduate Program, Federal University of São Carlos, PPGEQ/UFSCar Via Washington Luis, km 235, São Carlos, SP, Brazil
+
+2Department of Chemical Engineering, Federal University of São Carlos, DEQ/UFSCar Via Washington Luis, km 235, São Carlos, SP, Brazil
+
+Find articles by [Roberto C Giordano](https://pubmed.ncbi.nlm.nih.gov/?term=%22Giordano%20RC%22[Author])
+
+1,2,✉
+
+- Author information
+- Article notes
+- Copyright and License information
+
+1Chemical Engineering Graduate Program, Federal University of São Carlos, PPGEQ/UFSCar Via Washington Luis, km 235, São Carlos, SP, Brazil
+
+2Department of Chemical Engineering, Federal University of São Carlos, DEQ/UFSCar Via Washington Luis, km 235, São Carlos, SP, Brazil
+
+✉
+
+Corresponding author.
+
+Received 2013 May 1; Accepted 2013 Sep 24; Collection date 2013.
+
+Copyright © 2013 Furlan et al.; licensee BioMed Central Ltd.
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( [http://creativecommons.org/licenses/by/2.0](http://creativecommons.org/licenses/by/2.0)), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC3851823  PMID: [24088415](https://pubmed.ncbi.nlm.nih.gov/24088415/)
+
+## Abstract
+
+### Background
+
+Sugarcane is the most efficient crop for production of (1G) ethanol. Additionally, sugarcane bagasse can be used to produce (2G) ethanol. However, the manufacture of 2G ethanol in large scale is not a consolidated process yet. Thus, a detailed economic analysis, based on consistent simulations of the process, is worthwhile. Moreover, both ethanol and electric energy markets have been extremely volatile in Brazil, which suggests that a flexible biorefinery, able to switch between 2G ethanol and electric energy production, could be an option to absorb fluctuations in relative prices. Simulations of three cases were run using the software EMSO: production of 1G ethanol + electric energy, of 1G + 2G ethanol and a flexible biorefinery. Bagasse for 2G ethanol was pretreated with a weak acid solution, followed by enzymatic hydrolysis, while 50% of sugarcane trash (mostly leaves) was used as surplus fuel.
+
+### Results
+
+With maximum diversion of bagasse to 2G ethanol (74% of the total), an increase of 25.8% in ethanol production (reaching 115.2 L/tonne of sugarcane) was achieved. An increase of 21.1% in the current ethanol price would be enough to make all three biorefineries economically viable (11.5% for the 1G + 2G dedicated biorefinery). For 2012 prices, the flexible biorefinery presented a lower Internal Rate of Return (IRR) than the 1G + 2G dedicated biorefinery. The impact of electric energy prices (auction and spot market) and of enzyme costs on the IRR was not as significant as it would be expected.
+
+### Conclusions
+
+For current market prices in Brazil, not even production of 1G bioethanol is economically feasible. However, the 1G + 2G dedicated biorefinery is closer to feasibility than the conventional 1G + electric energy industrial plant. Besides, the IRR of the 1G + 2G biorefinery is more sensitive with respect to the price of ethanol, and an increase of 11.5% in this value would be enough to achieve feasibility. The ability of the flexible biorefinery to take advantage of seasonal fluctuations does not make up for its higher investment cost, in the present scenario.
+
+**Keywords:** Second generation ethanol production, Techno-economic evaluation, Lignocellulose, Sugarcane, Bagasse, Process simulation
+
+## Background
+
+It is already a consensus that a shift of the global energy matrix towards renewable sources is mandatory. Yet, the role that each specific alternative will play, say, at the year 2050, will be defined along the road, depending on technological developments, political options by stakeholders, economical and social demands. Anyway, in this scenario ethanol will certainly be an important biofuel.
+
+Sugarcane is known to be the most efficient crop for 1G ethanol production, with an energy balance of 9.3 produced/consumed tonne of oil equivalent (toe) \[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#B1)\]. During the 1970’s the Brazilian government initiated the National Ethanol Program (PROALCOOL, in Portuguese, \[ [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#B2)\]) to decrease national dependence on oil. Since then, the use of 1G ethanol as a vehicle fuel has been consolidated, and presently 86% of the cars sold in this country are flex-fuel, running with any mixture of ethanol and gasoline \[ [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#B3)\]. In modern facilities, ethanol production is a highly integrated process, with sugarcane bagasse burnt in boilers to supply the industrial plant energy demands, further exporting the surplus of electric energy to the grid.
+
+One of the alternatives for the industrial production of 2G ethanol is the biochemical route, i.e., acid or enzymatic hydrolysis of the biomass followed by fermentation of the resulting sugars. Logistics and transportation of the lignocellulosic raw material may be a bottleneck for 2G ethanol \[ [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#B4)\]. From this point of view, sugarcane bagasse has an important advantage, since it has already been collected and processed for the extraction of the juice, being immediately available at the plant site. Moreover, sugarcane trash (mostly the leaves) can be transported with the stalk, after small adaptations of the mechanical harvesting – although part of this biomass must be left for covering the fields \[ [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#B5)\]. Since the process must be energetically self-sufficient, the addition of sugarcane trash as boiler fuel can increase the amount of bagasse available for hydrolysis, therefore enhancing ethanol yields.
+
+Industrial production of 2G ethanol is still not consolidated in large scale. Therefore, an economic analysis is important to indicate if it is the most interesting alternative, specially when compared to selling electric energy (bioelectricity). Nevertheless, this answer is not unique, given the volatility of relative prices: biomass electricity prices in public auctions in Brazil ranged from 85.35 USD/MWh to 53.02 USD/MWh in the last two auctions (Aug/2010 and Aug/2011) \[ [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#B6)\], a -37.9% variation. The spot market (that buys surplus power, beyond the amount contracted during the auctions) presented an even higher range of prices, between 3.26 USD/MWh and 341.13 USD/MWh over the last nine years (Jan/2003 - Dez/2012) \[ [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#B7)\]. Ethanol prices are equally volatile, changing from 0.258 USD/L to 0.818 USD/L (for the hydrated fuel) over the same period of nine years \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#B8)\]. All prices above, used in this study, were calculated in Brazilian reais, brought to December/2012 value (to take into account the inflation in the period), and converted to US dollars using the exchange rate value of 2.077 BRL/USD (dez/2012).
+
+Sugarcane biorefineries have been intensively studied by the recent literature. Seabra _et al._ (2011) \[ [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#B9)\] presented economic and environmental analyses of a sugarcane biorefinery. The authors concluded that, although electric energy presented a better economic feasibility, its environmental impact was greater than the one for second generation ethanol. An economic analysis comparing 2G ethanol production with electric energy was also done by Dias _et al._ (2011) \[ [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#B10)\]. The authors concluded that, although for the present technology electric energy is a better option, 2G ethanol can compete with it if sugarcane trash is used, provided that new technologies could increase yields. On the other hand, Macrelli _et al._ (2012) \[ [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#B11)\] presented results for several sugarcane biorefineries configurations and concluded that 2G ethanol from sugarcane is already competitive with 1G starch-based ethanol in Europe. The advantages of the integrated production of 1G and 2G ethanol production based on sugarcane was highlighted by Dias _et al._ (2012) \[ [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#B12)\]. The integrated biorefinery presented higher ethanol production rates, and better economic and environmental performance, when compared to a stand-alone 2G ethanol-from-sugarcane bagasse plant.
+
+The 2G biorefinery could be flexible, just as the industry that employs current 1G technology already is, shifting between sugar and ethanol production. This new flexible biorefinery might be able to choose between electric energy and 2G ethanol production. The present study focuses on assessing the economic feasibility of a flexible biorefinery, for an autonomous distillery (not considering the manufacture of sugar), and comparing it to the dedicated 1G + electric energy and 1G + 2G ethanol biorefineries. The process chosen as case study uses enzymatic hydrolysis of the biomass (sugarcane bagasse) and ethanolic fermentation of hexoses and pentoses. Specifically, this study presents a computational applicative that may be a useful tool for the process scheduling of future cane-based biorefineries but, beyond that scope, that may also support decision-making concerning national energy policies. Such computationally robust tool was developed within an equation-oriented simulator (EMSO) \[ [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#B13)\] and is based on phenomenological modelling, at least for the most important unit operations and reactors that are present in the process.
+
+## Results and discussion
+
+### Process simulation
+
+Two boundary process configurations were considered and compared: an industry producing 1G ethanol and burning all sugarcane bagasse and 50% of the trash produced in the field for power generation in a Rankine cicle (BioEE) and another one using all bagasse surplus (the biorefinery must be energetically self-sufficient) for 2G ethanol production, integrated to the 1G facility (BioEth). The most important information for BioEE and BioEth streams (as enumerated in Figure [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#F1) and Figure [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#F2)) is presented in Table [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#T1) and Table [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#T2). 74% of the bagasse could be diverted to 2G ethanol in BioEth. This accounted for an increase in ethanol production of 25.8% when compared to BioEE. At this condition, a specific production yield for 2G ethanol of 120.7 L/tonne of bagasse was obtained, which is a conservative estimate based on current yields (158 L/tonne of lignocellulosic material \[ [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#B12)\]). The increase in steam consumption for 2G ethanol was entirely fulfilled by the burning of lignin and of non-hydrolyzed cellulose. Since 65% of the cellulose was hydrolyzed, 35% of the material was still able to be separated and used as fuel. Table [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/#T3) shows ethanol production (total and specific) for both cases.
+
+#### Figure 1.
+
+[![Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ebbc/3851823/c35681d2c95d/1754-6834-6-142-1.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3851823_1754-6834-6-142-1.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/figure/F1/)
+
+Process diagram for first generation ethanol production.
+
+#### Figure 2.
+
+[![Figure 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ebbc/3851823/26786af86c5c/1754-6834-6-142-2.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3851823_1754-6834-6-142-2.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/figure/F2/)
+
+Process diagram for second generation ethanol production.
+
+#### Table 1.
+
+Main streams for 1G + Cogeneration biorefinery (BioEE)
+
+| **Stream n°** | **Mass**<br>**flow (kg/h)** | **Temperature (°C)** | **Pressure**<br>**(bar)** | **Fraction of**<br>**sugars** |
+| :-: | :-: | :-: | :-: | :-: |
+| 1<br>* * * | 500000<br>* * * | 30<br>* * * | 1<br>* * * | 0.145<br>* * * |
+| 2<br>* * * | 495675<br>* * * | 30<br>* * * | 1<br>* * * | 0.144<br>* * * |
+| 3<br>* * * | 131791<br>* * * | 30<br>* * * | 1<br>* * * | 0.02<br>* * * |
+| 4<br>* * * | 512584<br>* * * | 30<br>* * * | 1<br>* * * | 0.134<br>* * * |
+| 5<br>* * * | 513565<br>* * * | 90<br>* * * | 1<br>* * * | 0.133<br>* * * |
+| 6<br>* * * | 389697<br>* * * | 111.7<br>* * * | 1<br>* * * | 0.177<br>* * * |
+| 7<br>* * * | 578699<br>* * * | 31<br>* * * | 1<br>* * * | 0<br>* * * |
+| 8<br>* * * | 90016<br>* * * | 31<br>* * * | 1<br>* * * | 0<br>* * * |
+| 9<br>* * * | 189003<br>* * * | 30<br>* * * | 1<br>* * * | 0<br>* * * |
+| 10<br>* * * | 488683<br>* * * | 31<br>* * * | 1<br>* * * | 0<br>* * * |
+| 11<br>* * * | 299182<br>* * * | 110.5<br>* * * | 2.5<br>* * * | 0<br>* * * |
+| 12<br>* * * | 293196<br>* * * | 189.3<br>* * * | 2.5<br>* * * | 0<br>* * * |
+| 13 | 193026 | 55.7 | 0.1 | 0 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/table/T1/)
+
+#### Table 2.
+
+Main streams for 1G + 2G biorefinery (BioEth)
+
+| **Stream n°** | **Mass**<br>**flow (kg/h)** | **Temperature (°C)** | **Pressure**<br>**(bar)** | **Fraction of**<br>**sugars** |
+| :-: | :-: | :-: | :-: | :-: |
+| 1<br>* * * | 500000<br>* * * | 30<br>* * * | 1<br>* * * | 0.145<br>* * * |
+| 2<br>* * * | 495675<br>* * * | 30<br>* * * | 1<br>* * * | 0.144<br>* * * |
+| 3<br>* * * | 131791<br>* * * | 30<br>* * * | 1<br>* * * | 0.02<br>* * * |
+| 4<br>* * * | 512584<br>* * * | 30<br>* * * | 1<br>* * * | 0.134<br>* * * |
+| 5<br>* * * | 513565<br>* * * | 90<br>* * * | 1<br>* * * | 0.133<br>* * * |
+| 6<br>* * * | 332396<br>* * * | 111.7<br>* * * | 1<br>* * * | 0.206<br>* * * |
+| 7<br>* * * | 493607<br>* * * | 31<br>* * * | 1<br>* * * | 0<br>* * * |
+| 8<br>* * * | 76920.5<br>* * * | 31<br>* * * | 1<br>* * * | 0<br>* * * |
+| 9<br>* * * | 161212<br>* * * | 30<br>* * * | 1<br>* * * | 0<br>* * * |
+| 10<br>* * * | 416687<br>* * * | 31<br>* * * | 1<br>* * * | 0<br>* * * |
+| 11<br>* * * | 196577<br>* * * | 110.5<br>* * * | 2.5<br>* * * | 0<br>* * * |
+| 12<br>* * * | 188785<br>* * * | 189.3<br>* * * | 2.5<br>* * * | 0<br>* * * |
+| 13<br>* * * | 0<br>* * * | 55.7<br>* * * | 0.1<br>* * * | 0<br>* * * |
+| 14<br>* * * | 97613.3<br>* * * | 30<br>* * * | 1<br>* * * | 0.02<br>* * * |
+| 15<br>* * * | 174018<br>* * * | 30<br>* * * | 1<br>* * * | 0<br>* * * |
+| 16<br>* * * | 271631<br>* * * | 120<br>* * * | 2<br>* * * | 0.02<br>* * * |
+| 17<br>* * * | 201087<br>* * * | 100<br>* * * | 1<br>* * * | 0.02<br>* * * |
+| 18<br>* * * | 70544<br>* * * | 100<br>* * * | 1<br>* * * | 0.01<br>* * * |
+| 19<br>* * * | 201045<br>* * * | 27<br>* * * | 1<br>* * * | 0.02<br>* * * |
+| 20<br>* * * | 153036<br>* * * | 50<br>* * * | 1<br>* * * | 0.02<br>* * * |
+| 21<br>* * * | 153036<br>* * * | 50<br>* * * | 1<br>* * * | 0.08<br>* * * |
+| 22<br>* * * | 104925<br>* * * | 50<br>* * * | 1<br>* * * | 0.09<br>* * * |
+| 23 | 48111 | 50 | 1 | 0.05 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/table/T2/)
+
+#### Table 3.
+
+First and second generation ethanol production rates
+
+|  | **BioEE** | **BioEth** |
+| :-- | :-: | :-: |
+| Ethanol production (L/h)<br>* * * | 45796.6<br>* * * | 57580.8<br>* * * |
+| Specific ethanol production (1G + 2G)<br>* * * | 91.6<br>* * * | 115.2<br>* * * |
+| (L/tonne of sugarcane (TC))<br>* * * | * * * | * * * |
+| 2G ethanol production (L/h)<br>* * * | 0<br>* * * | 11784.2<br>* * * |
+| Specific 2G ethanol production<br>* * * | 0<br>* * * | 120.7<br>* * * |
+| (L/tonne of bagasse (TB)) |  |  |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/table/T3/)
+
+
+[... middle omitted — see footer ...]
+
+13. Soares RP, Secchi AR. EMSO: A new environment for modelling, simulation and optimisation. Comput Aided Chem Eng. 2003;14:947–952. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Comput%20Aided%20Chem%20Eng&title=EMSO:%20A%20new%20environment%20for%20modelling,%20simulation%20and%20optimisation&author=RP%20Soares&author=AR%20Secchi&volume=14&publication_year=2003&pages=947-952&)\]
+14. Agblevor F, Rejai B, Wang D, Wiselogel A, Chum H. blueInfluence of storage conditions on the production of hydrocarbons from herbaceous biomass. Biomass Bioenergy. 1994;7:213–222. doi: 10.1016/0961-9534(94)00063-Y. \[ [DOI](https://doi.org/10.1016/0961-9534(94)00063-Y)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Biomass%20Bioenergy&title=blueInfluence%20of%20storage%20conditions%20on%20the%20production%20of%20hydrocarbons%20from%20herbaceous%20biomass&author=F%20Agblevor&author=B%20Rejai&author=D%20Wang&author=A%20Wiselogel&author=H%20Chum&volume=7&publication_year=1994&pages=213-222&doi=10.1016/0961-9534(94)00063-Y&)\]
+15. Eggeman T, Elander RT. Process and economic analysis of pretreatment technologies. Bioresource Technol. 2005;96(18):2019–2025. doi: 10.1016/j.biortech.2005.01.017. \[ [DOI](https://doi.org/10.1016/j.biortech.2005.01.017)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16112490/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Bioresource%20Technol&title=Process%20and%20economic%20analysis%20of%20pretreatment%20technologies&author=T%20Eggeman&author=RT%20Elander&volume=96&issue=18&publication_year=2005&pages=2019-2025&pmid=16112490&doi=10.1016/j.biortech.2005.01.017&)\]
+16. Furlan FF, Costa CBB, Fonseca GC, Soares RP, Secchi AR, Cruz AJG, Giordano RC. Assessing the production of first and second generation bioethanol from sugarcane through the integration of global optimization and process detailed modeling. Comput Chem Eng. 2012;43:1–9. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Comput%20Chem%20Eng&title=Assessing%20the%20production%20of%20first%20and%20second%20generation%20bioethanol%20from%20sugarcane%20through%20the%20integration%20of%20global%20optimization%20and%20process%20detailed%20modeling&author=FF%20Furlan&author=CBB%20Costa&author=GC%20Fonseca&author=RP%20Soares&author=AR%20Secchi&volume=43&publication_year=2012&pages=1-9&)\]
+17. Canilha L, Chandel AK, Suzane dos Santos Milessi T, Antunes FAF, Luiz da Costa Freitas W, das Graças Almeida Felipe M, da Silva SS. Bioconversion of sugarcane biomass into ethanol: An overview about composition, pretreatment methods, detoxification of hydrolysates, enzymatic saccharification, and ethanol fermentation. J Biomed Biotechnol. 2012;2012:1–15. doi: 10.1155/2012/989572. \[ [DOI](https://doi.org/10.1155/2012/989572)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3516358/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23251086/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Biomed%20Biotechnol&title=Bioconversion%20of%20sugarcane%20biomass%20into%20ethanol:%20An%20overview%20about%20composition,%20pretreatment%20methods,%20detoxification%20of%20hydrolysates,%20enzymatic%20saccharification,%20and%20ethanol%20fermentation&author=L%20Canilha&author=AK%20Chandel&author=T%20Suzane%20dos%20Santos%20Milessi&author=FAF%20Antunes&author=W%20Luiz%20da%20Costa%20Freitas&volume=2012&publication_year=2012&pages=1-15&pmid=23251086&doi=10.1155/2012/989572&)\]
+18. Wooley R, Putsche V. Development of an ASPEN PLUS physical property database for biofuels components. NREL, Tech. rep., Report MP-425-20685 1996, 38.
+19. Silva C, Zangirolami T, Rodrigues J, Matugi K, Giordano R, Giordano R. An innovative biocatalyst for production of ethanol from xylose in a continuous bioreactor. Enzyme Microb Technol. 2012;50:35–42. doi: 10.1016/j.enzmictec.2011.09.005. \[ [DOI](https://doi.org/10.1016/j.enzmictec.2011.09.005)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22133438/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Enzyme%20Microb%20Technol&title=An%20innovative%20biocatalyst%20for%20production%20of%20ethanol%20from%20xylose%20in%20a%20continuous%20bioreactor&author=C%20Silva&author=T%20Zangirolami&author=J%20Rodrigues&author=K%20Matugi&author=R%20Giordano&volume=50&publication_year=2012&pages=35-42&pmid=22133438&doi=10.1016/j.enzmictec.2011.09.005&)\]
+20. Pereira LTC, Pereira LTC, Teixeira RSS, Bon EPS, Freitas SP. Sugarcane bagasse enzymatic hydrolysis: rheological data as criteria for impeller selection. J Ind Microbiol Biotechnol. 2011;38(8):901–907. doi: 10.1007/s10295-010-0857-8. \[ [DOI](https://doi.org/10.1007/s10295-010-0857-8)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20844924/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Ind%20Microbiol%20Biotechnol&title=Sugarcane%20bagasse%20enzymatic%20hydrolysis:%20rheological%20data%20as%20criteria%20for%20impeller%20selection&author=LTC%20Pereira&author=LTC%20Pereira&author=RSS%20Teixeira&author=EPS%20Bon&author=SP%20Freitas&volume=38&issue=8&publication_year=2011&pages=901-907&pmid=20844924&doi=10.1007/s10295-010-0857-8&)\]
+21. Rodrigues R, Soares RP, Secchi AR. Teaching chemical reaction engineering using EMSO simulator. Comput Appl Eng Educ. 2010;18(4):607–618. doi: 10.1002/cae.20255. \[ [DOI](https://doi.org/10.1002/cae.20255)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Comput%20Appl%20Eng%20Educ&title=Teaching%20chemical%20reaction%20engineering%20using%20EMSO%20simulator&author=R%20Rodrigues&author=RP%20Soares&author=AR%20Secchi&volume=18&issue=4&publication_year=2010&pages=607-618&doi=10.1002/cae.20255&)\]
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.1186/1754-6834-6-142)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (537.8 KB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3851823/pdf/1754-6834-6-142.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)
+
+──────── [TRUNCATED] ────────
+Showing 22,450 chars (head) + 7,365 chars (tail) of 70,765 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pmc.ncbi.nlm.nih.gov-6845365e74.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pmc.ncbi.nlm.nih.gov-6845365e74.md" offset=279 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

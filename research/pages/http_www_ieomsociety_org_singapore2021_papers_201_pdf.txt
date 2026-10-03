@@ -1,0 +1,400 @@
+# PERFORMANCE ANALYSIS OF A SUGARCANE BAGASSE COGENERATION POWER PLANT IN GRID ELECTRICITY GENERATION
+
+Moses Jeremiah Barasa Kabeyi
+
+mkabeyi@uonbi.ac.ke
+
+Industrial Engineering Department, Durban University of Technology, Durban South Africa
+
+Oludolapo Akanni Olanrewaju
+
+oludolapoo@dut.ac.za
+
+Industrial Engineering Department, Durban University of Technology, Durban South Africa
+
+## ABSTRACT
+
+The overall objective of this study was to establish the feasibility of export-based cogeneration by a leading sugar 
+factory in Kenya. It was established that the sugar factory invested in a 34 MW cogeneration power plant to export 26 
+MW excess electricity to the national grid. Reliance on bagasse alone as the fuel placed the plant at the mercy of the 
+sugar factory operations and availability of cane. The study showed that after three years of profitable operation, the 
+cogeneration power plant became unsustainable and export to the grid was stopped. The plant faced challenges like 
+low load factor and capacity factors occasioned by unsustainable milling of cane. This meant irregular bagasse fuel 
+supply to the power plant hence capacity underutilization and availability of the plant which attracted huge penalties 
+from the utility company. The study recommends policy initiatives to encourage export of electricity from the sugar 
+industry while development of multi-fuel plants will delink the co-generation from the challenges of sugar cane factory 
+operation. These measures will improve the power plant availability, load factor, capacity factor and reliability 
+ultimately making bagasse cogeneration suitable for base load grid electricity supply.
+
+Key Words: Bagasse; sugarcane bagasse cogeneration; export cogeneration; challenges of bagasse cogeneration; 
+electricity generation; combined heat and power.
+
+## 1.0.INTRODUCTION
+
+Up to six million Kenyans derive a livelihood from Kenyan sugar and hence the need for proper and competitive 
+management of sugar factories (Jeremiah, 2018). Kenya saves anywhere from Sh40 billion to Sh55 billion a year in 
+import costs by using locally produced sugar – which matters more as our trade deficit continues to grow and place 
+downwards pressure on the value of the shilling (Kabeyi, 2020), yet to remedy the Government has drawn up new 
+regulations that appear unjustified. The common market for Eastern and South African States (COMESA)warned the 
+Kenyan government that there will be no further extensions in safeguards from imports by the trading block, yet 
+Kenyan sugar currently costs $870 a tonne to produce, compared with $350 a tonne in Malawi and $400 a ton in 
+Egypt, countries which belong to the same trading block. COMESA has warned there will be no further extensions in 
+protecting domestic sugar from imports, yet Kenyan sugar currently costs $870 a tonne to produce, compared with 
+$350 a tonne in Malawi and $400 a tonne in Egypt (Arum, 2019).
+
+The sugar cane industry has significant potential of reducing greenhouse gas emissions and other energy related 
+pollution. According to Naeem (2019), bagasse power plants reduce carbon emissions by replacing electricity 
+produced from fossil fuels and avoiding disposal of unused bagasse which generates methane emissions on 
+decomposition. In Kenya just like many other countries, electricity is the most preferred form of energy according to 
+the Ministry of Planning and Development (MoPND) and the Ministry of Social Council (MoPND, 2007). According 
+to the Energy Regulation Commission, ERC (2011), only 1.5% of Kenya’s electricity generation comes from the 
+bagasse cogeneration even though the country has a potential of generating up to 195MW out of its bagasse production 
+capacity.
+
+### 1.1 Background of Mumias Sugar Company Limited
+
+---
+
+In 1967, the Government of Kenya commissioned Booker Agriculture and Technical Services to do a feasibility study 
+on the viability of growing sugarcane in Mumias and then initiate a pilot project. At the time, the Mumias area was 
+underdeveloped, land utilization was poor as farmers grew food crops on small areas for subsistence only, while the 
+rest of the land was purely for grazing. The relative remoteness of the area and poor communication prevented the 
+development of an active market economy. The study showed that it was possible to establish a viable sugar scheme 
+at Mumias where the factory is supplied with cane from both the Nucleus Estate and indigenous farmers. The 
+Government accepted the findings and on July 1, 1971 incorporated Mumias Sugar Company as the body to implement 
+the project. The Government was to hold majority shares (71%) and minority interests held by the Commonwealth 
+Development Corporation (17%), Kenya Commercial Finance Company (5%), Booker McConnel (4%) and the East 
+African Development Bank (3%). The company’s original capacity of the factory was 45,000 tonnes of sugar per year 
+when it was fully operational in 1973. The factory capacity has grown dramatically to 173,000 tonnes of sugar and 
+1.8 million tonnes of sugar cane crushed per year (Mumias, 2017).
+
+In 1979, Mumias Sugar Company carried out an expansion of factory capacity to 3000 tons of cane per hour while in 
+1997 factory rationalization was completed and daily milling capacity increased further to 7,000 tons of cane per day 
+and the efficiency of sucrose extraction was raised from 82% to the current 86% through factory modernization. With 
+steady operations, and need to diversify the product base and expand the market visibility, in 2000 a nationwide 
+distribution network for sales and marketing was established and an electricity sale agreement with Kenya Power and 
+lighting Company to supply 10, 000MWh of electricity per annum to the national grid was concluded. These enabled 
+Mumias to diversify into export cogeneration.
+
+With improved performance, in 2001 the company was converted from a parastatal to a public limited liability 
+company and listed on the Nairobi Stock Exchange. However, Mumias continued to be managed under contract by 
+Booker Tate until 2003 when the contract expired. In 2006, under new management, an agreement was signed with 
+Avant Garde Engineers and Consultants (P) Ltd of India to develop US$ 40 million power production unit, to increase 
+generation capacity of the factory 38 MW of which 26 MW was for export to the National Grid and the balance for 
+domestic or factory consumption (Jetro, 2009).  This shows that, it is through prudent management and good company 
+performance that Mumias Sugar Company Ltd.  developed and grew in capacity and diversified into export power 
+generation when the Government of Kenya liberalized power generation (Kabeyi, 2020). It also shows that the 
+Government of Kenya played a crucial policy role in facilitating bagasse cogeneration in the Kenyan sugar industry 
+(Abagu & Dayness, nd). Figure 1 shows leafy young can growing in the field. On maturity, it will supply mature cane 
+for processing into sugar and a fibrous combustible biomass by product called bagasse(Kabeyi, 2020).
+
+SUGAR CROP
+
+**Figure 1. Sugarcane crop (Abagu & Dayness, nd).**
+
+Figure 1 shows sugarcane as a leafy fibrous crop which results to a solid fibrous waste called bagasse upon juice 
+extraction in the factory.
+
+The factory’s cogeneration plant operated profitably but due to inability to get constant supply of cane for factory 
+milling and hence bagasse for cogeneration, Mumias suffered huge penalties as per the power purchase agreement with Kenya Power that finally led the utility company into switching off power supply to Mumias. This move triggered 
+a crisis that saw the miller stop operations and was finally placed under receivership at the time of this study.  The 
+purpose of this study is to establish the performance of the cogeneration plant and identify the potential and challenges 
+of bagasse cogeneration in supply of grid electricity.
+
+### 1.2. Problem Statement
+
+There is a global shift from reliance on fossil fuels to green sources of energy for grid electricity generation (Kabeyi, 
+2019; Kabeyi & Olenwaraju, 2021). In 2015, 2016 and in 2018, the Kenyan electricity utility company, Kenya Power 
+disconnected electricity supply to Mumias Sugar Company triggering a serious operational crisis. The miller was 
+reported to owe the utility firm, nearly ksh2 billion (US$ 20, 000,000) in unpaid bills, yet coincidentally, the factory 
+should generate own power and export up to 26 MW to the grid. (Business Daily, 2015; The Daily Nation, 2018). 
+Challenges in cogeneration forced the company to stop export cogeneration, hence breach of contract as stipulated in 
+the power purchase agreement (PPA) forcing a renegotiation of the power purchase agreement with utility company 
+Kenya Power Plc. However, lack of sugar cane made it difficult to generate electricity for export to the grid (Business 
+Daily, 2019).  In 2018, the company stopped operations when the utility company switched off electricity supply to 
+the factory over the unrecovered billions of shillings most of which are penalties for failure to deliver on its contractual 
+obligations (Mumias, 2018). Of greatest concern is why a company that should be exporting electricity be 
+disconnected from the grid and eventually collapse over failure to generate one of its own primary input and product 
+as well, that a net exporter is a net importer of electricity.
+
+## 2.0.BAGASSE AS A FUEL
+
+### 2.1. Characteristics of bagasse
+
+The bagasse that leaves the factory mills as residue is normally made up of fibrous outer part and the underlying prit 
+which is the white, soft, smooth parenchymaton tissue which is highly hygroscopic. Prit mainly consists of sugars, 
+cellulose, pentosans, hemicellulose and lignin. It also consists of wax and minerals.    Properties of prit or bagasse
+generally depend on the type of cane, its age as well as the method of harvesting used. However, on average, it has 
+been established that bagasse at the point of generation from the last mill 49-52% moisture content, 47.4% fiber 
+content and 2.3% solute materials. At 50% moisture content, bagasse has a calorific value (GCV) of 9600Kj/Kg and 
+7600 Kj/Kg net calorific value. Dry ash free bagasse has GCV of 19400kj/kg (Hugot, 1986; Okomo, 2016). The 
+average fibers content of cane is close to 10-17% by mass, but it generally lies in the region of 12-15% while the 
+quantity of the bagasse varies between 24 and 30% by weight of sugarcane or approximately one quarter (Kabeyi, 
+2020; Hugot, 1986).  Bone dried bagasse has a gross calorific value of 17,632kj/kg. At 50% moisture content it exhibits 
+a net calorific value of 8816kj/kg (Okomo, 2016; Barroso, Barreras, Amaveda, & Lozano, 2003).   The table 1 below 
+shows a typical content composition of mill bagasse.
+
+Table 1: Mill bagasse composition (Hugot, 1886; Kabeyi, 2020).
+
+| COMPOSITION | PERCENTAGE | AVERAGE COMPOSITION |
+| --- | --- | --- |
+| Moisture | 46-52 | 50 |
+| Fibre | 43-52 | 47.7 |
+| Soluble solids | 2-6 | 2.3 |
+
+From table 1, it is noted that bagasse mainly consists of moisture and fiber and traces of soluble solids. Other 
+physical features of bagasse also have the following physical properties are specified bellow.
+
+i.) It is odorless.
+
+ii.) Has specific weight of 250kg/m<sup>3</sup>
+
+---
+
+#### iii.) It is white and light green in color.
+
+Compared to other conventional fuels, bagasse has a relatively lower energy value. However, its availability at the 
+factory and the reduced transport costs involved in ferrying it make bagasse a more suitable source of fuel or energy 
+in sugar factories especially at a lower moisture content level.
+
+## 3.0. THE COGENEERATION PLANT AT MUMIAS SUGAR
+
+### 3.1. Cogeneration
+
+An energy-focused environmental accounting method based on the embodied solar energy principle was used for 
+evaluating biomass and coal-based combined heat and power (CHP) cogeneration processes. The energy method 
+expresses all the resources needed (fuel, investment, labor etc.) as solar energy equivalents. The method looks at 
+sustainability from the point of view of the biosphere. In fact, energy aims to be a ’memory’ of how much work the 
+biosphere has done to provide a product. Biomass and coal-based CHP alternatives were compared with independent 
+production of heat & power. It was found that biomass-based cogeneration is 3.3 times more energy-efficient than 
+coal-based independent production, i.e., the biosphere needed to work 77% less for biomass CHP produced heat & 
+power compared to that produced independently from coal. Cogeneration from the same fuel was in all cases 0.3 times 
+more energy-efficient than independent production. In general heat and power production from biomass is 2.3 times 
+more energy-efficient than that from coal in a similar process. The energy sustainability index shows a similar trend, 
+e.g., the sustainability index of a biomass CHP plant is 15 times higher than that of a coal CHP plant. The fuel, its 
+transport, and the oxygen in air used for burning account for over 80% of the energy in biomass CHP, whereas in a 
+coal-based process the share is over 90%. The share of capital is quite small in terms of total energy (Sha & Hurme, 
+2012).
+
+### 3.2. Cogeneration Power plant capacity
+
+The main objectives for establishing the 38 MW bagasse cogeneration plant by Mumias Sugar Company was to make 
+use of excess bagasse fuel to generate extra power for sale to grid and hence earn extra revenue stream in addition to 
+sugar sales. Selling surplus power to the national grid contributed to Kenya’s efforts of achieving self-sufficiency in 
+electricity generation and supply. The plant was also to help eliminate the cost of disposing off excess bagasse and its 
+effects to the environment. The 38 MW cogeneration plant was commissioned in May 2009 which led to increased 
+internal electricity demand from 10 MW to 12 MW but excess electricity for sale to the grid increased from 3 MW to 
+26 M at a cost of $ 40 Million dollars’ loan capital.
+
+### 3.3. Cost of Cogenerated power
+
+The unit cost of the cogenerated electricity based on both export and installed capacity of the power plant is computed 
+below based on the power plant loan capital.
+
+i.) The unit cost of the export capacity is $40, 0000, 000/26,000 kW= $ 1, 538/kW
+
+ii.) Based on the total capacity of the cogeneration plant, the unit cost is 40,000,000/34,000kW= US $ 1,176 
+US$/kW.
+
+The assumption is that there is no other cost involved in the power plant development.
+
+### 3.4. Environmental Impact
+
+The installation of the new plant would reduce carbon emissions by up to 120,000 tons per year according the 
+CER ratings whose rates vary between $6 and $20 per ton, hence extra revenue and mitigation against carbon 
+emissions and global warming. This was a great step aimed at increasing the power production in the factory. The 
+project was registered by the UNFCC Executive Board as a CDM project on 1st Sept, 2008 (Mumias Sugar, n.d; 
+Omuyoma, 2012).
+
+### 3.5. Comparison of The Old and new Cogeneration Power plant
+
+The comparison between the old plant and new plant is as illustrated in the tables 3 and 4 below.
+Table 2: The characteristics of the old and new cogeneration plants (Omuyoma, 2012).
+
+|  | PARAMETERS | OLD PLANT | NEW POWERPLANT |
+| --- | --- | --- | --- |
+
+---
+
+| 1 | Daily bagasse production | 140 tons/hr. | 140 tons/hr |
+| --- | --- | --- | --- |
+| 2 | Bagasse Usage | 110 mt/hr. | 130 tons/hr |
+| 3 | Excess Bagasse (Fuel accumulation) | 30 mt/hr. | 10 tons/hr |
+| 4 | Boilers (number) | 7 | 2 |
+| 5 | Steam | 220 mt/hr. | 170 tons/hr (New), 110 tons/hr (old boiler) |
+| 6 | Steam quality | 330°C, 45 bar | New boiler (87 bar, 550°C Old boiler(330°C, 45 Bar) |
+| 7 | Installed capacity | 13 mw | 38 mw |
+| 8 | Domestic Power consumption | 10 mw | 12 mw |
+| 9 | Excess power for export | 3 mw | 26 mw |
+
+The following observations are made from table 3 above.
+
+i.) The new cogeneration plant did not require factory capacity expansion.
+
+ii.) Number of boilers were reduced from 7 to two by construction of a new boiler and 
+retirement of 6 old smaller boilers
+
+iii.) Factory electricity demand increased from 10 MW to 12 MW due to increased 
+auxiliary demand.
+
+iv.) Excess electricity generation increased from excess of 3 MW to 26 MW for export.
+
+v.) High pressure steam for factory use and medium pressure for the cogeneration plant 
+were generated with room for modernization and expansion of medium pressure 
+boiler.
+
+vi.) Excess bagasse generation and buildup reduced from 30 tonnes per hour to 10 tonnes 
+per hour hence reduced fuel wastage.
+
+vii.) Steam generation increased from combined capacity of 220 tons/hr to 280 tons/hr.
+
+### 3.6 Power Purchase agreement (PPA)
+
+A power purchase agreement (PPA) is legally binding agreement between the utility company and 
+electricity producer and contains targets and obligations for all parties in the contract (Kabeyi, 
+2020). In this case the   Mumias Sugar Company has a binding agreement with Kenya Power to 
+supply electricity. The PPA has the following provisions shown in table 2.
+
+Table 3: PPA specifications (Author’s summary of information)
+
+|  | CONTRACT ITEM/PARAMETER | SPECIFICATIONS |
+| --- | --- | --- |
+| 1 | Contract period | 10 years |
+| 2 | Rate/price of power | Capacity ( US cents 2.6)+ Energy (US cents 3.4)=US cents 6 per kWhr |
+| 3 | Plant export capacity | 26 MW |
+| 4 | Availability | 85% of the capacity |
+| 5 | Operating days (Target) | 275 Days per annum |
+| 6 | Guaranteed Min Dispatch | 90 Million KWh/year 40% capacity/year |
+
+---
+
+| 7 | Amount surcharged as penalties | US $20 cents per kWh |
+| --- | --- | --- |
+| 8 | Total amount surcharged | KShs. 1.1 billion |
+
+Table 3 shows that the company is paid for exported power based on both available capacity of the powerplant and
+total electricity supplied to the grid and combined total of 6 US cents per KWhr but with a penalty at the rate of 20 
+US cents for failure to supply power as per the PPA which is about 3.3 times more than the total unit price. This shows 
+that the power purchase agreement heavily punishes failure to supply power by the sugar company.
+
+## 4.0. PERFORMANCE ANALYSIS OF THE COGENERATION PLANT
+
+## 4.1. Generation, Revenue and penalties
+
+Table 4. Annual power export (GWH) by Mumias Sugar Company between 2009-2015
+
+| Years | Bagasse Production (tons) | Bagasse Used (tons) | Export in GWhrs | Surcharge (GWhrs) | Annual Revenue($) | Surcharge (US $) | Net Revenue (Dollars) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2009-2010 | 731,000 | 650,000 | 99 | 10.2 | 5,940,000 | 2,040,000 | 3,900,000 |
+| 2010- 2011 | 731,000 | 650,000 | 87 | 22.2 | 5,220,000 | 4,440,000 | 780,000 |
+
+[... middle omitted — see footer ...]
+
+
+Kabeyi MJB (2019) Geothermal electricity generation, challenges, opportunities, and recommendations. 
+*International Journal of Advances in Scientific Research and Engineering* 5(8):53–95
+https://doi.org/10.31695/IJASRE.2019.33408
+
+Kabeyi, M. J. B. and A. O. Oludolapo (2021). "Central versus wellhead power plants in geothermal grid 
+electricity generation." Energy, Sustainability and Society 11 (7),1-23
+ . https://doi.org/10.1186/s13705-021-00283-8
+**Retrieved from https://energsustainsoc.biomedcentral.com/articles/10.1186/s13705-021-00283-8.**
+
+Kabeyi, M. J. B. (2020). Challenges of implementing diesel powerplant projects in Kenya, The case study of Kipevu 
+III. 120 MW power station, Mombasa, Kenya. <u>Department of Extramural</u>. Nairobi, Kenya, University of
+Nairobi.  Masters: 144. International Journal of Applied Research and Technology
+https://doi.org./10.24163/ijart/2017/15
+Retrieved from https://www.ijart.info/uploads/8/1/9/3/81936804/mosses_2020.pdf.
+
+Kabeyi, M. J. B. and A. O. Oludolapo (2020). Design and Modelling of a Waste Heat Recovery System for a 
+250KW   Diesel Engine for Cereals Drying. 2nd African International Conference on Industrial Engineering 
+and Operations Management Harare, Zimbabwe, IEOM Society International.
+http://www.ieomsociety.org/harare2020/papers/78.pdf
+
+Kabeyi, M. J. B. and A. O. oludolapo (2020). Optimization of Biogas Production for Optimal Abattoir 
+Waste Treatment with Bio-Methanation as Solution to Nairobi Slaughterhouses Waste Disposal. <u>2nd</u> 
+African International Conference on Industrial Engineering and Operations Man. Harare, Zimbabwe, 
+IEOM: 160-170.  http://www.ieomsociety.org/harare2020/papers/83.pdf
+
+Kabeyi, M. J. B. and A. O. Oludolapo (2021). Preliminary Design of a Bagasse Based Firm Power Plant for 
+a Sugar Factory. South African Universities Power Engineering Conference (SAUPEC). IEEE. Nortn 
+West University, South Africa, IEEE.
+https://doi.org/10.1109/SAUPEC/RobMech/PRASA52254.2021.9377242
+https://ieeexplore.ieee.org/abstract/document/9377242
+
+Ministry of Planning and Development (MoPND). (2007). Kenya Vision 2030. A Globally 
+competitive      and   prosperous Nation (1st Ed). Government Press. Retrieved from
+http://www.researchictafrica.net/countries/kenya_Vision_2030_-_2007.pdf
+
+Karekezi S. and Kithyoma K. (2006). Bioenergy and the poor. In Hazell P.B.R and Pachani 
+R.K (Eds) Focus 14: Bioenergy and Agriculture.
+
+Natu, S.C. (n.d).Bagasse based cogeneration, India marching ahead. Mitcon Consultancy 
+Services Ltd. Retrieved from 
+https://www.cabdirect.org/cabdirect/abstract/20053122494
+
+Naeem, N. (2019, May 20). Bagasse-Based Cogeneration in Pakistan: Challenges and Opportunities. 
+Bioenergy Consult. Retrieved from 
+https://www.bioenergyconsult.com/bagasse-cogeneration-pakistan/
+
+Scot, M. S. & Garry, E. Promotion of biomass cogeneration with Power export in the Indian    
+Sugar Industries. US Department of energy      
+www.citeseerrx.ist.psu.edu/viewdoc/download
+
+Sha,S. & Hurme, M. (2012). Emergy evaluation of combined heat and power plant processes. 
+Applied Thermal Engineering 43 (2012) 67-74.
+file:///C:/Users/HP/AppData/Local/Temp/Emergy_evaluation_of_combined
+_heat_and_p.pdf
+
+Mbohwa, C. (2013). Energy management in South Africa sugar mills. Proceedings of the 
+World Congress on Engineering 2013 Vol I, WCE 2013, July 3 - 5, 2013, London, 
+U.K.     Retrieved from 
+https://www.researchgate.net/publication/289180152_Energy_Management_
+in_the_South_African_Sugar_Industry
+https://core.ac.uk/download/pdf/54189038.pdf
+
+Mbohwa, C. (2003). Bagasse Energy Cogeneration in Zimbabwe: technology, 
+possible improvements and setting the right environment, Proceedings of the
+
+---
+
+Proceedings of the 11th Annual International Conference on Industrial Engineering and Operations Management 
+Singapore, March 7-11, 2021
+
+world congress on Eng 2013 vol1. Wce. London UK.  Rerieved from
+
+www.ir.nz.ac.zw
+
+Nyabundi, T. (2019, June 16). State eyes 150MW electricity generation from sugar factories. Standard 
+Digital. Retrieved from
+
+https://www.standardmedia.co.ke/business/article/2001330064/state-eyes-150mw-electricitygeneration-from-sugar-factories
+
+#### Authors Biographies
+
+**Moses Jeremiah Barasa Kabeyi is** currently pursuing his D.Eng. In Industrial Engineering in the Department of 
+Industrial Engineering at Durban University of Technology. He earned his B.Eng. degree in Production Engineering 
+and MSC in Mechanical and Production Engineering (Energy) from Moi University, in Kenya, MA in Project planning 
+and Management from University of Nairobi, in Kenya and Diplomas in Project management, Business management 
+and NGO management respectively from The Kenya Institute of Management. He has worked in various factories 
+including sugar manufacturing at Nzoia Sugar Company Ltd, pulp and paper at Pan African Paper Mills EA Ltd, and 
+power generation at the Kenya Electricity Generating Company (KenGen) in Kenya, in an industrial career of 16 years 
+before moving into teaching.  He has taught in various universities in Kenya including University of Nairobi, Technical 
+University of Mombasa and Egerton University and currently on study leave. His research interests are power 
+generation, fuels and combustion, internal combustion engines and project management and sustainability. He is 
+registered with the Engineers Board of Kenya (EBK) and Institution of Engineers of Kenya (IEK) and has published 
+several journal papers.
+
+**Oludolapo Akanni Olanrewaju** is currently a Senior Lecturer and Head of Department of Industrial Engineering, 
+Durban University of Technology, South Africa. He earned his BSc in Electrical Electronics Engineering and MSc in 
+Industrial Engineering from the University of Ibadan, Nigeria and his Doctorate in Industrial Engineering from the 
+Tshwane University of Technology, South Africa. He has published journal and conference papers. His research 
+interests are not limited to energy/greenhouse gas analysis/management, life cycle assessment, application of artificial 
+intelligence techniques and 3D Modelling. He is an associate member of the Southern African Institute of Industrial 
+Engineering (SAIIE) and NRF rated researcher in South Africa.
+
+──────── [TRUNCATED] ────────
+Showing 18,727 chars (head) + 6,214 chars (tail) of 48,621 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/www.ieomsociety.org-c98bcb53ab.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/www.ieomsociety.org-c98bcb53ab.md" offset=290 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

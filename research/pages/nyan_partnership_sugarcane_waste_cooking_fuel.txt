@@ -1,0 +1,69 @@
+[honeypot link](https://8dg66giahj.execute-api.eu-west-2.amazonaws.com/ProdStage/)
+
+**An international research partnership in Kenya to better transform sugarcane production waste into a clean cooking fuel has yielded a working prototype.**
+
+Academics at the University of Huddersfield are behind the innovation – an eight-metre-tall piece of machinery that is capable of drying sugarcane waste, known as bagasse, at a rate of two tonnes an hour.
+
+[Professor John Allport](https://pure.hud.ac.uk/en/persons/john-allport) and [Dr Gina Javanbakht](https://pure.hud.ac.uk/en/persons/gina-javanbakht) of the University’s [School of Computing and Engineering](https://www.hud.ac.uk/engineering-technology/), have been working on the technology with [Kibabii University](https://kibu.ac.ke/) and local company Carbon Footprint Ltd in western Kenya for the last 18 months.
+
+Their work is part of the African Agriculture Knowledge Transfer Partnership (AAKTP) pilot programme modelled after the UK’s own KTPs and funded by [Innovate UK](https://www.ukri.org/councils/innovate-uk/).
+
+![Sugarcane waste drying in the sun in Kenya](https://www.hud.ac.uk/media/assets/photo/news/2025/may/kenya-ktp-2-web.jpg)the bagasse drying in the sun using the traditional method
+
+This particular AAKTP was set up to develop a sustainable technology to process what is an environmentally damaging agricultural food waste product and to improve the livelihoods of local rural communities through affordable energy.
+
+Kenya’s sugarcane industry generates vast amounts of waste bagasse, the fibrous material left after the milling process. Excess bagasse is dumped on land around sugar mills and left to rot, releasing methane and polluting local waterways.
+
+Companies like Carbon Footprint have sprung up near to these sugar mills and are able to make use of the bagasse by drying it in the sun and forming it into briquettes, which is then sold as a fuel for cooking – a cleaner and cheaper alternative to charcoal.
+
+![A group of people standing on a mound of sugarcane waste in Kenya](https://www.hud.ac.uk/media/assets/photo/news/2025/may/kenya-ktp-3-web.jpg)The Knowledge Transfer Partnership team, including Professor John Allport (second from right) and Dr Gina Javanbakht (third from right)
+
+However, drying wet bagasse in Kenya’s tropical climate is challenging and existing machinery is expensive to import, often not suitable for bagasse and therefore prone to catching fire or exploding, and local workers are simply unable to maintain the equipment.
+
+Professor Allport’s dryer has been specifically designed for bagasse, fabricated locally and uses locally available parts. In addition, it can be maintained by local people.
+
+Already the working prototype has increased production at Carbon Footprint four-fold - with two thirds of what would take all day to dry outside in good weather now being dried in an hour using the new machinery.
+
+[![Machinery moving mounds of sugarcane waste in Kenya](https://www.hud.ac.uk/media/assets/photo/news/2025/may/kenya-ktp-4-web.jpg)](https://www.hud.ac.uk/news/2025/may/kenyan-partnership-sugarcane-waste-cooking-fuel/sugarcanewaste,%20Kenya%20KTP,%20John%20Allport) mounds of sugarcane waste known as bagasse
+
+Professor Allport, who is a Professor of Engineering, lead on the University’s Energy Integration Lab and member of the University’s [Centre for Efficiency and Performance Engineering](https://research.hud.ac.uk/institutes-centres/cepe/), commented: “This is an example of practical applied research in action. We are applying a combination of advanced technical understanding alongside local knowledge and expertise to create a sustainable approach to industrial development. By helping people to develop their own solutions to their local problems enables them to continue the journey by themselves.”
+
+Carbon Footprint, which already supplies 10 local schools with its sugarcane waste briquettes, hopes to initially supply more schools and expand into new markets, such as domestic cooking.
+
+But its long-term goal is to branch out into production of the dryers and sell them to other briquette producers who all currently use the sun drying method to prepare the bagasse.
+
+For more information on the journey of this KTP visit Professor Allport's series of blogs here - [part one](https://blogs.hud.ac.uk/subject/sce-blog/2023/sugarcanewasteblog/), [part two](https://blogs.hud.ac.uk/subject/sce-blog/2024/sugarcanewasteblog2/) and [part three](https://blogs.hud.ac.uk/subject/sce-blog/2024/sugarcanewasteblog3/).
+
+![briquettes made from sugarcane waste](https://www.hud.ac.uk/media/assets/photo/news/2025/may/kenya-ktp-5-web.jpg)briquettes formed from the dried bagasse
+
+**What are Knowledge Transfer Partnerships?**
+
+KTPs are government-funded programmes aimed at helping UK businesses improve competitiveness, production and performance, part-funded through Innovate UK. The programme involves a collaboration between an organisation, nominated academic mentors from the University and a recent graduate.
+
+The University of Huddersfield currently has [a portfolio of around 25 KTPs which attracts a total of almost £6 million funding](https://research.hud.ac.uk/business/knowledge/).
+
+Innovate UK is the country’s national innovation agency, which supports business-led innovation in all sectors and technologies, helping businesses grow through the development and commercialisation of new products, processes, and services.
+
+![University of Huddersfield campus with two medal logos superimposed.](https://www.hud.ac.uk/media/assets/photo/news/2026/june/06_medals_THE.jpg)
+
+### Huddersfield ranked as world's best in two THE Sustainability Impact Ratings \- News Story
+
+Wednesday 24 June 2026
+
+[Read more](https://www.hud.ac.uk/news/2026/june/the-2026-sustainability-impact-rankings-world-lead/)
+
+![A sustainable shelter with its builders and volunteers stood in front of it](https://www.hud.ac.uk/media/assets/photo/news/2026/june/06_Pavilion_launch_1.jpg)
+
+### Sustainable shelter project boosts local outdoor community groups \- News Story
+
+Tuesday 23 June 2026
+
+[Read more](https://www.hud.ac.uk/news/2026/june/sustainable-shelter-project/)
+
+![A student performs a blood pressure test on a man](https://www.hud.ac.uk/media/assets/photo/news/2026/june/05_camira_2.jpg)
+
+### Get Set Goal team deliver hundreds of health checks at two local businesses \- News Story
+
+Wednesday 3 June 2026
+
+[Read more](https://www.hud.ac.uk/news/2026/june/get-set-goal-fmg-camira-2026/)

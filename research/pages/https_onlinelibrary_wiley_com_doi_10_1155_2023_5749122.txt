@@ -1,0 +1,215 @@
+[Journal of Energy](https://onlinelibrary.wiley.com/journal/6953 "Journal of Energy homepage")
+
+[Volume 2023, Issue 1](https://onlinelibrary.wiley.com/toc/6953/2023) 5749122 [![Journal of Energy](https://onlinelibrary.wiley.com/pb-assets/journal-banners/6953-1701866508477.jpg)](https://onlinelibrary.wiley.com/journal/6953 "Journal of Energy homepage")
+
+Research Article
+
+Open Access
+
+[Creative Commons license information](http://creativecommons.org/licenses/by/4.0/)
+
+# Bagasse Electricity Potential of Conventional Sugarcane Factories
+
+[Moses Jeremiah Barasa Kabeyi](https://onlinelibrary.wiley.com/authored-by/Kabeyi/Moses+Jeremiah+Barasa),
+
+Corresponding Author
+
+Moses Jeremiah Barasa Kabeyi
+
+- [moseskabeyi@yahoo.com](mailto:moseskabeyi@yahoo.com "Link to email address")
+
+- [orcid.org/0000-0003-1029-8632](https://orcid.org/0000-0003-1029-8632)
+
+Industrial Engineering Department, Durban University of Technology, Durban, South Africa [dut.ac.za](http://dut.ac.za/ "Link to external resource")
+
+[Search for more papers by this author](https://onlinelibrary.wiley.com/authored-by/Kabeyi/Moses+Jeremiah+Barasa)
+[Oludolapo Akanni Olanrewaju](https://onlinelibrary.wiley.com/authored-by/Olanrewaju/Oludolapo+Akanni),
+
+Oludolapo Akanni Olanrewaju
+
+- [orcid.org/0000-0002-3099-9295](https://orcid.org/0000-0002-3099-9295)
+
+Industrial Engineering Department, Durban University of Technology, Durban, South Africa [dut.ac.za](http://dut.ac.za/ "Link to external resource")
+
+[Search for more papers by this author](https://onlinelibrary.wiley.com/authored-by/Olanrewaju/Oludolapo+Akanni)
+
+[Moses Jeremiah Barasa Kabeyi](https://onlinelibrary.wiley.com/authored-by/Kabeyi/Moses+Jeremiah+Barasa),
+
+Corresponding Author
+
+Moses Jeremiah Barasa Kabeyi
+
+- [moseskabeyi@yahoo.com](mailto:moseskabeyi@yahoo.com "Link to email address")
+
+- [orcid.org/0000-0003-1029-8632](https://orcid.org/0000-0003-1029-8632)
+
+Industrial Engineering Department, Durban University of Technology, Durban, South Africa [dut.ac.za](http://dut.ac.za/ "Link to external resource")
+
+[Search for more papers by this author](https://onlinelibrary.wiley.com/authored-by/Kabeyi/Moses+Jeremiah+Barasa)
+[Oludolapo Akanni Olanrewaju](https://onlinelibrary.wiley.com/authored-by/Olanrewaju/Oludolapo+Akanni),
+
+Oludolapo Akanni Olanrewaju
+
+- [orcid.org/0000-0002-3099-9295](https://orcid.org/0000-0002-3099-9295)
+
+Industrial Engineering Department, Durban University of Technology, Durban, South Africa [dut.ac.za](http://dut.ac.za/ "Link to external resource")
+
+[Search for more papers by this author](https://onlinelibrary.wiley.com/authored-by/Olanrewaju/Oludolapo+Akanni)
+
+First published: 19 May 2023
+
+[https://doi.org/10.1155/2023/5749122Digital Object Identifier (DOI)](https://doi.org/10.1155/2023/5749122)
+
+view metrics
+
+
+**Academic Editor:** Antonio Messineo
+
+**This article is part of Special Issue:**
+
+[![](https://onlinelibrary.wiley.com/specs/products/acropolis/pericles/releasedAssets/images/pdf-icon-169a2eb30e52100e76dfa5f4b66998e6.png)PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1155/2023/5749122 "ePDF")
+
+## Abstract
+
+Sugar industries have huge potential to contribute to the sustainable energy transition through electricity generation and production of biofuels. Sugar-producing countries generate huge volumes of sugarcane bagasse as a byproduct of sugarcane production. In this study, the performance of an operating traditional sugar factory is analyzed for electricity generation and export potential. The study presents characteristics and energy potential of modern and traditional sugar factories. The challenges facing a traditional sugar mill are inefficient boilers, less efficient and back pressure steam turbines, and wasteful and inefficient use of steam turbine drives as prime movers instead of modern electric drives for the mills and cane knives. Others are the use of inefficient and energy intensive cane mill rollers instead of the diffusers which have low energy requirements. It was demonstrated that the cogeneration potential of sugar factory is quite significant but currently underutilized. Sugar factories can make significant contribution towards mitigation of greenhouse gas emission mitigation through supply of green electricity to the public grid. The study showed that the factory uses very old and inefficient boilers aged over 39 years which contributes to poor performance and low electricity generation capacity. Modernization is required to increase the generation and electricity export capacity through investment in new and modern high-pressure boilers, replacement of inefficient back pressure boilers (BPSB) with more efficient condensing extraction turbines (CEST), and reduction of factory steam consumption by electrification of mills and cane knife turbine drives among other measures. This study showed that the 3,000 TCD factory can invest in a 15 MW power plant based on current average factory performance indicators and more if the throughput and overall performance is close to design parameters.
+
+## 1\. Introduction
+
+The sugarcane crop is grown globally under a wide range of climatic conditions, in the subtropical and tropical regions between 35°N in Spain and 35°S in South Africa. The crop has rain requirements of between 1,200 and 1,600 mm/year. If the rain is well distributed, irrigation is not necessary; otherwise, the crop can also be grown under irrigation. There are many sugarcane varieties with different characteristics, but generally, the crop takes 9-24 months to mature for harvest \[[1](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0001), [2](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0002)\].
+
+About 115 countries globally annually produced over 1.9 billion tons of sugarcane in 2020 for production of sugar, paper, and alcohol for the global markets as well as electricity through cogeneration. Sugarcane is grown in the tropical and subtropical regions and is the world’s largest crop by production quantity, with Brazil accounting for 40%. About 79% of global sugar production is from sugarcane while the rest is made mainly from sugar beets. In the year 2017–2018, the sugarcane industry was the world’s second-largest crop production industry, which emphasizes the significant socioeconomic role of the sugarcane crop industry globally \[[3](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0003)–[5](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0005)\]. In terms of sugar production, India was the largest producer for the year 2021/2022 producing about 36.88 tons of sugar followed by Brazil at 35.35 million metric tons while the global sugar production stood at roughly 181 million metric tons in 2021/2022 period \[[6](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0006)\]. The processes in the sugar manufacture and auxiliary services for the plant need continuous and reliable energy supply which can be supplied by bagasse through appropriate cogeneration technology \[[7](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0007), [8](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0008)\]. Besides sugar as the main product in many sugar factories, bagasse contains significant energy potential as a combustion fuel for power generation \[[9](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0009)\].
+
+Sugar is an important commodity for human consumption and is additionally a vital commodity for socioeconomic development making sugarcane a very important cash crop for many countries \[[10](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0010)\]. However, sugarcane products are quite vulnerable in the international market, and their prices are quite volatile \[[10](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0010), [11](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0011)\]. The ever growing demand for energy and environmental concerns due to fossil fuel-related greenhouse gas emissions and concerns over the global temperature rise has led to a shift to renewable energy resources. Biomass is an important option being a renewable energy and carbon neutral energy source \[[12](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0012), [13](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0013)\]. Agriculture is an important economic activity with different products adding value to the economies as raw materials for industrial processing or final consumer goods. Sugarcane is an example of a commercial crop used as a raw material for industrial production of sugar and byproducts with significant value addition potential like bagasse and molasses \[[14](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0014)\]. The sugar factory has become a multipurpose factory simultaneously producing food, energy, and biofuels \[[15](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0015)\]. As a transition product in the energy and economic transition, sugarcane is used in production of sugar and many other byproducts in more than 100 countries globally \[[2](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0002), [16](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0016)\].
+
+The modern sugarcane industry is diversified and highly integrated producing a wide range of products like sugar, molasses, ethanol, electric power, pulp and paper, charcoal briquettes, and biogas, which remain sustainable and competitive in the market \[[1](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0001), [17](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0017)\]. Bagasse is an energy rich byproduct of a sugarcane factory having significant economic and technical potential for grid power generation \[[16](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0016)\]. Bagasse-based cogeneration has proved to be a reliable source of grid electricity in countries that have modernized their sugar factories to increase energy efficiency \[[18](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0018), [19](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0019)\]. As evidence from countries with successful bagasse cogeneration like Mauritius, Brazil, and India, development of export-based bagasse cogeneration as a reliable source of grid electricity involves many stakeholders and investment in energy efficient technology and capital in a facilitating legal and policy environment \[[14](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0014), [20](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0020)\]. Several countries like Mauritius, India, and Brazil have the sugar industry connected to the public power grid which earns the industry extra revenue in exchange for clean electricity \[[1](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0001)\]. India has over 500 sugar factories with bagasse-based power generation of over 3,221 MW \[[17](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0017), [21](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0021)\], while the untapped potential remains more than 5,000 MW \[[22](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0022)\]. In Brazil, the sugarcane mills are the fourth leading sources of electricity supply to the Brazil’s grid electricity mix, even though it is just 15% of the industrial capacity of the sugar industry with estimates showing that sugarcane residues, through bioelectricity can supply 148,000 GWhrs to the grid \[[23](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0023)\]. In Pakistan, the electricity potential is estimated about 1,598 GWhrs to 2,894 GWhrs \[[24](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0024)\]. This is an indicator of the huge electricity potential of the sugar cane industry in the global energy transition.
+
+It is generally expected that a sugar factory should be an independent source of energy. This implies that it should produce its own electricity and heat using available materials, mainly filter cake, molasses, bagasse, and trash \[[25](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0025)\]. Compared to all other crops, the sugarcane crop has the highest potential for bioelectricity generation globally \[[26](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0026)\]. According to \[[24](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0024)\], one ton of cane bagasse can produce 0.450 MWh of electricity by means of traditional cogeneration technology, whose benefits include contribution to a country’s electricity generation capacity and, generation of employment opportunities particularly in rural areas, with significant environmental benefits and economic benefits for sugar-producing countries \[[24](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0024)\].
+
+Although just 10 countries account for over 80% of sugarcane production, the crop is grown in more than 100 countries globally \[[21](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0021), [27](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0027)\]. The electricity demand for a typical sugar factory is between 20 and 30 kWh/ton of cane processed. A typical traditional and low efficient sugar factory can produce 60 to 70 kWh/tc, but modern and more efficient sugar factories can generate between 100 and 130 kWh/tc operating at higher steam pressure of up to 88 bars \[[28](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0028)\]. Evaluation of bagasse cogeneration shows that it is as competitive as fossil fuel power plants in performance indicators \[[27](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0027), [29](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0029)\].
+
+The Kenyan sugar industry provides about five million direct and indirect jobs accounting for about 16% of the country’s population. The sector also provides a livelihood to over 120,000 smallholder sugarcane farmers who account for about 88% of factory cane deliveries, with the remainder being supplied by the sugar factories themselves from their factory-owned nucleus estates which provides employment more than 40,000 employees. Sugar remains an important food item in all household while refined sugar is a major raw material for many food-based industries creating jobs and creating wealth for the producing as well as importing countries \[[30](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0030), [31](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0031)\]. This shows that the sugar industry has significant socioeconomic benefits and should therefore be supported particularly for developing countries.
+
+Nzoia Sugar was incorporated on 1st August 1975 under the Companies Act as a limited liability company with the Government of Kenya as the majority shareholder owning 98% of shares. Other shareholders are the Five Cail Babcock of France (FCB) and the Industrial Development Bank (ADB) owning the remaining 2% of the shares. The initial milling capacity was 2,000 TCD which was expanded in 1986 to 3,000 TCD and with optimum sugar production of 315 (TS) per day. A plan to expand the capacity to 7000 TCD and 735 TS stalled after the government failed to pay for its contribution of 15% of the cost with funding provided by the EXIM Bank of US \[[32](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0032)\]. At 3000 TCD, the factory does not enjoy economies of scale like Mumias Sugar Company Ltd., whose capacity is 7000 TCD \[[1](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0001), [2](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0002)\].
+
+For a long time, the sugar industry has been facing stiff completion from cheap imported sugar from low cost producing countries. The factories are often forced to sell their produce at a loss driving them deep into the debt crisis they continue facing. Delayed payments for cane deliveries from farmers and liberalization of the sugar market have made the factories unable to compete leading to receivership of companies like Muhoroni and partial closure of Nzoia Sugar Factory. Many factories are heavily indebted as they make heavy financial losses and dwindling overall performance. The main causes are delayed payment to farmers who are now abandoning cane farming or sell their cane to noncontracted millers, high cost of farm inputs and sugar production, and adverse weather conditions like droughts leading to low production levels. Sugar production alone can no longer keep these companies afloat financially. There is need to diverse operations and product range by sugar factories to supplement their traditional revenue from sugar sales for survival. Ethanol plant is a good start in addressing these issues \[[4](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0004), [20](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#bib-0020)\].
+
+This study is aimed at identifying the challenges of cogeneration in a conventional sugar factory using an operating 3,000 TCD (tons of cane milled per day) sugar factory as a case study. The performance of Nzoia Sugar Factory in Kenya was analyzed to give an insight of the cogeneration situation in medium scale conventional sugar factories and define improvement measures to attain capacity to generate excess electricity for export to the grid by modernization of factory design and operations. A review of the operations of the traditional sugar factory is carried out and comparison made between a modern and conventional sugar factory in terms of steam and electricity generation and applications to identify necessary modifications on a traditional or conventional sugar factory to increase its electricity generation and export potential.
+
+### 1.1. Problem Statement
+
+
+[... middle omitted — see footer ...]
+
+
+10.1186/1754-1611-7-1
+
+
+
+[PubMed](https://onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=8&doi=10.1155%2F2023%2F5749122&key=23305036&getFTLinkType=true&doiForPubOfPage=10.1155%2F2023%2F5749122&refDoi=10.1186%2F1754-1611-7-1&linkType=PMID&linkSource=FULL_TEXT&linkLocation=Reference)[Web of Science®](https://onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=128&doi=10.1155%2F2023%2F5749122&key=000334096700001&getFTLinkType=true&doiForPubOfPage=10.1155%2F2023%2F5749122&refDoi=10.1186%2F1754-1611-7-1&linkType=ISI&linkSource=FULL_TEXT&linkLocation=Reference)[Google Scholar](https://onlinelibrary.wiley.com/action/getFTRLinkout?url=http%3A%2F%2Fscholar.google.com%2Fscholar_lookup%3Fhl%3Den%26volume%3D7%26publication_year%3D2013%26journal%3DJournal%2Bof%2BBiological%2BEngineering%26author%3DF.%2BJia%26author%3DJ.%2BChawhuaymak%26author%3DM.%2BR.%2BRiley%26author%3DW.%2BZimmt%26author%3DK.%2BL.%2BOgden%26title%3DEfficient%2Bextraction%2Bmethod%2Bto%2Bcollect%2Bsugar%2Bfrom%2Bsweet%2Bsorghum&doi=10.1155%2F2023%2F5749122&doiOfLink=10.1186%2F1754-1611-7-1&linkType=gs&linkLocation=Reference&linkSource=FULL_TEXT)
+
+- 91Khatiwada D.,
+Leduc S.,
+Silveira S., and
+McCallum I., Optimizing ethanol and bioelectricity production in sugarcane biorefineries in Brazil, _Renewable Energy_. (2016) 85, 371–386, [https://doi.org/10.1016/j.renene.2015.06.009](https://doi.org/10.1016/j.renene.2015.06.009), 2-s2.0-84935471391.
+
+10.1016/j.renene.2015.06.009
+
+
+
+[CAS](https://onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=32&doi=10.1155%2F2023%2F5749122&key=1%3ACAS%3A528%3ADC%252BC2MXhs1ehur3N&getFTLinkType=true&doiForPubOfPage=10.1155%2F2023%2F5749122&refDoi=10.1016%2Fj.renene.2015.06.009&linkType=COI&linkSource=FULL_TEXT&linkLocation=Reference)[Web of Science®](https://onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=128&doi=10.1155%2F2023%2F5749122&key=000363344800036&getFTLinkType=true&doiForPubOfPage=10.1155%2F2023%2F5749122&refDoi=10.1016%2Fj.renene.2015.06.009&linkType=ISI&linkSource=FULL_TEXT&linkLocation=Reference)[Google Scholar](https://onlinelibrary.wiley.com/action/getFTRLinkout?url=http%3A%2F%2Fscholar.google.com%2Fscholar_lookup%3Fhl%3Den%26volume%3D85%26publication_year%3D2016%26pages%3D371-386%26journal%3DRenewable%2BEnergy%26author%3DD.%2BKhatiwada%26author%3DS.%2BLeduc%26author%3DS.%2BSilveira%26author%3DI.%2BMcCallum%26title%3DOptimizing%2Bethanol%2Band%2Bbioelectricity%2Bproduction%2Bin%2Bsugarcane%2Bbiorefineries%2Bin%2BBrazil&doi=10.1155%2F2023%2F5749122&doiOfLink=10.1016%2Fj.renene.2015.06.009&linkType=gs&linkLocation=Reference&linkSource=FULL_TEXT)
+
+
+## Citing Literature
+
+- [![All articles](https://onlinelibrary.wiley.com/cms/asset/2aefec50-be67-4976-a5b7-0e2983d5acc3/default_cover.jpg)](https://onlinelibrary.wiley.com/index/6953 "All articles")
+
+[All articles  >](https://onlinelibrary.wiley.com/index/6953 "All articles")
+
+
+- [**Figures**](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#pane-pcw-figures)
+- [**References**](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#pane-pcw-references)
+- [**Related**](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#pane-pcw-related)
+- [**Information**](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#pane-pcw-details)
+
+![](https://onlinelibrary.wiley.com/specs/products/acropolis/pericles/releasedAssets/images/spinner-1ffd60b3aabe5b09bc98c48345208fd9.gif)
+
+[Energy Marshal - Electrical & Mechanical](https://jobs.physicstoday.org/job/42015890/?utm_campaign=joen&utm_source=wileyonlinelibrary&utm_medium=jobs-widget)
+
+- Commensurate
+- Chester, Virginia
+- Diversified Safety Services
+
+[Energy Marshal - Electrical & Mechanical](https://jobs.physicstoday.org/job/42015889/?utm_campaign=joen&utm_source=wileyonlinelibrary&utm_medium=jobs-widget)
+
+- Commensurate
+- Midlothian, Virginia
+- Diversified Safety Services
+
+[Nuclear Systems Analyst](https://jobs.physicstoday.org/job/42015760/?utm_campaign=joen&utm_source=wileyonlinelibrary&utm_medium=jobs-widget)
+
+- Commensurate
+- Reston, Virginia
+- Booz Allen Hamilton
+
+[Nuclear Systems Analyst](https://jobs.physicstoday.org/job/42015759/?utm_campaign=joen&utm_source=wileyonlinelibrary&utm_medium=jobs-widget)
+
+- Commensurate
+- McLean, Virginia
+- Booz Allen Hamilton
+
+[Nuclear Technology Applications and Impacts Postdoctoral Fellow](https://jobs.physicstoday.org/job/41975414/?utm_campaign=joen&utm_source=wileyonlinelibrary&utm_medium=jobs-widget)
+
+- $100,000 per year with a $10,000 increase once security clearance is received.
+- Fort Belvoir, Virginia
+- JHU
+
+[Close Figure Viewer](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122# "close")
+
+[Previous Figure](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122# "previous figure") [Next Figure](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122# "next figure")
+
+[Caption](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122# "Open/Close Caption")
+
+[Download PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2023/5749122)
+
+The full text of this article hosted at iucr.org is unavailable due to technical difficulties.
+
+wiley.scienceconnect.io
+
+# wiley.scienceconnect.io is blocked
+
+**wiley.scienceconnect.io** refused to connect.
+
+ERR\_BLOCKED\_BY\_RESPONSE
+
+**wiley.scienceconnect.io** refused to connect.
+
+![](<Base64-Image-Removed>)![](<Base64-Image-Removed>)
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122#addtoany "Show all")
+
+A2A
+
+[Referenced in **1** policy sources](https://www.altmetric.com/details.php?domain=onlinelibrary.wiley.com&citation_id=173000265&tab=policy-documents)
+
+[Reddited by **1**](https://www.altmetric.com/details.php?domain=onlinelibrary.wiley.com&citation_id=173000265&tab=reddit)
+
+**172** readers on Mendeley
+
+
+[See more details](https://www.altmetric.com/details.php?domain=onlinelibrary.wiley.com&citation_id=173000265)
+
+──────── [TRUNCATED] ────────
+Showing 18,037 chars (head) + 5,963 chars (tail) of 237,291 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/onlinelibrary.wiley.com-83627d7ed3.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/onlinelibrary.wiley.com-83627d7ed3.md" offset=100 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

@@ -1,0 +1,432 @@
+**PRODUCTION OF ORGANIC FERTILIZER FROM BLACK SOLDIER FLY**
+
+**FRASS FOR IMPROVED SOIL HEALTH AND MAIZE PRODUCTIVITY IN**
+
+**NAIROBI CITY COUNTY, KENYA**
+
+**BEESIGAMUKAMA DENNIS (MSc)**
+
+**A99EA/25000/2018**
+
+# A THESIS SUBMITTED IN PARTIAL FULFILMENT OF THE REQUIREMENTS FOR THE DEGREE OF DOCTOR OF PHILOSOPHY IN SOIL SCIENCE OF KENYATTA UNIVERSITY
+
+**JUNE 2021**
+
+* * *
+
+## DECLARATION
+
+I Beesigamukama Dennis declare that this thesis is my original work and has not been
+presented for the award of a degree in any other university or any other award.
+
+Signature……………………………… Date…………………………
+
+## SUPERVISORS’ APPROVAL
+
+We confirm that the work reported in this thesis was carried out by the candidate under
+
+our supervision and has been submitted with our approval as university supervisors.
+
+## Prof. Benson Mochoge
+
+Department of Agricultural Science and Technology
+
+School of Agriculture and Enterprise Development
+
+Kenyatta University, P.O. Box 43844 - 00100 Nairobi, Kenya.
+
+Signature……………………………… Date……………………………
+
+## Dr. Nicholas K. Korir
+
+Department of Agricultural Science and Technology
+
+School of Agriculture and Enterprise Development
+
+Kenyatta University, P.O. Box 43844 - 00100 Nairobi, Kenya.
+
+Signature…………………………… Date…………………………….
+
+## Dr. Chrysantus M. Tanga
+
+Plant Health Theme
+
+International Centre of Insect Physiology and Ecology _(icipe)_
+
+P. O. Box 30772 - 00100 Nairobi, Kenya.
+
+Signature…………………………… Date…………………………...
+
+* * *
+
+## DEDICATION
+
+To my beloved wife (Mrs. Marion Kabarungi), daughter (Faith Asiimwe), and the entire
+family for their love, sacrifice, encouragement, and perseverance during my academic
+career.
+
+* * *
+
+## ACKNOWLEDGEMENTS
+
+First, I thank the Almighty God for giving me good health, wisdom, and
+protection during the pursuit of my PhD degree. It was an honour to be supervised by a
+strong team led by Prof. Benson Mochoge and Dr. Nicholas K. Korir from Kenyatta
+University (KU), and Dr. Chrysantus M. Tanga, Dr. Martha W. Musyoka and Dr. Komi
+K.M. Fiaboe from the International Centre of Insect Physiology and Ecology ( _icipe)._
+Your intelligent supervision has left a positive imprint on me.
+
+I am grateful to _icipe_ technicians (Mrs. Faith N. Wamurango, Mr. Shem
+Ondiaka, Mr. Erick Rachami and Mr. Joshua Wambua) for maintaining the insect
+colony and offering support during data collection. Mr. Kennedy Kilel, Mr. Mathew
+Theuri, Mrs. Rachael Kimani, Ms Kallen Gacheri and Mrs. Lucy Wangu (Agricultural
+Science and Technology Laboratories, KU) provided technical assistance during
+laboratory analysis. Mr. Evans M. Wanzetse and Mrs. Miriam Mbaya from Animal
+science lab granted me access to the oven and refrigerator. Mr. Benjamin Gichohi
+(Environmental Science laboratory, KU), Mrs. Jane Karambu and Mr. John Gachoya
+(Food nutrition and dietetics laboratory) and Mr. Stanley Kariuki (Chemistry lab of KU)
+provided some laboratory reagents and equipment. Prof. Jayne N. Mugwe provided
+some field tools and encouragement throughout my PhD journey. The help offered by
+the KU farm manager (Mr. Ezekiel Chepkwony), farm supervisor (Mr. Anderson N.
+Maina), and Mr. Barunaba M. Mmbaya and Ms. Eunice S. Macharia during field
+experiments is highly appreciated.
+
+* * *
+
+In a special way, I express gratitude to my dear wife and daughter, mother,
+brother, and sisters for their support during the pursuit of my PhD. Gratitude to my
+fellow postgraduate students at _icipe_ and KU, and other friends who might have
+rendered any help during the entire period of study. My fellow PhD students, especially
+the ARPPIS-DAAD class of 2017 kept me going in times of despair. I acknowledge Dr
+Mohamed A. Mkiga for his assistance during data analysis.
+
+I would like to appreciate the entire _icipe_ community especially the Capacity
+Building and Institutional Development Programme led by Dr. Robert A. Skilton, M/s
+Vivian A. Atieno and Mrs. Margaret A. Ochanda for coordinating my scholarship
+funding, immigration status, and offering a conducive environment during experiments
+and thesis preparation. In the same way, I am grateful to Kenyatta University through
+the School of Agriculture and Enterprise Development for providing an enabling
+environment during my entire PhD journey.
+
+Lastly, I acknowledge the German Academic Exchange Service (DAAD) In-
+Region Postgraduate Scholarship for paying my tuition fees, stipend, and part of
+research funds. I thank the International Development Research Centre (IDRC),
+Australian Centre for International Agricultural Research (ACIAR) (INSFEED-phase 2:
+Cultivate Grant No: 108866-001), the Netherlands Organization for Scientific Research,
+WOTRO Science for Global Development (NWO-WOTRO) (ILIPA–W 08.250.202),
+and The Rockefeller Foundation (SiPFeed—2018 FOD 009) through _icipe_ for providing
+research funds.
+
+* * *
+
+## TABLE OF CONTENTS
+
+DECLARATION............................................................................................................................ ii
+DEDICATION............................................................................................................................... iii
+ACKNOWLEDGEMENTS........................................................................................................... iv
+TABLE OF CONTENTS............................................................................................................... vi
+LIST OF TABLES......................................................................................................................... xi
+LIST OF FIGURES .....................................................................................................................xiii
+ABSTRACT................................................................................................................................. xvi
+CHAPTER ONE: INTRODUCTION............................................................................................. 1
+1.1 Background to the study........................................................................................................ 1
+1.2 Statement of the problem..................................................................................................... 4
+1.3 Justification........................................................................................................................... 6
+1.5 General objective................................................................................................................... 9
+1.5.1 Specific objectives........................................................................................................ 10
+1.6 Hypotheses.......................................................................................................................... 10
+1.7 Conceptual framework........................................................................................................ 11
+CHAPTER TWO: LITERATURE REVIEW............................................................................... 13
+2.1 The black soldier fly and its role in agriculture................................................................... 13
+2.2 Organic wastes as a resource in agriculture........................................................................ 14
+2.3 Composting......................................................................................................................... 16
+2.4 Nutrient changes during composting................................................................................... 17
+2.5 Effect of compost C/N ratio and pH on nitrogen transformation during composting......... 18
+2.6 Strategies for conserving nitrogen during composting........................................................ 20
+2.6.1 Regulation of pH........................................................................................................... 21
+2.6.2 Ammonium precipitation.............................................................................................. 22
+2.6.3 Ammonium adsorption and absorption......................................................................... 22
+2.6.4 Adjustment of substrate C/N ratio................................................................................ 24
+2.7 Effect of organic amendments on soil nitrogen mineralization .......................................... 24
+2.8 Nitrogen fertilizer equivalence of organic fertilizers.......................................................... 26
+2.9 Economic value of BSF farming and frass fertilizer........................................................... 27
+CHAPTER THREE: MATERIALS AND METHoDS................................................................ 28
+
+* * *
+
+3.1 Description of experimental sites........................................................................................ 28
+3.2 Black soldier fly colony establishment and maintenance.................................................... 33
+3.3 Experiments carried out....................................................................................................... 34
+3.3.1 Determining the critical C/N ratio for BSF larvae growth and nutrient
+conservation in frass fertilizer................................................................................................ 34
+3.3.1.1 Sources of experimental substrates............................................................................ 34
+3.3.1.2 Black soldier fly larval growth and yield on various substrates................................ 36
+3.3.1.3 Quality of frass and frass compost yield.................................................................... 38
+3.3.1.4 Laboratory analysis methods..................................................................................... 39
+3.3.1.5 Phytotoxicity test on mature frass compost extracts.................................................. 43
+3.3.2 Evaluating the effectiveness of biochar and gypsum amendments on nitrogen
+retention in BSF frass fertilizer.............................................................................................. 44
+3.3.2.1 Experimental diets..................................................................................................... 44
+3.3.2.2 Black soldier fly larval growth and yield on various substrates................................ 45
+3.3.3 Determining the comparative performance of BSF frass fertilizer and
+commercial fertilizers on crop production............................................................................. 46
+3.3.3.1 Source of fertilizers.................................................................................................... 46
+3.3.3.2 Treatments and experimental set up.......................................................................... 47
+3.3.3.3 Maize growth, yield, and mineral nitrogen................................................................ 51
+3.3.3.4 Nitrogen use efficiencies........................................................................................... 53
+3.3.4 Determination of soil moisture storage, nitrogen fertilizer equivalence and
+synchrony of N mineralization from BSF frass and commercial organic fertilizers............. 54
+3.3.4.1 Nitrogen fertilizer equivalence.................................................................................. 54
+3.3.4.2 Synchrony of nitrogen mineralization for maize production..................................... 56
+3.3.4.3 Soil sampling and incubation..................................................................................... 56
+3.3.4.4 Mineral nitrogen release............................................................................................ 58
+3.3.4.5 Synchrony of nitrogen mineralization and nitrogen uptake...................................... 59
+3.3.5 Economic value of frass fertilizer production alongside BSF rearing and
+profitability of crop production using BSF frass fertilizer.................................................... 59
+3.3.5.1 Economic value of frass fertilizer as a second product from BSF farming.............. 59
+3.3.5.2 Economic evaluation of maize production using BSF frass fertilizer....................... 62
+3.3.5.2.1 Economically optimum fertilizer rates for maize production................................ 63
+
+* * *
+
+3.4 Data analysis........................................................................................................................ 65
+CHAPTER FOUR: RESULTS AND DISCUSSION................................................................... 67
+4.1 Introduction......................................................................................................................... 67
+4.2 Critical carbon to nitrogen (C/N) ratio for optimal BSF larval growth and nutrient
+conservation in frass fertilizer................................................................................................... 67
+4.2.1 Black soldier fly larvae yield........................................................................................ 67
+4.2.2 Waste reduction and biomass conversion rate.............................................................. 69
+4.2.3 Frass compost yield...................................................................................................... 71
+4.2.4 Nutrients flow in BSF larvae and frass compost.......................................................... 72
+4.2.5 Temperature, pH, and electrical conductivity during frass composting....................... 74
+4.2.6 Ammonium and nitrate concentrations, and ammonium nitrate ratio.......................... 78
+4.2.7 Phytotoxicity of frass composts.................................................................................... 82
+4.2.8 Total organic carbon and total nitrogen........................................................................ 83
+4.2.9 Total phosphorus and potassium.................................................................................. 87
+4.2.10 Ratios of carbon to nitrogen during experiment......................................................... 90
+4.3 Effect of biochar and gypsum amendments on BSF larval performance and
+nitrogen retention in frass fertilizer........................................................................................... 91
+4.3.1 Black soldier fly larval yields and biomass conversion rates....................................... 91
+4.3.2 Waste degradation and frass compost yield.................................................................. 96
+4.3.3 Effect of biochar and gypsum on nitrogen retention and use by BSF larvae............... 98
+4.3.4 Effect of biochar and gypsum on temperature, pH, and electrical conductivity
+during frass composting....................................................................................................... 100
+4.3.5 Ammonium and nitrate concentrations during frass composting............................... 105
+4.3.6 Effect of biochar and gypsum on total organic carbon and total nitrogen
+during frass composting....................................................................................................... 109
+4.3.7 Total phosphorus and potassium during frass composting......................................... 115
+4.3.8 Effect of biochar and gypsum on ratios of carbon to nitrogen during frass
+composting........................................................................................................................... 118
+4.3.9 Phytotoxicity of mature frass compost extracts.......................................................... 121
+4.4 Comparative performance of BSF frass fertilizer and commercial fertilizers on the
+growth, yield, and nitrogen use efficiency of maize............................................................... 123
+4.4.1 Plant height................................................................................................................. 123
+
+* * *
+
+4.4.2 Chlorophyll concentration.......................................................................................... 127
+4.4.3 Soil mineral nitrogen content...................................................................................... 131
+4.4.3.1 Sole organic fertilizer treatments............................................................................. 131
+4.4.3.2 Combined fertilizer treatments................................................................................ 133
+4.4.4 Nitrogen uptake by maize........................................................................................... 136
+4.4.4.1 Sole organic fertilizer treatments............................................................................. 136
+4.4.4.2 Combined fertilizer treatments................................................................................ 139
+4.4.5 Phosphorus and potassium uptake at harvesting......................................................... 142
+4.4.5.1 Sole organic fertilizer treatments............................................................................. 142
+4.4.5.2 Combined fertilizer treatments................................................................................ 145
+4.4.6 Nitrogen use efficiency............................................................................................... 146
+4.4.6.1 Agronomic nitrogen efficiency (AEN)..................................................................... 146
+4.4.6.2 Apparent nitrogen recovery (ANRN)....................................................................... 146
+4.4.6.3 Agro-physiological nitrogen efficiency (APEN)...................................................... 149
+4.4.6.4 Nitrogen harvest index (NHI).................................................................................. 150
+4.4.7 Maize grain and stover yields..................................................................................... 151
+4.4.7.1 Sole organic fertilizer treatments............................................................................. 151
+4.4.7.2 Combined fertilizer treatments................................................................................ 155
+4.5 Soil moisture storage, nitrogen fertilizer equivalence value and synchrony of N
+mineralization from BSF frass and commercial organic fertilizer for maize production........ 158
+4.5.1 Effect of BSF frass and SAFI organic fertilizers on soil moisture storage................. 158
+4.5.2 Effects of BSF frass and SAFI fertilizers on N mineralization.................................. 160
+4.5.3 Effects of BSF frass and SAFI fertilizers on mineral N distribution in soil............... 165
+4.5.4 Effects of BSF frass and SAFI fertilizer on maize N uptake...................................... 168
+4.5.5 Effect of BSF frass and SAFI fertilizers on degree of N synchrony.......................... 170
+4.5.6 Nitrogen fertilizer equivalence values of BSF frass and SAFI fertilizers.................. 173
+4.6 Economic value of frass fertilizer production alongside BSF rearing and
+profitability of crop production using BSF frass fertilizer...................................................... 176
+4.6.1 Larval and frass fertilizer yields, gross and net income from BSF farming............... 176
+4.6.2 Gross margin, benefit-cost ratio and return on investment from BSF farming.......... 181
+4.6.3 Economic value of BSF frass fertilizer on maize production..................................... 185
+
+* * *
+
+4.6.4 Economically optimum frass fertilizer rates and stochastic dominance analysis....... 191
+CHAPTER FIVE: SUMMARY, CONCLUSIONS AND RECOMMENDATIONS ................ 195
+5.1 Summary of the key findings............................................................................................ 195
+5.2 Conclusions....................................................................................................................... 197
+5.3 Recommendations............................................................................................................. 198
+5.4 Areas for future research................................................................................................... 199
+REFERENCES............................................................................................................................ 201
+APPENDICES ............................................................................................................................ 219
+
+* * *
+
+## LIST OF TABLES
+
+Table 1: Selected physical and chemical characteristics of the soil at the experimental
+site................................................................................................................................................. 32
+Table 2: Selected characteristics of substrates used in black soldier fly rearing.......................... 35
+Table 3: Percentage weights of sawdust and brewery spent grain waste mixed to produce
+feedstocks of varying carbon to nitrogen ratios............................................................................ 36
+Table 4: Selected characteristics of substrate and additives used in the experiment.................... 44
+Table 5: Chemical characteristics of the organic fertilizers used during experiments................. 48
+Table 6: Treatments considered during the study......................................................................... 49
+Table 7: Actual amounts of macro nutrients supplied by organic fertilizer treatments................ 51
+Table 8: Parameters used in calculating economic returns from frass fertilizer........................... 61
+Table 9: Parameters used to calculate economic returns for different fertilizer inputs................ 62
+Table 10: Effect of C/N ratio adjustment on nutrient accumulation by BSF larvae and
+nutrient retention in frass fertilizer................................................................................................ 73
+Table 11: Effect of substrate carbon to nitrogen (C/N) ratio adjustment on seed
+germination and seed germination indices of mature BSF frass composts................................... 82
+Table 12: Ratios of organic carbon and water-soluble carbon to total nitrogen at selected
+periods during the experiment....................................................................................................... 91
+Table 13: Waste degradation, biomass conversion rates and frass compost yield by BSF
+larvae reared on biochar and gypsum amended substrates........................................................... 95
+
+[... middle omitted — see footer ...]
+
+[www.unep.or.jp/.../IS\_6\_4\_Nairobi\_ISWMpl](http://www.unep.or.jp/.../IS_6_4_Nairobi_ISWMpl)
+
+Wang, Q., Awasthi, M. K., Ren, X., Zhao, J., Li, R., Wang, Z., Wang, M., Chen, H., &
+Zhang, Z. (2018). Combining biochar, zeolite and wood vinegar for composting of
+pig manure: The effect on greenhouse gas emission and nitrogen conservation.
+_Waste Management, 74,_ 221–230. [https://doi.org/10.1016/j.wasman.2018.01.015](https://doi.org/10.1016/j.wasman.2018.01.015)
+
+Wang, X., Selvam, A., Chan, M., & Wong, J. W. C. (2013). Nitrogen conservation and
+acidity control during food wastes composting through struvite formation.
+_Bioresource Technology, 147,_ 17–22.
+[https://doi.org/10.1016/j.biortech.2013.07.060](https://doi.org/10.1016/j.biortech.2013.07.060)
+
+Wang, X., Selvam, A., & Wong, J. W. C. (2016). Influence of lime on struvite formation
+and nitrogen conservation during food waste composting. _Bioresource Technology,_
+_217,_ 227–232. [https://doi.org/10.1016/j.biortech.2016.02.117](https://doi.org/10.1016/j.biortech.2016.02.117)
+
+Wang, Y. Q., & Schuchardt, F. (2010). Effect of C/N ratio on the composting of
+vineyard pruning residues. _Landbauforschung,_ 60(3), 131–138.
+
+Wichuk, K. M., & McCartney, D. (2007). A review of the effectiveness of current timetemperature regulations on pathogen inactivation during composting. In _Journal of_
+_Environmental Engineering and Science_ (Vol. 6, Issue 5, pp. 573–586).
+[https://doi.org/10.1139/S07-011](https://doi.org/10.1139/S07-011)
+
+Wortmann, C. S., Kaizzi, K. C., Maman, N., Cyamweshi, A., Dicko, M., Garba, M.,
+Milner, M., Senkoro, C., Tarfa, B., Tettah, F., Kibunja, C., Munthali, M., Nalivata,
+P., Nkonde, D., Nabahungu, L., Ouattara, K., & Serme, I. (2019). Diagnosis of crop
+secondary and micro-nutrient deficiencies in sub-Saharan Africa. _Nutrient Cycling_
+_in Agroecosystems,_ 113(2), 127–140. [https://doi.org/10.1007/s10705-018-09968-7](https://doi.org/10.1007/s10705-018-09968-7)
+
+Wu, D., Liu, P., Luo, Y., Tian, G., & Mahmood, Q. (2010). Nitrogen transformations
+during co-composting of herbal residues, spent mushrooms, and sludge. _Journal of_
+_Zhejiang University,_ 11(7), 497–505.
+
+* * *
+
+Xiao, R., Awasthi, M. K., Li, R., Park, J., Pensky, S. M., Wang, Q., Wang, J. J., &
+Zhang, Z. (2017). Recent developments in biochar utilization as an additive in
+organic solid waste composting: A review. _Bioresource Technology, 246,_ 203–213.
+[https://doi.org/10.1016/j.biortech.2017.07.090](https://doi.org/10.1016/j.biortech.2017.07.090)
+
+Yang, F., Li, G., Shi, H., & Wang, Y. (2015). Effects of phosphogypsum and
+superphosphate on compost maturity and gaseous emissions during kitchen waste
+composting. _Waste Management, 36,_ 70–76.
+[https://doi.org/10.1016/j.wasman.2014.11.012](https://doi.org/10.1016/j.wasman.2014.11.012)
+
+Yuan, Z., Cao, Q., Zhang, K., Ata-Ul-Karim, S. T., Tan, Y., Zhu, Y., Cao, W., & Liu, X.
+(2016). Optimal leaf positions for SPAD meter measurement in rice. _Frontiers in_
+_Plant Science, 7,_ 1–10. [https://doi.org/10.3389/fpls.2016.00719](https://doi.org/10.3389/fpls.2016.00719)
+
+Zdybicka-Barabas, A., Bulak, P., Polakowski, C., Bieganowski, A., Wasko, A., &
+Cytrynska, M. (2017). Immune response in the larvae of the black soldier fly
+_Hermetia illucens. Isj-Invertebrate Survival Journal, 14,_ 9–17.
+
+Zingore, S., Murwira, H. K., Delve, R. J., & Giller, K. E. (2007). Influence of nutrient
+management strategies on variability of soil fertility, crop yields and nutrient
+balances on smallholder farms in Zimbabwe. _Agriculture, Ecosystems and_
+_Environment, 119(1_–2), 112–126. [https://doi.org/10.1016/j.agee.2006.06.019](https://doi.org/10.1016/j.agee.2006.06.019)
+
+## APPENDICES
+
+## Appendix I: Papers emanating from the thesis
+
+1. Beesigamukama, D., Mochoge, B., Korir, N. K., Fiaboe, K. K. M., Nakimbugwe, D.,
+   Khamis, F. M., Dubois, T., Subramanian, S., Wangu, M. M., Ekesi, S., & Tanga, C. M.
+   (2020). Biochar and gypsum amendment of agro-industrial waste for enhanced black
+   soldier fly larval biomass and quality frass fertilizer. PloS One, 15(8), e0238154.
+   [https://doi.org/10.1371/journal.pone.0238154](https://doi.org/10.1371/journal.pone.0238154)
+
+2. Beesigamukama, D., Mochoge, B., Korir, N. K., Fiaboe, K. K. M., Nakimbugwe, D.,
+   Khamis, F. M., Subramanian, S., Dubois, T., Ekesi, S., Kelemu, S., & Tanga, C. M.
+   (2020). Exploring Black Soldier Fly Frass as Novel Fertilizer for Improved Growth,
+   Yield, and Nitrogen Use Efficiency of Maize Under Field Conditions. Frontiers in Plant
+   Science, 11(September), 1-17. [https://doi.org/10.3389/fpls.2020.574592](https://doi.org/10.3389/fpls.2020.574592)
+
+
+* * *
+
+3. Beesigamukama, D., Mochoge, B., Korir, N., Musyoka, M. W., Fiaboe, K. K. M.,
+   Nakimbugwe, D., Khamis, F. M., Subramanian, S., Dubois, T., Ekesi, S., & Tanga, C.
+   M. (2020). Nitrogen Fertilizer Equivalence of Black Soldier Fly Frass Fertilizer and
+   Synchrony of Nitrogen Mineralization for Maize Production. Agronomy, 10(1395), 1–9.
+4. Beesigamukama, D., Mochoge, B., Korir, N. K., K.M. Fiaboe, K., Nakimbugwe, D.,
+   Khamis, F. M., Subramanian, S., Wangu, M. M., Dubois, T., Ekesi, S., & Tanga, C. M.
+   (2021). Low-cost technology for recycling agro-industrial waste into nutrient-rich
+   organic fertilizer using black soldier fly. Waste Management, 119, 183–194.
+   [https://doi.org/10.1016/j.wasman.2020.09.043](https://doi.org/10.1016/j.wasman.2020.09.043)
+
+**Appendix II: NACOSTI research permit**
+
+* * *
+
+## RESEARCH LICENSE
+
+This is to Certify that Mr. Dennis Beesigamukama of Kenyatta University, has been licensed to conduct research in Nairobi on the topic: PRODUCTION OF QUALITY ORGANIC FERTILIZER FROM BLACK SOLDIER FLY FRASS FOR CROP PRODUCTION AND SOIL HEALTH MANAGEMENT for the period ending : 21/August/2021.
+
+License No: NACOSTI/P/20/6246
+
+Applicant Identification Number
+
+Director General
+NATIONAL COMMISSION FOR SCIENCE,TECHNOLOGY & INNOVATION
+
+Verification QR Code
+
+NOTE: This is a computer generated License. To verify the authenticity of this document,
+Scan the QR Code using QR scanner application.
+
+* * *
+
+# THE SCIENCE, TECHNOLOGY AND INNOVATION ACT, 2013
+
+The Grant of Research Licenses is Guided by the Science, Technology and Innovation (Research Licensing) Regulations, 2014
+
+## CONDITIONS
+
+1. The License is valid for the proposed research, location and specified period
+2. The License any rights thereunder are non-transferable
+3. The Licensee shall inform the relevant County Director of Education, County Commissioner and County Governor before commencement of the research
+4. Excavation, filming and collection of specimens are subject to further necessary clearance from relevant Government Agencies
+5. The License does not give authority to tranfer research materials
+6. NACOSTI may monitor and evaluate the licensed research project
+7. The Licensee shall submit one hard copy and upload a soft copy of their final report (thesis) within one of completion of the research
+8. NACOSTI reserves the right to modify the conditions of the License including cancellation without prior notice
+
+National Commission for Science, Technology and Innovation
+off Waiyaki Way, Upper Kabete,
+P. O. Box 30623, 00100 Nairobi, KENYA
+Land line: 020 4007000, 020 2241349, 020 3310571, 020 8001077
+Mobile: 0713 788 787 / 0735 404 245
+E-mail: [dg@nacosti.go.ke](mailto:dg@nacosti.go.ke) / [registry@nacosti.go.ke](mailto:registry@nacosti.go.ke)
+Website: [www.nacosti.go.ke](http://www.nacosti.go.ke/)
+
+──────── [TRUNCATED] ────────
+Showing 22,424 chars (head) + 7,466 chars (tail) of 461,023 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/ir-library.ku.ac.ke-164784f751.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/ir-library.ku.ac.ke-164784f751.md" offset=293 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

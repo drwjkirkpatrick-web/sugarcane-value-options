@@ -1,0 +1,272 @@
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC13113537/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.3390/biology15080622) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13113537/pdf/biology-15-00622.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Biology logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-biology.png)
+
+Biology (Basel)
+
+. 2026 Apr 16;15(8):622. doi: [10.3390/biology15080622](https://doi.org/10.3390/biology15080622)
+
+# Synergistic Effects of Sugarcane Bagasse Biochar and _Eisenia fetida_ Enhance Biogenic Stabilization of Sewage Sludge and Sugar Industry Waste Through Vermicomposting
+
+[Muhammad Bilal Khan](https://pubmed.ncbi.nlm.nih.gov/?term=%22Khan%20MB%22[Author])
+
+### Muhammad Bilal Khan
+
+1Key Laboratory of Environmental Remediation and Ecological Health, Ministry of Education, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China; cuixiaoqiang@tju.edu.cn (X.C.);
+
+2Soil and Water Science Department, Indian River Research and Education Center, Institute of Food and Agricultural Sciences, University of Florida, Fort Pierce, FL 34945, USA
+
+Conceptualization, Methodology, Software, Validation, Formal analysis, Investigation, Resources, Data curation, Writing – original draft, Writing – review & editing, Visualization
+
+Find articles by [Muhammad Bilal Khan](https://pubmed.ncbi.nlm.nih.gov/?term=%22Khan%20MB%22[Author])
+
+1,2,\*, [Xiaoqiang Cui](https://pubmed.ncbi.nlm.nih.gov/?term=%22Cui%20X%22[Author])
+
+### Xiaoqiang Cui
+
+1Key Laboratory of Environmental Remediation and Ecological Health, Ministry of Education, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China; cuixiaoqiang@tju.edu.cn (X.C.);
+
+3School of Environmental Science and Engineering, Tianjin University, Tianjin 300072, China
+
+Methodology, Software, Validation
+
+Find articles by [Xiaoqiang Cui](https://pubmed.ncbi.nlm.nih.gov/?term=%22Cui%20X%22[Author])
+
+1,3, [Qi Tao](https://pubmed.ncbi.nlm.nih.gov/?term=%22Tao%20Q%22[Author])
+
+### Qi Tao
+
+4College of Resources, Sichuan Agricultural University, Chengdu 611130, China
+
+Software, Formal analysis, Writing – review & editing
+
+Find articles by [Qi Tao](https://pubmed.ncbi.nlm.nih.gov/?term=%22Tao%20Q%22[Author])
+
+4, [Yasir Hamid](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hamid%20Y%22[Author])
+
+### Yasir Hamid
+
+1Key Laboratory of Environmental Remediation and Ecological Health, Ministry of Education, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China; cuixiaoqiang@tju.edu.cn (X.C.);
+
+Software, Writing – review & editing, Data curation
+
+Find articles by [Yasir Hamid](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hamid%20Y%22[Author])
+
+1, [Bilal Hussain](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hussain%20B%22[Author])
+
+### Bilal Hussain
+
+1Key Laboratory of Environmental Remediation and Ecological Health, Ministry of Education, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China; cuixiaoqiang@tju.edu.cn (X.C.);
+
+Formal analysis, Investigation, Data curation
+
+Find articles by [Bilal Hussain](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hussain%20B%22[Author])
+
+1, [Zeeshan Zafar](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zafar%20Z%22[Author])
+
+### Zeeshan Zafar
+
+5State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China
+
+Writing – review & editing, Data curation, Visualization
+
+Find articles by [Zeeshan Zafar](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zafar%20Z%22[Author])
+
+5, [Zhenli He](https://pubmed.ncbi.nlm.nih.gov/?term=%22He%20Z%22[Author])
+
+### Zhenli He
+
+2Soil and Water Science Department, Indian River Research and Education Center, Institute of Food and Agricultural Sciences, University of Florida, Fort Pierce, FL 34945, USA
+
+Writing – review & editing, Supervision, Visualization
+
+Find articles by [Zhenli He](https://pubmed.ncbi.nlm.nih.gov/?term=%22He%20Z%22[Author])
+
+2, [Xiaoe Yang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Yang%20X%22[Author])
+
+### Xiaoe Yang
+
+1Key Laboratory of Environmental Remediation and Ecological Health, Ministry of Education, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China; cuixiaoqiang@tju.edu.cn (X.C.);
+
+Conceptualization, Writing – review & editing, Visualization, Supervision, Funding acquisition, Project administration, Methodology
+
+Find articles by [Xiaoe Yang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Yang%20X%22[Author])
+
+1,\*
+
+Editor: Daniel Puppe
+
+- Author information
+- Article notes
+- Copyright and License information
+
+1Key Laboratory of Environmental Remediation and Ecological Health, Ministry of Education, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China; cuixiaoqiang@tju.edu.cn (X.C.);
+
+2Soil and Water Science Department, Indian River Research and Education Center, Institute of Food and Agricultural Sciences, University of Florida, Fort Pierce, FL 34945, USA
+
+3School of Environmental Science and Engineering, Tianjin University, Tianjin 300072, China
+
+4College of Resources, Sichuan Agricultural University, Chengdu 611130, China
+
+5State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China
+
+\*
+
+Correspondence: mb.khan@ufl.edu (M.B.K.); xeyang@zju.edu.cn (X.Y.); Tel.: +1-772-289-1303 (M.B.K.)
+
+#### Roles
+
+**Muhammad Bilal Khan**: Conceptualization, Methodology, Software, Validation, Formal analysis, Investigation, Resources, Data curation, Writing – original draft, Writing – review & editing, Visualization
+
+**Xiaoqiang Cui**: Methodology, Software, Validation
+
+**Qi Tao**: Software, Formal analysis, Writing – review & editing
+
+**Yasir Hamid**: Software, Writing – review & editing, Data curation
+
+**Bilal Hussain**: Formal analysis, Investigation, Data curation
+
+**Zeeshan Zafar**: Writing – review & editing, Data curation, Visualization
+
+**Zhenli He**: Writing – review & editing, Supervision, Visualization
+
+**Xiaoe Yang**: Conceptualization, Writing – review & editing, Visualization, Supervision, Funding acquisition, Project administration, Methodology
+
+**Daniel Puppe**: Academic Editor
+
+Received 2026 Feb 5; Revised 2026 Apr 8; Accepted 2026 Apr 10; Collection date 2026 Apr.
+
+© 2026 by the authors.
+
+Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the [Creative Commons Attribution (CC BY) license](https://creativecommons.org/licenses/by/4.0/).
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC13113537  PMID: [42041900](https://pubmed.ncbi.nlm.nih.gov/42041900/)
+
+## Simple Summary
+
+This study investigated a simple and eco-friendly way to manage different types of biowaste by using earthworms and biochar (a charcoal-like material made from sugarcane bagasse). Sewage sludge and sugarcane press mud were mixed and treated with different amounts of sugarcane bagasse biochar. When 10% biochar was added during preincubation, earthworms grew better and produced more cocoons, meaning the vermicomposting process worked more efficiently. The waste broke down faster, important plant nutrients increased, and harmful heavy metals were reduced and became less available. In the end, the process produced a safe, stable, and nutrient-rich organic fertilizer that can be used for horticultural purposes, showing a practical way to turn various biowastes into a useful product.
+
+**Keywords:** biochar amendment, vermicomposting, biowaste valorization, heavy metal stabilization, organic fertilizer, _Eisenia fetida_
+
+## Abstract
+
+Integrated waste management through vermicomposting combined with biochar amendments represents an innovative approach for sustainable resource recovery. This study evaluated the effects of sugarcane bagasse biochar (SBB) at 0%, 5%, and 10% application rates on _Eisenia fetida_ performance and vermicompost quality during preincubation-vermicomposting of sewage sludge and press-mud mixtures. The 10% SBB treatment significantly ( _p_ < 0.05) enhanced earthworm biomass (72.3% increase) and cocoon production (24.8 ± 1.8 per earthworm vs. 12.3 ± 1.2 in control). Lignocellulosic degradation improved substantially, achieving 22.6%, 10.7%, and 38.8% degradation for cellulose, hemicellulose, and lignin, respectively. Macronutrient concentrations increased significantly: TN by 38.4%, TP by 15%, and TK by 21.4% compared to initial mixtures. Moreover, total heavy metal concentrations decreased significantly during vermicomposting, with reductions of 8.1–8.7% for Pb, 5.3–7.6% for Cd, and 3.0–4.8% for Cr, with reduced bioavailability factors indicating enhanced metal stabilization. The final vermicompost exhibited optimal maturity indices, including a C:N ratio of 15.4 ± 0.2 and improved electrical conductivity. Results demonstrate that 10% sugarcane bagasse biochar amendment facilitates efficient concurrent management of sewage sludge and sugarcane industrial wastes while producing high-quality organic fertilizer with enhanced nutrient content, reduced heavy metal bioavailability, and accelerated stabilization for sustainable agricultural/horticultural applications.
+
+## 1\. Introduction
+
+China is the most populous country globally and the largest consumer of food. China is feeding 20% of the world’s human population, which consumes around 5 million tons of food yearly. China is also the leading agricultural producing country, having 36% of the world’s total agricultural land covered \[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC13113537/#B1-biology-15-00622)\]. Over the past two decades, a vast quantity of solid waste has been produced worldwide, which might be due to several factors such as the escalation in global population, urbanization, and changes in consumption behavior. Biowastes consist of several types of wastes, i.e., yard waste, food waste, process residues, and agricultural wastes, consisting of a large proportion (46%) of the worldwide production of solid waste recycling \[ [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC13113537/#B2-biology-15-00622)\]. According to Khan et al. (2019), average sewage sludge production in the world is 20–40 kg per population equivalent per year \[ [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC13113537/#B3-biology-15-00622)\]. In recent years, China has also seen an increase in sewage sludge production (60 million tons), which may be related to the country’s fast urbanization, population growth, and increase in the number of wastewater treatment plants \[ [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC13113537/#B3-biology-15-00622)\]. Sewage sludge comprises many detrimental organic and inorganic toxins, including toxic metals and different pathogens. Therefore, direct disposal of sewage sludge into the environment without any treatment discharges contaminants into the environment that could pass through the food chain and eventually pose many detrimental threats to human health. Consequently, the appropriate recycling and valorization of sewage sludge is very important for the safe disposal of sewage sludge into the environment.
+
+
+[... middle omitted — see footer ...]
+
+- 31.Nayak A.K., Varma V.S., Kalamdhad A.S. Effects of various C/N ratios during vermicomposting of sewage sludge using Eisenia fetida. J. Environ. Sci. Technol. 2013;6:63–78. doi: 10.3923/jest.2013.63.78. \[ [DOI](https://doi.org/10.3923/jest.2013.63.78)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Environ.%20Sci.%20Technol.&title=Effects%20of%20various%20C/N%20ratios%20during%20vermicomposting%20of%20sewage%20sludge%20using%20Eisenia%20fetida&author=A.K.%20Nayak&author=V.S.%20Varma&author=A.S.%20Kalamdhad&volume=6&publication_year=2013&pages=63-78&doi=10.3923/jest.2013.63.78&)\]
+- 32.Bhat S.A., Singh J., Vig A.P. Potential utilization of bagasse as feed material for earthworm Eisenia fetida and production of vermicompost. Springerplus. 2015;4:11. doi: 10.1186/s40064-014-0780-y. \[ [DOI](https://doi.org/10.1186/s40064-014-0780-y)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4302158/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25625035/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Springerplus&title=Potential%20utilization%20of%20bagasse%20as%20feed%20material%20for%20earthworm%20Eisenia%20fetida%20and%20production%20of%20vermicompost&author=S.A.%20Bhat&author=J.%20Singh&author=A.P.%20Vig&volume=4&publication_year=2015&pages=11&pmid=25625035&doi=10.1186/s40064-014-0780-y&)\]
+- 33.Kaviraj Sharma S. Municipal solid waste management through vermicomposting employing exotic and local species of earthworms. Bioresour. Technol. 2003;90:169–173. doi: 10.1016/S0960-8524(03)00123-8. \[ [DOI](https://doi.org/10.1016/S0960-8524(03)00123-8)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12895560/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Bioresour.%20Technol.&title=Municipal%20solid%20waste%20management%20through%20vermicomposting%20employing%20exotic%20and%20local%20species%20of%20earthworms&author=S.%20Kaviraj%20Sharma&volume=90&publication_year=2003&pages=169-173&pmid=12895560&doi=10.1016/S0960-8524(03)00123-8&)\]
+- 34.Singh J., Kaur A., Vig A.P., Rup P.J. Role of Eisenia fetida in rapid recycling of nutrients from bio sludge of beverage industry. Ecotoxicol. Environ. Saf. 2010;73:430–435. doi: 10.1016/j.ecoenv.2009.08.019. \[ [DOI](https://doi.org/10.1016/j.ecoenv.2009.08.019)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19945748/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Ecotoxicol.%20Environ.%20Saf.&title=Role%20of%20Eisenia%20fetida%20in%20rapid%20recycling%20of%20nutrients%20from%20bio%20sludge%20of%20beverage%20industry&author=J.%20Singh&author=A.%20Kaur&author=A.P.%20Vig&author=P.J.%20Rup&volume=73&publication_year=2010&pages=430-435&pmid=19945748&doi=10.1016/j.ecoenv.2009.08.019&)\]
+- 35.Ravindran B., Dinesh S.L., John Kennedy L., Sekaran G. Vermicomposting of solid waste generated from leather industries using Epigeic Earthworm Eisenia foetida. Appl. Biochem. Biotechnol. 2008;151:480–488. doi: 10.1007/s12010-008-8222-3. \[ [DOI](https://doi.org/10.1007/s12010-008-8222-3)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/18509607/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Appl.%20Biochem.%20Biotechnol.&title=Vermicomposting%20of%20solid%20waste%20generated%20from%20leather%20industries%20using%20Epigeic%20Earthworm%20Eisenia%20foetida&author=B.%20Ravindran&author=S.L.%20Dinesh&author=L.%20John%20Kennedy&author=G.%20Sekaran&volume=151&publication_year=2008&pages=480-488&pmid=18509607&doi=10.1007/s12010-008-8222-3&)\]
+- 36.Vig A.P., Singh J., Wani S.H., Dhaliwal S.S. Vermicomposting of tannery sludge mixed with cattle dung into valuable manure using earthworm Eisenia fetida (Savigny) Bioresour. Technol. 2011;102:7941–7945. doi: 10.1016/j.biortech.2011.05.056. \[ [DOI](https://doi.org/10.1016/j.biortech.2011.05.056)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21676611/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Bioresour.%20Technol.&title=Vermicomposting%20of%20tannery%20sludge%20mixed%20with%20cattle%20dung%20into%20valuable%20manure%20using%20earthworm%20Eisenia%20fetida%20(Savigny)&author=A.P.%20Vig&author=J.%20Singh&author=S.H.%20Wani&author=S.S.%20Dhaliwal&volume=102&publication_year=2011&pages=7941-7945&pmid=21676611&doi=10.1016/j.biortech.2011.05.056&)\]
+
+## Associated Data
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Data Availability Statement
+
+The data presented in this study are available on reasonable request from the corresponding author. The data is not publicly available due to ethical and privacy restrictions.
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.3390/biology15080622)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (5.1 MB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13113537/pdf/biology-15-00622.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)
+
+──────── [TRUNCATED] ────────
+Showing 14,131 chars (head) + 6,332 chars (tail) of 99,589 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pmc.ncbi.nlm.nih.gov-ccb78affa7.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pmc.ncbi.nlm.nih.gov-ccb78affa7.md" offset=220 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

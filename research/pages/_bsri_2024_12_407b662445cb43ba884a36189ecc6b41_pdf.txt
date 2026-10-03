@@ -1,0 +1,279 @@
+# Sugarcane Bagasse- An Ideal Substrate for Oyster Mushroom Cultivation
+
+M. A. Hossain, M. Z. Khatun¹, A. B. M. M. Rahman², S. M. M. Rahman¹,
+S. K. Paul and M. A. S. Miah
+Bangladesh Sugarcane Research Institute,
+Ishurdi, Pabna, Bangladesh.
+
+Received on 09.01.2006
+
+## ABSTRACT
+
+The experiment was conducted at Biotechnology Laboratory, Bangladesh Sugarcane Research Institute (BSRI). Sugarcane bagasse supplemented with wheat bran was evaluated to find out the growth and yield of mushroom. The mycelia running rate, days required to complete of full running of mucelia, days required for the initiation of primordia to harvesting, number of primordia, number of fruiting body, effective fruiting body, plius diameter, thickness of plius, stalk diameter, stalk length, fresh and dry yield of oyster mushroom were greatly influenced by different combinations of sugarcane bagasse with wheat bran as substrate. The highest yield (120.00g) and return (Tk 12.00) were obtained from the treatment of 80% of sugarcane bagasse supplemented with 20% wheat bran. The highest mycelia running rate was observed in the treatment where sugarcane bagasse alone was used as substrate. The minimum duration for mushroom production found in the combination of 90% sugarcane bagasse and 10% wheat bran. The results revealed that the 80% sugarcane bagasse supplemented with 20% wheat bran and 90% sugarcane bagasse supplemented with 10% wheat bran are the best combinations of sugarcane bagsse and wheat bran for the growing of oyster mushroom and these are economically viable.
+
+Key words : Sugarcane, bagasse, substrate, oyester mushroom.
+
+## INTRODUCTION
+
+Mushrooms are a group of edible fungi endowed with ability to convert inedible plant wastes into palatable food that is praised for characteristic biting texture and flavour. Cultivation of mushrooms represents the current economically viable biotechnological process for the conversion of waste plant residues from forests and agriculture. There are 5000 different species of mushrooms of which at least 1250 are reported to be edible (Amin, 2004). Four mushrooms namely Agaricus bisporus (White mushroom), Pleurotus spp. (Oyster mushroom), Volvariella volvaceae (Straw mushroom) and Auricularia spp. (Ear mushroom) are under commercial cultivation in Bangladesh (Ahmed, 2001).
+
+Wide spread malnutrition with ever-increasing protein gap between protein production and requirement in Bangladesh has necessitated the search for alternative source of protein. The production of pulses is scarce and cannot cope up with ever increasing requirement due to high population growth. Animal protein is beyond the reach
+
+¹ Biotechnology and Genetic Engineering Discipline, Khulna University, Khulna-9208, Bangladesh.
+² Ex-Director General, BSRI.
+
+---
+
+of most people in the country because most of the people (over 86%) live below the poverty level (World Bank, 2004). The FAO recommended edible mushrooms as food, contributing to the protein nutrition of developing countries depend largely on cereals. Mushrooms can be produced in large quantities in a short time, and it provides more protein per unit area than any other crop (Gupta, 1986). It grows independent of sunlight, relatively fast, does not require fertile soil since grown on compost or uncompost agro wastes as wheat and paddy straw, banana leaves, sugarcane bagasse and leaves, wheat bran, rice husk, sawdust etc and their culture can be concentrated within a relatively small space.
+
+The substrate on which spawn (merely vegetative seed material) is grown, affects mushroom production (Kingman, 1950). Some growth regulators at some concentrations affect yield and size of mushrooms. Few but large fruiting body or small but much in number or large and much in number, consequently more yield would benefit growers by helping to meet consumers demand for large scale mushroom production for fresh market and to earn more profit. The experiment was conducted to investigate the effects of sugarcane bagasse, wheat bran along with sugarcane bagasse on the growth and yield of oyster mushroom.
+
+## MATERIALS AND METHODS
+
+Oyster mushroom cultivar PO₂ (Pleurotus ostreatus) was used as experimental material. For the production of mushroom sugarcane bagasse supplemented with wheat bran was used as follows:
+
+T₀ = Sugarcane bagasse alone
+T₁ = Sugarcane bagasse (60%) + wheat bran (40%)
+T₂ = Sugarcane bagasse (70%) + wheat bran (30%)
+T₃ = Sugarcane bagasse (80%) + wheat bran (20%)
+T₄ = Sugarcane bagasse (90%) + wheat bran (10%)
+
+The experiment was laid out following Complete Randomized Design (CRD) design with three replications. To obtain pure culture, tissue culture method was followed using PDA (Potato Dextrose Agar) medium according to Gour (1998). The substrate for mother culture was prepared using 1000g (66.33%) of sugarcane bagasse, 500g (33.33%) well dried wheat bran and 3.0g of CaCO₃. The spawn packets were prepared using sugarcane bagasse and wheat bran according to treatments. For 1000g substrate 2g of CaCO₃ was added. Sterilization, inoculation of mycelia, preparation of mother culture, spawn packets and culture of spawn packets for mushroom production were followed according to method described by Ahmed (2001). Data were recorded on mycelia running rate in spawn packet, days required to primordia initiation, number of primordia per packet, number of effective primordia per packet, percentage of effective primordia, days required to primordia initiation to harvest, days required from inoculation to harvest, thickness and diameter of pileus, length and diameter of stalk, biological yield, dry weight and cost benefit for mushroom production. Recorded data were analyzed statistically to find out variation resulting from experimental treatments according to Mian and Miyan (1968). Treatment mean was calculated and analysis of variances of characters was performed by F-test.
+
+---
+
+# RESULTS AND DISCUSSION
+
+## Mycelia running rate in spawn packet
+In spawn packet mycelia running rate varied remarkably among different treatments (Table 1). It is seen from the table that mycelia running decreased as sugarcane bagasse supplement with wheat bran was increased. The highest running rate was observed in pure sugarcane bagasse and the lowest running rate was observed when sugarcane bagasse was supplemented with 40% wheat bran.
+
+Waksman and Allen (1932) reported that most of the nutrient for mycelial growth and development comes from cellulose, hemicellulose, lignin and protein. In the present study, sugarcane bagasse alone produced such substances which resulted maximum mycelium running rate than that of combination of wheat bran. In spawn packet days required to complete mycelia running was inversely related to mycelia running rate. Similar results reported earlier (Bhatti, 1987). He reported that variation in biological efficiency and incubation period of oyster mushroom probably due to their different composition substrate. Bhattacharjee and Samajpati (1989) reported that carbon is an important source for mycelia growth and development. The treatment where only sugarcane bagasse was used probably increased carbon source.
+
+## Duration of harvesting
+Duration of harvesting is an important factor for growing mushroom commercially. Significant difference was found on the formation of primordia in different treatments (Table 2). The minimum days required between initiation of primordia and harvesting when 90% sugarcane bagasse and 10% wheat bran was used as substrate (18.89 days) followed by treatment where 80% sugarcane bagasse and 20% wheat bran was used (21.55 days). The longest time (28.13 days) required for the initiation of primordia was found in the treatment where 60% sugarcane bagasse and 40% wheat bran was used. These results indicate that sugarcane bagasse with or without wheat bran is a suitable substrate for mushroom cultivation in respect of duration of harvest. However, Ahmed (2001) reported that, sugarcane bagasse took 46 days to mushroom harvest, which was more than twice than present results.
+
+## Growth and development
+Growth and development of mushroom under different treatments are furnished in the Table 3 and 4. The number of primordia grown under different treatments differed significantly. The highest number of primordia per packet (70.00) was found in the treatment where 60% sugarcane bagasse and 40% wheat bran was used and the lowest number of primordia (52.60) was recorded in the treatment where sugarcane bagasse was used without wheat bran. T₁ contained sugarcane bagasse along with 40% wheat bran a carbon source which helps to increase the number of primordia per packet. The substrate of 90% sugarcane bagasse supplemented with 10% wheat bran produced the highest number of fruiting body (37.40) followed by the treatment where 60% sugarcane bagasse and 40% wheat bran (36.33) and 70% sugarcane bagasse and 30% wheat bran was used (31.40), while the lowest number (25.20) of fruiting body was produced in the treatment where sugarcane bagasse was used alone. The lowest number and percentage of effective fruiting bodies were obtained from the treatment T₀ where no wheat bran as carbon source was used.
+
+---
+
+The effect of treatments on the size of effective fruiting body was highly significant. The size consisted of diameter and thickness of pileus, lenth and diameter of stalk. The highest pileus diameter was observed in the treatment where 80% sugarcane bagasse and 20% wheat bran was used (7.28 cm) and the lowest diameter (5.69 cm) was found in the treatment where no wheat bran was used. Diameter of pileus is one of the components of yield. Treatment of 80% sugarcane bagasse and 20% wheat bran produced pileus with the highest thickness (0.81 cm) while 70% sugarcane bagasse and 30% wheat bran produced the lowest (0.72 cm) thickness of pileus. Thickness of the pileus is one of the yield contributing characters of mushroom. The T₃ (80% sugarcane bagasse + 20% wheat bran) showed the highest thickness of pileus (0.81 cm) and produced the maximum fresh yield (120.00g) of mushroom per packet (Table 4). Fruiting bodies with the highest stalk diameter (4.98 cm) was found in T₃, where 80% sugarcane bagasse and 20% wheat bran was used while the lowest diameter (4.10 cm) was found in T₀ where no wheat bran was used with sugarcane bagasse. Sugarcane bagasse alone or incombination with wheat bran increased about five times diameter than koroi sawdust, reported by Ahmed (2001). The highest stalk length (7.69 cm) was found in T₃ where 80% sugarcane bagasse and 20% wheat bran was used as substrate whereas, the lowest stalk length (4.88 cm) was found in T₀ where sugarcane bagasse was used alone. The length was more than twice from substrate of maize cob (Ahmed, 2001).
+
+## Yield of mushroom
+
+Significant variation was found in yield of oyster mushroom in different treatments (Table 4). The maximum yield (120.00g) was obtained from T₃ (Figure 1) where 80% sugarcane bagasse and 20% wheat bran was used followed by T₄ (119.20 g) where 90% sugarcane bagasse and 10% wheat bran, T₂ (116.80 g) 70% sugarcane bagasse and 30% wheat bran and T₁ (110.33 g) 60% sugarcane bagasse and 40% wheat bran was used. The treatment T₀ where no wheat bran was used, gave the minimum yield (100.00 g). Dry yield of oyster mushroom varied from 10.50g to 12.60g in different treatments. The highest dry yield (12.60 g) was obtained from T₃ where 80% sugarcane bagasse and 20% wheat bran was used followed by T₄ (12.52 g) 90% sugarcane bagasse and 10% wheat bran, T₂ (12.26g) 70% sugarcane bagasse and 30% wheat bran, and T₁ (11.58g) 60% sugarcane bagasse and 40% wheat bran was used. The lowest dry yield (10.50g) was found in T₀ where no wheat bran was used. Cellulose rich organic substances are to be good substrate for the cultivation of mushroom (Quimio, 1987). High cellulose content would result in enhanced cellulase enzyme production and increase yield of mushroom (Ramasamy and Kandaswary, 1976). Due to high cellulose content in sugarcane bagasse favoured yield of mushroom. However, the chemical composition analysis of used sugarcane bagasse needs clarification.
+
+## Cost benefit analysis
+
+Cost benefit ratio was calculated for different treatments and furnished in the Table 5. The highest return was obtained from T₃ (Tk 12.00) where 80% sugarcane bagasse and 20% wheat bran was used followed by T₄ (Tk 11.92) 90% sugarcane bagasse and 10% wheat bran, T₂ (Tk 11.68) 70% sugarcane bagasse and 30% wheat bran, and T₁ (Tk 11.03) 60% sugarcane bagasse and 40% wheat bran was used while the lowest from T₀ (Tk 10.00) where no wheat bran was used. The market rate of fresh mushroom was 100.00 taka per kg. The cost benefit ratio was the highest in treatment T₀ where sugarcane bagasse was used alone. The highest return was obtained from treatment T3 (80% sugarcane bagasse + 20% wheat bran) followed by the treatments where sugarcane bagasse with 20% and 10% of wheat bran was used respectively.
+
+Considering the yield and cost benefit ratio, the treatments $ T_{3} $ (80% sugarcane bagasse + 20% wheat bran) and $ T_{4} $ (90% sugarcane bagasse + 10% wheat bran) may be recommended for growing mushroom (Pliurotus ostreatus) commercially.
+
+Table 1. Effects of substrate composition on mycelia running rate.
+
+| Treatments | Mycelia running rate in spawn packet cmday-1 | Days required to complete mycelia running in spawn packet |
+| --- | --- | --- |
+| T0=SB1 alone | 0.38 | 12.0 |
+| T1=SB(60%)+WB2(40%) | 0.22 | 21.0 |
+| T2=SB(70%)+WB(30%) | 0.24 | 17.9 |
+| T3=SB(80%)+WB(20%) | 0.37 | 15.0 |
+| T4=SB(90%)+WB(10%) | 0.37 | 12.0 |
+| Level of significance | ** | ** |
+
+$$
+T_{0}=S B^{\prime}
+$$
+
+$$
+T_{1}=SB(60\%)+WB^{2}(40\%)
+$$
+
+$$
+T_{2}=SB(70\%)+WB(30\%)
+$$
+
+$$
+T_{3}=\mathrm{SB}(80\%)+\mathrm{WB}(20\%)
+$$
+
+$$
+T_{4}=SB(90\%)+WB(10\%)
+$$
+
+1: Sugarcane Bagasse 2: Wheat Bran ** Significant at 1% level (P<0.99)
+
+Table 2. Duration of mushroom production on different substrate composition.
+
+| Treatments | Days required to primordia formation | Days required from primordia formation to harvesting | Days required from inoculation to harvesting |
+| --- | --- | --- | --- |
+| T0 = SB1 alone | 4.7 | 4.8 | 21.4 |
+| T1 = SB(60%) + WB2(40%) | 3.8 | 3.3 | 28.1 |
+| T2 = SB(70%) + WB(30%) | 3.8 | 3.6 | 25.2 |
+| T3 = SB(80%) + WB(20%) | 3.6 | 3.1 | 21.6 |
+| T4 = SB(90%) + WB(10%) | 3.6 | 3.3 | 18.9 |
+| Level of significance | ** | ** | ** |
+
+$$
+T_{0}=SB^{1}\ alone
+$$
+
+$$
+T_{1}=SB(60\%)+WB^{2}(40\%)
+$$
+
+$$
+T_{2}=\mathrm{SB}(70\%)+\mathrm{WB}(30\%)
+$$
+
+$$
+T_{3}=\mathrm{SB}(80\%)+\mathrm{WB}(20\%)
+$$
+
+$$
+T_{4}=\mathrm{SB}(90\%)+\mathrm{WB}(10\%)
+$$
+
+1: Sugarcane Bagasse 2: Wheat Bran <sup>**</sup> Significant at 1% level (P<0.99)
+
+Table 3. Effects of different substrate c body formation.
+
+mposition on primordia and fruiting
+
+| Treatments | Number of primordia per packet | Number of effective fruiting bodies per packet | Percentage of effective fruiting bodies |
+| --- | --- | --- | --- |
+| T0=SB1 alone | 52.6 | 25.2 | 48.1 |
+| T1=SB(60%)+WB2(40%) | 70.0 | 36.3 | 51.4 |
+| T2=SB(70%)+WB(30%) | 59.2 | 31.4 | 53.3 |
+| T3=SB(80%)+WB(20%) | 48.8 | 29.4 | 60.9 |
+| T4=SB(90%)+WB(10%) | 64.6 | 37.4 | 57.6 |
+| Level of significance | ** | ** | ** |
+
+$$
+T_{0}=S B^{\prime}
+$$
+
+$$
+T_{1}=SB(60\%)+WB^{2}(40\%)
+$$
+
+$$
+T_{2}=SB(70\%)+WB(30\%)
+$$
+
+$$
+T_{3}=\mathrm{SB}(80\%)+\mathrm{WB}(20\%)
+$$
+
+$$
+T_{4}=S B(90\%)+W B(10\%)
+$$
+
+1: Sugarcane Bagasse 2: Wheat Bran <sup>**</sup> Significant at 1% level (P<0.99)
+
+---
+
+Table 4. Effects of different substrate composition of characters of oyster mushroom.
+
+yield and yield contributing
+
+| Treatments | Plieus diameter (cm) | Plieus thickness (cm) | Stalk diameter (cm) | Stalk length (cm) | Fresh yield (g packet-1) | Dry yield (g packet-1) |
+| --- | --- | --- | --- | --- | --- | --- |
+| T0=SB1 alone | 5.7 | 0.75 | 4.1 | 4.88 | 100.00 | 10.50 |
+| T1=SB(60%)+WB2(40%) | 6.5 | 0.78 | 4.4 | 5.6 | 110.3 | 11.6 |
+| T2=SB(70%)+WB(30%) | 6.8 | 0.72 | 4.9 | 6.9 | 116.8 | 12.3 |
+| T3=SB(80%)+WB(20%) | 7.3 | 0.81 | 5.0 | 7.7 | 120.0 | 12.6 |
+| T4=SB(90%)+WB(10%) | 6.5 | 0.78 | 4.5 | 6.6 | 119.2 | 12.5 |
+| Level of significance | ** | ** | ** | ** | ** | ** |
+
+$$
+(g\;\mathrm{packet}^{-1})
+$$
+
+$$
+T_{0}=S B^{\prime}a l o n e
+$$
+
+$$
+(g\dot{p a c k e t}^{-1})
+$$
+
+$$
+T_{1}=S B(60\%)+W B^{2}(40\%)
+$$
+
+$$
+T_{2}=SB(70\%)+WB(30\%)
+$$
+
+$$
+T_{3}=S B(80\%)+W B(20\%)
+$$
+
+$$
+T_{A}=S B(90\%)+W B(10\%)
+$$
+
+1: Sugarcane Bagasse 2: Wheat Bran ** Significant at 1% level (P<0.99)
+
+Table 5. Cost benefit ratio of mushroom production on different substrate composition.
+
+| Treatments | Price of substrate per packet (Tk) | Return per packet (Tk) | Cost benefit ratio |
+| --- | --- | --- | --- |
+| T0 = SB1 alone | 0.35 | 10.0 | 28.6 |
+| T1 = SB(60%) + WB2(40%) | 0.94 | 11.0 | 11.7 |
+| T2 = SB(70%) + WB(30%) | 0.75 | 11.7 | 15.6 |
+| T3 = SB(80%) + WB(20%) | 0.58 | 12.0 | 20.7 |
+| T4 = SB(90%) + WB(10%) | 0.45 | 11.9 | 26.5 |
+| Level of significance | ** | ** | ** |
+
+$$
+T_{0}=S B^{\prime}
+$$
+
+$$
+T_{1}=\mathrm{SB}(60\%)+\mathrm{WB}^{2}(40\%)
+$$
+
+$$
+T_{2}=\mathrm{SB}(70\%)+\mathrm{WB}(30\%)
+$$
+
+$$
+T_{3}=\mathrm{SB}(80\%)+\mathrm{WB}(20\%)
+$$
+
+$$
+T_{4}=\mathrm{SB}(90\%)+\mathrm{WB}(10\%)
+$$
+
+1: Sugarcane Bagasse 2: Wheat Bran <sup>**</sup> Significant at 1% level (P<0.99)
+
+Figure 1. Fruiting body formation on substrate composition of 80% sugarcane bagasse and 20% wheat bran.
+
+---
+
+## REFERENCES
+
+Amin, M. A. A. 2004. Studies on mycelium, spawn and production of certain edible mushrooms. M. S. Thesis, July-December semester, 2004. Bangladesh Agricultural University, Mymensingh, Bangladesh.
+
+Ahmed, S. 2001. Development of mushroom varieties suitable for rural development in Bangladesh. A report of mushroom culture center, Department of Agriculture Extension (DAE), Savar, Dhaka.
+
+Bhattacharjee, M. K. and Samajpati, N. 1989. Optimization of mycelial growth Pleurotus sajor-caju (Fr.) Sing in relation to some physical and nutritional factors. Indian J. Mycological Research, 27(1): 131-132.
+
+Bhatti, M. A. 1987. Effect of different bedding materials on relative yield of oyster mushroom in the successive flushes. Pakistan J. Agricultural Res., 8(3): 256-259.
+
+Gour, P. Y. 1998. Mushroom-production and processing technology. Agrobios, India.
+
+Gupta, R. S. 1986. Mushroom cultivation. Indian Horticulture, 31(1): 1.
+
+Kingman, A. M. 1950. Handbook of mushroom culture, J. B. Swayne Kenneth squares, Pennsylvania, USA.
+
+Mian, M. A. and Miyan, M. A. 1968. An introduction to statistics. Ideal Library, Dhaka, Bangladesh. pp. 702-719.
+
+Quimio, T. H. 1987. Introducing Pleurotus flabellatus for your dinner. The Mushroom Journal, 69: 282-283.
+
+Ramasamy, K. and Kandaswamy, T. K. 1976. Effect of certain amendments on cellulase(s) and yield of straw mushroom. Indian Journal of Mushroom, 2(1): 8-12.
+
+Waksman, S. A. and Allen, M. 1932. Comparative rate of decomposition of composed manure and spent mushroom soil. Soil Sci., 34: 189.
+
+World Bank, 2004. World development report. Oxford University Press, Inc. New York.

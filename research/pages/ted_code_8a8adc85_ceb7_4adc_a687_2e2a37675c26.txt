@@ -1,0 +1,283 @@
+Loading \[MathJax\]/jax/output/HTML-CSS/config.js
+
+ [Skip to main content](https://link.springer.com/article/10.1007/s43939-025-00234-6?#main)
+
+## Search
+
+Search by keyword or author
+
+Search
+
+## Navigation
+
+- [Find a journal](https://link.springer.com/journals/)
+- [Publish with us](https://www.springernature.com/gp/authors)
+- [Track your research](https://link.springernature.com/home/)
+
+# Biomaterials-based biofilters from sugarcane waste: an eco-friendly way to clean water and manage nutrients
+
+- Review
+- [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+- Published: 09 March 2025
+
+- Volume 5, article number 56 (2025)
+
+- [Cite this article](https://link.springer.com/article/10.1007/s43939-025-00234-6?#citeas)
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](https://link.springer.com/content/pdf/10.1007/s43939-025-00234-6.pdf)
+
+[Save article](https://link.springer.com/article/10.1007/s43939-025-00234-6/save-research?_csrf=p32nj4GR5fVIlJD3JJHcK71StmEHbgV3)
+
+[View saved research](https://link.springer.com/saved-research)
+
+[![](https://media.springernature.com/w72/springer-static/cover-hires/journal/43939?as=webp)Discover Materials](https://link.springer.com/journal/43939) [Aims and scope](https://link.springer.com/journal/43939/aims-and-scope) [Submit manuscript](https://submission.nature.com/new-submission/43939/3)
+
+Biomaterials-based biofilters from sugarcane waste: an eco-friendly way to clean water and manage nutrients
+
+
+[Download PDF](https://link.springer.com/content/pdf/10.1007/s43939-025-00234-6.pdf)
+
+## Abstract
+
+Water pollution is a huge problem for both the environment and living creature health, thus there is an urgent need to develop practical and environmentally friendly techniques to manage and clean it up. This review analyses the possibility of bagasse biofilters using sugarcane by-products as a sustainable water purification and nutrient management option. Bagasse, a typical agricultural waste, can be utilised instead of traditional treatment procedures. Bagasse is economically viable, abundant, and characterized by its porous structure, which makes it suitable for water treatment. Studies have shown that bagasse biofilters can effectively remove heavy metals (like Pb, Ni,Cr, Cu, Zn, and Cd), volatile organic compounds (VOCs; like formaldehyde, chlorine, and extra nutrients) from wastewater. The aforementioned efficacy suggests the potential for integrating biomaterials such as bagasse biofilters into existing water treatment systems, contributing to global efforts in sustainable water management and pollution control. Therefore, the review address the problem associated with production and multifaceted usage of bagasse over the world. Moreover, the present review highlights the scale-up for the large-scale fabrication process and insight into microbial involvement with the process of pollutant adhesion and ultimately impact on the environment.
+
+### Graphical Abstract
+
+![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs43939-025-00234-6/MediaObjects/43939_2025_234_Figa_HTML.png)
+
+## Highlights
+
+- Bio-filtration through bagasse offers a sustainable method for efficient water purification.
+
+- Bagasse utilization enhances nutrient retention and promotes sustainable agricultural practices.
+
+- Bagasse effectively removes heavy metals and volatile organic compounds from wastewater.
+
+- Bagasse is economically viable, utilizing abundant agricultural waste for water treatment.
+
+- Potential integration of bagasse with other technologies improves wastewater management.
+
+
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1007%2Fs10098-017-1429-7/MediaObjects/10098_2017_1429_Fig1_HTML.gif)
+
+### [Sugarcane bagasse: a potential low-cost biosorbent for the removal of hazardous materials](https://link.springer.com/article/10.1007/s10098-017-1429-7?fromPaywallRec=false)
+
+Article04 October 2017
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1007%2Fs12355-021-01051-w/MediaObjects/12355_2021_1051_Fig1_HTML.png)
+
+### [A Review on the Mitigation of Heavy Metals from Aqueous Solution using Sugarcane Bagasse](https://link.springer.com/article/10.1007/s12355-021-01051-w?fromPaywallRec=false)
+
+Article15 October 2021
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1007%2Fs11356-024-33928-0/MediaObjects/11356_2024_33928_Fig1_HTML.png)
+
+### [Effects of bagasse as a carbon source on biofloc formation, water quality, and microbial community structure in shrimp culture system](https://link.springer.com/article/10.1007/s11356-024-33928-0?fromPaywallRec=false)
+
+Article11 June 2024
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+- [Bioinspired Materials](https://link.springer.com/subjects/bioinspired-materials)
+- [Dental Biomaterials](https://link.springer.com/subjects/dental-biomaterials)
+- [Environmental Engineering/Biotechnology](https://link.springer.com/subjects/environmental-engineering-biotechnology)
+- [Biogas](https://link.springer.com/subjects/biogas)
+- [Water Treatment](https://link.springer.com/subjects/water-treatment)
+- [Nanotechnology Applications in Water Treatment and Environmental Remediation](https://link.springer.com/subjects/nanotechnology-applications-in-water-treatment-and-environmental-remediation)
+
+## 1 Introduction
+
+Water contamination compromise both environment and human health. Implementing sustainable water management methods to guarantee the access of safe clean drinking water and proper sanitation. Water contamination majorly caused by urbanization, industrialization, and population growth. Even though water is abundant on Earth, only ~ 2.1% is suitable for human use; the remaining 97.9% is available in the oceans is salty in nature. In this case, 80% of improper waste disposal releases biological species, chemicals, and radioactive components into water sources, contaminating the ~ 2.1% of clear water too \[ [1](https://link.springer.com/article/10.1007/s43939-025-00234-6#ref-CR1 "Pachaiappan R, Cornejo-Ponce L, Rajendran R, Manavalan K, FemilaaRajan V, Awad F. A review on biofiltration techniques: recent advancements in the removal of volatile organic compounds and heavy metals in the treatment of polluted water. Bioengineered. 2022;13:8432–77.                    https://doi.org/10.1080/21655979.2022.2050538                                    .")\]. Water contamination is a major global challenge that affects clean water supply. Natural freshwater reserves are quickly reducing due to urbanization and population growth, and industrial wastewater pollution is a major problem in most countries \[ [2](https://link.springer.com/article/10.1007/s43939-025-00234-6#ref-CR2 "Kerrou M, Bouslamti N, Raada A, Elanssari A, Mrani D, Slimani MS. The use of sugarcane bagasse to remove the organic dyes from wastewater. Int J Anal Chem. 2021;2021:1–11.                    https://doi.org/10.1155/2021/5570806                                    .")\]. As many poor countries cannot afford sewage treatment plants (STPs) construction, there is a rising need to develop environmentally safe and economically feasible small-scale wastewater treatment technology for onsite treatment \[ [3](https://link.springer.com/article/10.1007/s43939-025-00234-6#ref-CR3 "Tomar P, Suthar S. Urban wastewater treatment using vermi-biofiltration system. Desalination. 2011;282:95–103.                    https://doi.org/10.1016/j.desal.2011.09.007                                    .")\]. Since situations that are detrimental to both people and the environment arise when wastewater is dumped into the environment \[ [4](https://link.springer.com/article/10.1007/s43939-025-00234-6#ref-CR4 "Manikkampatti Palanisamy M, Mohamed Lebbai M, Ratnam MV. Treatment of municipal wastewater in a fixed aerated bed: use of natural fibrous materials. Int J Biomater. 2022;2022:1–8.                    https://doi.org/10.1155/2022/4839913                                    .")\].
+
+The contaminated water produces substantial wastewater, burdening the environment and the existing water efficacy. Sewage water is classified into two types grey water, wastewater from washing clothes and utensils, and black water, used to flush toilets with human waste. Numerous diseases, including leptospirosis, Hepatitis A, and campylobacteriosis, originates from the pathogenic microorganisms found in this wastewater, such as viruses, helminths, and protozoan bacteria \[ [5](https://link.springer.com/article/10.1007/s43939-025-00234-6?#ref-CR5 "Boretti A, Rosa L. Reassessing the projections of the world water development report. NPJ Clean Water. 2019;2:15.                    https://doi.org/10.1038/s41545-019-0039-9                                    ."), [6](https://link.springer.com/article/10.1007/s43939-025-00234-6?#ref-CR6 "Jones ER, Bierkens MFP, van Vliet MTH. Current and future global water scarcity intensifies when accounting for surface water quality. Nat Clim Chang. 2024;14:629–35.                    https://doi.org/10.1038/s41558-024-02007-0                                    ."), [7](https://link.springer.com/article/10.1007/s43939-025-00234-6#ref-CR7 "Wear SL, Acuña V, McDonald R, Font C. Sewage pollution, declining ecosystem health, and cross-sector collaboration. Biol Conserv. 2021;255: 109010.                    https://doi.org/10.1016/j.biocon.2021.109010                                    .")\]. The fast increase in industrialization and urbanization in many developing country's metropolitan cities limits the ability to conserve water and provide sanitation. Many populated countries, such as India need to add significant effort into planning and management for reuse of domestic wastewater with improvement in existing treatment facilities \[ [8](https://link.springer.com/article/10.1007/s43939-025-00234-6#ref-CR8 "Rose GD. Centre Intern-spring. International Development Research Centre; 1999.")\]. Urban runoff typically contains organic substances and various hazardous chemicals that affect the aquatic ecosystem while degrading the rivers. Because sewage treatment facilities are costly to build and operate, most cities in developing countries discharge wastewater directly into urban rivers. In metropolitan areas, STPs generally use mechanical and chemical approaches to treat wastewater. However, STPs struggled with sustainability due to operational and maintenance issues. Wastewater treatment plants emit offensive odours, negatively impacting the health of local residents \[ [9](https://link.springer.com/article/10.1007/s43939-025-00234-6#ref-CR9 "Guzmán-Beltrán AM, Vela-Aparicio D, Montero S, Cabeza IO, Brandão PFB. Simultaneous biofiltration of H2S, NH3, and toluene using compost made of chicken manure and sugarcane bagasse as packing material. Environ Sci Pollut Res. 2024.                    https://doi.org/10.1007/s11356-024-33757-1                                    .")\].
+
+Over the past few years, the release of excess sewage sludge from STPs. Gradually strict in case of regulations. Many underdeveloped countries require more financial resources to construct stops. As a result, there is growing concern about developing small-scale wastewater treatment technologies that are both eco-friendly and commercially viable for on-site wastewater treatment. However, at this vital stage, several ecologically built instruments can solve difficulties with safe and economical wastewater treatment technologies. The majority of wastewater treatment systems are "disposal-based liner systems," which requires conversion into cycle of treatments to conserve water and nutrient resources \[ [3](https://link.springer.com/article/10.1007/s43939-025-00234-6#ref-CR3 "Tomar P, Suthar S. Urban wastewater treatment using vermi-biofiltration system. Desalination. 2011;282:95–103.                    https://doi.org/10.1016/j.desal.2011.09.007                                    .")\]. Biomaterials obtained from natural sources can be a potential alterative to overcome the economic burden and treat the water either in their native or in modified form \[ [10](https://link.springer.com/article/10.1007/s43939-025-00234-6?#ref-CR10 "Singh S, Nwabor OF, Ontong JC, Voravuthikunchai SP. Characterization and assessment of compression and compactibility of novel spray-dried, co-processed bio-based polymer. J Drug Deliv Sci Technol. 2020;56: 101526.                    https://doi.org/10.1016/j.jddst.2020.101526                                    ."), [11](https://link.springer.com/article/10.1007/s43939-025-00234-6?#ref-CR11 "Singh S, Nwabor OF, Ontong JC, Kaewnopparat N, Voravuthikunchai SP. Characterization of a novel, co-processed bio-based polymer, and its effect on mucoadhesive strength. Int J Biol Macromol. 2020;145:865–75.                    https://doi.org/10.1016/j.ijbiomac.2019.11.198                                    ."), [12](https://link.springer.com/article/10.1007/s43939-025-00234-6?#ref-CR12 "Singh S, Bothara SB. Manilkara zapota (Linn.) seeds: a potential source of natural gum. ISRN Pharm. 2014;2014:1–10.                    https://doi.org/10.1155/2014/647174                                    ."), [13](https://link.springer.com/article/10.1007/s43939-025-00234-6?#ref-CR13 "Singh S, Bothara S. Morphological, physico-chemical and structural characterization of mucilage isolated from the seeds of Buchanania lanzan Spreng. Int J Health Allied Sci. 2014;3:33.                    https://doi.org/10.4103/2278-344X.130609                                    ."), [14](https://link.springer.com/article/10.1007/s43939-025-00234-6?#ref-CR14 "Singh S, Bothara SB. Physico-chemical and structural characterization of mucilage isolated from seeds of Diospyros melonoxylon Roxb. Braz J Pharm Sci. 2014;50:713–25.                    https://doi.org/10.1590/S1984-82502014000400006                                    ."), [15](https://link.springer.com/article/10.1007/s43939-025-00234-6#ref-CR15 "Bothara SB, Singh S. Thermal studies on natural polysaccharide. Asian Pac J Trop Biomed. 2012;2:S1031–5.                    https://doi.org/10.1016/S2221-1691(12)60356-6                                    .")\]. Among several biomaterials, the bagasse biofilters are an eco-friendly way to clean water and manage nutrients.
+
+Natural biomass can cost between $500 to $1500 due to various factors such as cultivation, collecting, shipping, storing, along with conversion. To reduce costs, natural biomass is substituted with cost-effective and environmentally friendly raw materials such as natural waste, food water, along with city garbage. This source falls under a type of lignocellulose biomass, which is similar to sugarcane bagasse \[ [16](https://link.springer.com/article/10.1007/s43939-025-00234-6#ref-CR16 "Kapoor DU, Gaur M, Kumar A, Singh S, Chidrawar VR, Prajapati BG. Value-added lignocellulose from waste biomass as a potential source in fabrication of lignin-based composite for multifaceted applications. Regen Eng Transl Med. 2024.                    https://doi.org/10.1007/s40883-024-00357-x                                    .")\]. It is a renewable and cost-effective option, with prices ranging from $24–121 each tonne. The cost of waste lignocellulose is minimal, with shipping being the only additional cost. Rhodobacter sphaeroides is a great source of producing biomass using sugarcane waste, with high wastewater efficiency. Plant installation and early expenditures are major cost, accounting for around 25% of production costs. However, the key benefit is that the manufacturing facility that can be operated for a period of time exceeding twenty years. Moreover, the proper maintenance of machinery and equipment further leads to economic growth through their reuse or sale \[ [17](https://link.springer.com/article/10.1007/s43939-025-00234-6#ref-CR17 "Saravanan A, Yaashikaa PR, Kumar PS, Thamarai P, Deivayanai VC, Rangasamy G. A comprehensive review on techno-economic analysis of biomass valorization and conversional technologies of lignocellulosic residues. Ind Crops Prod. 2023;200: 116822.                    https://doi.org/10.1016/J.INDCROP.2023.116822                                    .")\].
+
+Bagasse-based biofiltration is a potential solution for reducing waste on dumping grounds by treating wastewater with bagasse \[ [18](https://link.springer.com/article/10.1007/s43939-025-00234-6#ref-CR18 "Sadeghi A, Ebrahimi M, Shahryari S, Assadpour E, Jafari SM. Potential applications of encapsulated yeasts especially within alginate and chitosan as smart bioreactors and intelligent micro-machines. Carbohydr Polym Technol Appl. 2024;7: 100513.                    https://doi.org/10.1016/j.carpta.2024.100513                                    .")\]. Every year, 700 million tonnes of sugarcane are produced, and the bagasse is dispersed to various companies for various purposes, with the rest being sent to dumping grounds as garbage. Employing this bagasse-based biofilter in a variety of industries, including water treatment, that may minimise the burden on landfills. Bagasse differs from many other traditional materials in that it is biodegradable. Compared to plastics, which may require many decades to degrade, bagasse used materials spontaneously decompose into safe components after a few months of composting. This quick decomposition decreases landfill waste and hazardous emissions of methane, resulting in an environmentally friendly, healthy environment. Sugarcane can be gathered on a yearly basis, providing a consistent supply of the bagasse without the use of petroleum or natural gas or major mining activities. Growing and turning into goods need substantially less energy than synthetic materials, reinforcing its position as a sustainable option. Although, the bagasse demonstrate exceptional application in purification and manging of nutrients sometimes bagasse-based biofilters lose their biofiltration potential due to some critical consequences, which require a change of such assembly and proper disposal. However, improper disposal causes environmental problems with release of methane and carbon dioxide, causing greenhouse gas emissions, which is considered as secondary source of pollution. Further, during the biofiltration process absorption of heavy metals from hazardous backgrounds water, require special disposal technique with treatment, which is could be challenging process \[ [19](https://link.springer.com/article/10.1007/s43939-025-00234-6#ref-CR19 "Pachaiappan R, Cornejo-Ponce L, Rajendran R, Manavalan K, Femilaa Rajan V, Awad F. A review on biofiltration techniques: recent advancements in the removal of volatile organic compounds and heavy metals in the treatment of polluted water. Bioengineered. 2022;13:8432.                    https://doi.org/10.1080/21655979.2022.2050538                                    ."), [20](https://link.springer.com/article/10.1007/s43939-025-00234-6#ref-CR20 "Kiatkittipong W, Wongsuchoto P, Pavasant P. Life cycle assessment of bagasse waste management options. Waste Manage. 2009;29:1628–33.                    https://doi.org/10.1016/J.WASMAN.2008.12.006                                    .")\]. Furthermore, the process of biofilter production using bagasse significantly impact on associated industries those engage in energy generation, paper processing, feeding animals, which may sometime cause imbalance between demand and supply, ultimately creating a strain on the production of sugarcane \[ [21](https://link.springer.com/article/10.1007/s43939-025-00234-6?#ref-CR21 "Iwuozor KO, Adeniyi AG, Emenike EC, Ojeyemi T, Egbemhenghe AU, Okorie CJ, Ayoku BD, Saliu OD. Prospects and challenges of utilizing sugarcane bagasse as a bio-coagulant precursor for water treatment. Biotechnol Rep. 2023;39: e00805.                    https://doi.org/10.1016/j.btre.2023.e00805                                    ."), [22](https://link.springer.com/article/10.1007/s43939-025-00234-6?#ref-CR22 "Sustainable Uses of Sugarcane Wastes (n.d.).                    https://www.wastex.io/post/sugarcane-waste-uses                                    . Accessed 26 Jan 2025."), [23](https://link.springer.com/article/10.1007/s43939-025-00234-6#ref-CR23 "Ajala EO, Ighalo JO, Ajala MA, Adeniyi AG, Ayanshola AM. Sugarcane bagasse: a biomass sufficiently applied for improving global energy, environment and economic sustainability. Bioresour Bioprocess. 2021.                    https://doi.org/10.1186/S40643-021-00440-Z                                    .")\]. Therefore, the present review highlights the scale-up for the large-scale fabrication process and insight into microbial involvement with the process of pollutant adhesion and ultimately impact on the environment. Various aspects prove that bagasse is the best biofilter for wastewater treatment (Table [1](https://link.springer.com/article/10.1007/s43939-025-00234-6#Tab1)). Moreover, the review elaborate the potential of bagasse as a biofilters for cleaning water and manage nutrients.
+
+**Table 1 Several properties of bagasse for biofiltration**
+
+[Full size table](https://link.springer.com/article/10.1007/s43939-025-00234-6/tables/1)
+
+### 1.1 Essentials of biofilters in sewage treatment
+
+
+[... middle omitted — see footer ...]
+
+
+Sudarshan Singh
+
+4. SMBT Institute of Diploma Pharmacy, Dhamangaon, Nashik, Maharashtra, 422403, India
+
+Kundan Tiwari
+
+5. Centre of Excellence in Innovative Biotechnology for Sustainable Utilization of Bioresources, Faculty of Agro-Industry, Prince of Songkla University, Hat Yai, 90110, Thailand
+
+Pooja V. Nagime
+
+
+Authors
+
+1. Dipak S. Thorat
+
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=Dipak%20S.%20Thorat)
+
+
+
+
+
+Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Dipak%20S.%20Thorat) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Dipak%20S.%20Thorat%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+2. Sudarshan Singh
+
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=Sudarshan%20Singh)
+
+
+
+
+
+Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Sudarshan%20Singh) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Sudarshan%20Singh%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+3. Yogesh V. Ushir
+
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=Yogesh%20V.%20Ushir)
+
+
+
+
+
+Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Yogesh%20V.%20Ushir) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Yogesh%20V.%20Ushir%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+4. Kundan Tiwari
+
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=Kundan%20Tiwari)
+
+
+
+
+
+Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Kundan%20Tiwari) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Kundan%20Tiwari%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+5. Shekhar kokate
+
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=Shekhar%20kokate)
+
+
+
+
+
+Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Shekhar%20kokate) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Shekhar%20kokate%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+6. Pooja V. Nagime
+
+
+[View author publications](https://link.springer.com/search?sortBy=newestFirst&contributor=Pooja%20V.%20Nagime)
+
+
+
+
+
+Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Pooja%20V.%20Nagime) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Pooja%20V.%20Nagime%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+
+### Contributions
+
+Dipak S Thorat and Sudarshan Singh: Conceptualization, methodology, software, data curation, writing original draft preparation, visualization, reviewing and editing; Yogesh V Ushir, Kundan Tiwari, Shekhar kokate, and Pooja V Nagime: formal analysis.
+
+### Corresponding authors
+
+Correspondence to
+[Dipak S. Thorat](mailto:dipaksureshthorat8806@gmail.com), [Sudarshan Singh](mailto:sudarshansingh83@hotmail.com) or [Yogesh V. Ushir](mailto:ushir29@gmail.com).
+
+## Ethics declarations
+
+### Ethics approval and consent to participate
+
+Not applicable.
+
+### Competing interests
+
+The authors declare no competing interests.
+
+## Additional information
+
+### Publisher's Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+The original online article was revised to correct Figures 1 and 2, which had inadvertently been interchanged.
+
+## Rights and permissions
+
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/).
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Biomaterials-based%20biofilters%20from%20sugarcane%20waste%3A%20an%20eco-friendly%20way%20to%20clean%20water%20and%20manage%20nutrients&author=Dipak%20S.%20Thorat%20et%20al&contentID=10.1007%2Fs43939-025-00234-6&copyright=The%20Author%28s%29&publication=2730-7727&publicationDate=2025-03-09&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY)
+
+## About this article
+
+[![Check for updates. Verify currency and authenticity via CrossMark](<Base64-Image-Removed>)](https://crossmark.crossref.org/dialog/?doi=10.1007/s43939-025-00234-6)
+
+### Cite this article
+
+Thorat, D.S., Singh, S., Ushir, Y.V. _et al._ Biomaterials-based biofilters from sugarcane waste: an eco-friendly way to clean water and manage nutrients.
+_Discov Mater_ **5**, 56 (2025). https://doi.org/10.1007/s43939-025-00234-6
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1007/s43939-025-00234-6?format=refman&flavour=citation)
+
+- Received: 19 December 2024
+
+- Accepted: 03 March 2025
+
+- Published: 09 March 2025
+
+- Version of record: 09 March 2025
+
+- DOI: https://doi.org/10.1007/s43939-025-00234-6
+
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+
+### Keywords
+
+- [Agricultural sustainability](https://link.springer.com/search?query=Agricultural%20sustainability&facet-discipline=%22Materials%20Science%22)
+- [Bagasse](https://link.springer.com/search?query=Bagasse&facet-discipline=%22Materials%20Science%22)
+- [Biofilter](https://link.springer.com/search?query=Biofilter&facet-discipline=%22Materials%20Science%22)
+- [Eco-friendly water solutions](https://link.springer.com/search?query=Eco-friendly%20water%20solutions&facet-discipline=%22Materials%20Science%22)
+- [Nutrient management](https://link.springer.com/search?query=Nutrient%20management&facet-discipline=%22Materials%20Science%22)
+- [Sustainable water-filtration](https://link.springer.com/search?query=Sustainable%20water-filtration&facet-discipline=%22Materials%20Science%22)
+
+### Profiles
+
+1. Dipak S. Thorat [View author profile](https://link.springer.com/researchers/65393179SN)
+2. Sudarshan Singh [View author profile](https://link.springer.com/researchers/58302537SN)
+3. Pooja V. Nagime [View author profile](https://link.springer.com/researchers/72939178SN)
+
+──────── [TRUNCATED] ────────
+Showing 21,577 chars (head) + 7,475 chars (tail) of 245,278 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/link.springer.com-8cb7e3f455.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/link.springer.com-8cb7e3f455.md" offset=112 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

@@ -1,0 +1,238 @@
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.5941/MYCO.2015.43.4.423) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/pdf/mb-43-423.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Mycobiology logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-article-mycobiology.gif)
+
+Mycobiology
+
+. 2015 Dec 31;43(4):423–434. doi: [10.5941/MYCO.2015.43.4.423](https://doi.org/10.5941/MYCO.2015.43.4.423)
+
+# The Effects of Different Substrates on the Growth, Yield, and Nutritional Composition of Two Oyster Mushrooms ( _Pleurotus ostreatus_ and _Pleurotus cystidiosus_)
+
+[Ha Thi Hoa](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hoa%20HT%22[Author])
+
+### Ha Thi Hoa
+
+1Department of Tropical Agriculture and International Cooperation, National Pingtung University of Science and Technology, Pingtung 91201, Taiwan.
+
+Find articles by [Ha Thi Hoa](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hoa%20HT%22[Author])
+
+1, [Chun-Li Wang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wang%20CL%22[Author])
+
+### Chun-Li Wang
+
+2Department of Plant Industry, National Pingtung University of Science and Technology, Pingtung 91201, Taiwan.
+
+Find articles by [Chun-Li Wang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wang%20CL%22[Author])
+
+2,✉, [Chong-Ho Wang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wang%20CH%22[Author])
+
+### Chong-Ho Wang
+
+2Department of Plant Industry, National Pingtung University of Science and Technology, Pingtung 91201, Taiwan.
+
+Find articles by [Chong-Ho Wang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wang%20CH%22[Author])
+
+2
+
+- Author information
+- Article notes
+- Copyright and License information
+
+1Department of Tropical Agriculture and International Cooperation, National Pingtung University of Science and Technology, Pingtung 91201, Taiwan.
+
+2Department of Plant Industry, National Pingtung University of Science and Technology, Pingtung 91201, Taiwan.
+
+✉
+
+Corresponding author: lelia@mail.npust.edu.tw
+
+✉
+
+Corresponding author.
+
+Received 2015 Jun 7; Revised 2015 Aug 18; Accepted 2015 Sep 29; Issue date 2015 Dec.
+
+© The Korean Society of Mycology
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License ( [http://creativecommons.org/licenses/by-nc/3.0/](http://creativecommons.org/licenses/by-nc/3.0/)) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC4731647  PMID: [26839502](https://pubmed.ncbi.nlm.nih.gov/26839502/)
+
+## Abstract
+
+The study was conducted to compare the effects of different agro-wastes on the growth, yield, and nutritional composition of oyster mushrooms _Pleurotus ostreatus_ (PO) and _Pleurotus cystidiosus_ (PC). Seven substrate formulas including sawdust (SD), corncob (CC), sugarcane bagasse (SB) alone and in combination of 80 : 20, 50 : 50 ratio between SD and CC, SD and SB were investigated. The results indicated that different substrate formulas gave a significant difference in total colonization period, characteristics of fruiting bodies, yield, biological efficiency (BE), nutritional composition and mineral contents of two oyster mushrooms PO and PC. The results showed that increasing CC and SB reduced C/N ratio, and enhanced some mineral contents (Ca, P, and Mg) of substrate formulas. The increased amount of CC and SB of substrate formulas enhanced protein, ash, mineral contents (Ca, K, Mg, Mn, and Zn) of fruiting bodies of both mushrooms. Substrates with 100% CC and 100% SB were the most suitable substrate formulas for cultivation of oyster mushrooms PO and PC in which they gave the highest values of cap diameter, stipe thickness, mushroom weight, yield, BE, protein, fiber, ash, mineral content (Ca, K, and Mg) and short stipe length. However, substrate formula 100% CC gave the slowest time for the first harvest of both mushrooms PO and PC (46.02 days and 64.24 days, respectively). It is also found that the C/N ratio of substrate formulas has close correlation with total colonization period, mushroom weight, yield, BE and protein content of mushroom PO and PC.
+
+**Keywords:** Nutritional composition, Oyster mushroom, Substrates, Yield
+
+* * *
+
+Oyster mushroom ( _Pleurotus species_) belongs to the family of Tricholomataceae and is the second widely cultivated mushroom worldwide following the _Agaricus bisporus_ \[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B1), [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B2)\]. However, Obodai et al. \[ [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B3)\] reported that oyster mushroom is the third largest commercially produced mushroom in the world market. _Pleurotus_ species are popular and widely cultivated throughout the world mostly in Asia, America and Europe because of their simple, low cost production technology and high biological efficiency (BE) \[ [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B4)\]. Moreover, the interest of oyster mushroom is increasing largely due to its taste, nutrient, and medicinal properties \[ [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B5)\]. _Pleurotus_ species can efficiently degrade agricultural wastes and they grow at a wide range of temperatures \[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B1)\]. In comparison to other edible mushrooms, _Pleurotus_ species need a short growth time and their fruiting bodies are not often attacked by diseases and pests \[ [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B6), [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B7)\]. _Pleurotus_ species require carbon, nitrogen and inorganic compounds as their nutritional sources. The main nutrients are less nitrogen and more carbon so materials containing cellulose, hemicellulose and lignin (i.e., rice and wheat straw, cotton seed hulls, sawdust \[SD\], waste paper, leaves, and sugarcane residue) can be used as mushroom substrates \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B8)\]. Oyster mushroom can grow on a wide variety of substrate. However, the yield and the quality of oyster mushroom depend on the chemical and nutritional content of substrates \[ [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B9), [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B10)\].
+
+_Pleurotus species_ are a rich source of protein, minerals (P, Ca, Fe, K, and Na) and vitamin (thiamine, riboflavin, folic acid, and niacin) \[ [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B11)\]. Apart from food value, their medicinal value for diabetics and in cancer therapy has been emphasized \[ [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B12)\]. Numerous mushroom species contain a wide range of metabolites as antitumour, antigenotoxic, antioxidant, antihypertensive, antiplatelet-aggregating, antihyperglycaemic, antimicrobial, and antiviral activities \[ [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B13)\]. Several species of oyster mushrooms are very important in the field of medicine. _Pleurotus cystidiosus_ (PC) is a strong antioxidant \[ [14](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B14)\] while _Pleurotus ostreatus_ (PO) also possesses antitumor activity \[ [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B15)\].
+
+Large volumes of unused lignocellulosic by-products are available in tropical and subtropical areas. These by-products are usually left to rot in the field or are disposed through burning \[ [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B6)\]. Using locally available lignocellulosic substrates to cultivate oyster mushroom is one solution to transform these inedible wastes into accepted edible biomass of high market and nutrient values \[ [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B6)\]. Presently, in Asia (including Taiwan), the main substrate used for the commercial cultivation of oyster mushroom is SD. Using large quantities of SD for mushroom cultivation causes reduction of wooded areas while information on the potential use of other locally available resources is lacking \[ [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B16)\]. The potential shortages of SD and high potential of agro-waste residues are the reasons why we need to identify alternatives for sustainable cultivation of oyster mushrooms. The study was conducted to compare the effects of different agro-wastes on the growth, yield, and nutritional composition of oyster mushrooms PO and PC. The final aim is to find the best substrate formulas for effective cultivation of oyster mushrooms PO and PC.
+
+## MATERIALS AND METHODS
+
+### Mushroom material and spawn preparation.
+
+Two species of oyster mushroom PC (strain AG 2041) and PO (strain AG 2042) obtained from Plant Physiology and Value Added Microorganisms Laboratory (Department of Plant Industry, National Pingtung University of Science and Technology \[NPUST\], Taiwan) were grown on potato sucrose agar medium (PSA) at 28℃ for regular subculture and maintained on PSA at 4℃ for a maximum of 3 mon. Spawns were prepared in 850-mL polypropylene plastic bottles filled with 600 g acacia SD supplemented with 9% rice bran, 1% sugar, 1% calcium carbonate, 0.03% ammonium chloride, 0.03% magnesium sulfate, and 0.03% mono-potassium phosphate (in terms of dry weight basis) and 60~65% water content, and then sterilized at 121℃ for 5 hr. After cooling to room temperature, 10 mycelium discs (diameter 1 cm) of each oyster mushroom were inoculated into each bottle of sterilized spawn. The spawn was incubated at 28℃ until the substrate fully colonized.
+
+### Substrate preparation and inoculation.
+
+Three lignocellulosic substrates including sugarcane bagasse (SB), corncob (CC), and SD (made from acacia wood) were obtained from Pingtung County, Taiwan. SB and CC were dried and then ground into 0.5~1.5 cm length pellets and soaked separately in water over 4 hr. After draining excess water from those materials, they were used for replacing SD. In order to determine suitable substrates and suitable ratios for cultivation of two oyster mushrooms PO and PC, seven substrate formulas including SD, CC, SB alone and in combination of 80 : 20, 50 : 50 ratio between SD and CC; SD and SB (on dry weight basis) were investigated. Substrate 100% SD was used as control treatment. After mixing materials with the above proportion, they were supplemented with 9% rice bran, 1% sugar, 1% calcium carbonate, 0.03% ammonium chloride, 0.03% magnesium sulfate, and 0.03% mono-potassium phosphate. Water content of the final mixture was adjusted to about 65%. Each lignocellulosic substrate formula after supplementing nutrient and distilled water was filled into 10 × 23-cm polyethylene plastic bags and sterilized in an autoclave at 121℃ for 5 hr. The weight of every bag was approximately 1 kg. Twenty-four culture bags were used for each substrate formula. After substrates were cooled to room temperature, they were inoculated with the 2 g spawn per bag.
+
+### Incubation and harvest.
+
+The inoculated substrates were kept in an incubation room at 28℃ and 60~70% relative humidity under dark condition. After the surface of substrates was entirely covered with mycelium, then the substrates were moved to a cropping room in which temperature was maintained at 24℃ and kept at related humidity about 90% or above. For all substrate formulas, three flushes of mushroom PC and six flushes of mushroom PO were harvested from each of the culture bags when the in-rolled margins of the mushroom caps began to flatten. The time from inoculation to the first harvest and total harvesting time (from the first to the last harvest) were observed and recorded. At every flush, the harvested fruiting bodies were weighed and mushroom size was measured. The length and thickness of stipe, diameter of cap, and number of effective fruiting body per bunch were measured at the first, second and third flush and the means were also determined. At the end of the harvest period, the accumulated data were used to calculate total yield and the BE. BE is the ratio of fresh fruiting body weight (g) per dry weight of substrates (g), expressed as a percentage.
+
+### Substrate analysis.
+
+Substrate samples were dried by an oven at 40℃ to a constant weight and ground to powder samples. Total carbon (C) content was determined according to the report of Nelson and Sommers \[ [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B17)\], and total nitrogen (N) content was carried out on a 0.2 g sample by the Kjehldal method after 96% H2SO4 hot digestion \[ [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B18)\]. Then the C/N ratio of each substrate was calculated. Electrolyte conductivity (EC) and pH were determined according to the methods of Cavins et al. \[ [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B19)\] by using a pH meter (UltraBasic-UB10; Denver Instrument, New York, NY, USA) and EC meter (SC-2300 conductivity meter; Suntex Instrument Co. Ltd., New Taipei City, Taiwan); 20 g of substrate was mixed with 200 mL water (ratio 1 : 10) to wet the sample to saturation, shaken for 15 min and left for 60 min and filtered before the measurements were made. The contents of mineral elements (P, K, Ca, Mg, Fe, Mn, Zn, and Cu) were analyzed by ICP atomic emission spectrophotometry using the Varian 725-ES device (Varian, Santa Clara, CA, USA) after element extraction in 0.1 N HCl acidic solution. These instruments were manufactured by HORIBA Jobin Yvon (Longjumeau, France).
+
+### Fruiting body analysis.
+
+Mushroom samples were dried by an oven at 40℃ to a constant weight to calculate moisture content and then ground into power samples for other analysis. The samples were analyzed for nutritional composition (fat, carbohydrates, fiber, and ash) using the Association of Official Annalytical Chemists procedures \[ [20](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B20)\]. The protein content (N × 6.25) of samples was estimated by the macro-Kjeldahl method \[ [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B18)\]. The fat was determined by extracting a known weight of powdered sample with ethyl ether, using a Soxhlet apparatus. The ash content was measured by incineration at 600 ± 15℃. Total carbohydrates were calculated by difference. Energy was calculated according to the following equation: Energy (kcal/100 g) = 4 × Protein+4×Carbohydrate + 9 × Fat. The mineral contents (P, K, Ca, Mg, Fe, Mn, Zn, and Cu) were analyzed by ICP atomic emission spectrophotometry using the Varian 725-ES device after element extraction in 0.1 N HCl acidic solution.
+
+### Experimental design and data analysis.
+
+The experiments were conducted in Plant Physiology and Value Added Microorganisms Laboratory, Department of Plant Industry, NPUST in Taiwan during autumn-winter season, 2014 (July to December). The experiment was arranged in a randomized complete block design with three replications and twenty-four culture bags per treatment. One-way analysis of variance (ANOVA) was conducted with Duncan's multiple range tests to compare the mean significant differences ( _p_ < 0.05) among treatments by using computer software SAS ver. 9.1 (SAS Institute Inc., Cary, NC, USA).
+
+## RESULTS AND DISCUSSION
+
+### Substrate analysis.
+
+Total C, total N, C/N ratio, pH, EC, and mineral content are very important factors for mycelium colonized and development of fruiting bodies. It is very important to determine the chemical and nutrient composition of the substrates, especially those used for commercial purposes \[ [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#B21)\]. There was a significant difference in chemical and nutritional composition properties among substrate formulas used in this study ( [Tables 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#T1) and [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#T2)). Regarding total C, the value of this parameter was the highest in substrate formula 100% SB (55%), and the lowest in 100% CC (39.98%). Substrate formula 100% SB showed the highest total N (1.20%) while 100% SD (control substrate), 80% SD + 20% CC, 80% SD + 20% SB showed the lowest total N (0.86%, 0.88%, and 0.95%, respectively). N content increased gradually with the decreasing amount of SD in substrate formula ( [Table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/#T1)). In the experiment, C/N ratio of substrate formulas significantly varied from 34.57 to 51.71 and the highest value was obtained in control substrate formula. The pH values of substrates ranged from 6.7 to 6.93, suitably for oyster mushroom cultivation. The highest pH values were obtained from 100% SD, 80% SD + 20% CC, 80% SD + 20% SB (6.93, 6.91, and 6.88, respectively). EC values significantly changed among substrate formulas and ranged from 2.88 to 4.20 (mS/cm). The highest EC value was recorded at substrate containing 100% SB (4.20mS/cm). When increasing CC and SB in substrate formulas, C/N ratio and pH value of substrates decreased when compared to substrate containing 100% SD; however, EC of substrate formulas increased.
+
+#### Table 1. Chemical properties of experimental substrate formulas.
+
+[![graphic file with name mb-43-423-i001.jpg](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f29f/4731647/1f672b5365de/mb-43-423-i001.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=4731647_mb-43-423-i001.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/table/T1/)
+
+Means with the same column followed by the same letters are not significantly different at _p_ ≤ 0.05 according to Duncan's multiple range test.
+
+SD, sawdust; SB, sugarcane bagasse; CC, corncob.
+
+#### Table 2. Mineral contents of experimental substrate formulas.
+
+[![graphic file with name mb-43-423-i002.jpg](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f29f/4731647/12c07fbdf7f2/mb-43-423-i002.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=4731647_mb-43-423-i002.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/table/T2/)
+
+Means with the same columns followed by the same letters are not significantly different at _p_ ≤ 0.05 according to Duncan's multiple range test.
+
+SD, sawdust; SB, sugarcane bagasse; CC, corncob.
+
+
+[... middle omitted — see footer ...]
+
+- 40.Wang D, Sakoda A, Suzuki M. Biological efficiency and nutritional value of Pleurotus ostreatus cultivated on spent beer grain. Bioresour Technol. 2001;78:293–300. doi: 10.1016/s0960-8524(01)00002-5. \[ [DOI](https://doi.org/10.1016/s0960-8524(01)00002-5)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11341691/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Bioresour%20Technol&title=Biological%20efficiency%20and%20nutritional%20value%20of%20Pleurotus%20ostreatus%20cultivated%20on%20spent%20beer%20grain&author=D%20Wang&author=A%20Sakoda&author=M%20Suzuki&volume=78&publication_year=2001&pages=293-300&pmid=11341691&doi=10.1016/s0960-8524(01)00002-5&)\]
+- 41.Philippoussis AN, Diamantopoulou PA, Zervakis GI. Correlation of the properties of several lignocellolosic substrates to the crop performance of shitake mushroom Lentinula edodes. World J Microbiol Biotechnol. 2003;19:551–557. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=World%20J%20Microbiol%20Biotechnol&title=Correlation%20of%20the%20properties%20of%20several%20lignocellolosic%20substrates%20to%20the%20crop%20performance%20of%20shitake%20mushroom%20Lentinula%20edodes&author=AN%20Philippoussis&author=PA%20Diamantopoulou&author=GI%20Zervakis&volume=19&publication_year=2003&pages=551-557&)\]
+- 42.Quimio TH. Introducing: Pleurotus flabellatus for your dinner table. Mushroom J. 1978;69:282–283. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mushroom%20J&title=Introducing:%20Pleurotus%20flabellatus%20for%20your%20dinner%20table&author=TH%20Quimio&volume=69&publication_year=1978&pages=282-283&)\]
+- 43.Sivaprakasam K. Studies on oyster mushroom (Pleurotus sajorcaju) Fr. \[dissertation\] Coimbatore: Tamil Nadu Agricultural University; 1980.  \[ [Google Scholar](https://scholar.google.com/scholar_lookup?title=Studies%20on%20oyster%20mushroom%20(Pleurotus%20sajorcaju)%20Fr.%20[dissertation]&author=K%20Sivaprakasam&publication_year=1980&)\]
+- 44.Kurtzman RH. A review mushrooms: sources for modern Western medicine. Micol Aplicada Int. 2005;17:21–33. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Micol%20Aplicada%20Int&title=A%20review%20mushrooms:%20sources%20for%20modern%20Western%20medicine&author=RH%20Kurtzman&volume=17&publication_year=2005&pages=21-33&)\]
+- 45.Ahmed SA, Kadam JA, Mane VP, Patil SS, Baig MM. Biological effeciency and nutritional contents of Pleurotus florida (Mont.) Singer cultivated on different agro-wastes. Nat Sci. 2009;7:44–48. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat%20Sci&title=Biological%20effeciency%20and%20nutritional%20contents%20of%20Pleurotus%20florida%20(Mont.)%20Singer%20cultivated%20on%20different%20agro-wastes&author=SA%20Ahmed&author=JA%20Kadam&author=VP%20Mane&author=SS%20Patil&author=MM%20Baig&volume=7&publication_year=2009&pages=44-48&)\]
+- 46.Ragunathan R, Swaminathan K. Nutritional status of Pleurotus spp. grown on various agro-wastes. Food Chem. 2003;80:371–375. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Food%20Chem&title=Nutritional%20status%20of%20Pleurotus%20spp.%20grown%20on%20various%20agro-wastes&author=R%20Ragunathan&author=K%20Swaminathan&volume=80&publication_year=2003&pages=371-375&)\]
+- 47.Mshandete AM, Cuff J. Proximate and nutrient composition of three types of indigenous edible wild mushroom grown in Tanzania and their utilization prospects. Afr J Food Agric Nutr Dev. 2007;7:1–16. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Afr%20J%20Food%20Agric%20Nutr%20Dev&title=Proximate%20and%20nutrient%20composition%20of%20three%20types%20of%20indigenous%20edible%20wild%20mushroom%20grown%20in%20Tanzania%20and%20their%20utilization%20prospects&author=AM%20Mshandete&author=J%20Cuff&volume=7&publication_year=2007&pages=1-16&)\]
+- 48.Sharma S, Yadav RK, Pokhrel CP. Growth and yield of oyster mushroom (Pleurotus ostreatus) on different substrates. J New Biol Rep. 2013;2:3–8. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20New%20Biol%20Rep&title=Growth%20and%20yield%20of%20oyster%20mushroom%20(Pleurotus%20ostreatus)%20on%20different%20substrates&author=S%20Sharma&author=RK%20Yadav&author=CP%20Pokhrel&volume=2&publication_year=2013&pages=3-8&)\]
+- 49.Bonatti-Chaves M, Karnopp P, Soares HM, Furlan SA. Evaluation of Pleurotus ostreatus and P. sajor-caju nutritional characteristics when cultivated in different lignocellulosic wastes. Food Chem. 2004;88:425–428. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Food%20Chem&title=Evaluation%20of%20Pleurotus%20ostreatus%20and%20P.%20sajor-caju%20nutritional%20characteristics%20when%20cultivated%20in%20different%20lignocellulosic%20wastes&author=M%20Bonatti-Chaves&author=P%20Karnopp&author=HM%20Soares&author=SA%20Furlan&volume=88&publication_year=2004&pages=425-428&)\]
+- 50.Khan MA, Amin SM, Uddin MN, Tania M, Alam N. Comparative study of the nutritional composition of oyster mushrooms cultivated in Bangladesh. Bangladesh J Mushroom. 2008;2:9–14. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Bangladesh%20J%20Mushroom&title=Comparative%20study%20of%20the%20nutritional%20composition%20of%20oyster%20mushrooms%20cultivated%20in%20Bangladesh&author=MA%20Khan&author=SM%20Amin&author=MN%20Uddin&author=M%20Tania&author=N%20Alam&volume=2&publication_year=2008&pages=9-14&)\]
+- 51.Kalač P, Svoboda L. A review of trace element concentrations in edible mushrooms. Food Chem. 2000;69:273–281. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Food%20Chem&title=A%20review%20of%20trace%20element%20concentrations%20in%20edible%20mushrooms&author=P%20Kala%C4%8D&author=L%20Svoboda&volume=69&publication_year=2000&pages=273-281&)\]
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.5941/MYCO.2015.43.4.423)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (8.8 MB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4731647/pdf/mb-43-423.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)
+
+──────── [TRUNCATED] ────────
+Showing 21,456 chars (head) + 7,443 chars (tail) of 81,959 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pmc.ncbi.nlm.nih.gov-53e8c78c1d.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pmc.ncbi.nlm.nih.gov-53e8c78c1d.md" offset=188 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

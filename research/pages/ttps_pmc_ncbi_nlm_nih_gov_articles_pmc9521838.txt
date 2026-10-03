@@ -1,0 +1,282 @@
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.1371/journal.pone.0275213) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/pdf/pone.0275213.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![PLOS One logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-plosone.png)
+
+PLoS One
+
+. 2022 Sep 29;17(9):e0275213. doi: [10.1371/journal.pone.0275213](https://doi.org/10.1371/journal.pone.0275213)
+
+# Biowaste and by-products as rearing substrates for black soldier fly ( _Hermetia illucens_) larvae: Effects on larval body composition and performance
+
+[Kylian Manon Eggink](https://pubmed.ncbi.nlm.nih.gov/?term=%22Eggink%20KM%22[Author])
+
+### Kylian Manon Eggink
+
+1Section for Aquaculture, The North Sea Research Centre, Technical University of Denmark, Hirtshals, Denmark
+
+Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Writing – original draft, Writing – review & editing
+
+Find articles by [Kylian Manon Eggink](https://pubmed.ncbi.nlm.nih.gov/?term=%22Eggink%20KM%22[Author])
+
+1,\*, [Ivar Lund](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lund%20I%22[Author])
+
+### Ivar Lund
+
+1Section for Aquaculture, The North Sea Research Centre, Technical University of Denmark, Hirtshals, Denmark
+
+Conceptualization, Data curation, Resources, Writing – review & editing
+
+Find articles by [Ivar Lund](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lund%20I%22[Author])
+
+1, [Per Bovbjerg Pedersen](https://pubmed.ncbi.nlm.nih.gov/?term=%22Pedersen%20PB%22[Author])
+
+### Per Bovbjerg Pedersen
+
+1Section for Aquaculture, The North Sea Research Centre, Technical University of Denmark, Hirtshals, Denmark
+
+Conceptualization, Funding acquisition, Project administration, Writing – review & editing
+
+Find articles by [Per Bovbjerg Pedersen](https://pubmed.ncbi.nlm.nih.gov/?term=%22Pedersen%20PB%22[Author])
+
+1, [Benni Winding Hansen](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hansen%20BW%22[Author])
+
+### Benni Winding Hansen
+
+2Department of Science and Environment, Roskilde University, Roskilde, Denmark
+
+Formal analysis, Investigation, Writing – review & editing
+
+Find articles by [Benni Winding Hansen](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hansen%20BW%22[Author])
+
+2, [Johanne Dalsgaard](https://pubmed.ncbi.nlm.nih.gov/?term=%22Dalsgaard%20J%22[Author])
+
+### Johanne Dalsgaard
+
+1Section for Aquaculture, The North Sea Research Centre, Technical University of Denmark, Hirtshals, Denmark
+
+Conceptualization, Data curation, Supervision, Writing – original draft, Writing – review & editing
+
+Find articles by [Johanne Dalsgaard](https://pubmed.ncbi.nlm.nih.gov/?term=%22Dalsgaard%20J%22[Author])
+
+1
+
+Editor: Patrizia Falabella3
+
+- Author information
+- Article notes
+- Copyright and License information
+
+1Section for Aquaculture, The North Sea Research Centre, Technical University of Denmark, Hirtshals, Denmark
+
+2Department of Science and Environment, Roskilde University, Roskilde, Denmark
+
+3Universita degli Studi della Basilicata, ITALY
+
+**Competing Interests:** The authors have declared that no competing interests exist.
+
+✉
+
+\\* E-mail: kmaeg@aqua.dtu.dk
+
+#### Roles
+
+**Kylian Manon Eggink**: Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Writing – original draft, Writing – review & editing
+
+**Ivar Lund**: Conceptualization, Data curation, Resources, Writing – review & editing
+
+**Per Bovbjerg Pedersen**: Conceptualization, Funding acquisition, Project administration, Writing – review & editing
+
+**Benni Winding Hansen**: Formal analysis, Investigation, Writing – review & editing
+
+**Johanne Dalsgaard**: Conceptualization, Data curation, Supervision, Writing – original draft, Writing – review & editing
+
+**Patrizia Falabella**: Editor
+
+Received 2022 Jun 22; Accepted 2022 Sep 12; Collection date 2022.
+
+© 2022 Eggink et al
+
+This is an open access article distributed under the terms of the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC9521838  PMID: [36174084](https://pubmed.ncbi.nlm.nih.gov/36174084/)
+
+## Abstract
+
+Black soldier fly ( _Hermetia illucens_) larvae can convert biowaste and by-products into body mass high in protein (~40% dry matter, DM) and lipid (~30% DM). However, the type of rearing substrate also affects the larval body composition and thus its nutritional value. Hitherto, it remains unclear how and to what extent the larval body composition can be altered by the substrate. This study was therefore performed to examine the possibilities of modifying larval body composition using different rearing substrates. To investigate this, 5-days old larvae were reared for seven days on different locally available waste and by-products: brewer’s spent grain, mitigation mussels ( _Mytilus edulis_), rapeseed cake, and shrimp waste meal ( _Pandalus borealis_). Larval composition and performance were compared to larvae reared on a commercial chicken feed as well as a mixed feed (mixture of chicken feed and by-products, with a similar macronutrient composition to chicken feed). Larval body weight was recorded daily to determine growth over time whereas larvae and substrates were sampled at the start and end of the trial and analysed for their nutritional composition. The type of rearing substrate affected both larval body composition and growth performance. There was a clear relation between the nutritional composition of the substrate and larvae for certain fatty acids. Larvae reared on marine-based waste substrates contained a higher share of omega-3 fatty acids than larvae reared on the other substrates, indicating an accumulation of omega-3 fatty acids from the substrate. There was a strong positive linear correlation between the ash content in the substrate and larvae whereas larval lipid, protein, amino acid, and chitin content seemed more affected by larval development. Overall, this study showed that the rearing substrate affects larval composition and development, and that larval composition of certain nutrients can be tailored depending on further food and feed applications.
+
+## 1\. Introduction
+
+One of the biggest challenges of our time is sustainable and sufficient food production, both in terms of quality and quantity, to meet growing demands. The increasing demands are driven by world population growth as well as dietary alterations due to socio-economic factors including urbanisation and economic growth \[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref001)\]. However, these increased demands will put additional pressure on valuable resources (water, energy, etc.) whilst simultaneously leading to an increase in environmental impact \[ [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref002)\]. Concurrently, global food waste is a major challenge due to both its large volumes and fast decomposition. Worldwide food waste volumes are circa 1.3 billion tons per year, which corresponds to approximately one-third of the food produced worldwide, and these estimates do not even include unavoidable biowaste from parts of food products that are inedible to humans (e.g. peels, bones, and shells) \[ [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref003)\]. One way to deal with food waste and other biowaste, whilst obtaining high-quality nutrients, is through bioconversion using insects to convert waste into insect biomass.
+
+Insects are a valuable nutrient source that can be used directly for human consumption or indirectly as feed for livestock \[ [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref004)\]. One insect species that has been recognised as particularly promising is the black soldier fly (BSF, _Hermetia illucens_). This is due to its short life cycle, ability to handle a wide range of challenging environments (e.g. high temperatures, low food availability, and low oxygen) and capacity to consume a great variety of substrates during its larval stage \[ [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref005)\]. Additionally, BSF larvae can ingest large quantities of substrates and convert them into body tissue with a high crude protein (38.3–52.3% dry matter, DM) and crude lipid (21.8–38.6% DM) content \[ [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref006)– [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref009)\]. Due to the nutritional content of BSF larvae, they have been successfully incorporated into food \[ [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref010), [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref011)\] and feed \[ [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref012), [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref013)\], consolidating their value as an alternative nutrient source. However, the nutritional composition of BSF larvae can largely vary, depending on the different abiotic and biotic factors during rearing, with the substrate being among the most critical factors \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref008), [14](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref014)\].
+
+Numerous studies have researched the use of biowaste and by-products for rearing BSF larvae such as animal manure, brewery by-products, fish offal, and fruit and vegetable waste \[e.g. 8, [14](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref014)– [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref017)\]. These studies have shown that the larval composition and performance are largely modified by the rearing substrate. However, there is so far a limited and contradictory understanding of the relation between substrate and larvae nutrient composition. For example, some studies found that substrates high in protein resulted in larvae high in protein \[ [14](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref014), [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref018)\] whereas another study found no such relation \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref008), [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref019), [20](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref020)\]. Additionally, it is currently unknown whether the larval chitin content can be modified via the rearing substrate, which could be important for future food and feed applications, as chitin and its derivatives have, amongst others, antimicrobial and immunomodulatory \[ [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref021)– [23](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref023)\] as well as anti-nutritional \[ [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref024), [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref025)\] properties.
+
+The current study therefore aimed at identifying whether—and to what extent—the BSF larval nutritional composition of chitin and other nutritional components (DM, ash, protein, amino acids, lipid, and fatty acids) can be manipulated by individual rearing substrates using locally available biowaste and by-products for food and feed applications.
+
+## 2\. Materials and methods
+
+### 2.1. Experimental animals
+
+The study was carried out at a commercial insect company (ENORM Biofactory, Flemming, Denmark) using larvae from a BSF colony originally established in 2018. After hatching, BSF larvae were raised for 5 days by ENORM on a mixed feed with a similar macronutrient composition as commercial chicken starter feed but including by-products, consisting of 66.5% water, 16.0% pea grits, 8.0% wheat, 7.0% chicken starter feed, 2.1% sugar beet pellet, and 0.4% vitamin-mineral mixture. During these initial 5 days, the larvae were reared in a climate room maintained at constant conditions (34 °C and 70% relative humidity). Afterwards, larvae were sieved from the substrate and their average weight was determined by weighing 10 batches each of 500 hand-counted larvae. Thereafter, 18 subsamples were taken of approximately 10 000 larvae for the 7-day substrate trial.
+
+### 2.2. Experimental substrates
+
+Six different rearing substrates were tested during the substrate trial being the (1) same mixed feed used for the first 5 days of larval rearing, (2) commercial chicken starter feed with wheat and soybean meal as main ingredients (Hornsyld Købmandsgaard A/S, Hornsyld, Denmark), (3) rapeseed cake obtained as a by-product from rapeseed oil production (Emmelev A/S, Otterup, Denmark), (4) brewer’s spent grain obtained as a by-product from the brewing industry (Carlsberg A/S, Fredericia, Denmark), (5) mitigation mussels ( _Mytilus edulis_) including tissues and shells that were grown to reduce eutrophication (Danish Shellfish Centre, Nykobing Mors, Denmark), and (6) shrimp waste ( _Pandalus borealis_) derived from shrimps processed for human consumption including heads, appendages, and exoskeletons (Launis A/S, Skagen, Denmark).
+
+Mitigation mussels and shrimp waste were individually mixed using a laboratory homogeniser (1094, Perstorp Analytical, Höganäs, Sweden) and ground to <5 mm using a meat mincer (TS12E, OMAS, Oggiona S. Stefano, Italy). Substrates were analysed for moisture content using a VWR moisture analyser and substrate moisture content of rapeseed cake and chicken feed was adjusted to ~70% using tap water whereas for the other substrates the moisture content was already within the optimal range (60–80%). Furthermore, 2% sugar beet pellets were added to each substrate to prevent the accumulation of freestanding water that risks drowning the larvae. Substrates were mixed thoroughly by hand and stored at -20 °C until further analysis. Before the trial, the substrates were thawed at room temperature for 24 hours.
+
+### 2.3. Experimental design and data collection
+
+The substrate trial was carried out as a randomised single-factor experiment with the six substrates fed to triplicate plastic boxes. Each box (59L x 39W x 31H cm) was covered with secured mesh fabric to prevent larvae from escaping. Boxes were stacked randomly and placed on plastic pallets (1 m above the floor) situated in an aerated room at 27.4 ± 0.8 °C and 67.7 ± 4.7% relative humidity, as previously recommended by Diener et al. \[ [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref006)\]. At the start of the trial, 100 mg substrate larvae/day was added to each box with approximately 10 000 of 5-days old larvae placed on top of the substrate. The total substrate provided was corrected for subsequent daily samplings of substrate and larvae. Larvae were kept in complete darkness except when samples were taken.
+
+Samples of larvae (n = 500 per box) were obtained daily using forceps. Individual larvae were washed with distilled water to remove substrate remnants and dried with tissue paper. Average body weights were subsequently determined by weighing the larvae in groups of 10 and sampled larvae were frozen at -20 °C until further analysis.
+
+Daily, 10 g of substrate was taken for pH measurements using the protocol by Lalander et al. \[ [26](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref026)\]. In brief, the sample was diluted with 50 mL distilled water, left for 1h at room temperature, and pH determined with a Lab 845 pH Meter (SI Analytics, Mainz, Germany). Simultaneously, substrate core temperature was measured using a Traceable Lollipop thermometer (VWR, Radnor, USA).
+
+### 2.4. Analytical methods
+
+Subsamples of substrates and larvae were freeze-dried (Christ Loc 2, Martin Christ Gefriertrocknungsanlagen GmbH, Osterode am Harz, Germany) and ground (A10 basic, IKA, Staufen, Germany) before determination of the content of DM, ash, protein, amino acids, lipid, fatty acids, and chitin (larvae only). DM content was obtained by drying samples at 105 °C until constant weight whilst ash content was determined by incineration at 550 °C until constant weight \[ [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref027)\]. Crude protein was determined as Kjeldahl-N (ISO 2005) using a standard nitrogen-to-protein conversion factor (Kp) of 6.25. Additionally, corrected crude protein was determined for larvae using Kp values estimated by dividing the sum of amino acids by the total Kjeldahl-N as performed by Boulos et al. \[ [28](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref028)\]. Crude lipid was quantified as described by Bligh and Dyer \[ [29](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref029)\]. Gross energy was determined in larvae by combustion in a bomb calorimeter (C7000, IKA) while in substrates was estimated, due to insufficient sample quantity for calorimetric determination, assuming an energy content of 23.66 MJ/kg protein, 39.57 MJ/kg lipid, and 17.17 MJ/kg nitrogen-free extract (NFE) \[ [30](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref030)\]. NFE (%DM) = 100 − (crude lipid %DM \+ crude protein %DM \+ ash %DM).
+
+The amino acid contents of substrates and larvae and chitin content of larvae were quantified by HPLC and spectrophotometry, respectively, as previously described by Eggink et al. \[ [31](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref031)\].
+
+Prior to fatty acid determination, total lipids were extracted by incubating samples in chloroform-methanol (2:1) for 24 hours \[ [32](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#pone.0275213.ref032)\]. Subsequently, fatty acids were determined by gas chromatography (HP-5890A, Agilent Technologies, Santa Clara, USA) and separated on a column (Agilent DB wax 127–7012, 10m x 100μm x 0.1μm, Agilent Technologies). A standard mixture of fatty acid methyl esters (Nu Check Prep 68D, USA) was used for fatty acid identification. Fatty acids were reported as the area percentage of total identified fatty acids.
+
+### 2.5. Statistical methods
+
+
+[... middle omitted — see footer ...]
+
+- 55.Gold M, Tomberlin JK, Diener S, Zurbrügg C, Mathys A. Decomposition of biowaste macronutrients, microbes, and chemicals in black soldier fly larval treatment: A review. Waste Manag. 2018; 82: 302–318. doi: 10.1016/j.wasman.2018.10.022
+\[ [DOI](https://doi.org/10.1016/j.wasman.2018.10.022)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30509593/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Waste%20Manag&title=Decomposition%20of%20biowaste%20macronutrients,%20microbes,%20and%20chemicals%20in%20black%20soldier%20fly%20larval%20treatment:%20A%20review&author=M%20Gold&author=JK%20Tomberlin&author=S%20Diener&author=C%20Zurbr%C3%BCgg&author=A%20Mathys&volume=82&publication_year=2018&pages=302-318&pmid=30509593&doi=10.1016/j.wasman.2018.10.022&)\]
+- 56.Mussatto SI, Dragone G, Roberto IC. Brewers’ spent grain: generation, characteristics and potential applications. J Cereal Sci. 2006; 43(1): 1–14. doi: 10.1016/j.jcs.2005.06.001 \[ [DOI](https://doi.org/10.1016/j.jcs.2005.06.001)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Cereal%20Sci&title=Brewers%E2%80%99%20spent%20grain:%20generation,%20characteristics%20and%20potential%20applications&author=SI%20Mussatto&author=G%20Dragone&author=IC%20Roberto&volume=43&issue=1&publication_year=2006&pages=1-14&doi=10.1016/j.jcs.2005.06.001&)\]
+- 57.Zheng L, Hou Y, Li W, Yang S, Li Q, Yu Z. Biodiesel production from rice straw and restaurant waste employing black soldier fly assisted by microbes. Energy. 2012; 47(1): 225–229. doi: 10.1016/j.energy.2012.09.006 \[ [DOI](https://doi.org/10.1016/j.energy.2012.09.006)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Energy&title=Biodiesel%20production%20from%20rice%20straw%20and%20restaurant%20waste%20employing%20black%20soldier%20fly%20assisted%20by%20microbes&author=L%20Zheng&author=Y%20Hou&author=W%20Li&author=S%20Yang&author=Q%20Li&volume=47&issue=1&publication_year=2012&pages=225-229&doi=10.1016/j.energy.2012.09.006&)\]
+- 58.Arrese EL, Soulages JL. Insect fat body: energy, metabolism, and regulation. Annu Rev Entomol. 2010; 55: 207–225. doi: 10.1146/annurev-ento-112408-085356
+\[ [DOI](https://doi.org/10.1146/annurev-ento-112408-085356)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3075550/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19725772/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Annu%20Rev%20Entomol&title=Insect%20fat%20body:%20energy,%20metabolism,%20and%20regulation&author=EL%20Arrese&author=JL%20Soulages&volume=55&publication_year=2010&pages=207-225&pmid=19725772&doi=10.1146/annurev-ento-112408-085356&)\]
+- 59.Danieli PP, Lussiana C, Gasco L, Amici A, Ronchi B. The effects of diet formulation on the yield, proximate composition, and fatty acid profile of the black soldier fly ( _Hermetia illucens_ L.) prepupae intended for animal feed. Animals. 2019; 9(4): 178. doi: 10.3390/ani9040178
+\[ [DOI](https://doi.org/10.3390/ani9040178)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523828/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31010233/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Animals&title=The%20effects%20of%20diet%20formulation%20on%20the%20yield,%20proximate%20composition,%20and%20fatty%20acid%20profile%20of%20the%20black%20soldier%20fly%20(Hermetia%20illucens%20L.)%20prepupae%20intended%20for%20animal%20feed&author=PP%20Danieli&author=C%20Lussiana&author=L%20Gasco&author=A%20Amici&author=B%20Ronchi&volume=9&issue=4&publication_year=2019&pages=178&pmid=31010233&doi=10.3390/ani9040178&)\]
+- 60.Bava L, Jucker C, Gislon G, Lupi D, Savoldelli S, Zucali M, et al. Rearing of _Hermetia illucens_ on different organic by-products: Influence on growth, waste reduction, and environmental impact. Animals. 2019; 9(6): 289. doi: 10.3390/ani9060289
+\[ [DOI](https://doi.org/10.3390/ani9060289)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6617253/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31146401/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Animals&title=Rearing%20of%20Hermetia%20illucens%20on%20different%20organic%20by-products:%20Influence%20on%20growth,%20waste%20reduction,%20and%20environmental%20impact&author=L%20Bava&author=C%20Jucker&author=G%20Gislon&author=D%20Lupi&author=S%20Savoldelli&volume=9&issue=6&publication_year=2019&pages=289&pmid=31146401&doi=10.3390/ani9060289&)\]
+
+## Associated Data
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Supplementary Materials
+
+S1 Fig. Larval protein content over time.
+
+Mean ± standard error (n = 3) larval protein content (% dry matter, DM) of black soldier fly larvae over time reared on six different rearing substrates: chicken feed, mixed feed, brewer’s spent grain, mitigation mussels, rapeseed cake, and shrimp waste.
+
+(TIF)
+
+[Click here for additional data file.](https://pmc.ncbi.nlm.nih.gov/articles/instance/9521838/bin/pone.0275213.s001.tif) (45.9KB, tif)
+
+S2 Fig. Larval lipid content over time.
+
+Mean ± standard error (n = 3) larval lipid content (% dry matter, DM) of black soldier fly larvae over time reared on six different rearing substrates: chicken feed, mixed feed, brewer’s spent grain, mitigation mussels, rapeseed cake, and shrimp waste.
+
+(TIF)
+
+[Click here for additional data file.](https://pmc.ncbi.nlm.nih.gov/articles/instance/9521838/bin/pone.0275213.s002.tif) (88.2KB, tif)
+
+### Data Availability Statement
+
+All relevant data are within the paper and its [Supporting information](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/#sec016) files.
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.1371/journal.pone.0275213)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (802.8 KB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9521838/pdf/pone.0275213.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)
+
+──────── [TRUNCATED] ────────
+Showing 21,287 chars (head) + 7,347 chars (tail) of 116,467 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pmc.ncbi.nlm.nih.gov-43b00d1ce0.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pmc.ncbi.nlm.nih.gov-43b00d1ce0.md" offset=208 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

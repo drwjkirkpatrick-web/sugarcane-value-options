@@ -1,0 +1,660 @@
+[![Previous Page](https://www.fao.org/4/s8850e/back.GIF)](https://www.fao.org/4/s8850e/S8850E02.htm)[![Table of Contents](https://www.fao.org/4/s8850e/toc.GIF)](https://www.fao.org/4/s8850e/S8850E00.htm#TOC)[![Next Page](https://www.fao.org/4/s8850e/next.GIF)](https://www.fao.org/4/s8850e/S8850E04.htm)
+
+* * *
+
+# ALTERNATIVE USES OF SUGARCANE AND ITS BYPRODUCTS IN AGROINDUSTRIES    by   J.M. Paturau
+
+1\. INTRODUCTION
+
+Although world prices for sugar and petroleum products have shown
+spectacular variations since 1973, the long term outlook is very
+likely to be a gradual increase in the price of all fossil fuels and
+stagnation, at best, for the price of sugar.
+
+This gloomy prospect explains, to a large degree, the renewed
+interest in the byproducts of the sugarcane industry which has
+developed in the last ten years and which has shown that the optimal
+use of byproducts can provide a non-negligible support to the
+sugarcane industry, although it could not, by itself, completely
+redress the difficult situation sugar is presently experiencing.
+
+The four main byproducts of the sugarcane industry are cane tops,
+bagasse, filter muds and molasses (Figure 1).
+
+If we accept that the present world production of sugarcane has
+reached the 60 million tonnes level, then the quantities of these
+byproducts produced yearly are approximately the following:
+
+|     |     |     |
+| --- | --- | --- |
+| Cane tops | 200 million tonnes | (fresh weight) |
+| Bagasse | 60 million tonnes | (bone dry weight) |
+| Filter muds | 5 million tonnes | (air dried weight) |
+| Molasses | 16 million tonnes | (at 80 percent DM) |
+
+Reliable statistics are not available to show the detailed end
+uses of these byproducts on a world basis, but although their
+utilization will be considered later in more detail, as a very rough
+picture of their trade we can say that at present cane tops and filter
+muds are largely ignored; that bagasse is used internally mainly as
+fuel to generate steam in the sugarcane factories and a small fraction
+to produce pulp and board; and that molasses is exported either as
+such for animal feed or after transformation as rum, potable alcohol
+or industrial alcohol.
+
+2\. VALUE UPGRADING AND PRICE LEVEL OF BYPRODUCTS
+
+There are many end uses to which the byproducts of the sugarcane
+industry can be put - probably more than 150. But many of them, under
+present technological and marketing conditions would be of negligible
+economic interest. Figure 1 presents about 38 end-products which we
+consider as potentially important or which have proved, under normal
+circumstances, of economic interest.
+
+It should be pointed out that, as a general rule, maximum value
+upgrading goes with more complex processing characterized by capital
+intensity, sophisticated technical know how and competitive markets.
+Maximization of profits is not automatically linked with process
+complexity and depends much more often on advantages local
+conditions or the proximity of a remunerative export market.
+
+Although “small” may be rarely “beautiful” when dealing with
+byproducts, the simpler operations are often the more profitable.
+
+As an example, molasses can simply be exported as such and earn
+some US$ 25 to 30 per tonne. However, by transforming the molasses
+into citric acid (worth say US$ 1 600 per tonne) about 330 kg of
+citric acid worth US$ 528 would be obtained from one tonne of
+molasses, i.e. about 18 times more than the previous operation. We
+must point out however that it is generally much easier to find a
+market for 30 000 tonnes of citric acid (worth US$ 750 000) than it is to
+find a buyer for 10 000 tonnes of citric acid (worth US$ 16 000 000).
+The market price of the byproducts of the sugarcane industry varies
+from country to country with cyclical increases and decreases.
+
+1. Cane tops have no real market value. They can be compared to
+   fair quality fodder with an average feed value, when fresh, of
+   about 2.8 megajoules of metabolizable energy per kilo of dry
+   matter. However cane tops should be collected and transported
+   from the cane fields to the feedlot and their value to the cane
+   producer could probably be no more than US$ 10 per tonne of
+   fresh cane tops.
+
+2. The price of bagasse is generally related to its fuel value.
+   Thus since 1 tonne of mill-run bagasse can be replaced by 0.173
+   tonne of fuel oil, worth US$ 80/tonne or again by 0.263 tonne
+   of bituminous coal worth US$55/tonne, it can be said that
+   bagasse is worth between US$ 13.8 and 14.5 per tonne (mill-run
+   weight, 50 percent moisture content) and a figure of US$ 15 can
+   be used as a rounded representative average.
+
+3. Filter muds have no set market value and since they are used
+   almost exclusively as fertilizer, it is reasonable to utilize
+   their fertilizer value which stands at present at about US$ 10
+   per tonne of air dried filter muds (30 percent moisture).
+
+4. Molasses is traded on the international market and its price
+   fluctuates appreciably from year to year. The average FOB
+   price New Orleans for 1985 was US$ 64.33 per tonne (at
+   79.5° Bx).
+
+
+3\. MAIN UTILIZATION OF BAGASSE
+
+Bagasse is the fibrous residue of the cane stalk left after
+crushing and extraction of the juice. It consists of fibres, water
+and relatively small quantities of soluble solids - mostly sugar. The
+average composition of mill-run bagasse is the following:
+
+|     |     |     |
+| --- | --- | --- |
+| Fibre (including ash) | 48.0 | percent |
+| Moisture | 50.0 | " |
+| Soluble solids | 2.0 | " |
+
+The fibre consists mainly of cellulose (27 percent), pentosans
+(30 percent), lignin (20 percent) and ash (3 percent).
+
+The calorific value (CV) of bagasse is given by the formula:
+
+Net CV = 18 309 - 31.1 S - 207.3 W - 196.1 A (expressed in kJ/kg)
+
+where
+
+S = soluble solids % bagasse
+
+W = moisture % bagasse, and
+
+A = ash % bagasse,.
+
+If W = 0, S = 2 and A = 3, then the net CV of bone dry
+bagasse = 17 659 kJ/kg.
+
+If W = 50, S = 2 and A =1 1/2 then the net CV of mill run
+bagasse = 7 588 kJ/kg.
+
+Bagasse is used for the generation of steam and power required to
+operate the sugar factory. A typical factory producing raw sugarcane
+require, per tonne of cane, about 35 kWh and 450 kg of exhaust steam.
+Much progress has been achieved lately and, with continuous operation
+of the pans, crystallizers and centrifuges and an efficient
+evaporation station, a modern raw sugar factory can now operate with
+30 kWh and 300 kg of exhaust steam per tonne of cane. Such a factory
+can save 50 percent of the bagasse it produces and this bagasse can be
+used to produce electricity for the grid or saved as raw material for
+the production of paper, board, furfural, etc.
+
+a) Electricity
+
+The more straightforward solution is to produce electricity from
+the bagasse saved via a high pressure boiler and condensing
+turbo-alternator. This solution has found favour in a number of cane
+producing countries such a Hawaii, Australia, Reunion and Mauritius
+and with modern equipment some 450 kWh can now be produced per tonne
+of mill-run bagasse. A typical example of this use is given in Table
+1 and if mill-run bagasse is priced at US$ 15 per tonne, electricity
+can be generated on a year round basis, at a cost of approximately US
+cents 6 to 8 per kWh, which should prove competitive with the ruling
+price of electricity in most Third World countries.
+
+To be economical, the generating station must work on a
+continuous basis, say at least 7 800 hours yearly. This will imply
+bagasse storage to be able to generate during the intercrop period.
+Various methods have been tried: dry and wet bulk storage, bale
+storage and pelleting.
+
+Dry bulk storage has proved uneconomic and is not suitable for
+large tonnages. Wet bulk storage does not apply and is utilized when
+bagasse is to be used for pulp production. Pelleting is still being
+tested in Hawaii and in Mauritius, but appears expensive per tonne of
+bagasse handled. Thus bale storage, which is presently the most
+widely used method seem the reasonable choice, although it
+requires a substantial storage area and can lead to annual losses of
+10 percent of more of the bagasse stored.
+
+The generation of electricity from surplus bagasse is undoubtedly
+the easiest and best utilization of this byproduct for most
+cane-producing Third World countries. However, as local conditions
+vary extensively the possibility of utilizing surplus bagasse to
+produce particle board, paper, furfural, or methane will be briefly
+considered.
+
+(b) Particle board
+
+The production of particle board from bagasse is a well-proven
+technology but it has to compete with plywood and fibreboard. Its
+main difficulty is the high cost of imported synthetic resins which
+serve as a binder to the bagasse fibres composing the board. Also the
+board's optimal thickness is about 15 mm and further it cannot be used
+for outdoor purposes so that its main market is limited to inner
+partitions and furniture.
+
+In the last few years a process has been developed in the Federal
+Republic of Germany whereby Portland cement replaces the urea
+formaldehyde resins, which enables this cement-bonded particle board
+to be used for exterior walls, roofing, etc. and thus increases
+significantly its market appeal. Note however that the bagasse
+utilized should not contain more than 0.5 percent of sugar on a bone
+dry basis. Otherwise the end product would not be satisfactory.
+Table 2 gives some indication of the comparative economic data for
+resin and cement particle boards made of bagasse.
+
+(c) Paper
+
+Good quality wrapping and magazine paper can be produced with a
+high percentage of depithed bagasse as raw material. The availability
+of a fair size internal market, sufficient surplus bagasse and fair
+quality industrial water are the usual constraints, apart from the
+high capital intensity of paper plants and the necessity to handle
+polluting effluents.
+
+Up to now the production of newsprint from bagasse has proved
+difficult and uneconomic, but there are constant advances in
+technology and bagasse newsprint may become feasible within the next
+ten years, especially if mixed with a fair percentage of waste paper.
+Also the production of magazine or note paper on a small scale has
+been investigated by Western (1979) and the experience gained in India
+seems to confirm the feasibility of plants producing as little as 15
+tonnes of bleached pulp per 24 hours.
+
+The process generally favoured for the production of bagasse pulp
+is the Kraft process using sodium sulphate. The actual sulphate
+cooking liquor contains a 4:1 mixture of caustic soda and sodium
+sulphide. Typical yield on bone dry depithed bagasse, to be expected
+with the Kraft cooking process is 48 percent for the final bleached
+slush pulp. Production cost, with depithed and 90 percent dry bagasse
+at US$ 30/tonne, would be around US$ 340 per tonne of bleached slush
+pulp. Water requirements would be about 200 m3 per tonne of pulp.
+Indicatively, the capital cost for plant and equipment would be about
+US$ 12 million for a 50 TPD factory.
+
+The production of pulp and paper from bagasse is not advisable as
+the main use of byproducts by Third World countries, unless very
+favourable local conditions exist. It is a relatively demanding
+technology best approached after gaining experience with simpler
+bagasse processing as called for in electricity generation or particle
+board manufacture.
+
+(d) Furfural
+
+Furfural is a colourless, inflammable, volatile, aromatic liquid
+produced from a number of plant materials containing pentosans - in
+the case of bagasse, 90 percent being xylan. With acid hydrolysis the
+xylan yields xylose which subsequently loses 3 water molecules to form
+furfural according to the following simplified equation:
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| C5H8O4 \+ H2O | \-\-\-\- C5H10O5 | \-\-\-\- C5H4O2 + | 3H2O |
+| Xylan | Xylose | Furfural |  |
+
+In practice about 25 tonnes of mill-run bagasse are required to
+produce 1 tonne of furfural.
+
+Furfural has many industrial uses, one of them being as a
+selective solvent for the refining of lubricating oils and another as
+an intermediate in the production of nylon 6.6 and resins used for
+moulding powders.
+
+Furfural on hydrogenation yields furfuryl alcohol which can
+produce inexpensive, heat-stable and corrosion-resistant resins.
+Furfuryl alcohol is also used in the pharmaceutical, fungicide,
+insecticide and solvent fields. Table 3 gives a summary of production
+variables of furfural from bagasse.
+
+Capital cost for a 5 000 tonnes/yearly plant, generally
+considered as the minimal economic capacity, would be about US$ 9
+million and the production cost about US$ 450 per tonne of furfural.
+
+It should be noted that about 35 tonnes of steam are required to
+produce one tonne of furfural, hence the importance of utilizing the
+lignin rich hydrolysate which is left over from the process to
+generate steam in a special boiler. Low pressure steam will be
+available as surplus and could be used in an adjoining distillery.
+
+Furfuryl alcohol is produced by the catalytic hydrogenation of
+furfural. Starting from bagasse, a plant to produce 4 500 tonnes
+yearly of furfuryl alcohol would cost US$ 12 million to US$ 13 million
+and would require some 150 000 tonnes of mil-run bagasse. The
+production cost would be about US$ 1 250 per tonne of furfuryl
+alcohol.
+
+As stated earlier, the production of furfural and/or furfuryl
+alcohol from bagasse for the production of pulp and paper is
+relatively complex. The two newcomers to this activity, namely South
+Africa and the Philippines, have had some initial problems but while
+the former overcame them and in fact has doubled its initial
+production capacity, the latter has not been able to find remunerative
+markets and has been out of production for the last three years.
+
+For the time being, therefore, production of furfural from
+bagasse should not be given high priority on the list of byproduct
+industries to be developed by Third World countries.
+
+(e) Methane
+
+Much has been written on the production of methane or biogas and
+very often sugarcane producers have been under the impression that a
+good opportunity was being lost in the production of an economic
+gaseous fuel from their surplus bagasse.
+
+Methane (CH4) and carbon dioxide are the main gaseous products of
+the anaerobic methane fermentation of waste and cellulosic materials.
+Theoretically 1 kg of cellulose would produce 415 litres of methane,
+but in practice the process is less efficient with a complex
+three-stage reaction operating in cascade and not always easy to
+manage.
+
+Cellulose is, normally, easily digested by bacteria. However
+when it is combined with lignin, as in bagasse, it is degraded only
+with great difficulty. Hence a biogas digester in the sugar industry
+should be planned to operate mainly on distillery stillage or feedlot
+effluents with a small addition of surplus pith, and not on bagasse as
+the only or main raw material.
+
+It is important, within the digester, to keep the ratio of carbon
+to nitrogen at about 25:1 and that of carbon to phosphorus at about
+150:1. The sludge should be kept slightly alkaline, at about 7.5 pH,
+and the temperature should be maintained at about 35°C. The retention
+time would be about 20 days.
+
+Biogas has a calorific value of about 22 000 kJ per kg (which is
+equivalent to 27 500 kJ per m3).
+
+A 100 m3 digester can cost about US$ 50 000, with wide variations
+according to the sophistication of the arrangement. It could produce
+some 30 000 m3 yearly and the production cost can be etimated at
+about US$ 4 per GJ - while as a reference point tax-free gasoline is
+at US$ 8 to 10 per GJ.
+
+So while bagasse is not the proper feed for the production of
+biogas, other byproducts can be considered, especially distillery
+sludge.
+
+4\. FILTER MUDS
+
+The precipitated impurities contained in the cane juice, after
+removal by filtration, form a cake of varying moisture content called
+filter muds. This cake contains much of the colloidal organic matter
+anions that precipitate during clarification, as well as certain
+non-sugars occluded in these precipitates.
+
+The weight of wet filter muds (80 percent water) averages about
+3.4 percent cane.
+
+Filter mud contains, on a dry basis, about 1 percent by weight of
+phosphate (p2O5) and about 1 percent of nitrogen. As a result it has
+been used, especially since the turn of the century, as a fertilizer.
+The filter mud also contains a mixture of waxy and fatty lipids in a
+ratio of 5:2 and refined wax can be extracted by appropriate treatment
+by solvents. It should be noted, however, that only 386 kg of refined
+wax, which could be roughly equated to carnauba wax, can be obtained
+from 1 000 tonnes of cane. The process is not commercially of
+interest under existing conditions and, as far as we know, only one
+plant is operating presently in India and on a small scale.
+
+The use of filter muds as animal feed has been tried by a number
+of sugarcane producer territories but so far has not proved
+economically rewarding, the main constraints being the magnitude of
+the drying process involved and the low digestibility of the dried
+scums.
+
+5\. MOLASSES
+
+The exportation of molasses as such is important in international
+trade and out of a total world production (beet molasses included) of
+35.5 million tonnes in 1985–86, some 6.5 million tonnes were exported.
+The main importing countries, namely USA, Japan, Netherlands and UK,
+utilize the molasses largely for animal feed.
+
+Molasses is the final effluent obtained in the preparation of
+sugar by repeated crystallization; it is the residual syrup from which
+no crystalline sucrose can be obtained by simple means. The yield of
+molasses is approximately 3.0 percent per tonne of cane but it is
+influenced by a number of factors and may vary within a wide range
+(2.2 to 3.7 percent). The specific gravity varies between 1.39 and
+1.49, with 1.43 as indicative average.
+
+The composition of molasses varies also within fairly wide limits
+but, on average, would be as follows:
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Water | 20% | Other carbohydrates | 4% |
+| Sucrose | 35% | Nitrogenous compounds | 4.5% |
+| Fructose | 9% | Non-nitrogenous acids | 5% |
+| Glucose | 7% | Ash | 12% |
+| Other reducing sugars | 3% | Others | 5% |
+
+A very large number of products can be derived from molasses.
+The question of animal feed from molasses and other byproducts of the
+sugarcane industry will not be considered in our presentation and we
+will limit ourselves to describing briefly the main products of
+molasses fermentation that are of economic importane on an
+international scale, namely rum, ethyl alcohol, acetic acid,
+butanol/acetone, citric acid, yeast and monosodium glutamate.
+
+(a) Rum
+
+Rum is the alcoholic distillate from the fermentation of
+cane juice, syrup or molasses. It has a characteristic taste and
+aroma. Its production derives from a simplified, but selective,
+ethylic fermentation and distillation, a number of esters and
+higher alcohols or “congeners” being present in the end-product.
+
+Rum is generally produced at 76°GL and is diluted with water
+and sold to th public at 33 to 40°GL. One tonne of molasses
+would produce about 230 litres of rum (basis 100°GL). Table 4,
+based on Mauritius data, reasonably representative of Third World
+conditions, shows how the selling price builds up from producer
+to retailer. If the producer is also the bottler and wholesaler,
+the profit is substantial and rum prodution from molasses is, by
+far, the most profitable industry in byproducts utilization while
+being, at the same time, a provider of revenue to the government
+through excise tax. Yearly consumption of rum is probably more
+than 480 million litres (1985).
+
+(b) Ethyl alcohol (C2H5OH)
+
+Ethyl alcohol is amongst the most important fermentation products
+and is derived from three types of raw materials:
+
+1. Sacchrine products - mainly molasses, but also cane
+   juice
+
+2. Starchy products - mainly maize
+
+3. Cellulosic products - mainly waste sulphite pulp liquor.
+
+
+It is, however, still largely produced synthetically from
+ethylene derived from petroleum.
+
+Under Third World conditions, the production cost of ethanol
+(the common name for ethyl alcohol) from cane molasses in a
+modern and fair size distillery - of say 60 to 80 000 litres per
+24 hours - would depend significantly on the price of molasses:
+
+- With molasses at US$ 75 per tonne, the cost of ethanol would be
+  US cents 45/litre
+
+- With molasses at US$ 50 per tonne, the cost of ethanol would be
+  US cents 36/litre
+
+- With molasses at US$ 25 per tonne, the cost of ethanol would be
+  US cents 27/litre
+
+
+With fair quality cane molasses some 240 litres of ethanol
+(100°GL basis) should be obtained from one tonne. If cane juice
+is utilized instead of molasses, production would be 72 litres
+per tonne of cane (which is also approximately 100 litres per
+tonne of juice).
+
+- With juice at US$ 20 per tonne, the cost of ethanol would be US
+  cents 48/litre
+
+- With juice at US$ 15 per tonne, the cost of ethanol would be US
+  cents 41/litre
+
+- With juice at US$ 10 per tonne, the cost of ethanol would be US
+  cents 34/litre
+
+
+An initial estimate of the capital cost of a distillery
+producing industrial alcohol with a normal capacity ranging from
+50 000 to 150 000 litres/24 hours would vary between US$ 80 and
+140 per daily litre capacity, depending on whether the distillery
+is annexed to a sugar factory and benefits from the steam
+generating department or whether it is an independent distillery
+having to provide its own energy and steam. If the end product is
+refined potable alcohol (96°GL) or anhydrous (99.8° GL) alcohol,
+the capital cost would be slightly higher.
+
+One of the main difficulties of large capacity distilleries
+is the efficient handling of their effluents (also called slops,
+vinasse or stillage) since 13 litres of slops are produced from
+every litre of ethanol. The recently developed Swedish process
+of Biostil, by Alfa Laval, is a great improvement since it
+reduces the weight of stillage by 60 percent and is thus finding
+increasing favour among alcohol producers.
+
+However even this reduced tonnage of stillage has to be
+treated and the two processes generally utilized are either
+evaporation plus incineration to recuperate the potash in the
+stillage, or anaerobic digestion. For the treatment of 1 000
+tonnes of slops per 24 hours the capital cost for the first
+method would be about US$ 7 million and the net operating cost
+
+[... middle omitted — see footer ...]
+
+
+REFERENCES
+
+Balch, R. T. 1953 The lipids of sugarcane. In ed. Honig, P. Principles of
+Sugar Technology, Vol. 1. Elsevier, Amsterdam pp 196–213.
+
+Chenu, 1977 P. Alcohol manufacture in a sugar factory. Proceedings 16th
+Congress ISSCT (Brazil), Impres, Sao Paulo, 1978.
+pp 3241–3251
+
+Kelly, 1977 F.H.C. A feasibility study on the production of ethanol from
+sugar cane. Report to the Queensland Department of
+Commercial and Industrial Development, Brisbane. 212 pp.
+
+Kort, 1969–1983 The industrial utilization of sugar and mill by-products
+(a literature survey). Sugar Milling Research Institute,
+Durban, South Africa. Annual Publication, approx. 200 pp.
+
+Moundlic, 1979 J. Can fermentation alcohol be substituted for wood as a
+cooking fuel? UNIDO Workshop onFermentation Alcohol,
+Vienna, Austria, March 1979. Paper ID/WG 293/28, 12 pp.
+
+Paturau, J. M. 1982 By-products of the cane sugar industry - 2nd edition,
+Elsevier, Amsterdam, 365 pp.
+
+paturau, 1984 J.M. Electricity export from cane sugar factories. F.O.
+Lichts Guide to the Sugar Factory Machine Industry; pp
+A75–A88.
+
+Prescott, S. C. and Dunn, C. G. 1949 Industrial microbiology, 2nd edition,
+2 vols. McGraw-Hill, New York. 565 + 578 pp.
+
+Vermas, C. H. 1979 Evaluation of fibres for the manufacture of resin or
+cement bonded particle board. UNIDO Seminar on wood
+Processing Industries, Cologne, Fed. Rep. of Germany, May
+1979\. Paper ID/WG. 293/28. 12 pp.
+
+Weyman, M. 1974 Guide for planning pulp and paper enterprises. FAO,
+Rome. 379 pp.
+
+Western, A. M. 1979 Small scale paper making. Intermediate Technology
+Industrial Services, Rugby, UK. 202 pp.
+
+Figure 1: Byproducts of the sugarcane industry
+
+![Figure 1](https://www.fao.org/4/s8850e/S8850E03.gif)
+
+N.B. The figures following each product express the saleable value
+in US$ of this product obtainable from one tonne of raw material
+(Adapted from Paturau, 1982)
+
+Figure 2: Price equivalence line for alcohol and gasoline
+
+![Figure 2](https://www.fao.org/4/s8850e/S8850E04.gif)
+
+|  |  | Best conditions | Moderate conditions |
+| --- | --- | --- | --- |
+| 1. | Characteristics |  |  |
+|  | \- Boiler (46 Bar A, 440°C) capacity tonnes steam per hour | 90 | 90 |
+|  | \- Turbo-alternator (condensing at 0.10 Bar A) capacity (MW) | 20 | 20 |
+|  | \- Total capital investment for generating station in working order (US$ million) | 9 | 11 |
+|  | \- Electricity generated yearly (GWh) | 150 | 120 |
+|  | \- Weight of mill-run bagasse utilized (tonnes) | 333 000 | 266 000 |
+|  | \- Acquisition cost of mill-run bagasse (US$ per tonne) | 15 | 20 |
+|  | \- Average transport cost per tonne of bagasse (US$) | 4 | 5 |
+| 2. | Cost of electricity generated (in US$ cents per kWh) |  |  |
+|  | \- Depreciation and maintenance (10%) | 0.60 | 0.92 |
+|  | \- Annuity repayment (0.16275 for 10 years at 10% interest) | 0.98 | 1.49 |
+|  | \- Labour and administration (US$ 100 000 yearly) | 0.07 | 0.08 |
+|  | \- Transport cost of bagasse | 0.89 | 1.11 |
+|  | \- Acquisition cost of bagasse | 3.33 | 4.48 |
+|  | TOTAL GENERATION COST PER kWh | 5.87 | 8.08 |
+|  |  | say US cents 6.00/kWh | say US cents 8.00/kWh |
+
+Table 1: Electricity from bagasse
+
+|  |  | Standard resin board plant | New cement-bonded board plant |
+| --- | --- | --- | --- |
+| 1. | Inputs per tonne of product |
+|  | Mill-run bagasse | 3 tonnes | Depithed bagasse (50% H2O) | 450 kg |
+|  | Urea-formaldehyde resins | 80 kg | )Portland cement | 600 kg |
+|  | Hardener | 8 kg | ) |  |
+|  | Wax | 6 kg | Chemicals | 25 kg |
+|  |  |  | Water | 250 kg |
+|  | Labour | 8 man-hours |  | 6 man-hours |
+|  | Fuel oil | 60 kg |  | - |
+|  | Steam | 1 000 kg |  | 1 000 kg |
+|  | Electricity | 200 kWh |  | 200 kWh |
+|  | Depreciation | 12% of production cost per tonne of annual production | 12% of capital cost per tonne of annual production |
+|  | Repairs, maintenance, administration overheads and other charges | 7% of production cost | 7% of production cost |  |
+| 2. | Economics |
+|  | Capital cost | US$ 5.0 million | US$ 9.0 million |  |
+|  | Production cost | US$ 200 per tonne of board | US$ per tonne of cement board |
+
+Table 2: 50 TPD bagasse particle board plant (per tonne of product)
+
+| Consumption | Production |
+| --- | --- |
+| Bagasse (bone dry) | 12.5 tonnes | Furfural (99%) | 1 tonne |
+| Steam | 35.0 tonnes | Acetic acid | 550 kg |
+| Water | 70.0 tonnes | Hydrolysate residue (bone dry) | 6.75 tonnes |
+| Power | 875 kWh |  |  |
+|  |  | (This residue has 63% moisture and a net calorific value of 5 442 kJ/kg) |  |
+| Labour (3 shifts of 8 hrs) | 216 man-hours daily |  |  |
+| Maintenance | 10% of production cost | Secondary steam (125°C saturated) | 7.5 tonnes |
+| Overheads | 10% of production cost |  |  |
+| Depreciation | 10% yearly of capital cost |  |  |
+| Marketing (containers, etc.) |
+
+Table 3: Furfural from bagasse (Basis 1 tonne furfural)
+
+|  |  |  | US$ per litre of rum (40°GL) |
+| --- | --- | --- | --- |
+| 1. | MANUFACTURE |  |
+|  | (i) | Molasses (US$ 25/tonne, 230 litres alcohol at 100°GL equivalent, after dilution, to 575 litres rum at 40°GL) | 0.04 |
+|  | (ii) | Other costs | 0.04 |
+|  | (iii) | Profits | 0.10 |
+| 2. | BOTTLER |  |
+|  | (iv) | Cost to bottler | 0.18 |
+|  | (v) | Bottling costs (glass bottle, cap, labour, etc.) | 0.20 |
+|  | (vi) | Excise duty (paid to government) | 1.40 |
+|  | (vii) | Profits | 0.45 |
+| 3. | RETAILER |  |
+|  | (viii) | Cost to retailer | 2.23 |
+|  | (ix) | Profits | 0.55 |
+| 4. | PUBLIC |  |
+|  | (x) | Retail price to public | US$ 2.78 per litre |
+
+Table 4: Cost structure of rum production and marketing (in Mauritius)
+
+# USOS ALTERNATIVOS DE LA CAÑA DE AZUCAR Y SUS DERIVADOS EN LAS AGROINDUSTRIAS   por    J.M. Paturau
+
+En los últimos diez años se ha observado un aumento del interés en la
+plena utilización de los subproductos de la industria de la caña de azúcar como
+reacción al alza de los precios de los combustibles fósiles y la baja del azúcar.
+
+Se dispone de cantidades suficientes de los cuatro subproductos principales, a saber cogollos, bagazo, cachaza de filtro prensa y melaza, a precios
+moderados, para poder llevar a cabo importantes actividades agroindustriales.
+
+Se consideran diversas industrias posibles, excepto las de piensos que
+serán examinadas por otros oradores, y parece las actividades que ofrecen
+más interés para los países del Tercer Mundo son las siguientes :
+
+1. la generación de electricidad con el bagazo excedente para abastecer a la red nacional; si el suministro de electricidad es suficiente, puede utilizarse para fabricar tableros de partículas de bagazo
+   aglomeradas con cemento;
+
+2. la utilización de la cachaza como fertilizante en los cañaverales;
+
+3. la transformación de la melaza en ron o alcohol potable para el
+   mercado nacional y de exportación;
+
+4. si existe un grave problema de deforestación, la producción de
+   alcohol industrial a base de melaza como combustible para cocinar
+   en sustitución de la leña.
+
+
+También se consideran otros usos posibles de los subproductos en otras
+nueve industrias y se indican los principales datos económicos (papel, furfural,
+metano, alcohol etílico, ácido acético, butanol-acetona, ácido cítrico, levadura,
+glutamato monosódico).
+
+* * *
+
+[![Previous Page](https://www.fao.org/4/s8850e/back.GIF)](https://www.fao.org/4/s8850e/S8850E02.htm)[![Top of Page](https://www.fao.org/4/s8850e/top.GIF)](https://www.fao.org/4/s8850e/s8850e03.htm#TopOfPage)[![Next Page](https://www.fao.org/4/s8850e/next.GIF)](https://www.fao.org/4/s8850e/S8850E04.htm)
+
+──────── [TRUNCATED] ────────
+Showing 22,477 chars (head) + 7,476 chars (tail) of 40,233 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/www.fao.org-380508b25a.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/www.fao.org-380508b25a.md" offset=488 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

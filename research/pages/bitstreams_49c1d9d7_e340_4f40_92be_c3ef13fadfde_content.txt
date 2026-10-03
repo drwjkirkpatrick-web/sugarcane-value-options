@@ -1,0 +1,544 @@
+ENERGY RECOVERY FROM ORGANIC WASTE
+SECTION II:
+
+**CASE**
+
+# Combined heat and power from bagasse (Mumias Sugar Company, Mumias District, Kenya)
+
+**Solomie Gebrezgabher, Jack Odero and Nancy Karanja**
+
+| Supporting case for Business Model 8 |  |
+| --- | --- |
+| Location: | Mumias District, Western Kenya |
+| Waste input type: | Bagasse (Sugarcane waste) |
+| Value offer: | Clean and renewable electricity |
+| Organization type: | Private |
+| Status of organization: | Operational since 1972(Co-generation unit since 2009) |
+| Scale of businesses: | Large |
+| Major partners: | Out-growers, PROPACO(French development agency) |
+
+## Executive summary Mumias Sugar Company Ltd (MSC) generates electricity from its bagasse-based co-generation plant.
+
+Mumias Sugar Company Ltd (MSC) generates electricity from its bagasse-based co-generation plant. 
+MSC was primarily established to produce sugar for local production and export. Over the years, the 
+company has created additional revenue from its bagasse-based co-generation plant. The company 
+generates about 34 MW of electricity, 26 MW of which is sold to Kenya Power and Lighting Company 
+(KPLC) based on a long-term power purchase agreement (PPA), while the remaining is used for factory 
+needs and domestic use in the staff quarters. MSC’s business model is cost-driven and is based on 
+its strategic access to input from its nucleus estates and out-growers. This guarantees the company 
+reliable and low-cost supply of input. Since the commissioning of the co-generation plant, MSC has 
+experienced stability in electricity supply to run its operations as opposed to the unreliable supply 
+from the national grid. In addition to enabling MSC to be energy self-sufficient, the co-generation 
+plant contributes to mitigating environmental pollution by replacing fossil-based energy production 
+while satisfying the energy demand of the country. The co-generation plant is also beneficial to local 
+populations by contributing to expanding access to electricity supplies in areas otherwise distant from 
+the grid.
+ENERGY RECOVERY FROM ORGANIC WASTE
+
+---
+
+## CASE: COMBINED HEAT AND POWER FROM BAGASSE
+
+## KEY PERFORMANCE INDICATORS (AS OF 2012)
+
+| Land: | 0.6 ha(for the co-generation plant) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Capital investment: | USD 63 million(boiler costs USD28 million and generator USD14 million) |  |  |  |  |
+| Labor: | 20-25 persons full-time and 5 persons on a contract basis(for the co-generation plant) |  |  |  |  |
+| O&amp;M costs: | 1 million USD/year |  |  |  |  |
+| Output: | 34 MW of electricity and 100 tons/day of ash |  |  |  |  |
+| Potential social and/or environmental impact: | Mitigation of environmental pollution by reducing GHG emissions, reducing fossil fuel dependence, employment generation, expanding access to electricity for rural areas |  |  |  |  |
+| Financial viability indicators: | Payback period: | 17 | Post-tax IRR: | 3% | Gross margin: |
+
+## Context and background MSC is a registered agro-based publicly-listed company in Kenya that is involved in the growing
+
+MSC is a registered agro-based publicly-listed company in Kenya that is involved in the growing 
+and processing of sugarcane to produce sugar. In 2014, its ownership is 36% local corporate, 56% 
+local individuals and 8% foreign investors. The company started its operations in 1972 and became 
+the largest sugarcane processor in Kenya both in terms of profitability and scale of operations, 
+crushing (depending on supply) between 1.1 and 2.4 million tons of sugarcane annually and producing 
+70,000–260,000 tons of sugar. MSC was primarily established to produce sugar for local production 
+and export. Over the years, the company has created additional revenue streams from electricity 
+generation. Construction of the power co-generation plant started in 2007 and was completed in 2009, 
+with an initial finance of USD 35 million provided by the French development agency, PROPARCO. 
+The initial and long-term goals of the co-generation plant were waste management and electricity 
+production, which varied in the last years between 21 and 34 MW of electricity per year.
+
+## Market environment Kenya has an electricity demand of 1,191 MW and installed power capacity of 1,429 MW of electricity.
+
+Peak demand load is projected to grow to 2,500 MW by 2015 and 15,000 MW by 2030. The demand
+
+is not fully exploited in the industry.
+
+MSC with its CDM initiative has also concluded purchase agreements with financial group Japan 
+Carbon Finance Ltd (JCF). Launched in late 2004, the financial group has received committed funds 
+of approximately USD 140 million for its Japan GHG Reduction Fund (JGRF). In addition to JGRF, 
+JCF has established second and third funds to purchase further carbon credit for some of fund 
+providers in JGRF. JCF plans to use the fund to purchase emission reductions credits from CDM and 
+joint implementation (JI) projects in developing and “in transition” economies around the world. JCF 
+has assisted development of various types of CDM/JI projects, such as renewable energy, energy 
+efficiency and waste management, and concluded purchase agreements in more than 30 projects 
+worldwide, including cogeneration plant of MSC.
+
+ENERGY RECOVERY FROM ORGANIC WASTE
+SECTION II:
+
+consumed in the country, while the balance is produced by independent power producers (IPPs), such
+as MSC. In 2013, MSC sold about 26 MW of electricity to KPLC, which distributes the power through
+the national grid. KPLC buys power from generators like KENGEN and MSC and is responsible for the
+transmission, distribution and retail of electricity throughout the country.
+
+---
+
+ENERGY RECOVERY FROM ORGANIC WASTE
+SECTION II:
+
+extent attributed to the declining soil productivity of the cane fields due to continuous mono-cropping
+of sugarcane. This situation has led to production that is well below the installed plant capacity and
+has forced the company to reduce cane crushing and sugar milling to one or two times a week, down
+
+result of cane crushing, there has been an associated decline in outputs for electricity generation.
+
+**CHAPTER 5. RENEWABLE POWER GENERATION**
+
+## Macro-economic environment The Kenyan power sector is characterized by the heavy reliance on hydroelectricity, frequent power
+
+The Kenyan power sector is characterized by the heavy reliance on hydroelectricity, frequent power 
+outages, low access to modern energy and high dependence on oil imports. With the enactment 
+of the Electric Power Act in 1998, the KPLC was unbundled into three entities: the KPLC that was 
+to carry out transmission and distribution functions to meet demand, the KENGEN to carry out the 
+generation function and the Electricity Regulatory Board (ERB) to regulate the power sector. The Act 
+also allowed IPPs to enter into PPAs with KPLC to add more power into the grid. KPLC has, however, 
+retained the transmission and distribution functions all over the country which hinders the emergence 
+of decentralized IPPs and independent power distributers.
+
+Kenya leads in exploiting renewable energy (RE) sources to meet the challenges of growing demand 
+and addressing the related environment concerns to complement the realization of Vision 2030: 
+“accelerating transformation of the country into a rapidly industrializing middle-income nation by the 
+year 2030”. The incentives for RE power include 0% import duties and value-added tax exemption on 
+renewable energy materials, equipment and accessories, feed-in tariffs at a price level that attracts 
+and stimulates new investment in the renewable energy sector. These will have direct impacts on 
+the development of renewable energy in Kenya and on the available energy that KPLC can supply 
+to regional populations. The IPPs were introduced into the sub-sector as a means of redressing the 
+challenge of capacity shortfalls. At least 174 MW of power is supplied by IPPs. MSC generates 34 MW, 
+26 MW of which is dispatched to the grid. The government has identified the unexploited potential of 
+up to 300 MW from other sugar factories.
+
+## Business model
+
+Business model
+MSC is essentially a sugar factory with a co-generation plant that processes bagasse to produce and 
+sell electricity to KPLC through a long-term PPA (Figure 88). MSC employs a cost-driven business 
+model. Since commissioning of the co-generation plant, MSC has experienced more stability in 
+electricity supply to run its operations, and thus reduced operational costs compared to the unreliable 
+supply from the national grid that it was previously relying on.
+
+## Value chain and position MSC sources its sugarcane from its nucleus estates and its out-growers. Bagasse, produced after
+
+MSC sources its sugarcane from its nucleus estates and its out-growers. Bagasse, produced after 
+sucrose extraction from sugarcane, is used as fuel in the boilers to generate high-pressure steam, 
+which runs generator to produce electricity. Ash, generated by the cogeneration plant, is applied as a 
+soil conditioner in the company’s sugarcane plantation (Figure 89).
+
+Although MSC is vertically integrated and owns its nucleus estate, it still heavily depends on out-
+
+MSC has a PPA with KPLC to provide 26 MW of electricity to the national grid. KPLC is responsible 
+for the transmission, distribution and retail of electricity throughout the country, which gives it a high 
+bargaining buyer power. The terms of the PPP are such that if MSC fails to provide the agreed 26 MW, 
+it is penalized by KPLC which deducts a percentage of the revenues accruing to MSC. The company 
+SECTION II: has also been forced to procure sugarcane from far areas and from out-grower farmers and bagasse
+
+---
+
+CASE: COMBINED HEAT AND POWER FROM BAGASSE
+
+## FIGURE 88. MUMIAS SUGAR COMPANY BUSINESS MODEL CANVAS
+
+## KEY PARTNERS
+
+- Out-growers
+
+PROPARCO
+
+(French 
+development 
+[Image: Im0]
+
+development 
+agency)
+[Image: Im0]
+
+agency)
+[Image: Im0]
+
+## KEY ACTIVITIES
+
+- Operate co-generation plant
+
+- Sales of electricity
+
+## KEY RESOURCES
+
+## VALUE PROPOSITIONS
+
+Equipment
+
+Long-term PPA with KPLC
+
+- Sugarcane bagasse
+
+- Technical and operational competencies
+
+Capital
+
+priced and 
+renewable energy 
+[Image: Im1]
+
+- Nucleus estates
+
+- Competitively
+
+renewable energy 
+based electricity 
+[Image: Im1]
+
+through 
+processing 
+[Image: Im1]
+
+based electricity 
+through 
+[Image: Im1]
+
+processing 
+of bagasse in 
+[Image: Im1]
+
+## CUSTOMER RELATIONSHIPS
+
+of bagasse in 
+environmentalfriendly way
+[Image: Im3] [Image: Im1]
+[Image: Im2]
+
+- Use of ash as soil enrichment in cane sugar plantation
+
+## CUSTOMER SEGMENTS
+
+Tax = 16% VAT
+
+## COST STRUCTURE
+
+## CHANNELS
+
+- Long-term PPA
+
+- Reduced operational costs from using own electricity and thermal energy
+
+- Minimized transport costs
+
+- Capital investment cogeneration - Financed by debt
+
+- Operational cost (labor cost, water repairs and maintenance)
+
+Connection 
+to KPLC 
+national grid
+[Image: Im8]
+
+- Nucleus estate (internal use)
+
+## REVENUE STREAMS
+
+- Electricity sales
+
+- Possible contamination of water source
+
+## SOCIAL & ENVIRONMENTAL BENEFITS
+
+- Contribute to the economy of local community
+
+- Contribute to mitigating environmental pollution
+
+- Generate employment opportunity
+
+- Contribute to improved waste management
+
+- Expanding access to electricity supplies to local communities
+
+ENERGY RECOVERY FROM ORGANIC WASTE
+SECTION II:
+
+---
+
+# Copyright Material – Provided by Taylor & Francis
+
+**242 CHAPTER 5. RENEWABLE POWER GENERATION**
+
+**FIGURE 89. MSC CO-GENERATION UNIT VALUE CHAIN**
+
+**OUT GROWERS NUCLEUS ESTATE**
+
+**Sugar** **Input** **cane**
+
+**MSC SUGAR** **PROCESSING PLANT**
+
+**Thermal energy Ash**
+
+**MSC CO-GENERATION UNIT**
+
+**Electricity $**
+
+**KENYA POWER AND LIGHTING COMPANY**
+
+from other sugar companies not producing power/electricity to complement supplies from the nucleus estate and the out-growers. To mitigate this situation, MSC is researching on developing a cane variety that can survive nutrient-depleted soils to ensure sustained supply of sugarcane for crushing. An energy balance initiative has also been commissioned aimed at improving energy consumption to further enhance the export of green energy to the national grid.
+
+The co-generation plant is a CDM project, which qualifies for Carbon Emissions Reduction (CER) certificates. MSC estimates an annual production of 130,000 tons of CERs. Under purchase agreement with JCF as well as the provision of Article 12 of the Kyoto Protocol on CDM, MSC is allowed to sell and JCF to purchase CER certificates. In 2010, MSC was the first Kenyan firm to sell carbon credits, making Ksh 22 million (about USD 270,000).1
+
+ENERGY RECOVERY FROM ORGANIC WASTE
+
+# Institutional environment
+
+In 2008, Kenya launched Vision 2030, a development blueprint aimed at making Kenya a newly industrialized middle-income country providing a high quality of life to all its citizens in a clean and secure environment. Addressing climate change is a top priority of the Government of Kenya. Kenya’s Intended Nationally Determined Contribution (INDC) includes an ambitious mitigation contribution of **SECTION II:** a 30% reduction in GHG emissions by 2030 relative to the business as usual scenario. The plan
+
+---
+
+**CASE: COMBINED HEAT AND POWER FROM BAGASSE**
+
+was developed through a cooperative and consultative process that included stakeholders from 
+governments, private sector, civil society and development agencies.
+
+Kenya’s power sector reform was initiated following the enactment of the Electric Power Act 1997 
+whereby the policy formulation function was retained by the Minister for Energy, while regulatory 
+functions were passed on to an autonomous regulator: Electricity Regulatory Board (ERB) and 
+commercial functions in respect of generation, dispatch, transmission, distribution and supply to 
+various commercial entities. The government amended the Electricity Act to enable the reform and 
+restructuring of the sub-sector in order to prepare it to attract adequate funding, especially from the 
+private sector, for operations and development and to improve financial and technical efficiency of 
+entities involved. With the implementation of reforms, KPLC is now transformed from the de facto 
+vertically integrated structure into a single buyer (purchasing egency) model in which it purchases bulk 
+power from IPPs and the public sector generation company under long-term bilateral PPAs.
+
+The government has been encouraging and supporting green power initiatives such as wind power 
+and co-generation such as the one undertaken by MSC, all with the goal of increasing the installed 
+power capacity of Kenya. The RE department is responsible for leading the planning, development, 
+implementation, promotion and execution of structures for the development and regulation of the 
+RE and energy efficiency through research and planning, development of standards and regulations, 
+compliance and enforcement. RE portal provides easy access to relevant information about entry 
+requirements and procedures for operating a RE power plant, the legal and regulatory framework for 
+such investments (such as tariff regulation) and relevant market information.
+
+## Technology and processes Co-generation is the production of electricity and heat from a single fuel source. For MSC, the fuel
+
+Co-generation is the production of electricity and heat from a single fuel source. For MSC, the fuel 
+source is bagasse. Bagasse produces sufficient heat energy to supply all the needs of a typical sugar 
+mill, with energy to spare. To this end, a secondary use for this waste product is in co-generation, 
+the use of a fuel source to provide both heat energy used in the mill and electricity, which is typically 
+sold on to the consumer electricity grid. Bagasse is the fibrous matter that remains after sugarcane is 
+crushed to extract its juice. The high moisture content of bagasse, typically 40–50%, is detrimental to 
+its use as fuel. Bagasse is an extremely inhomogeneous material, making it particularly problematic for 
+paper manufacture. In general, bagasse is stored prior to further processing. For electricity production, 
+it is stored under moist conditions, and the mild exothermic reaction that results from the degradation 
+of residual sugars dries the bagasse pile slightly.
+
+Figure 90 depicts MSC sugar and co-generation unit process. Bagasse produced after sucrose 
+extraction from sugarcane is used as fuel in the boilers to generate electricity. There are three main 
+steps involved in co-generation power production:
+
+**243**
+
+s Steam generation – Bagasse’s chemical energy is converted into heat by burning. The heat energy 
+is used in boilers to heat water to produce steam at specified pressures and temperatures.
+s Steam turbine operation – Steam from boilers is used to drive the turbines, which convert the
+
+s Steam turbine operation – Steam from boilers is used to drive the turbines, which convert the 
+heat energy into mechanical energy. This provides the power to turn the equipment for power 
+generation at controlled speeds.
+s Power generation – The turbines are used to turn electrical power generators. All the major capital
+
+s Power generation – The turbines are used to turn electrical power generators. All the major capital 
+equipment including the boiler and generator were imported.
+
+ENERGY RECOVERY FROM ORGANIC WASTE
+SECTION II:
+
+---
+
+ENERGY RECOVERY FROM ORGANIC WASTE
+SECTION II:
+
+**FIGURE 90. MSC SUGAR AND CO-GENERATION UNIT PROCESS DIAGRAM**
+
+## Funding and financial outlook The total investment cost of the co-generation unit was USD 63 million, with the boiler and generator
+
+Funding and financial outlook
+The total investment cost of the co-generation unit was USD 63 million, with the boiler and generator 
+taking bulk of the capital costs at USD 28 million and USD 14 million respectively. There was no land 
+acquisition since the power plant was built on a yard that had an old sugar production line. Initial 
+finance of USD 35 million for the co-generation plant was provided by PROPARCO in 2007 as a loan 
+at an annual interest of 6.24%, one-off arrangement fee of 1% and commitment fee of 0.5%. The total 
+amount repayable, loan plus interest and fees, amounts to USD 39.8 million. The loan was repayable 
+over 10 years after a three-year grace period and was used to finance phase one of the project. The 
+second phase of the project was financed by banks in 2009 lending a total of USD 28 million repayable 
+after 10 years following a three-year grace period. The company successfully commissioned the 
+34 MW co-generation project effective May 11, 2009, leading of sale of 26 MW of power to grid. 
+ENERGY RECOVERY FROM ORGANIC WASTE
+
+[... middle omitted — see footer ...]
+
+develop skills in operating the equipment and technologies. The co-generation plant employs between
+20 and 25 people on regular basis and another five on contract basis. In order to safeguard employees’
+health and safety, MSC provides personal protection equipment, annual medical check-ups for all staff
+and safety signs are put at all entrances. Furthermore, to ensure minimal release of pathogens from the
+
+---
+
+ENERGY RECOVERY FROM ORGANIC WASTE
+SECTION II:
+
+Johannes Heeb, CEWAS, Switzerland
+Jasper Buijs, Sustainnovate; The Netherlands, Formerly IWMI
+Josiane Nikiema, IWMI, Ghana
+
+problem was nipped after commissioning of the power plant since the bagasse produced after 
+crushing is fed directly into the power plant to fire the boilers. Reuse of bagasse has freed up space/
+land which can now be used productively. The project complies with local environmental and safety 
+standards and aims to be as close as possible to international reference standards.
+
+## Scalability and replicability considerations The key drivers for the success of this business are:
+
+The key drivers for the success of this business are:
+s Reliable supply of inputs as MSC is vertically integrated.
+
+s Reliable supply of inputs as MSC is vertically integrated.
+s Strategically situated near the sugarcane source.
+
+s Strategically situated near the sugarcane source.
+s Securing of long-term PPA.
+
+s Securing of long-term PPA.
+s Government encourages green power initiatives.
+
+s Government encourages green power initiatives.
+
+The co-generation plant is best suitable where there already exists some infrastructure i.e. a sugar 
+company that is already generating bagasse, with the power co-generation initiated as a plant within 
+the sugar factory. It may not be feasible to set up the co-generation plant as an independent plant that 
+relies on bagasse from external sources. Given the initial high capital costs, such a project requires the 
+involvement of development agencies that can provide finance to offset the initial capital expenditure. 
+This project has the potential to be replicated in countries where there are large sugar manufacturing 
+companies and where there is a government support for RE initiatives. Issuing longer-term licenses 
+and PPAs with good feed in tariffs allow for sufficient time for the investor to pay off project financing 
+debts as well as provides adequate amortization period for the equipment. MSC is planning to expand 
+its sugar production facilities with corresponding co-generation plant by development of a new sugar 
+factory with capacity to crush 6,000 tons of cane a day or acquiring one or more state-owned sugar 
+factories in Kenya, Uganda and Tanzania.
+
+## Summary assessment – SWOT analysis Key strengths of the business are securing of long-term purchase agreement with the state utility
+
+**Summary assessment – SWOT analysis**
+Key strengths of the business are securing of long-term purchase agreement with the state utility 
+while ensuring energy self-sufficiency (Figure 91). Declining supply of sugarcane due to declining 
+soil productivity is a key threat to the business. There is a threat that failure of MSC to deliver agreed 
+electricity to KPLC may result in penalty and loss of income. To mitigate these problems, MSC has the 
+opportunity to register the project as CDM and earn from sales of carbon credits. Furthermore, MSC 
+has the opportunity to explore the development of a cane variety that can survive nutrient-depleted 
+soils.
+
+## References and further readings Mumias Sugar Company. Overview of Mumias Sugar Company. Mumias Sugar. www.mumias-sugar.
+
+Mumias Sugar Company. Overview of Mumias Sugar Company. Mumias Sugar. www.mumias-sugar.
+com/index.php?page=Overview (accessed August 18, 2017).
+ENERGY RECOVERY FROM ORGANIC WASTE
+
+ENERGY RECOVERY FROM ORGANIC WASTE
+Mumias Sugar Company. Annual Reports 2008–2016. Mumias Sugar. www.mumias-sugar.com/index.
+php?page=annual-reports (accessed August 18, 2017).
+
+Kamalesh Doshi, Simplify Energy Solutions LLC, Ashburn, Virginia, USA
+
+United Nations Economic Commission for Africa. 2007. Making Africa’s power sector sustainable. 
+http://repository.uneca.org/handle/10855/15059 (accessed November 7, 2017).
+
+---
+
+**CASE: COMBINED HEAT AND POWER FROM BAGASSE**
+
+## FIGURE 91. SWOT ANALYSIS FOR MSC
+
+INTERNAL ORIGINATTRIBUTES OF THE ENTERPRISE
+
+## HELPFUL TO ACHIEVING THE OBJECTIVES
+
+- Diversified revenue streams
+
+- Energy self-sufficient
+
+- Long-term power purchase agreement
+
+- Clean and renewable energy generation
+
+## STRENGTHS
+
+- Nucleus estates provide some guarantee of input
+
+- Community support of sugarcane farmers as well as nearby villages
+
+EXTERNAL ORIGINATTRIBUTES OF THE ENVIRONMENT
+
+## HARMFUL
+
+TO ACHIEVING THE OBJECTIVES
+
+## TO ACHIEVING THE OBJECTIVES
+
+## WEAKNESSES W
+
+- Declining sugarcane production due to mono-cropping led to production below installed capacity
+
+- Technical dependency on sugar cane
+
+- Internal revenue stream dependency on sugar sales and electricity sales
+
+- High initial cost with long payback periods
+
+**247**
+
+## OPPORTUNITIES O
+
+- Earnings from sale of carbon credits
+
+- Register as CDM and earn from sales of carbon credits
+
+- Development of a cane variety that can survive nutrient depleted soils
+
+- Growing electricity demand
+
+- Sourcing bagasse from other nearby sugar companies not producing electricity
+
+- Potential of decentralize power generation and distribution in remote villages
+
+## THREATS
+
+- Declining supply of sugarcane, and hence bagasse due to declining soil productivity
+
+- Failure of MSC to deliver agreed electricity to KPLC may result in penalty and loss of income
+
+*Case descriptions are based on primary and secondary data provided by case operators, insiders, or* 
+*other stakeholders, and reflect our best knowledge at the time of the assessments 2015. As business* 
+*operations are dynamic, data can be subject to change.*
+
+## Note 1  https://www.standardmedia.co.ke/business/article/2000208079/government-to-support-nse-introduce-
+
+Note
+1  https://www.standardmedia.co.ke/business/article/2000208079/government-to-support-nse-introducecarbon-credits-trading (accessed 18 January 2018).
+
+ENERGY RECOVERY FROM ORGANIC WASTE
+SECTION II:
+
+──────── [TRUNCATED] ────────
+Showing 18,714 chars (head) + 6,212 chars (tail) of 28,667 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/cgspace.cgiar.org-f57f4ca444.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/cgspace.cgiar.org-f57f4ca444.md" offset=387 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

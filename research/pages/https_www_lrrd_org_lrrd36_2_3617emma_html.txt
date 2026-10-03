@@ -1,0 +1,507 @@
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+| [Livestock Research for Rural Development 36 (2) 2024](https://www.lrrd.org/lrrd36/2/cont3602.html) | [LRRD Search](https://www.lrrd.net/search) | [LRRD Misssion](https://www.lrrd.org/lrrd36/2/LRRDmission.html) | [Guide for preparation of papers](https://www.lrrd.org/lrrd36/2/notestoauthors.html) | [LRRD Newsletter](https://www.lrrd.org/lrrd36/2/news3602.htm) |  |
+
+Go to Top
+
+# Black Soldier Fly larvae: cultivation and its potential as an alternative protein source for poultry
+
+## Dwi Kusuma Purnamasari, Syamsuhaidi, Sumiati, Erwan and Ryan Aryadin Putra
+
+### Faculty of Animal Science, University of Mataram. Jl. Majapahit No. 62, Mataram - 83125, Indonesia  [emmadkp03@gmail.com](mailto:emmadkp03@gmail.com)
+
+#### Abstract
+
+This study aimed to examine the impact of different types of feed on the
+performance and chemical composition of Black Soldier Fly (BSF) larvae. The
+study was designed using a completely randomized pattern. The treatments
+were different types of waste used as feed, namely mixed chicken manure and
+tofu pulp (CM-TP), vegetable waste (VW), and fruit waste (FW). Each type of
+feed was provided twice daily for 21 days, with a total of 65 kg of feed
+delivered. The variables observed included larval performance (body weight,
+body length, feed reduction, larvae production, feed conversion, frass
+production, and chemical composition) and bromatological composition (dry
+matter, organic matter, crude protein, crude fiber, ether extract, and gross
+energy). The results showed that different feeds significantly affected the
+overall performance of BSF larvae ( _p<0.05_). The highest body weight
+and length were observed in the VW treatment compared to other treatments
+( _p_ <0.05). Feed reduction was significantly highest in the VW treatment,
+while the lowest was found in the FW treatment ( _p<0.05_). Larval
+biomass production was significantly highest in the CM-TP treatment,
+resulting in the lowest Feed Conversion Ratio (FCR) ( _p<0.05_). All
+feed treatments resulted in BSF larvae with high protein values ranging from
+30.6% to 52.2%, with the highest value recorded in the CM-TP treatment. In
+conclusion, feed prepared from a mix of chicken manure and tofu pulp can
+yield the best BSF larval performance, as indicated by larval production,
+feed conversion, and protein content. This suggests its potential as an
+alternative protein source for poultry.
+
+_**Keywords:** Black Soldier Fly, chicken manure, fruit waste, larval biomass, vegetable waste_
+
+#### Introduction
+
+_Hermetia illucens_ L., also known as the
+Black Soldier Fly (BSF), is an insect that is increasingly being utilized
+worldwide. One of its recently discovered benefits is its potential as an
+edible insect. BSF larvae are efficient and fast bioconversion agents
+capable of recycling a broad array of organic substrates (Bonelli et al
+2020). The number of studies on bioconversion based on BSF larvae is
+growing, as they can help solve the issue of reducing and reusing food and
+industrial waste (Ceccotti et al 2022). By transforming organic food waste
+into high-value animal products, BSF larvae contribute to the development of
+organic waste management solutions (Cappellozza et al 2019).
+
+Black Soldier Fly (BSF) larvae reproduce rapidly in substrates such as chicken manure, poultry
+offal, and other organic waste. The development and biomass composition of
+BSF larvae might be influenced by their feed source, particularly the ratio
+of protein to carbohydrate (Abduh et al 2022). High substrate protein
+concentration has been found to affect the crude protein content of BSF
+larval biomass (Barragan-Fonseca et al 2017). Numerous studies have been
+conducted on the development of substrates for rearing BSF larvae for
+various purposes (Nguyen et al 2013; Jucker et al 2017; Cicilia and Susila
+2018; Lalander et al 2019; Scala et al 2020; Gold et al 2020; Singh et al
+2021; Abduh et al 2022).
+
+The high cost of poultry rations has led to the exploration of cheaper
+alternative feedstocks with superior nutritional properties. Feed sourced
+from vegetable ingredients has been widely used as an alternative, but it
+faces several challenges, including a deficiency in essential amino acids
+such as lysine (Ahmad et al 2022). In the poultry industry, feed based on BSF larvae
+presents a compelling alternative to replace existing ingredients, which are
+not only expensive but also often compete with human consumption (Moula et
+al 2018). BSF larvae can produce approximately 40% protein, which is higher
+compared to some other alternative sources used in feed formulations (Bosch
+et al 2014; Ewald et al 2020) and they contain nearly all digestible
+proteins (Schiavone et al 2017).
+
+BSF larvae, due to their high nutritional properties, can serve as a
+substitute for soybean and fish meals in poultry rations. However, there is
+limited information available on the impact of mixing chicken manure with
+tofu pulp on the performance of BSF larvae. We hypothesize that using a
+combination of chicken manure and tofu pulp as feed could enhance the
+performance of BSF larvae. Therefore, this study aims to examine the effect
+of different types of feed on the performance, biomass productivity, and
+bromatological composition of BSF larvae. Ultimately, these larvae have the
+potential, both nutritionally and economically, to address the issue of
+costly poultry feed.
+
+#### Materials and methods
+
+##### Preparation of BSF larvae and growing feed
+
+Black Soldier Fly larvae colonies were developed utilizing eggs from the
+local BSF farm in Midang Village, West Lombok, Indonesia. This farm is known
+for growing BSF for fish and bird feed. Fresh chicken manure was received
+from broiler farms for this investigation, while tofu pulp was purchased
+from tofu pulp craftspeople in the surrounding area. A growing feed mixture
+of chicken manure and tofu pulp was prepared in a 1:1 ratio. Vegetable waste
+was collected from the Bertais Market waste dump and fruit waste was sourced
+from a shelter in Mataram City. Collections of vegetable and fruit waste
+were made every two days. Each treatment required a total of 65 kg of
+growing feed material.
+
+##### Cultivation of BSF larvae
+
+Cultivation of Black Soldier Fly (BSF) larvae is conducted in a modular
+fly hive measuring 100×100×25 cm, which is covered with a shading net to
+protect them from predators. This cultivation takes place at the Teaching
+Farm Research Station, Faculty of Animal Science, University of Mataram,
+where the diurnal ambient temperature ranges from 27 – 29◦C and the humidity
+varies between 63% – 75%. A total of 900 g of BSF eggs are hatched in a
+medium consisting of bran mixed with warm water, forming a dough-like
+consistency over seven days. Once hatched, the eggs are placed in the
+treatment medium for the enlargement phase, which lasts for 21 days until
+the larvae are ready for harvest. The larvae feed on three types of growing
+feed: CM-TP (a mix of chicken manure and tofu pulp), VW (vegetable waste),
+and FW (fruit waste). The nutrient content of these feeds is presented in
+Table 1.
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Table 1.** The nutrient content of organic <br>waste as a medium for growing BSF larvae. |
+| **Type of**<br>**growing feed** | **Based on,**<br>**%** | **DM** | **OM** | **CP** | **CF** | **EE** |
+|  |
+| CM-TP | DM | 100 | 81.8 | 19.1 | 22.0 | 4.89 |
+| _Asfed_ | 18.8 | 95.6 | 3.61 | 4.16 | 0.92 |
+|  |
+| VW | DM | 100 | 90.7 | 22.0 | 19.8 | 2.95 |
+| _Asfed_ | 5.55 | 99.5 | 1.22 | 1.09 | 0.16 |
+|  |
+| FW | DM | 100 | 93.4 | 14.2 | 14.2 | 3.64 |
+| _Asfed_ | 6.40 | 99.6 | 0.90 | 0.90 | 0.23 |
+| _CM-TP: chicken manure and tofu pulp, VW: vegetable_<br>_waste, FW: fruit waste, DM: dry matter, OM: organic matter,_<br>_CP: crude protein, CF: crude fiber, EE: ether extract._ |
+
+##### Black Soldier Fly performance and bromatological   composition analysis
+
+After 21 days, the BSF larvae were harvested. Measurements were taken for feed consumption, feed
+conversion, total production, body length, body weight, and frass production
+and its chemical composition. These measurements were calculated according
+to the procedure described by Diener et al (2009). For each treatment, 30
+BSF larvae were randomly selected. Their body length was measured using a
+ruler, and their body weight was determined using a scale. Additionally, 90
+g of BSF larvae were harvested and deactivated in an oven at 60°C until a
+constant weight was achieved. The deactivated larval biomass was then ground
+for nutrient content analysis using the AOAC (2012) procedure. Gross energy
+(GE) was analyzed using an adiabatic bomb calorimeter (Basu 2018). All
+samples were analyzed in triplicate, with each replicate performed in
+duplicate. The moisture content and organic carbon content of the frass were
+analyzed using the gravimetric method. Total nitrogen in the frass was
+analyzed using the micro Kjeldahl method (AOAC 2012) at the Animal Nutrition
+and Feed Science Laboratory, Faculty of Animal Science, University of
+Mataram. Total phosphorus and potassium were analyzed using the Atomic
+Absorption Spectrophotometer (AAS) method (Butcher 2005) at the Analytical
+Chemistry Laboratory, FMIPA, University of Mataram, Indonesia.
+
+##### Experimental design and data analysis
+
+The experimental design used in this study was completely randomized. The
+data collected were analyzed using the General Linear Model (GLM) procedure
+of the IBM SPSS software, version 20, in accordance with the experimental
+setup. Furthermore, if there were significant differences in the means among
+the treatments, Duncan’s New Multiple Range Test was applied.
+
+#### Results and Discussion
+
+##### Black Soldier Fly larvae performance
+
+The results of our current study indicate that both body weight and length
+were significantly higher in the VW treatment group compared to the CM-TP
+and FW groups. Specifically, the weight was 0.25 g for VW, compared to 0.16
+g for CM-TP and 0.11 g for FW. Similarly, the length was 1.64 cm for VW,
+compared to 1.41 cm for CM-TP and 1.07 cm for FW ( _p<0.05_). These
+differences in body weight and length align with the observed feed
+reduction, which ranged from 43.6 to 59.5 kg/biopond ( _p<0.05_) (see
+Table 2). Our findings align with those of Jucker et al (2017), who
+found that BSF larvae fed on fruit and vegetable waste, or a combination of
+both, resulted in a final weight range of 0.15 g – 0.18 g per larva.
+Similarly, Singh et al (2021) also recorded that BSF larvae cultured using
+various feeds had body lengths ranging from 1.86 cm to 2.5 cm.
+
+Table 2 indicate that the feed reduction of BSF larvae, cultured using
+various growth feeds, ranged from 73.4% to 96.4% of the total 65 kg meal
+provided. These results recorded a higher feed reduction value than that
+reported by Scala et al (2020), who combined brewery waste with apple and
+banana waste, achieving a reduction of 59.4% to 74.0%. The feed reduction
+was significantly higher in the VW treatment, with a total feed reduction of
+59.5 kg/biopond, compared to the CM-TP and FW treatments, which had feed
+reductions of 51.7 and 43.6 kg/biopond ( _p<0.05_), respectively. The
+high feed reduction value in the VW treatment can be attributed to the
+inclusion of vegetable waste in the feed. Vegetable waste not only has
+sufficient water content but also decomposes and digests rapidly. Moreover,
+vegetable waste has a distinctive odor that is favored by BSF larvae. The
+vegetable waste in our study was dominated by leafy vegetables such as
+mustard greens, chicory, cabbage, water spinach, and celery.
+
+Our current results revealed that the CM-TP treatment significantly
+increased BSF larvae production to 10.1 kg, compared to the VW treatment
+(6.7 kg) and FW treatments (4.9 kg) ( _p<0.05_) (Table 2). The
+production of BSF larvae in VW and FW treatments was also significantly
+different ( _p<0.05_). The high output in the CM-TP treatment is
+believed to be due to the fulfillment of energy and protein requirements
+necessary for their growth and reproduction. BSF larvae can convert 4 – 38%
+of digested feed into new biomass (Gold et al 2020) with excellent protein
+quality (Bava et al 2019). Our study found that combining chicken manure
+with tofu pulp resulted in a more effective nutrient combination, leading to
+a higher BSF larvae biomass during the 21-day incubation period.
+
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+| **Table 2.** Performance parameters of BSF larvae <br>cultured on different types of growing feed |
+| **Variables** | **Treatment groups** | **SEM** | **_p value_** |
+| **CM-TP** | **VW** | **FW** |
+|  |
+| Body weight (g/head) | 0.16a | 0.25b | 0.11a | 0.01 | 0.003 |
+| Body length (cm/head) | 1.41b | 1.64c | 1,07a | 0.03 | <0.001 |
+| Feed reduction (kg/biopond/period) | 51.7b | 59.5c | 43.6a | 0.62 | <0.001 |
+| Larvae production (kg/period) | 10.1c | 6.7b | 4,9a | 0.40 | <0.001 |
+| Feed Conversion Ratio | 5.11b | 8.95a | 9.07a | 0.64 | 0.008 |
+| Frass production (kg/period) | 12.6b | 5.53a | 21.4c | 0.73 | <0.001 |
+| _CM-TP: chicken manure and tofu pulp, VW: vegetable_<br>_waste, FW: fruit waste, SEM: Standard Error of the Mean_<br>_a,b,cDifferent superscripts within rows indicate differences_<br>_at p<0.05_ |
+
+Our results show that the FCR of BSF larvae significantly differed among the experimental groups ( _p<0.05_).
+The FCR was particularly lowest in the CM-TP treatment, compared to the VW
+and FW treatments (Table 2). The CM-TP feed, characterized by its crumbly,
+smooth texture, is rich in protein (19.1%), fat (4.9%), and crude fiber
+(22.0%). These nutrients serve as sources of energy and protein for the
+growth and reproduction of BSF larvae. To put it briefly, producing 1 kg of
+BSF larvae requires 5.11 kg of CM-TP, while VW and FW require 8.95 kg and
+9.67 kg, respectively. In a latter study, Li et al (2011) found that
+cellulose and hemicellulose from corncobs were degraded by 50% and 30%,
+respectively, after 21 days of BSF incubation. The ability of BSF larvae to
+digest fibrous food is attributed to the presence of gut bacteria capable of
+metabolizing polysaccharides and facilitating the degradation of organic
+matter (Zhineng et al 2021). Moreover, these microbes play a significant
+role in the emergence and progression of BSF larvae (De Smet et al 2018).
+
+Frass production was significantly higher with FW treatment than with
+CM-TP and VW, producing 21.4 kg, 12.6 kg, and 5.53 kg respectively ( _p<0.05_).
+The variation in frass production among treatments is believed to be due to
+the differing physicochemical characteristics of the waste.
+Lopes et al (2022) stated that the amount of frass produced during the
+treatment of biodegradable waste with BSF larvae greatly depends on the
+physicochemical characteristics of the waste. Lalander et al (2019)
+demonstrated that frass production from BSF larvae cultured using food waste
+was about 45% of DM input, 40% for poultry manure, 52% for human feces, and
+15% for poultry feed. Additionally, some authors suggest that the
+decomposition of organic matter waste is more conducive to producing BSF
+larvae than frass production (Lalander et al 2019; Surendra et al 2020).
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Table 3.**<br>Chemical characteristics of frass from BSF larvae cultured <br>on different types of growing feed |
+| **Frass chemical content** | **Treatments** |
+| **CM-TP** | **VW** | **FW** |
+|  |
+| Moisture content (%) | 69.7 | 88.1 | 80.2 |
+| pH | 7.01 | 7.35 | 6.93 |
+| Total nitrogen (%) | 0.78 | 0.47 | 0.34 |
+| Total phosphorous (%) | 0.18 | 0.04 | 0.30 |
+| Total potassium (%) | 2.38 | 2.21 | 2.48 |
+| Total C-organic (%) | 21.3 | 20.2 | 19.2 |
+| C/N ratio | 27.4 | 42.9 | 56.4 |
+| _CM-TP: chicken manure and tofu pulp, VW: vegetable_<br>_waste, FW: fruit waste_ |
+
+Considering the limitations of this study, we have not applied statistical
+analysis to the chemical characteristic parameters of frass. The frass
+produced in this study had an ideal moisture content, ranging from 69.7% to
+88.1% (Table 3). Attiogbe et al (2019) already reported that a moisture
+content of 72% was achieved from a mixture of food waste, chicken manure,
+and sawdust with a mixing ratio of 3:2:1. If the frass has a moisture
+content of less than 70%, water should be added to maintain the moisture
+level of the frass after the separation of the BSF larvae from the frass
+(Dortmans et al 2017). This study demonstrated that frass pH value and
+organic carbon (C-organic) content of frass do not vary significantly. The
+pH of frass ranged from 6.93 - 7.35. The pH of BSF larvae frass generally
+falls between 7.0 and 8.0, which is the optimal range for promoting plant
+growth (Surendra et al 2020) and providing a conducive environment for
+beneficial bacterial communities in the frass of BSF larvae (Choi and
+Hassanzadeh 2019).
+
+The Total nitrogen, total phosphorous, and total potassium content, as
+shown in Table 3, are similar to those reported in other studies. For
+instance, frass derived from food waste has a total nitrogen content ranging
+from 0.6 to 4.8, total phosphorus content ranging from 0.8 to 2.5 and total
+potassium ranging from 0.2 to 2.1 (Basri et al 2022). These authors emphasize that total nitrogen, phosphorus,
+and potassium are acceptable for agronomic purposes at greater than 0.6,
+0.22, and 0.25, respectively.
+In our study, the C/N ratio from frass ranged from 27.4 to 56.6. The VW
+and FW treatments had high C/N ratio values, while the CM-TP treatment had
+the lowest. BSF larvae frass with a C/N ratio of less than 20: 1 is
+beneficial for plants because organic nitrogen is already mineralized into
+inorganic nitrogen, which is available for plant uptake. Therefore, frass
+with a C/N ratio greater than 30: 1 is more likely to limit nitrogen
+availability for plant uptake(Sarpong et al 2019).
+
+##### Bromatological composition of BSF larvae
+
+Our result showed that the highest DM content of BSF larvae was obtained in the FW treatment at
+22.0%, followed by the VW treatment with a DM value of 18.0%, and the lowest
+DM value was obtained in the CM-TP treatment with a DM of 15.6% ( _p<0.05_)
+(Table 4). The significant difference in DM content in the FW treatment
+is believed to be due to its high Ether Extract (EE) content, which
+contributes to its high DM content. However, on average, the compositions of
+other nutrients were lower than those in the CM-TP and VW treatments. The
+high and distinct OM content in the VW treatment can be attributed to the
+low mineral content in the feed used for cultivating. This was evident in
+the low OM content of the CM-TP treatment, which coincided with the lower OM
+content of these growth feeds (see Table 1). Variations in the nutrient
+composition of a feed ingredient can influence the values of OM and DM
+(Dilaga et al 2022; Sutaryono et al 2023). However, the type of feed
+substrate used typically has a strong influence on the DM content of larvae.
+
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+| **Table 4.** The <br>nutrient composition of BSF larvae harvested |
+| **Variables** | **Treatments** | **SEM** | **_p_ value** |
+| **CM-TP** | **VW** | **FW** |
+|  |
+| DM (%) | 15.6a | 17.9b | 22.0c | 0.62 | 0.001 |
+| OM (%) | 79.6a | 86.4b | 78.7a | 0.22 | <0.001 |
+| CP (%) | 52.2c | 48.6b | 30.6a | 0.33 | <0.001 |
+| CF (%) | 14.7 | 13.7 | 12.7 | 0.67 | 0.160 |
+| EE (%) | 12.0a | 20.9b | 44.9c | 0.34 | <0.001 |
+| GE (kcal/kg) | 3.76 | 4.47 | 5.84 |  |  |
+| _DM: dry matter, OM: organic matter, CP: crude protein,_<br>_CF: crude fiber, EE: ether extract, GE: Gross energy, CM-TP: chicken manure and tofu pulp, VW: vegetable_<br>_waste, FV: fruit waste, SEM: Standard Error of the Mean,_<br>_a,b,c Different superscripts within rows indicate differences_<br>_at p<0.05_ |
+
+The average crude protein (CP) content of the BSF larvae in our study was
+30.6% to 52.2% (Table 4), and it varied greatly between BSF larvae reared on
+different growing feeds ( _p<0.05_). As we expected, the highest CP
+content was obtained in the treatment mix of chicken manure and tofu
+pulp-based growing feed (CM-TP), which had a CP of 52.2%. This showed a
+significant difference compared to the vegetable waste-based treatment (VW)
+at 48.6% and the fruit waste treatment (FW) at 30.6% ( _p<0.05)_.
+These results strongly suggest that the different growing feeds led to
+differences in the nutrient composition of the BSF larvae produced. The
+range of CP content obtained in our study was similar to those reported by
+Lalander et al (2019), resulting in a 41.3% yield of BSF larvae cultivated
+on fruit and vegetable waste, and a 41.6% yield from poultry manure.
+
+The protein content and amino acid profile of the larvae are essential for
+their use as feed. Despite the limitations of our study, we did not observe
+the amino acid profile of the BSF larvae. However, another study showed that
+the methionine content in BSF larvae reared using poultry manure and a mix
+of fruit and vegetable waste resulted in methionine levels of 20.5 g kg
+ -1 and 15.3 g kg-1 CP, respectively. Meanwhile, the
+lysine levels were 59.5 g kg-1 and 51.4 g kg-1 CP,
+respectively (Lalander et al 2019). Given the ecological and economic
+disadvantages of traditional protein sources like fish meals and soybean
+meal in most animal feeds, BSF larvae present a high-quality and sustainable
+alternative. This is particularly relevant for poultry feed. This
+alternative protein source meets the standard for protein content in poultry
+feed. The standards range from 18-20% for starter feed, 13.516% for grower
+feed, 15-18% for laying feed, 18-23% for starter broiler feed, and 18-22%
+for finisher broiler feed (SNI 2016).
+
+No statistical differences between groups were observed, which could be
+attributed to the crude fiber (CF) content of BSF larvae ( _p>0.05_).
+The CF content of BSF larvae ranged from 12.7% to 14.7%. However, Shumo et
+al (2019) reported different results, with ADF content ranging from 12.6% to
+15.0% in BSF larvae reared under various substrates. Crude fiber is a
+fraction of carbohydrate comprising less than 1% of an animal’s body.
+However, in some animals, the carbohydrate content in chitin can exceed 1%.
+Chitin was discovered in the exoskeleton of BSF larvae, contributing to
+5.4% of their dry matter (Finke 2013). As the BSF larvae age, their crude fiber (CF) content
+
+[... middle omitted — see footer ...]
+
+
+**Diener S, Zurbrügg C and K Tockner 2009** Conversion of
+organic material by black soldier fly larvae: establishing optimal feeding
+rates. Waste Management and Research, 27, 603–610.
+[https://doi.org/10.1177/0734242X09103838](https://doi.org/10.1177/0734242X09103838).
+
+**Dilaga S H, Putra R A, Pratama A N T, Yanuarianto O, Amin M and Suhubdy**
+**2022**
+Nutritional quality and in vitro digestibility of fermented rice bran based
+on different types and doses of inoculants. Journal of Advanced Veterinary
+and Animal Research, 9, 625–633.
+[http://doi.org/10.5455/javar.2022.i632.](http://doi.org/10.5455/javar.2022.i632).
+
+**Dortmans B, Diener S, Verstappen B M and Zurbrügg C 2017** _Black soldier fly biowaste processing: A step-by-step guide_. Swiss
+Federal Institute of Aquatic Science and Technology (Eawag), Dübendorf,
+Switzerland.
+
+**Ewald N, Vidakovic A, Langeland M, Kiessling A, Sampels S and Lalander C**
+**2020**
+Fatty acid composition of black Soldier fly larvae ( _Hermetia illucens_)
+– possibilities and limitations for modification through diet. Waste
+Management, 102, 40–47.
+[https://doi.org/10.1016/j.wasman.2019.10.014](https://doi.org/10.1016/j.wasman.2019.10.014 "Persistent link using digital object identifier").
+
+**Finke M D 2013** Complete nutrient content of four species of
+feeder insects. Zoo Biology, 32, 27–36.
+[https://doi.org/10.1002/zoo.21012](https://doi.org/10.1002/zoo.21012).
+
+**Gold M, Egger J, Scheidegger A, Zurbrügg C, Bruno D, Bonelli M,**
+**Tettamanti G, Casartelli M, Schmitt E, Kerkaert B, De Smet J, Campenhout L V**
+**and Mathys A 2020**
+Estimating black Soldier fly larvae biowaste conversion performance by
+simulation of midgut digestion. Waste Management, 112, 40–51.
+[https://doi.org/10.1016/j.wasman.2020.05.026](https://doi.org/10.1016/j.wasman.2020.05.026 "Persistent link using digital object identifier").
+
+**Gómez Candela C, Bermejo López L M and Loria K V 2011**
+Importance of a balanced Omega 6/Omega 3 ratio for the maintenance of
+health. Nutricion Hospitalaria, 26, 323–329. DOI:
+[10.1590/S0212-16112011000200013](https://doi.org/10.1590/s0212-16112011000200013).
+
+**Jucker C, Erba D, Leonardi M G, Lupi D and Savoldelli S 2017**
+Assessment of vegetable and fruit substrates as potential rearing media for
+hermetia illucens ( _Diptera: stratiomyidae_) larvae. Environmental
+Entomology, 46, 1415–1423. DOI:
+[10.1093/ee/nvx154](https://doi.org/10.1093/ee/nvx154).
+
+**Lalander C, Diener S, Zurbrügg C and Vinnerås B 2019**
+Effects of feedstock on larval development and process efficiency in waste
+treatment with black Soldier fly ( _Hermetia illucens_). Journal of
+Cleaner Production, 208, 211–219.
+[https://doi.org/10.1016/j.jclepro.2018.10.017](https://doi.org/10.1016/j.jclepro.2018.10.017 "Persistent link using digital object identifier").
+
+**Li Q, Zheng L, Qiu N, Cai H, Tomberlin J K and Yu Z 2011**
+Bioconversion of dairy manure by black Soldier fly ( _Diptera:_
+_stratiomyidae_) for biodiesel and sugar production. Waste Management,
+31, 1316–1320.
+[https://doi.org/10.1016/j.wasman.2011.01.005](https://doi.org/10.1016/j.wasman.2011.01.005 "Persistent link using digital object identifier").
+
+**Lopes I G, Yong J W H and Lalander C 2022** Frass derived
+from black Soldier fly larvae treatment of biodegradable wastes: A critical
+review and future perspectives. Waste Management, 142, 65–76.
+[https://doi.org/10.1016/j.wasman.2022.02.007](https://doi.org/10.1016/j.wasman.2022.02.007 "Persistent link using digital object identifier").
+
+**Makkar H P S, Tran G, Heuzé V and Ankers P 2014** State of the
+art on use of insects as animal feed. Animal Feed Science and Technology,
+197, 1–33.
+[https://doi.org/10.1016/j.anifeedsci.2014.07.008](https://doi.org/10.1016/j.anifeedsci.2014.07.008 "Persistent link using digital object identifier").
+
+**Moula N, Scippo M L, Douny C, Degand G, Dawans E, Cabaraux J F, Hornick**
+**J L, Medigo RC, Leroy P, Francis F and Detilleux J 2018**
+Performances of local poultry breed fed black soldier fly larvae reared on
+Horse manure. Animal Nutrition, 4, 73–78.
+[https://doi.org/10.1016/j.aninu.2017.10.002](https://doi.org/10.1016/j.aninu.2017.10.002 "Persistent link using digital object identifier").
+
+**Nguyen T T X, Tomberlin J K and Vanlaerhoven S 2013**
+Influence of resources on _Hermetia illucens_( _Diptera:_
+_stratiomyidae_) larval development. Journal of Medical Entomology, 50,
+898–906.
+[https://doi.org/10.1603/ME12260](https://doi.org/10.1603/ME12260).
+
+**Sarpong D, Oduro-Kwarteng S, Gyasi S F, Buamah R, Donkor E, Awuah E and**
+**Baah M K 2019**
+Biodegradation by composting of municipal organic solid waste into organic
+fertilizer using the black Soldier fly ( _Hermetia illucens_) ( _Diptera:_
+_stratiomyidae_) larvae. International Journal of Recycling Organic Waste
+in Agriculture, 8 (Supp11), 45–54.
+https://doi.org/10.1007/s40093-019-0268-4.
+
+**Scala A, Cammack J A, Salvia R, Scieuzo C, Franco A, Bufo SA, Tomberlin**
+**J K and Falabella P 2020**
+Rearing substrate impacts growth and macronutrient composition of
+_Hermetia illucens_ (L.) ( _Diptera: stratiomyidae_) larvae produced at an industrial
+scale. Scientific Reports, 10 (19448).
+https://doi.org/10.1038/s41598-020-76571-8.
+
+**Schiavone A, De Marco M, Martínez S, Dabbou S, Renna M, Madrid J,**
+**Hernandez F, Rotolo L, Costa P, Gai F and Gasco L 2017**
+Nutritional value of a partially defatted and a highly defatted black
+soldier fly larvae ( _Hermetia illucens_ L.) meal for broiler
+chickens: apparent nutrient digestibility, apparent metabolizable energy and
+apparent ileal amino acid digestibility. Journal of Animal Science and
+Biotechnology, 8 (51). https://doi.org/10.1186/s40104-017-0181-5.
+
+**Shumo M, Osuga I M, Khamis F M, Tanga C M, Fiaboe K K M, Subramanian S,**
+**Ekesi S, van Huis A and Borgemeister C 2019**
+The nutritive value of black Soldier fly larvae reared on common organic
+waste streams in Kenya. Scientific Reports, 9 (10110).
+https://doi.org/10.1038/s41598-019-46603-z.
+
+**Singh A, Srikanth B H and Kumari K 2021** Determining the
+black Soldier fly larvae performance for plant-based food waste reduction
+and the effect on biomass yield. Waste Management, 130, 147–154.
+[https://doi.org/10.1016/j.wasman.2021.05.028](https://doi.org/10.1016/j.wasman.2021.05.028 "Persistent link using digital object identifier").
+
+**Standar Nasional Indonesia 2016**
+Pakan Konsentrat-Bagian 5: Ayam Ras Pedaging. Badan Standardisasi Nasional.
+
+**Surendra K C, Tomberlin J K, van Huis A, Cammack J A, Heckmann L H L and**
+**Khanal S K 2020**
+Rethinking organic wastes bioconversion: evaluating the potential of the
+black Soldier fly ( _Hermetia illucens_ (L.) ( _Diptera:_
+_stratiomyidae_) (BSF). Waste Management, 117, 58–80.
+[https://doi.org/10.1016/j.wasman.2020.07.050](https://doi.org/10.1016/j.wasman.2020.07.050 "Persistent link using digital object identifier").
+
+**Sutaryono Y A, Putra R A, Mardiansyah M, Yuliani E, Harjono, Mastur,**
+**Sukarne, Enawati L S and Dahlanuddin 2023**
+Mixed Leucaena and molasses can increase the nutritional quality and rumen
+degradation of corn stover silage. Journal of Advanced Veterinary and Animal
+Research, 10, 118–125. DOI:
+[10.5455/javar.2023.j660](https://doi.org/10.5455/javar.2023.j660).
+
+**Zhineng Y, Ying M, Bingjie T, Rouxian Z and Qiang Z 2021**
+Intestinal microbiota and functional characteristics of black soldier fly
+larvae ( _Hermetia illucens)._ Annals of Microbiology, 71 (13).
+https://doi.org/10.1186/s13213-021-01626-8.
+
+──────── [TRUNCATED] ────────
+Showing 22,485 chars (head) + 7,474 chars (tail) of 37,698 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/www.lrrd.org-f572a09d4e.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/www.lrrd.org-f572a09d4e.md" offset=364 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

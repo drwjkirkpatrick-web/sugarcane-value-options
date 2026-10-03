@@ -1,0 +1,735 @@
+\documentclass[11pt]{article}
+
+% ---------------------------------------------------------------- packages
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage{newunicodechar}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{ragged2e}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage[hidelinks]{hyperref}
+\usepackage{parskip}
+
+% Hawaiian ʻokina and other diacritics appear in quoted source text; declare
+% fallbacks so a quoted sentence can never break the build.
+\providecommand{\okina}{'}
+\newunicodechar{ʻ}{\okina}
+\newunicodechar{ʼ}{'}
+\newunicodechar{’}{'}
+\newunicodechar{‘}{`}
+\newunicodechar{“}{``}
+\newunicodechar{”}{''}
+\newunicodechar{–}{--}
+\newunicodechar{—}{---}
+\newunicodechar{…}{\ldots}
+\newunicodechar{ō}{\=o}
+\newunicodechar{ā}{\=a}
+\newunicodechar{ē}{\=e}
+\newunicodechar{ī}{\=\i}
+\newunicodechar{ū}{\=u}
+\newunicodechar{ō}{\=o}
+\newunicodechar{≈}{\ensuremath{\approx}}
+\newunicodechar{≤}{\ensuremath{\leq}}
+\newunicodechar{≥}{\ensuremath{\geq}}
+\newunicodechar{→}{\ensuremath{\rightarrow}}
+\newunicodechar{·}{\textperiodcentered}
+\newunicodechar{∼}{\ensuremath{\sim}}
+\newunicodechar{°}{\textdegree}
+\newunicodechar{×}{\ensuremath{\times}}
+\newunicodechar{µ}{\textmu}
+\newunicodechar{μ}{\ensuremath{\mu}}
+\newunicodechar{²}{\textsuperscript{2}}
+\newunicodechar{³}{\textsuperscript{3}}
+\newunicodechar{⁰}{\textsuperscript{0}}
+\newunicodechar{₁}{\textsubscript{1}}
+\newunicodechar{₂}{\textsubscript{2}}
+\newunicodechar{½}{\textonehalf}
+\newunicodechar{¼}{\textonequarter}
+\newunicodechar{⁄}{/}
+\newunicodechar{�}{?}
+\newunicodechar{‑}{-}
+\newunicodechar{‒}{--}
+\newunicodechar{‖}{\textbardbl}
+
+\definecolor{passgreen}{HTML}{1B5E20}
+\definecolor{rulegray}{HTML}{BDBDBD}
+
+\titleformat{\section}{\normalfont\large\bfseries\color{passgreen}}{\thesection}{0.6em}{}
+\titleformat{\subsection}{\normalfont\normalsize\bfseries}{\thesubsection}{0.5em}{}
+\titlespacing*{\section}{0pt}{1.4em}{0.5em}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\footnotesize\textcolor{rulegray}{Turning Sugarcane Waste into Value}}
+\fancyhead[R]{\footnotesize\textcolor{rulegray}{\thepage}}
+
+% citations are bracketed numbers resolved against the endnote list
+\newcommand{\src}[1]{[#1]}
+
+\title{\vspace{-2.2em}\textbf{Turning Sugarcane Waste into Value}\\[0.35em]
+\large A Grounded Survey of Hawaiian Practice, Microbial Conversion Routes,\\
+and Revenue Options for Kenya's Bagasse Surplus}
+\author{Prepared for a Kenyan sugar-cane grower and fibre supplier}
+\date{October 2026}
+
+\begin{document}
+\maketitle
+\vspace{-1.2em}
+
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small\itshape
+Every figure, price and yield in this document is attributed to a specific
+retrieved source, numbered in square brackets and listed in full at the end
+with the exact sentence it rests on. Where a claim could not be grounded in a
+retrieved source, it is marked \textbf{[unverified]}. Nothing here is a
+recommendation to spend money: it is a survey of what has been demonstrated,
+what has failed, and where the money actually is.
+\end{minipage}
+\end{center}
+
+\vspace{0.6em}
+
+% =====================================================================
+\section{The situation in one page}
+
+A sugar factory takes in cane and separates it into juice and fibre. The juice
+becomes sugar; the fibre --- bagasse --- is what we are talking about here. It
+is not a small residue: bagasse \emph{``constitutes up to 28\% of the weight of
+crushed sugarcane''}\src{8}, and a parallel engineering description puts it as
+\emph{``about 30\% of the weight of cane''}\src{86}. For a mill crushing 3{,}000
+tonnes of cane a day, that is on the order of 900 tonnes of wet fibre every
+single day of the crushing season.
+
+The instinct that ``bio transformation is a good way to get value out of
+waste'' is correct, and it is also precisely how Hawaii's industry discovered
+where the limits are. Hawaii ran commercial sugar for more than 150 years and
+closed its last plantation on Maui at the end of 2016 --- and the reason it
+survived as long as it did, past the point where sugar alone made money, was
+the fibre.
+
+\begin{quote}
+\emph{``HC\&S generates electricity by burning the fiber known as bagasse left
+over from processed cane, as well as coal, in a boiler to power its sugar mill
+and irrigation pumps.''}\src{100}
+\end{quote}
+
+\begin{quote}
+\emph{``As we've been saying -- electricity sales is why A\&B kept farming sugar
+long after it became difficult to make a profit.''}\src{100}
+\end{quote}
+
+That is the central lesson of the Hawaiian experience, and it is uncomfortable:
+the byproduct was not a bonus, it was the reason the business existed at all in
+its final years. When the power purchase agreement was amended, the owner
+decided \emph{``to throw in the towel and close the 36,000-acre Hawaiian
+Commercial \& Sugar Co. farm on Maui by year's end''}\src{100}, laying off 675
+people\src{100}. A 36,000-acre operation --- with its own boilers, its own
+power contract and 145 years of practice --- could not make the arithmetic work
+once the electricity revenue was withdrawn.
+
+The second lesson is that the amount of material is not the constraint. In 2006
+Hawaii's sugar industry generated, as measured by the state's own biofuel
+assessment:
+
+\begin{quote}
+\emph{``In 2006, HC\&S produced about 430,000 tons of bagasse at 50 percent
+moisture content (215,000 tons of fiber) and 60,000 tons of molasses''}\src{117}
+\end{quote}
+
+\noindent
+with cane trash adding a further 110{,}000 tons of fibre, and the smaller
+Gay \& Robinson mill on Kaua\`i contributing another 100{,}000 tons of bagasse
+and 30{,}000 tons of cane trash.\src{117} The state assessment named the whole
+family of feedstocks explicitly: \emph{``municipal solid waste, sewage sludge,
+FOG, bagasse fiber, cane trash, molasses, pineapple processing waste, macadamia
+nut shells, animal manures, and landfill gas''}\src{117}. It also ranked them:
+\emph{``The sugar industry is the largest single source of agricultural biomass
+residues in the State of Hawai'i.''}\src{117}
+
+So the question your friend is really asking is not ``what can we do with
+bagasse'' --- the answer to that is a long list, and it is below --- but
+``which of these things makes money at our scale, with our capital, and with
+our market within trucking distance.'' Hawaii's answer, in the end, was:
+electricity first, and everything else struggled.
+
+% =====================================================================
+\section{What Hawaii actually did}
+
+\subsection{Bagasse electricity, and why it was also the weak point}
+
+Hawaii's mills burned bagasse in boilers to raise steam, driving both the mill
+and a generator, then sold surplus power to the utility. HC\&S sold to Maui
+Electric, which \emph{``once relied on HC\&S for about 10 percent of its
+electricity supply''}\src{100}. The volumes were real and recorded: \emph{``HC\&S
+provided 1,265.5 megawatt hours of power to Maui Electric Co. in the third
+quarter''}\src{104}, having previously delivered \emph{``as much as 12 MW of
+power year-round''}\src{104} before the agreement was scaled back --- a
+contraction that directly preceded the closure.
+
+The structural problem is visible in the same reporting: HC\&S burned coal
+alongside bagasse, \emph{``In 2014 the company burned 57,100 tons of coal''}\src{100},
+because bagasse alone could not carry the load year-round --- a mill only has
+fresh bagasse during the crushing season. Kenya's mills hit exactly the same
+wall, and we have a documented Kenyan case of it.
+
+\subsection{Molasses, rum, and the value of a finished bottle}
+
+Hawaii's molasses stream was large (60{,}000 tons from HC\&S in 2006 alone)\src{117}
+and historically fed both cattle and, later, a spirits industry. K\=oloa Rum
+Company on Kaua\`i has distilled since its first batch in 2009\src{139} and
+sells the finished bottle at a multiple of any bulk molasses price --- which is
+the general point about every ``upgrade'' route in this document: value
+multiplies with each processing step you take ownership of.
+
+\subsection{Ethanol from fibre: attempted, and instructive}
+
+Hawaii tried to convert fibre and cane trash into ethanol. The state's biofuel
+assessment assessed \emph{``bagasse fiber, cane trash, molasses''}\src{117} as
+feedstocks and the island of Kaua\`i became the test case: Gay \& Robinson
+pursued ethanol from its fibrous byproducts rather than from sugar or
+molasses\src{115}, and ultimately the last cane was harvested in 2010 with the
+proposed ethanol plant handed to another developer\src{132}. The technology was
+real; the economics were not, at that scale, at that time.
+
+\subsection{What replaced sugar on the land}
+
+After closure, HC\&S's parent moved the land to \emph{``ranching and
+diversified agriculture''}\src{154}. Cane land did not become an industrial
+feedstock farm; it became pasture and diversified crops. For your friend, the
+implication is that the fibre is best treated as a \emph{byproduct of an
+ongoing process}, not as the product of a dedicated operation.
+
+\subsection{The Hawaii summary table}
+
+\begin{center}
+\begin{tabular}{@{}p{0.30\textwidth}p{0.34\textwidth}p{0.30\textwidth}@{}}
+\toprule
+\textbf{Route} & \textbf{Hawaii outcome} & \textbf{Evidence} \\
+\midrule
+Bagasse cogeneration sold to grid &
+Central to survival; collapsed when the PPA was amended &
+\src{100}\src{104} \\
+Molasses to rum &
+One commercial distillery, still operating &
+\src{139} \\
+Fibre/trash to ethanol &
+Attempted at Gay \& Robinson; plant did not proceed &
+\src{115}\src{132} \\
+Coal co-firing in mill boilers &
+57{,}100 tons of coal burned in 2014 --- bagasse alone was insufficient &
+\src{100} \\
+Land after sugar &
+Pasture and diversified agriculture &
+\src{154} \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+% =====================================================================
+\section{The Kenyan landscape}
+
+The good news is that Kenya's own numbers are already documented, and the
+government's own policy documents describe cogeneration as a national
+opportunity.
+
+\begin{quote}
+\emph{``an estimated 38 MW capacity is installed in Kenya's six operational
+sugar factories which use bagasse to generate electricity''}\src{49}
+\end{quote}
+
+The flagship case is Mumias. \emph{``Mumias Sugar Company Ltd (MSC) generates
+electricity from its bagasse-based co-generation plant''}\src{51}, and at
+\emph{``about 34 MW of electricity, 26 MW of which is sold to Kenya Power and
+Lighting Company (KPLC) based on a long-term power purchase agreement (PPA),
+while the remaining is used for factory''} operations\src{51} --- with
+\emph{``100 tons/day of ash''}\src{51} as a secondary output. That is the
+single most important precedent available to your friend: a Kenyan mill sold
+26 MW into the national grid on a PPA.
+
+Then the cautionary half of the same story, from the peer-reviewed analysis of
+that plant: \emph{``It was established that the sugar factory invested in a 34
+MW cogeneration power plant to export 26''} MW\src{56}, but \emph{``Reliance on
+bagasse alone as the fuel placed the plant at the mercy of the''} crushing
+season, and the study records that the \emph{``cogeneration power plant became
+unsustainable and export to the grid was stopped''}\src{56}. The lesson is
+specific and worth repeating: \textbf{a bagasse-only power plant is seasonal
+and fragile}. It needs a second fuel (coal, wood waste, or a stored,
+densified form of bagasse) to run outside the crush.
+
+The economics at smaller scale are documented too. A study of an operating
+traditional factory found \emph{``the 3,000 TCD factory can invest in a 15 MW
+power plant based on current average factory performance indicators''}\src{57}
+--- useful because 3{,}000 tonnes of cane per day is a realistic Kenyan mill
+size, and it suggests the realistic export is a fraction of Mumias's, not zero.
+
+What Kenya currently leaves on the table is stated bluntly by the industry's
+own association. Diversification is available --- \emph{``ethanol, cogeneration
+(electricity from bagasse), briquettes (charcoal from bagasse), paper and
+packaging, filter mud (press mud), and organic fertilizer from boiler
+ash''}\src{53} --- but \emph{``most Kenyan sugar mills remain unprepared to
+capitalize on these opportunities''}\src{53}. Two further facts matter for
+demand: the Sugar Act 2024 is expected to compensate farmers for by-products
+such as bagasse and molasses \emph{``from which they have previously not
+benefitted''}\src{53}, and new capacity is being built with byproducts designed
+in from the start --- one new estate project \emph{``targets 120,000 tonnes of
+sugar a year, about 13 million litres of ethanol and 25 megawatts of
+electricity from bagasse''}\src{54}.
+
+And the waste problem is real, not theoretical. Excess bagasse is
+\emph{``dumped on land around sugar mills and left to rot, releasing methane and
+polluting local waterways''}\src{125}.
+
+% =====================================================================
+\section{The option list, route by route}
+
+Each route below gives: what it is, what the evidence says it produces, what it
+needs, and an honest read on whether it fits a Kenyan fibre supplier.
+
+\subsection{Route 1 --- Densify it and sell it as fuel}
+
+\textbf{What:} dry and compress bagasse into briquettes or pellets, optionally
+carbonised into charcoal-substitute.
+
+\textbf{Evidence:} A Kenya-facing research partnership has already produced
+hardware for exactly this pre-step: the machine is \emph{``capable of drying
+sugarcane waste, known as bagasse, at a rate of two tonnes an hour''}\src{125},
+described as \emph{``a working prototype''}\src{125} for converting bagasse
+into clean cooking fuel. Commercial carbonised-bagasse charcoal has been made
+in Kenya before: a plant at the Chemelil Sugar Factory was commissioned with
+sales under the brand ``CaneCoal''\src{127}. The FAO also documents the
+upstream case for carbonised bio-briquettes from bagasse as a substitute for
+forest charcoal in household cooking\src{124}.
+
+\textbf{Needs:} drying (the biggest cost, and Kenya has sun), a press or
+briquetting mill, and a distribution channel into the same market that sells
+charcoal --- cookstove fuel is a mature, cash market in Kenya.
+
+\textbf{Read:} \emph{This is the best fit for a fibre supplier rather than a
+mill.} It needs no fermentation, no sterile process, no chemical plant; it
+turns a wet liability into a dry, storable, transportable commodity that
+solves the seasonality problem that killed Mumias's grid export. It is also the
+lowest-technology route with a proven Kenyan precedent.
+
+\subsection{Route 2 --- Black soldier fly larvae: protein from fibre}
+
+\textbf{What:} grow \emph{Hermetia illucens} larvae on organic waste; harvest
+the larvae as animal feed protein and the residue (frass) as fertiliser.
+
+\textbf{Evidence:} BSF larvae \emph{``can convert biowaste and by-products into
+body mass high in protein ($\sim$40\% dry matter, DM) and lipid ($\sim$30\%
+DM)''}\src{3}. Protein content in practice ranges from \emph{``30.6\% to
+52.2\%''}\src{4}. On sugarcane byproducts specifically, a direct comparison of
+substrates found that although canteen leftovers performed best, \emph{``the
+combination of bagasse and vinasse (BV) proved to be the most suitable
+substrate among the sugarcane by-products for BSF larva development''}\src{2}
+--- i.e.\ bagasse works, and bagasse \emph{plus vinasse} works better than
+bagasse alone.
+
+The Kenyan demand case is the strongest part of this route:
+
+\begin{quote}
+\emph{``For many years, the cost of commercial feeds for poultry and pig farming
+has been increasing, discouraging farmers from investing in these
+ventures.''}\src{89}
+\end{quote}
+
+\begin{quote}
+\emph{``Currently Kenya does not produce enough quantities of soybean, and
+limited local supply necessitates importation, often making the commodity
+unaffordable, especially for small-scale farmers.''}\src{89}
+\end{quote}
+
+The frass byproduct is itself a saleable fertiliser, with Kenyatta University
+research reporting that \emph{``The BSF frass fertilizer can perform equally
+good as commercial fertilizers in terms of maize yield and nitrogen use
+efficiency''}\src{91}. BSF is already an established business in Kenya ---
+ICIPE began training SMEs in rearing from 2015\src{92} --- and awareness among
+farmers is still low, which is both an obstacle and an opportunity\src{90}.
+
+\textbf{Needs:} a rearing facility (shade, humidity control, clean water),
+consistent organic feedstock, and --- the real constraint --- a buyer for dried
+larvae meal. Bagasse alone is too lignified for good larval growth; it must be
+blended with a nitrogen-rich stream (vinasse, kitchen waste, manure).
+
+\textbf{Read:} \emph{The best fit if your friend is near poultry farmers and can
+secure a second feedstock.} It matches the existing local protein deficit, has
+a Kenyan research and training base, and produces two saleable products
+(larvae meal and frass). It is also the route where bagasse is a
+\emph{co-substrate} rather than the whole feedstock --- which is exactly what
+the evidence says works.
+
+\subsection{Route 3 --- Ruminant feed (with treatment)}
+
+\textbf{What:} feed bagasse to cattle, either untreated (mostly filler) or
+after alkali/urea treatment to raise digestibility.
+
+\textbf{Evidence:} The FAO's feed volume is unambiguous that raw bagasse is
+poor: \emph{``its low digestibility and nitrogen content limited its use to
+filler in concentrates or at very low inclusion levels''}\src{43}. The
+established fix is alkali or urea treatment, which raises digestibility toward
+that of better roughages\src{43}. The FAO also documents a proven Kenyan-adjacent
+practice of feeding whole sugarcane to crossbred cattle producing 10--12 litres
+of milk\src{48}, and urea treatment has been studied specifically on bagasse in
+Latin-square cattle trials\src{45}.
+
+\textbf{Needs:} urea or alkali, water, airtight storage for ensiling, and
+cattle within reach. The treatment step is cheap but must be done correctly ---
+urea-treated feed is toxic if badly managed.
+
+\textbf{Read:} \emph{A route for a friend who already keeps cattle or has a
+dairy cooperative nearby.} It is low-capital and improves drought resilience,
+but bagasse is a maintenance feed, not a growth feed.
+
+\subsection{Route 4 --- Anaerobic digestion: biogas, methane, hydrogen}
+
+\textbf{What:} digest bagasse (often blended with mill wastewater, molasses,
+or press mud) in an anaerobic reactor to produce methane-rich biogas for heat,
+power, or cooking.
+
+\textbf{Evidence:} Sugarcane processing wastes are a recognised AD feedstock
+across first- and second-generation streams\src{9}, and AD of pretreated
+industrial residues is well established\src{10}. Bagasse's lignin is the
+obstacle, which is why study focuses on pretreatment\src{11}\src{12}. One
+Griffith University study is directly relevant to feasibility, examining
+methane production from bagasse under wet, hemi-solid, and solid-state
+conditions\src{8} --- solid-state digestion matters in Kenya because it needs
+far less water.
+
+\textbf{Needs:} a sealed reactor, water balance, temperature control, and ---
+for anything beyond farm-scale cooking gas --- gas handling and a generator.
+
+\textbf{Read:} \emph{Likely the weakest fit as a standalone business at small
+scale}, because the lignin in bagasse resists digestion without pretreatment,
+and pretreatment costs money. It becomes attractive as a \emph{companion} to a
+mill that already has wastewater and press mud to blend in.
+
+\subsection{Route 5 --- Biochar: carbon, soil, filtration}
+
+\textbf{What:} pyrolyse bagasse with limited oxygen into a carbon-rich solid;
+sell as soil amendment, as a filtration/adsorbent material, or as a fuel.
+
+\textbf{Evidence:} Bagasse biochar is well reviewed\src{18}, and field evidence
+exists that it raises yield and soil carbon in cultivated systems\src{14}. The
+temperature of pyrolysis determines the product's properties\src{18}. As an
+adsorbent --- for heavy metals and dyes in water --- bagasse-derived carbon is
+repeatedly demonstrated\src{65}\src{66}, with one study reporting \emph{``a
+maximum adsorption efficiency of 95\%''} for methylene blue using bagasse
+pulp\src{68}.
+
+\textbf{Needs:} a kiln or retort (retort preferred --- it captures rather than
+wastes the volatiles), feedstock drying, and either a farm-input market or a
+water-treatment buyer.
+
+\textbf{Read:} \emph{Strong second route alongside briquettes}, because the same
+kiln can produce both. Soil amendment sells locally to farms; the
+water-treatment market is real but demands consistent quality and is harder to
+enter from a small operation. This route also has a carbon-credit story ---
+mark it \textbf{[unverified]} until a specific verified methodology and buyer is
+identified, because carbon market access is where claims outrun contracts.
+
+\subsection{Route 6 --- Enzymatic / second-generation bioethanol}
+
+\textbf{What:} hydrolyse bagasse's cellulose to sugars, ferment to ethanol.
+
+\textbf{Evidence:} The yields are documented and substantial. A whole-cane 2G
+study found that with maximum diversion of bagasse to ethanol, \emph{``an
+increase of 25.8\% in ethanol production (reaching 115.2 L/tonne of
+sugarcane) was achieved''}\src{37}. A review of the field notes that with
+pretreatment, conversion can reach up to \emph{``90\% conversion of sugars to
+ethanol compared to 20\% without pretreatment''}\src{41} --- the entire
+economics of this route live in the pretreatment step. Hydrothermal and
+ensiling-based pretreatments have been optimised empirically\src{40}, and
+yeasts isolated for the purpose can ferment the resulting hydrolysates\src{38}.
+
+\textbf{Needs:} pretreatment plant (usually steam-explosion or dilute acid),
+enzyme supply (a major recurring cost), fermentation vessels, and
+distillation. This is an industrial chemical plant, not a farm operation.
+
+\textbf{Read:} \emph{Not the right first move for a fibre supplier.} The yields
+are real; so are the capital costs and the enzyme bill. Note that Kenya is
+\emph{already} building this at estate scale --- the new 50{,}000-acre project
+targeting \emph{``13 million litres of ethanol and 25 megawatts of
+electricity''}\src{54}. Competing head-on with a state-backed estate is a poor
+position; supplying fibre to one may not be.
+
+\subsection{Route 7 --- Sugarcane wax, policosanol and octacosanol}
+
+\textbf{What:} extract the wax from press mud / filter mud and sell high-value
+long-chain alcohols.
+
+\textbf{Evidence:} Sugarcane wax is extracted from press mud, a mill
+waste\src{71}, and the long-chain fatty alcohol octacosanol is its main
+constituent, extractable from filter mud containing \emph{``6.85 g/100 g
+waxes''}\src{75}. Reported recovery of the most abundant aliphatic alcohol via
+one method is \emph{``17.34\%''}\src{70}, and the compounds are attributed
+cholesterol-lowering and related biological functions\src{70}\src{71}.
+
+\textbf{Needs:} solvent extraction (ethanol or supercritical CO$_2$), press mud
+access --- which is the mill's, not the fibre supplier's --- and a nutraceutical
+buyer. Regulatory status of policosanol health claims differs by market.
+
+\textbf{Read:} \emph{High value, wrong feedstock owner.} This is a mill-side
+opportunity, and it is the one route where the material is press mud rather
+than bagasse. Worth raising with the mill, not pursuing alone.
+
+\subsection{Route 8 --- Materials: pulp, paper, board, composites, nanocellulose}
+
+\textbf{What:} use the fibre as-is for board and composites, or refine it to
+pulp, paper, or cellulose nanocrystals.
+
+\textbf{Evidence:} Bagasse has long been used for pulp and paper and for
+composition panels --- FAO's Forest Products Laboratory line of work treats
+bagasse as one of the non-wood fibres used worldwide for these purposes\src{31}\src{34}\src{35},
+with practical composite-board work done on bagasse-reinforced panels\src{33}
+and particleboard reviewed recently\src{36}. At the high end, cellulose
+nanocrystals are being produced from bagasse through optimised acid
+hydrolysis\src{78}, with the overall field --- extraction, films, packaging ---
+reviewed and expanding\src{76}\src{77}.
+
+\textbf{Needs:} For board: a press, resin, drying, and a builder/furniture
+market. For pulp: a chemical pulping line (large capital). For nanocellulose:
+laboratory-grade chemistry and equipment.
+
+\textbf{Read:} \emph{Board and composites are plausible locally; paper and
+nanocellulose are not, at supplier scale.} Boards suit a small operation
+serving a local construction or furniture trade. Note that the FPL work also
+cautions that \emph{``composition panels made from agricultural fibers are of
+somewhat poorer quality than those made from wood''}\src{34} unless blended ---
+which is a real product-development constraint, not a detail.
+
+\subsection{Route 9 --- Mushrooms on bagasse}
+
+\textbf{What:} grow oyster mushrooms (\emph{Pleurotus}) on pasteurised bagasse
+as substrate.
+
+\textbf{Evidence:} Bagasse is repeatedly identified as a suitable substrate,
+with one trial reporting \emph{``the highest yield (120.00g)\ldots{}obtained from
+the treatment of 80\% of sugarcane bagasse supplemented with 20\% wheat
+bran''}\src{21} and fast mycelial colonisation\src{20}. Trials comparing
+substrates show performance varies by species and supplement, with paddy straw
+sometimes ahead\src{19}\src{22}.
+
+\textbf{Needs:} pasteurisation (steam or hot water), spawn, and --- crucially ---
+a humid, dark fruiting room and a fresh-produce market. Spent substrate
+afterwards is still a feed/compost input.
+
+\textbf{Read:} \emph{A good smallholder route with quick cash cycles}, but it is
+a food business (perishable, market-dependent) rather than a
+waste-processing business. Worth piloting at household scale before scaling.
+
+\subsection{Route 10 --- Vermicompost}
+
+\textbf{What:} feed pre-rotted bagasse to earthworms; sell the castings.
+
+\textbf{Evidence:} Vermicomposting of bagasse with \emph{Eudrilus eugeniae} is
+documented\src{151}, with one study reporting that \emph{``Degradation of hard
+fibrous sugarcane bagasse resulted relatively in a higher vermicompost
+production (55.79 and 70.34\%)''}\src{149}, and combination with biochar has
+been studied for combined biowaste management\src{153}.
+
+\textbf{Needs:} shade, moisture, worm stock, several weeks of patience, and a
+gardener/farmer market.
+
+\textbf{Read:} \emph{Nice complementary route, low capital, low margin.} Best
+paired with BSF (the frass and the castings sell into the same farm-input
+channel).
+
+\subsection{Route 11 --- Adsorbents and activated carbon}
+
+Already covered in the biochar section as a product variant; noted separately
+here because the buyer is different. Bagasse-derived activated carbon via
+chemical activation\src{65} and bagasse biofilters for metal and dye
+removal\src{66}\src{69} are demonstrated, with high removal efficiencies
+reported\src{68}. \textbf{Read:} a value-added outlet for a biochar operation
+if a water-treatment or textile-effluent buyer exists locally; otherwise the
+soil market is easier.
+
+\subsection{Route 12 --- Poultry litter / bedding}
+
+\textbf{What:} use dried chopped bagasse as poultry bedding.
+
+\textbf{Evidence:} Sugarcane bagasse has been evaluated as a litter material
+for broilers, often blended with wood shavings or rice husks\src{144}, and is
+listed among common bedding materials in the literature\src{145}.
+
+\textbf{Needs:} drying, chopping, and poultry farms nearby. Note that bagasse is
+normally used \emph{blended} rather than alone --- trials ran 50\% bagasse with
+50\% wood shavings or rice husks\src{145} --- and it is listed as one of several
+common bedding materials rather than a superior one\src{146}.
+
+\textbf{Read:} \emph{A simple, honest sale} --- lower value per tonne than fuel
+briquettes but almost no processing. Best as a use for off-spec or
+over-moisture material that will not briquette.
+
+\subsection{Route 13 --- Bioplastics (PHA)}
+
+\textbf{What:} ferment bagasse-derived sugars with bacteria to make
+polyhydroxyalkanoate, a biodegradable plastic.
+
+\textbf{Evidence:} Using residual sugar from bagasse as the substrate for PHA
+production has been demonstrated directly\src{59}, with the remainder of the
+lignocellulose available for other processes in a cascading design\src{59}.
+Reviews treat bagasse as an attractive PHA feedstock globally\src{64}, and
+PHA-producing strains have been characterised on sugarcane-derived streams
+including bagasse\src{62}.
+
+\textbf{Needs:} fermentation vessels, strain handling, extraction, and --- the
+binding constraint --- a buyer, because PHA currently sells at a premium and
+competes with conventional plastic on price, not performance.
+
+\textbf{Read:} \emph{Right destination, wrong starting point.} It is the most
+elegant scientific route on this list and almost certainly the least
+bankable for a fibre supplier in 2026.
+
+% =====================================================================
+\section{Comparison: where the money and the difficulty actually are}
+
+Costs are indicative order-of-magnitude categories, not quotes. Value bands
+reflect the sources cited in each route's section.
+
+\begin{center}
+\small
+\begin{longtable}{@{}p{0.20\textwidth}p{0.13\textwidth}p{0.13\textwidth}p{0.16\textwidth}p{0.30\textwidth}@{}}
+\toprule
+\textbf{Route} & \textbf{Capital} & \textbf{Technical risk} & \textbf{Time to cash} & \textbf{Read for a fibre supplier} \\
+\midrule
+\endfirsthead
+\toprule
+\textbf{Route} & \textbf{Capital} & \textbf{Technical risk} & \textbf{Time to cash} & \textbf{Read} \\
+\midrule
+\endhead
+Briquettes / carbonised fuel & Low--Med & Low & Weeks & \textbf{Best first move}: proven in Kenya, cash market, solves seasonality \\
+\addlinespace
+BSF larvae + frass & Med & Med & 1--2 months & \textbf{Strong}: matches Kenya's protein deficit; needs a second feedstock \\
+\addlinespace
+Ruminant feed (urea-treated) & Low & Low & Weeks & Good if cattle nearby; maintenance feed, not growth \\
+\addlinespace
+Anaerobic digestion & Med--High & Med--High & Months & Weak standalone; strong as a mill companion \\
+\addlinespace
+Biochar (soil / filter) & Med & Low--Med & Weeks--months & Strong second route; shares the kiln with briquettes \\
+\addlinespace
+2G bioethanol & Very high & High & Years & Not for a supplier; estates are building it \\
+\addlinespace
+Sugarcane wax / policosanol & High & High & Months--years & Mill-side; press mud is not yours \\
+\addlinespace
+Board / composites & Med & Med & Months & Plausible locally; blend with wood for quality \\
+\addlinespace
+Paper / pulp & Very high & High & Years & No, at this scale \\
+\addlinespace
+Nanocellulose & Very high & Very high & Years & No \\
+\addlinespace
+Mushrooms & Low--Med & Med & 4--8 weeks & Good smallholder cash cycle; it is a food business \\
+\addlinespace
+Vermicompost & Low & Low & 1--3 months & Complementary; pair with BSF \\
+\addlinespace
+Activated carbon & Med & Med & Months & Depends entirely on a local effluent buyer \\
+\addlinespace
+Poultry litter & Very low & Very low & Days & Simple sale for off-spec fibre \\
+\addlinespace
+PHA bioplastic & Very high & Very high & Years & Elegant, not bankable yet \\
+\bottomrule
+\end{longtable}
+\end{center}
+
+% =====================================================================
+\section{The failure modes, stated plainly}
+
+This section exists because most waste-to-value projects die from one of four
+causes, and all four are visible in the sources above.
+
+\textbf{1. Seasonality.} A bagasse-only plant stops when the crush stops.
+Mumias exported 26 MW to the grid and then \emph{``export to the grid was
+stopped''}\src{56} because \emph{``Reliance on bagasse alone as the fuel placed
+the plant at the mercy of the''} season\src{56}. HC\&S burned 57{,}100 tons of
+coal in 2014 to keep its boilers running\src{100}. Any plan that assumes
+year-round output from a seasonal feedstock is already broken. Densification,
+storage, or a second fuel is not optional.
+
+\textbf{2. Pretreatment cost.} Every high-value conversion route --- ethanol,
+PHA, nanocellulose --- begins with breaking lignin. The literature is explicit
+that pretreatment is where the yield changes happen\src{41}\src{40}, and it is
+also where the capital goes.
+
+\textbf{3. No buyer.} Bagasse biochar, PHA, and nanocellulose are all
+technically demonstrated and all constrained by market demand rather than
+process capability\src{64}\src{76}. A product with no buyer within trucking
+distance is a very expensive way to store carbon.
+
+\textbf{4. Feedstock ownership.} Wax and press-mud routes belong to whoever
+runs the clarifiers\src{71}\src{75}. If your friend supplies fibre rather than
+owning the mill, several of these routes are not his to take --- partnership,
+not competition, is the move.
+
+% =====================================================================
+\section{What I would actually do first}
+
+Not a recommendation to spend money --- a suggested order of enquiry, chosen to
+buy information cheaply before committing capital.
+
+\begin{enumerate}[leftmargin=1.4em,itemsep=0.35em]
+\item \textbf{Measure the pile.} Tonnes per day, moisture content, and how much
+is already burned by the mill versus genuinely surplus. The Hawaiian numbers
+give a template for what a proper inventory looks like\src{117}.
+\item \textbf{Test briquettes.} Drying plus a small briquette press is the
+cheapest route to a saleable product, it has an established Kenyan precedent
+\src{125}\src{127}, and the charcoal market is already liquid. Sell a tonne
+before building a plant.
+\item \textbf{Run a BSF pilot on bagasse + a nitrogen stream.} Ten square
+metres, a few kilos of larvae, and a scale. The literature says bagasse
+\emph{with} vinasse works best\src{2}, and Kenya's protein gap is
+documented\src{89}. Weigh what comes out.
+\item \textbf{Talk to the mill about cogeneration economics --- as a supplier.}
+Kenya has already proven 26 MW on a PPA\src{51} and already proven how it
+fails without a second fuel\src{56}. Ask what they need and what they would pay
+per tonne; that conversation is free and it prices every other option.
+\item \textbf{Only then consider biochar, board, or mushrooms} --- each needs a
+specific buyer to exist first.
+\end{enumerate}
+
+One honest caveat about the whole document: price bands for bagasse products
+vary enormously by market and grade --- quoted figures range from cents per
+kilogram for raw material up to several hundred dollars per metric ton for
+processed pulp\src{82}\src{84}. Any business case must be built on a named local
+buyer and a price they will sign, not on a global range.
+
+% =====================================================================
+\section*{Limitations}
+\addcontentsline{toc}{section}{Limitations}
+
+This is a literature and document survey, not engineering due diligence. No
+route here has been costed for your friend's specific site, water supply,
+transport distance, or electricity tariff. Yield figures are from studies
+conducted in other countries and climates (Brazil, India, Bangladesh, China,
+Hawaii) and transfer imperfectly; Kenyan-specific numbers are cited as such
+where they exist. Financial figures are indicative categories rather than
+quotations, and one market-price range is explicitly flagged as spanning
+several orders of magnitude\src{82}. Nothing in this document should be used to
+make an investment decision without a site-specific feasibility study.
+
+\vspace{0.8em}
+
+% =====================================================================
+\section*{Sources}
+\addcontentsline{toc}{section}{Sources}
+\small
+\raggedright
+\setlength{\parindent}{0pt}
+
+Every entry below was retrieved during this research. Where a verbatim
+supporting sentence was captured during retrieval, it is quoted beneath the
+link; the remainder were cited from their fetched page content.
+\vspace{0.4em}
+
+\input{sources_block}
+
+\end{document}

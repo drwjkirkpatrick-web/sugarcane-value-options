@@ -1,0 +1,214 @@
+[Skip to Content](https://www.mdpi.com/2071-1050/15/4/3613#main)
+
+[![](https://mdpi-res.com/cdn-cgi/image/width=32%2Cheight=32/https://mdpi-res.com/img/journals/sustainability-logo-sq.png?3798e4e58c765aed)SustainabilitySustainability](https://www.mdpi.com/journal/sustainability)
+
+CiteCite
+
+ShareShare
+
+Get Alerted Get Alerted
+
+[Download PDF  PDF](https://www.mdpi.com/2071-1050/15/4/3613/pdf)
+
+- Article
+
+- ![Open Access](https://mdpi-res.com/data/open-access.svg)
+
+
+16 February 2023
+
+14 Pages
+
+# Gendered Awareness of Pig and Poultry Farmers on the Potential of Black Soldier Fly ( _Hermetia illucens_) Farming in Kenya
+
+Collins M. Bulinda 1,2,
+
+Eric O. Gido 2,
+
+Holger Kirscht 1,\* and
+
+Chrysantus M. Tanga 1
+
+1
+
+International Centre of Insect Physiology and Ecology ( _icipe_), P.O. Box 30772-00100, Nairobi 00100, Kenya
+
+2
+
+Department of Agricultural and Agribusiness Management, Egerton University, P.O. Box 536, Njoro 20115, Kenya
+
+\*
+
+Author to whom correspondence should be addressed.
+
+[Sustainability](https://www.mdpi.com/journal/sustainability) **2023**, _15_(4), 3613; [https://doi.org/10.3390/su15043613](https://doi.org/10.3390/su15043613)
+
+This article belongs to the Special Issue [Strengthening the Circular Economy: The Reuse of Agri-Food Waste](https://www.mdpi.com/journal/sustainability/special_issues/Strengthening_Circular_Economy_Reuse_AgriFood_Waste)
+
+[Version Notes](https://www.mdpi.com/2071-1050/15/4/3613/notes)
+
+[Order Reprints](https://www.mdpi.com/2071-1050/15/4/3613/reprints)
+
+## Abstract
+
+Given the need to boost food production while guaranteeing environmental sustainability, the black soldier fly (BSF) (Hermetia illucens (L.), Diptera: Stratiomyidae) is gaining traction worldwide as an alternative protein source. In Kenya, BSF production and its use as a feed component is an emerging business, but farmer awareness of the potential use of BSF in animal feed has received limited attention. This study examined the factors influencing farmer awareness of insect farming and its usefulness as ingredient in livestock feed from a gender perspective. The analysis employed a mixed-methods approach by combining binary logistic regression analysis using cross-sectional survey data from a sub-sample of 235 pig and poultry farmers and content analysis from in-depth phone interviews. The study was implemented in Kiambu County, Kenya. About 44% of the farmers were aware of the use of black soldier fly in the animal feed industry, of which 46.72% were female, and 41.59% were male. From the results, years of education, the number of chickens owned, and membership in agricultural groups significantly influenced male and female farmers’ awareness. In addition, age and the number of pigs owned significantly influenced female farmers’ awareness. The results suggest that these factors are important to consider when strategies are developed to create awareness of BSF farming. Lessons learned from this study will inform BSF dissemination strategies to better target potential men and women BSF producers, influence their decision-making ability and improve information flows between scientists and producers.
+
+Keywords:
+
+[awareness](https://www.mdpi.com/search?q=awareness); [black soldier fly](https://www.mdpi.com/search?q=black+soldier+fly); [logistic regression](https://www.mdpi.com/search?q=logistic+regression); [smallholder farming](https://www.mdpi.com/search?q=smallholder+farming); [gender-sensitivity](https://www.mdpi.com/search?q=gender-sensitivity)
+
+## 1\. Introduction
+
+Given the expanding population and consumer demand, there is a need to improve food production while maintaining environmental sustainability. Increasing livestock production in developing nations has a favourable influence on food and nutrition security as well as poverty reduction \[1\]. On the other hand, modern animal production methods are limited by lack of feed protein in terms of quality and quantity, especially in developing economies. Furthermore, protein sources are expensive hence raising the cost of feeds in the market. High feed costs work against efforts to commercialize animal production and to meet the increasing demand for protein rich food.
+
+In Kenya, the animal feed industry acquires its protein ingredients from fish meal, Omena (Rastrineobola argentea), soybean, seed cakes, and several other grain products. Currently, Omena and soybeans are the primary protein sources in the feed industry. However, their supply is constrained by high market prices, poor quality, and unavailability during certain periods of the year. In East Africa, marine overexploitation of Lake Victoria has reduced Omena availability for fishmeal production \[2\]. Moreover, there is stiff competition in consumption of these protein sources because Omena is used as livestock feed and consumed as human food as well. Poultry and pig farmers indicate that the cost of feed is about 60–70% of the total production costs, and the protein component the most expensive ingredient \[3\]. For environmental and cost reasons, it is not sustainable to continue relying on Omena and soybean as a source of protein in animal feed production \[4\]. Rearing of black soldier fly (BSF) can solve this problem and it has added benefits: BSF feed on organic waste and recycle waste into high-quality protein \[5,6\]. The crude protein content levels of dried BSF larvae range between 42 and 63% \[7\]. Insects also are a good source of micronutrients, fatty acids, and amino acids which are components added to most animal feed \[8\]. BSF has been successfully reared on a wide variety of substrates and can be fed on low-value organic waste locally sourced from the food industry, agriculture, household food waste, and market remains. In addition, chicken manure and swine waste are successfully used as BSF substrate \[9,10\]. The left-over frass can be composted to organic fertilizer and improve food production. As cyclic process BSF production has a low environmental impact and can even contribute to carbon storage when bio-fertiliser is used to improve soil organic matter. Organic fertilizer produced from BSF frass can reduce use of chemical fertilizers and provide soil fertility improvement services without leading to additional environmentally unsustainable agriculture practices \[11,12\]. All these benefits contribute to the increase of interest in BSF technologies worldwide \[7\].
+
+Insect farming is a new farming technology with a vast potential to boost commercialization in the livestock sector \[8\]. Producing insects can create new businesses and income opportunities for BSF farmers. At the same time, it provides \`protein to livestock farmers and the feed industry, reducing the dependency on imports and sustaining the environment through less extractive production methods. By increasing self-sufficiency in feed protein supply, insect farming might even mitigate effects of future crisis. During the COVID 19 pandemic, when people and goods movement was restricted, Kenyan farmers’ access to Omena supplies from Western Kenya and feed protein supply from international markets was impaired.
+
+BSF is a resistant insect species that can survive and multiply in various environmental conditions including oxygen-deficient conditions, under drought, and sometimes under inadequate food supply \[13\]. They reproduce and grow fast, illustrating a very high conversion efficiency. They represent no threat to human or animal health because BSF adults do not feed, and neither do they carry any transmittable disease vectors. Sizable benefits have been attributed to the use of insects in animal feed \[4,9,10\] amongst them is the capacity to facilitate waste disposal which has proven to be difficult and cost-intensive if carried out correctly, especially in urban areas. The use of waste as a substrate for insect production can help solve these challenges. Approximately seven kilograms of feed biomass (substrate) can produce one kilogram of BSF biomass \[14\], and another 5 to 6 kg of frass which can be used as a raw material for organic fertilizer production, thus showing the feeding effectiveness and the potential for cyclic production of the insects.
+
+BSF farming can provide additional income to the producers and offer a symbiotic relationship between agriculture and insect rearing \[15\]. Insects are reared on smaller surfaces than other possible protein sources, resulting in higher protein yield per production area than most livestock or protein crops, including soybean. By replacing fishmeal from wild catches, BSF protein can reduce overfishing and the unsustainable use of marine resources. In addition, insects have a high conversion efficiency of feed to biomass with lower greenhouse gas emissions per kilogram of meat than pigs and cattle \[16\].
+
+Before releasing innovations, it is vital to understand the context and demands of the target groups to ensure a positive response to the technology. As a result, the Insect for Feed project (INSFEED), which is promoted by the International Centre of Insect Physiology and Ecology (icipe), has supported initiatives to raise farmer awareness. Lack of awareness is a barrier for uptake of the technology and an investment in BSF production. Although BSF farming is becoming a rapidly expanding agribusiness, it still has received insufficient publicity. Therefore, determining farmers’ awareness of insect-based feeds (IBF) is a critical first step to understand possible constraints for the use of BSF as protein source and the possible investments in this new technology. Understanding farmers awareness will help to design successful dissemination campaigns and eventually support efforts to improve the supply of animal feed.
+
+This research aims to examine poultry and pig farmers’ awareness of BSF farming for feed and frass fertilizer (F.F.) production and provide gender-disaggregated evidence of the critical socio-economic factors influencing awareness. Awareness of technology such as BSF production is a prerequisite for eventual adoption. Insect farming can create income when products are sold on the market but may also be directly used as a source of protein to supplement animal feed protein for pig and poultry farmers. To further raise awareness about insect farming for feed, it is critical to understand the factors influencing farmers’ awareness.
+
+A logistic regression was used to determine the main correlates of male and female awareness. The results show that 42% male and 47% female respondents were aware of BSF farming. We find, years of education, the number of chickens owned, and membership in agricultural groups to be the main factors influencing awareness. As expected, study findings reveal that agricultural groups were key in creating awareness about new agricultural technologies.
+
+The remainder of the paper is organized as follows. [Section 2](https://www.mdpi.com/2071-1050/15/4/3613#sec2-sustainability-15-03613) presents the materials and data collection and analysis methods. The empirical results and their discussions are presented in [Section 3](https://www.mdpi.com/2071-1050/15/4/3613#sec3-sustainability-15-03613). Finally, [Section 4](https://www.mdpi.com/2071-1050/15/4/3613#sec4-sustainability-15-03613) concludes the analysis by summarising the findings and by providing policy recommendations.
+
+## 2\. Materials and Methods
+
+### 2.1. Study Area
+
+The study was conducted in Kiambu County ( [Figure 1](https://www.mdpi.com/2071-1050/15/4/3613#sustainability-15-03613-f001)). The county was selected because it is a peri-urban area and the icipe led INSFEED project county. Similarly, the study area was relevant due to the many livestock farmers in the region. The county lies between latitudes 00°25′ and 10°20′ south of the equator and longitude 360°31′ and 370°15′ east and has a tropical climate attenuated by the high altitude of over 1700 m asl. This geographical setup of high altitude provides a cycle of warm and cold climate, which provides a conducive environment for BSF breeding.
+
+![](https://mdpi-res.com/sustainability/sustainability-15-03613/article_deploy/html/images/sustainability-15-03613-g001-550.jpg)
+
+**Figure 1.**
+Map of the study area. Source: World resource center 2022.
+
+### 2.2. Data Collection
+
+A mixed-method approach was used to collect quantitative and qualitative data. Data were collected using an explanatory sequential design involving quantitative data collection in the initial phase, followed by collection of qualitative data through phone interviews based on a checklist in the second phase. Data collected in the first phase (baseline survey) were analysed using a logit regression model to explain variables that describe awareness, thus showing causal relationships that could exist. Qualitative data collected in the second phase were used to verify findings from the regression analysis and collect additional information. Respondents were selected and classified as aware or not from the baseline datasets for the phone interviews. The additional interviews offered deeper meaning, rigour, and multiple perspectives to the quantitative data.
+
+Mixed methods were chosen mainly for three primary purposes: facilitating complementarity, triangulation, and to expand and strengthen our conclusions \[1\]. Regarding triangulation, collation and convergence of qualitative and quantitative data were carried out to enhance credibility. At the same time, complementarity was achieved by giving more profound meaning and explanation to the causal relationships established in the quantitative analysis. The quantitative regression analysis results were used to inform the questions raised in the qualitative interviews. The use of mixed methods helped us enrich the data pool and find explanations for relations discovered through the regression analysis.
+
+#### 2.2.1. Sampling Procedure
+
+A multistage sampling technique was employed in selecting respondents. In the first stage, Kiambu County was purposively selected because it was the project area. In the second stage, all the 12 sub-counties were considered for the survey to provide good coverage of the county’s geographical area and account for socio-economic, cultural, and agroecological differences. In the third stage, within the 12 sub-counties, two wards were selected based on geographic coverage and their access by road to facilitate data collection to save on time and cost. Extension agents from the Ministry of Agriculture, Livestock, and Fisheries provided a list of poultry and pig farms in the county. The list provided was thereafter put on an excel sheet. Each farming household was allocated a random number giving them an equal chance of becoming selected, and 15 farming households were chosen from each ward. In total, 370 farming households, including 10 households as a cushion for non-response rate, were randomly selected. In the 370 households, a household questionnaire was administered in addition to an individual questionnaire (targeting both genders) that covered 455 individual respondents, of which 223 were men and 232 women. 110 households had dual respondents, meaning both men and women from the same household were interviewed. These households were excluded from this analysis as they share farm characteristics. During data cleaning 25 households were dropped for incomplete and inconsistent responses. Therefore, a total of 235 individual questionnaires including 113 male and 122 female were used in the analysis to determine the characteristics that influence awareness across gender. After the quantitative analysis, 24 in-depth phone interviews were carried out, involving one male and one female respondent across the 12 sub-counties of Kiambu.
+
+#### 2.2.2. Analytical Framework or Model Specification
+
+
+[... middle omitted — see footer ...]
+
+
+![Sustainability 15 03613 g001](https://mdpi-res.com/sustainability/sustainability-15-03613/article_deploy/html/images/sustainability-15-03613-g001-550.jpg)
+
+**Figure 1.**
+Map of the study area. Source: World resource center 2022.
+
+**Figure 1.**
+Map of the study area. Source: World resource center 2022.
+
+![Sustainability 15 03613 g001](https://mdpi-res.com/sustainability/sustainability-15-03613/article_deploy/html/images/sustainability-15-03613-g001.png)
+
+![](https://pub.mdpi-res.com/img/table.png)
+
+**Table 1.**
+Awareness of insect farming among male and female respondents.
+
+
+**Table 1.**
+Awareness of insect farming among male and female respondents.
+
+|  | Overall | Male | Female | χ2 Ratio |
+| :-: | :-: | :-: | :-: | :-: |
+| Awareness | Aware (%) | 44.26 | 41.59 | 46.72 | 0.302 |
+| Not aware (%) | 55.74 | 58.41 | 53.28 |  |
+
+Note: χ2 ratio indicates difference between male vs. female.
+
+![](https://pub.mdpi-res.com/img/table.png)
+
+**Table 2.**
+Description and measurement of variables in the logistic regression model.
+
+
+**Table 2.**
+Description and measurement of variables in the logistic regression model.
+
+| Variable | Definition of Variables and Measurement | Mean | Significance |
+| :-: | :-: | :-: | :-: |
+| Continuous Variables | Overall (235) | Male (113) | Female (122) | t Value |
+| :-: | :-: | :-: | :-: | :-: |
+| Age | Age of a farmer in years | 51.2995 | 55.11 | 47.77 | −6.0979 \*\*\* |
+| Education | Number of years of schooling of the farmer | 7.5473 | 7.7801 | 7.3318 | 1.1672 |
+| Depn–ratio | Proportion of people < 15 years and >64 years to 15–64 year old | 0.2116 | 0.4019 | 0.0354 | −24.3045 \*\*\* |
+| Pigs | Number of pigs owned | 5.9346 | 9.4798 | 2.6509 | −12.7474 \*\*\* |
+| Chicken | Number of chickens owned (Summation of layers, broilers, and free-range) | 134.4258 | 136.98 | 132.06 | −0.3403 |
+| Farm size | Number of acres of land currently owned | 1.8367 | 1.9310 | 1.7495 | −0.5692 |
+| Categorical variables | Percentage | χ2 ratio |
+| Occupation | % of respondents with farming as main job occupation | 75.74 | 77.88 | 73.77 | −0.6549 |
+| Agric–group | % of respondents participating in agricultural groups | 45.11 | 76.99 | 15.57 | −19.3235 \*\*\* |
+| Extension | % of respondents with confidence in extension skills/knowledge received | 51.06 | 87.61 | 17.39 | −25.2224 \*\*\* |
+
+Note: \*\*\* p < 0.01, t-value and χ2 ratio indicates difference between male vs. female.
+
+![](https://pub.mdpi-res.com/img/table.png)
+
+**Table 3.**
+Logistic regression results on factors influencing farmer awareness about insect farming.
+
+
+**Table 3.**
+Logistic regression results on factors influencing farmer awareness about insect farming.
+
+|  | Male Respondents | Female Respondents |
+| :-: | :-: | :-: |
+| Variables | Coef. | dy/dx | Std. Err. | Coef. | dy/dx | Std. Err. |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Age | 0.0075 | 0.0001 | 0.0879 | −0.3411 | −0.0017 \* | 0.1931 |
+| Education | 1.8142 | 0.0175 \*\*\* | 0.5664 | 1.7617 | 0.0088 \*\* | 0.6942 |
+| Depn–ratio | −9.5057 | −0.0915 | 20.5352 | 2.2715 | 0.0113 | 7.1413 |
+| N–pigs | 0.0871 | 0.0008 | 0.8824 | −0.6631 | −0.0033 \*\* | 0.2783 |
+| N–chicken | 0.2261 | 0.0022 \*\* | 0.0881 | 0.6553 | 0.0033 \*\*\* | 0.2170 |
+| Farm size | 0.0128 | 0.0001 | 0.1326 | 0.2220 | 0.0011 | 0.2129 |
+| Agric–group | −3.3855 | −0.0326 \* | 1.8547 | −12.2684 | −0.0610 \*\* | 5.0571 |
+| Occupation | −0.0715 | −0.0007 | 0.4496 | −0.1988 | −0.0010 | 0.4252 |
+| Extension | −0.0806 | −0.0008 | 1.8784 | −0.1204 | −0.0006 | 2.2202 |
+| –cons | −21.8656 |  | 11.1136 | −31.4951 |  | 9.4541 |
+|  | Male | Female |
+|  | Wald χ (8) = 39.66 | Wald χ (8) = 17.30 |
+|  | Prob. > χ2 = 0.0000 | Prob. > χ2 = 0.0271 |
+|  | Pseudo R2 = 0.9523 | Pseudo R2 = 0.9738 |
+|  | Log pseudo likelihood = −7.083784 | Log pseudo likelihood = −4.150405 |
+
+\\* p < 0.1; \*\* p < 0.05; \*\*\* p < 0.01.
+
+|     |     |
+| --- | --- |
+|  | **Disclaimer/Publisher’s Note:** The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content. |
+
+© 2023 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)).
+
+## Article Metrics
+
+Citations
+
+### Article Access Statistics
+
+[Journal Statistics](https://www.mdpi.com/journal/sustainability/stats)
+
+Multiple requests from the same IP address are counted as one view.
+
+[Classification of Lighting Design Aspects in Relation to Employees’ Productivity in Saudi Arabia\\
+Previous](https://www.mdpi.com/2071-1050/15/4/3614) [Dynamics of the Social Security Index in the Context of the Economic Crisis in Romania\\
+Next](https://www.mdpi.com/2071-1050/15/4/3616)
+
+──────── [TRUNCATED] ────────
+Showing 15,820 chars (head) + 5,062 chars (tail) of 73,874 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/www.mdpi.com-f97e50930c.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/www.mdpi.com-f97e50930c.md" offset=103 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

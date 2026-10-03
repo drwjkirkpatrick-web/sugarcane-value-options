@@ -1,0 +1,478 @@
+### Hawai’i DBEDT
+
+# The Potential for Biofuels Production in Hawai’i
+
+#### FINAL REPORT
+
+B&V Project Number 147375
+
+## January 2010
+
+Black & Veatch Corporation 11401 Lamar Overland Park, Kansas 66211 Tel: (913) 458-2000 www.bv.com
+
+---
+
+## Principal Investigators:
+
+## Black & Veatch:
+
+Jim Easterly, Project Manager Keith Cummer Nate Emsick Matt Hunsaker Bret Harper Scot Olson Bill Roush **University of Hawai’i*** Richard Ogoshi John Yanagida
+
+*University of Hawaii staff conducted the energy crop evaluation for this study, including identification of energy crop species, evaluation of available acreage, growing conditions, yields, and production cost estimates for Hawaii.
+
+The Black & Veatch name and logo are registered trademarks of Black & Veatch Holding Company
+
+---
+
+## The Potential for Biofuels Production in Hawai’i Table of Contents
+
+# Table of Contents
+
+# 1.0 Executive Summary ... 1-1 1.1 Biofuels ... 1-1
+
+1.2 Technologies for Biofuel Conversion ... 1-2 1.2.1 Commercial and Near Term Commercial Technologies ... 1-3
+# 1.2.2 Emerging Biofuel Conversion Technologies ... 1-4 1.2.3 Economies of Scale ... 1-6
+
+1.3 Biofuel Potential from Hawai’i Resources ... 1-7 1.3.1 Potential from Biomass Residues in Hawai’i ... 1-7
+1.3.2 Potential from Dedicated Energy Crops in Hawai’i ... 1-7 1.4 Emerging Options for Biofuel Production ... 1-10
+# 1.4.1 New Biomass Sources ... 1-10 1.4.2 Options for Improving Biofuel Economics ... 1-11
+
+# 1.5 Results and Discussion ... 1-11 1.5.1 Current Fuel Consumption and Biofuel Demand ... 1-11
+
+# 1.5.2 Biofuel Production Potential ... 1-12 1.5.3 Crop Specific Considerations ... 1-14
+
+# 1.5.4 Conclusions ... 1-15
+
+# 2.0 Introduction ... 2-1 2.1 Background ... 2-1
+
+# 2.2 Objective ... 2-1 2.3 Approach ... 2-1
+
+# 3.0 Biomass Conversion Technology Options and Issues ... 3-1 3.1 Ethanol ... 3-1
+
+# 3.1.1 Conventional Fermentation ... 3-2 3.1.2 Advanced Processing Technologies ... 3-2
+
+# 3.1.3 Feedstock Suitability ... 3-4 3.1.4 Anticipated Cost Competitiveness ... 3-4
+
+# 3.1.5 Ethanol Production Potential ... 3-9 3.1.6 Other Potential Products ... 3-10
+
+# 3.2 Biodiesel ... 3-10 3.2.1 Conventional Biodiesel Transesterification ... 3-11
+
+3.2.2 Other Renewable Diesel Technologies ... 3-11 3.2.3 Economics of Using On-Island Resources Compared to Imported Vegetable
+Oils ... 3-11
+**TC-1**
+
+---
+
+## The Potential for Biofuels Production in Hawai’i Table of Contents
+
+# 3.2.4 Feedstock Suitability ... 3-12 3.2.5 Anticipated Cost Competitiveness ... 3-12
+
+# 3.2.6 Biodiesel Production Potential ... 3-15 3.3 Biomass-Derived Hydrogen ... 3-15
+
+# 3.3.1 Methane Reformation ... 3-16 3.3.2 Biomass Gasification ... 3-16
+
+# 3.3.3 Microorganisms ... 3-16 3.3.4 Feedstock Suitability ... 3-17
+
+# 3.3.5 Anticipated Cost Competitiveness ... 3-17 3.3.6 Hydrogen Production Potential ... 3-19
+
+# 3.4 Other Biofuel Technology Options ... 3-19 3.4.1 Fisher-Tropsch Liquids ... 3-20
+
+# 3.4.2 Renewable Diesel via Direct Hydrogenation ... 3-23 3.4.3 Pyrolysis Oils ... 3-25
+
+# 3.4.4 Biogasoline ... 3-27 3.4.5 Biobutanol ... 3-28
+
+3.4.6 Biological Conversion of Sugar to Conventional Fuels ... 3-28 3.5 Projected Costs and Suitability in Hawai’i ... 3-28
+3.6 Additional Considerations for Biofuel Production in Hawai’i ... 3-30 3.6.1 Limitations on Transportation of Biomass ... 3-31
+# 3.6.2 Economies of Scale ... 3-31 3.6.3 Distributed Processing & Centralized Refining ... 3-34
+
+# 4.0 Biomass Residue Availability ... 4-1 4.1 Urban Waste ... 4-1
+
+# 4.1.1 Solid Waste ... 4-2 4.1.2 Non-Solid Waste ... 4-13
+
+# 4.2 Agricultural Residues and Waste Streams ... 4-20 4.2.1 Sugar ... 4-20
+
+# 4.2.2 Pineapple ... 4-22 4.2.3 Macadamia Nut Shells ... 4-23
+
+# 4.3 Animal Wastes ... 4-25 4.3.1 Swine Manure ... 4-26
+
+# 4.3.2 Cattle Manure ... 4-28 4.3.3 Poultry Manure ... 4-29
+
+# 4.4 Wood Resources ... 4-30 4.4.1 Forest Products ... 4-32
+
+# 4.4.2 Forest Resources ... 4-33
+
+**TC-2**
+
+---
+
+## The Potential for Biofuels Production in Hawai’i Table of Contents
+
+# 4.5 Biomass Residue Resource Summary and Conclusions ... 4-36 4.6 Biofuel Production Potential ... 4-37
+
+# 4.6.1 Ethanol ... 4-37 4.6.2 Biodiesel ... 4-38
+
+# 4.6.3 Biomass Derived Hydrogen ... 4-39 4.7 Potential Future Markets for Biomass Residues ... 4-39
+
+# 4.8 Conclusion ... 4-42
+
+# 5.0 Energy Crop Potential ... 5-1 5.1 Crop Land in Hawai’i ... 5-1
+
+# 5.1.1 Estimating Biofuel Crop Yield ... 5-12 5.1.2 Recommendations for Non-irrigated Energy Crops ... 5-22
+
+# 5.2 Energy Crop Yields on Prime Agricultural Lands ... 5-24 5.2.1 Methods ... 5-24
+
+# 5.2.1.1 Soil Characteristics and Land Areas ... 5-24 5.2.1.2 Yield Estimation ... 5-24
+
+# 5.2.2 Results ... 5-25 5.2.3 Summary and Recommendations ... 5-42
+
+# 6.0 Evaluation of Energy Crop Economics in Hawai’i ... 6-1 6.1 Data ... 6-1
+
+# 6.2 Framework for Economic Analysis ... 6-2 6.3 Results ... 6-3
+
+# 6.3.1 Base Case, Rainfed Cases ... 6-3 6.3.2 Sensitivities ... 6-10
+
+# 6.3.3 Base Case, Irrigated Cases ... 6-12 6.4 Summary ... 6-14
+
+7.0 Emerging and Innovative Options for Biofuel Production ... 7-1 7.1 New Crop Alternatives ... 7-1
+# 7.2 Microalgae ... 7-1 7.2.1 The Potential for Microalgae ... 7-2
+
+# 7.2.2 Algae to Biofuels Technology Development ... 7-2 7.2.3 Microalgae in Hawai’i ... 7-3
+
+# 7.3 Improvement of Existing Crops ... 7-4 7.4 Biorefineries ... 7-4
+
+# 7.5 Multi Crop Strategies Integrated Food and Fuel Production ... 7-7 7.6 Tourism ... 7-10
+
+**TC-3**
+
+---
+
+## The Potential for Biofuels Production in Hawai’i Table of Contents
+
+# 7.6.1 Ecotourism ... 7-10 7.6.2 Agritourism ... 7-10
+
+# 7.7 Plug-In Hybrid Electrics ... 7-11
+
+# 8.0 State and National Policies and Incentives ... 8-1 8.1 Federal Government Incentives ... 8-1
+
+# 8.1.1 Agricultural Policy and Incentives ... 8-2 8.1.2 Biodiesel and Ethanol Tax Credit ... 8-3
+
+# 8.1.3 Alternative Fuel Infrastructure Tax Credit ... 8-4 8.1.4 Alternative Motor Vehicle Credit ... 8-4
+
+# 8.1.5 Clean School Bus USA ... 8-4 8.1.6 Alternative Fuel Vehicles CAFE Credit ... 8-4
+
+# 8.1.7 Cellulosic Biomass Ethanol and Municipal Solid Waste Loan Guarantee Program ... 8-5
+
+# 8.2 Hawai’i State Government Incentives ... 8-5 8.2.1 Hawai’i/U.S. DOE Partnership ... 8-5
+
+8.2.2 Alternative Fuel Development Support ... 8-5 8.2.3 State Vehicle Acquisition Requirements to Reduce Petroleum Dependency8-5
+# 8.2.4 Ethanol Investment Tax Credit ... 8-6 8.2.5 Alternative Fuel Tax Rate ... 8-6
+
+8.3 Prospects and Potential Impacts of New Incentives ... 8-6 8.4 Opportunities for New or Modified Incentives ... 8-7
+# 8.4.1 High Occupancy Vehicle Lane Incentives ... 8-7 8.4.2 New Renewable Fuels ... 8-7
+
+# 9.0 Summary of Results ... 9-1 9.1 Biofuels Production Technologies ... 9-1
+
+# 9.2 Biofuels from Biomass Residues ... 9-3 9.3 Land Availability ... 9-3
+
+# 9.4 Biofuel Production from Energy Crops ... 9-4 9.4.1 Biofuel Production Optimization ... 9-4
+
+# 9.4.2 Ethanol Breakeven Costs ... 9-6 9.5 Potential Process Improvements ... 9-6
+
+# 10.0 Conclusions ... 10-1 10.1 Biofuels Potential from Waste Residues and Energy Crops ... 10-1
+
+# 10.2 Recommendations for Further Study ... 10-3 10.3 Obstacles ... 10-4
+
+**TC-4**
+
+---
+
+## The Potential for Biofuels Production in Hawai’i Table of Contents
+
+# 10.4 Crops Specific Considerations ... 10-4 10.5 Final Observations ... 10-5
+
+# 11.0 References ... 11-1
+
+# Appendix A. Detailed Economic Analysis Assumptions for Sugarcane and Banagrass ... A-1
+
+**TC-5**
+
+---
+
+## The Potential for Biofuels Production in Hawai’i Table of Contents
+
+# List of Tables Table 1-1. Commercial and Near Term Biomass Conversion Technology Summary. .. 1-4
+
+Table 1-2. Total Hawai’i Biofuel Potential from Waste. ... 1-7 Table 1-3. Energy Crops Selected Evaluated for Hawai’i. ... 1-8
+
+Table 1-4. Energy Crop Potential and Biofuel Yield. ... 1-9 Table 1-5. Hawai’i Fuel Consumption, 2007. ... 1-11
+
+Table 1-6. Maximum Theoretical Hawai’i Biofuel Production Potential. ... 1-12 Table 1-7. Hawai'i Fuel Consumption, 2007. ... 1-13
+
+Table 2-1. Biomass Conversion Technology Summary. ... 2-3 Table 3-1. Biomass Conversion Technology Summary. ... 3-1
+
+Table 3-2. Energy Content of Liquid Fuels. ... 3-1 Table 3-3. Hawai’i Ethanol Conversion Cost Estimates Summary. ... 3-5
+
+Table 3-4. Ethanol Yields. ... 3-9 Table 3-5. Hawai’i Biodiesel Conversion Cost Summary. ... 3-13
+
+Table 3-6. Biodiesel Yields. ... 3-15 Table 3-7. Hawai’i Hydrogen Production Cost Summary. ... 3-18
+
+Table 3-8. Hydrogen Yields. ... 3-19 Table 3-9. Daily Fuel Demand for Biomass Facilities. ... 3-32
+
+Table 4-1. End Use of Food Waste Diversions in Honolulu. ... 4-3
+
+Table 4-2. Waste Composition Summary by Solid Waste Facility - 2006. ... 4-5
+
+*
+
+Table 4-3. Composition of the Material Entering the South Hilo Landfill Only . ... 4-10
+
+Table 4-4. Summary of 2007 Solid Waste Characterization Conducted for Kaua`i County.4-12
+
+Table 4-5. Kaua’i Commercial Tipping Fees per Ton. ... 4-13
+
+Table 4-6. Summary of Number, Location, and Ownership of Wastewater Treatment
+
+# Plants and Sludge Production and Amount Diverted from Land-Filling in Hawai’i. ... 4-15
+
+Table 4-7. Summary of Treatment Process of Wastewater Treatment Plants and 2006 Sludge Production for Major Plants. ... 4-16
+
+Table 4-8. Estimates of Urban Grease Resources in the State of Hawai’i Using Factors from EPA (1997). ... 4-19
+
+Table 4-9. Potential Bioenergy Feedstocks Generated by the Hawai’i Sugar Industry in 2006. ... 4-20
+
+Table 4-10. Summary of Swine Populations and Hog Farms Sizes in Hawai’i, 2006 Data.4-27
+
+Table 4-11. Summary of Hog Populations and Manure Production by County. ... 4-28
+
+Table 4-12. Cattle and Calves: January 1 Inventory by Sex Classes and Weight, State of Hawai’i, 2003-2007. ... 4-29
+
+Table 4-13. Estimates of Chicken Inventories and Manure Resources in Hawai’i. ... 4-29
+
+**TC-6**
+
+---
+
+## The Potential for Biofuels Production in Hawai’i Table of Contents
+
+Table 4-14. State Forest Reserves. ... 4-31 Table 4-15. Summary of Product Options and Associated Forest Area and Timber
+
+# Requirements for Hawai’i Processing Facilities. ... 4-33
+
+Table 4-16. Summary of Timber and Bioenergy Resource Estimates Based on a 15 Year Harvest Schedule. ... 4-35
+
+Table 4-17. Summary of Biomass Residues and Biomass Residue Utilization in the State
+
+of Hawai’i Broken Down by County. ... 4-37 Table 4-18. Total Hawai’i Ethanol Potential from Available Residues. ... 4-38
+
+Table 4-19. Total Hawai’i Biodiesel Potential. ... 4-39 Table 4-20. Total Hawai’i Hydrogen Potential. ... 4-39
+
+Table 4-21. Summary of Biomass Residue Future Market Supply. ... 4-42
+
+Table 4-22. Total Hawai’i Biofuel Potential from Waste. ... 4-42
+
+Table 5-1. Soil Temperature and Moisture Regimes, Nonprime Agricultural Land ... 5-10
+
+Table 5-2. Rainfed Dry Matter and Oil Yield of Crops ... 5-14
+
+Table 5-9. Land Areas of the Soil Temperature and Moisture Regimes within Prime Agricultural Lands. ... 5-27
+
+Table 8-1. U.S. Renewable Fuels Standard. ... 8-2 Table 8-2. Hawai’i Alternative Fuel Taxes. ... 8-6
+
+Table 9-1. Commercial and Nearer Term Biomass Conversion Technology Summary. 9-2
+
+Table 9-2. Total Hawai’i Biofuel Potential from Waste. ... 9-3 Table 9-3. Hawai’i Agricultural Lands by Island (acres). ... 9-4
+
+Table 9-4. Hawai’i Energy Crop Potential. ... 9-4 Table 9-5. Maximum Energy Crop Potential and Biofuel Yield. ... 9-5
+
+Table 9-6. Breakeven Costs for Fiber and Sugar Crops. ... 9-6
+
+Table 10-1 Maximum Theoretical Hawaii Biofuel Production Potential. ... 10-1 Table 10-2. Hawai'i Fuel Consumption, 2007. ... 10-2
+
+**List of Figures** Figure 3-1. Decline in Hawai’ian Sugar Cane Land (Source: Gay & Robinson). ... 3-5
+
+Figure 3-2. Projected Costs of Cellulosic Ethanol Production, Biochemical Pathways (Source: NREL). ... 3-8
+
+Figure 3-3. Projected Costs of Cellulosic Ethanol via Thermochemical Pathways (Source: NREL). ... 3-9
+
+Figure 3-4. Production Cost Distribution ($/gal) for a Typical 30 MGY Soy Biodiesel
+
+Plant (Adapted from Building a Successful Biodiesel Business). ... 3-13 Figure 3-5. Historical Palm Oil Prices ... 3-14
+
+Figure 3-6. Coal and Biomass to FT Liquids Process Schematic ... 3-21
+
+**TC-7**
+
+---
+
+## The Potential for Biofuels Production in Hawai’i Table of Contents
+
+Figure 3-7. Refinery Integrated Renewable Diesel Options ... 3-23 Figure 3-8. Stand-Alone Renewable Diesel Hydrotreating Schematic ... 3-24
+
+**TM**
+
+Figure 3-9. Dynamotive BioTherm Process Schematic ... 3-26 Figure 3-10. Advanced Biofuel Production Costs ... 3-29
+
+Figure 3-11. DOE Retail Gasoline and Diesel Projections ... 3-30
+
+Figure 3-12. Land Requirements for a 2,000 Ton/Day Facility ... 3-33 Figure 4-1. Hawai’i Food Waste. ... 4-4
+
+Figure 4-2. O`ahu Landfills and Waste-to-Energy Facility. ... 4-6 Figure 4-3. Maui Solid Waste. ... 4-7
+
+Figure 4-4. Big Island Landfill Locations ... 4-9 Figure 4-5. Kaua`i Landfill Location. ... 4-11
+
+Figure 4-6. Major Wastewater Treatment Plants on Hawai’ian Islands. ... 4-17 Figure 4-7. Fats, Oil, and Grease. ... 4-18
+
+Figure 4-8. Kaua`i Sugarcane & Pineapple Waste. ... 4-21 Figure 4-9. Maui Sugarcane & Pineapple Waste. ... 4-22
+
+Figure 4-10. Summary of Pineapple Harvested Acreage and Production in Hawai'i for the Period 1998 to 2007. ... 4-23
+
+Figure 4-11. Summary of Macadamia Nut Harvest Acreages and Nut-in-Shell Production
+
+# from 1998 to 2006. Crop year July 1 to June 30 ... 4-24
+
+Figure 4-12. Macadamia Nut Processing Locations. ... 4-25
+
+Figure 4-13. Livestock Populations in Hawai'i for the Period from 1997 to 2007. ... 4-26
+
+Figure 4-14. Distribution of Hog Sizes in the 2008 Swine Industry. ... 4-27 Figure 4-15. Animal Wastes. ... 4-30
+
+Figure 4-16. State of Hawai’i Forest Reserve System. ... 4-32 Figure 4-17. Waiakea Timber Management Area. ... 4-34
+
+Figure 5-1. State of Hawai’i Non-Irrigated Land Availability by Soil Type and Island 5-3
+
+Figure 5-2. Soil Temperature Regimes, Nonprime on the Island of Hawai’i ... 5-4
+
+Figure 5-3. Soil Moisture Regimes, Nonprime on the Island of Hawai’i ... 5-4
+
+Figure 5-4. Soil Temperature Regimes, Nonprime on the Island of Maui ... 5-5
+
+Figure 5-5. Soil Moisture Regimes, Nonprime on the Island of Maui ... 5-5
+
+Figure 5-6. Soil Temperature Regimes, Nonprime on the Island of Molokai ... 5-6
+
+Figure 5-7. Soil Moisture Regimes, Nonprime on the Island of Molokai ... 5-6
+
+Figure 5-8. Soil Temperature Regimes, Nonprime on the Island of Kauai ... 5-7
+
+Figure 5-9. Soil Moisture Regimes, Nonprime on the Island of Kauai ... 5-7
+
+Figure 5-10. Soil Temperature Regimes, Nonprime on the Island of Oahu ... 5-8
+
+Figure 5-11. Soil Moisture Regimes, Nonprime on the Island of Oahu ... 5-8
+
+Figure 5-12. Soil Temperature Regimes, Nonprime on the Island of Lanai ... 5-9
+
+**TC-8**
+
+---
+
+## The Potential for Biofuels Production in Hawai’i Table of Contents
+
+Figure 5-13. Soil Moisture Regimes, Nonprime on the Island of Lanai ... 5-9
+
+Figure 5-14. Location of Irrigation Ditches and Nonprime Agricultural Lands ... 5-11
+
+Figure 5-15. Biomass Potential by Crop Type and Island, Nonprime Ethanol ... 5-21
+
+
+[... middle omitted — see footer ...]
+
+| Machinery |  |  |  |  |  |
+| Labor |  |  |  |  |  |
+| Other | Acre | 1 | $177.00 | $224.06 | $224.06 |
+| 5. Other operations | Acre | 1 | $224 | $282.92 | $282.92 |
+| 6. Operating overhead | Acre | 1 | 133.5 | $169.00 | $155.95 |
+|  |  |  |  |  |  |
+| Total costs | Acre | 1 | $1,468.50 | $1,858.95 | $1,715.40 |
+| Fixed cost for machinery | Acre | 4.44% |  | $82.46 | $76.09 |
+| Variable cost | Acre | 1 |  | $1,776.49 | $1,639.31 |
+|  |  |  |  |  |  |
+| A. Production of Banagrass |  |  |  |  |  |
+| 1. Primary production** | tons/ac/year | 37.00 |  |  |  |
+| 2. Secondary production |  |  |  |  |  |
+| 3. Gross revenue per acre | Acre |  |  | $3,102.83 | $3,102.83 |
+|  |  |  |  |  |  |
+| B. Net revenue from Banagrass |  |  |  |  |  |
+| Net revenue | acre/crop |  |  | $1,243.88 | $1,387.42 |
+| Net revenue | 1.5 crops/year |  |  | $1,865.82 | $2,081.14 |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| C. Production of ethanol |  |  |  |  |  |
+
+---
+
+The Potential for Biofuels Production in 
+Hawai’i
+
+| Processing cost | /gallon | $1.36 |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| a. processing cost(67) | /acre | 2479.00 |  | $3,371.44 | $3,371.44 |
+| b. processing cost(80) | /acre | 2960.00 |  | $4,025.60 | $4,025.60 |
+| c. processing cost(100) | /acre | 3700.00 |  | $5,032.00 | $5,032.00 |
+|  |  |  |  |  |  |
+| a. Total production cost(67) | /acre |  |  | $5,230.39 | $5,086.84 |
+| b. Total production cost(80) | /acre |  |  | $5,884.55 | $5,741.00 |
+| c. Total production cost(100) | /acre |  |  | $6,890.95 | $6,747.40 |
+|  |  |  |  |  |  |
+| a. Gross revenue(67) | /acre |  |  | $5,963.29 | $5,963.29 |
+| b. Gross revenue(80) | /acre |  |  | $7,120.35 | $7,120.35 |
+| c. Gross revenue(100) | /acre |  |  | $8,900.44 | $8,900.44 |
+|  |  |  |  |  |  |
+| C. Net revenue from ethanol |  |  |  |  |  |
+| a. Net revenue(67) | /acre |  |  | $732.90 | $876.45 |
+| b. Net revenue(80) | /acre |  |  | $1,235.80 | $1,379.35 |
+| c. Net revenue(100) | /acre |  |  | $2,009.49 | $2,153.03 |
+|  |  |  |  |  |  |
+| Feedstock cost of ethanol(67) | /gallon |  |  |  | $0.69 |
+| Feedstock cost of ethanol(80) | /gallon |  |  |  | $0.58 |
+| Feedstock cost of ethanol 100) | /gallon |  |  |  | $0.46 |
+| Break even price of Banagrass | /ton |  |  |  | $46.36 |
+| Break even price of ethanol(67) | /gallon |  |  |  | $2.05 |
+| Break even price of ethanol(80) | /gallon |  |  |  | $1.94 |
+| Break even price of ethanol(100) | /gallon |  |  |  | $1.82 |
+
+Notes: Banagrass
+
+1. Cost of production data are based on Kinoshita and Zhou (1999). Note: machinery and labor costs 
+are included in the respective operation category (e.g., land preparation, harvesting etc.).
+
+2. Prices were inflated to 2007 using appropriate CPI for Honolulu.
+
+3. Cost of land preparation includes both soil preparation and planting Banagrass.
+
+4. Cost for other operations included road maintenance, crop control research, equipment, 
+landholding etc.
+
+5. Cost of irrigation was included for the analysis as Banagrass production was considered for 
+irrigated prime lands.
+
+7. Average price of a ton of Banagrass dry matter ($80) was based on Kauai Island Utility 
+cooperative. Renewable energy technology assessment report, March 21, 2006 (URL: 
+http://www.kiuc.coop/pdf/KIUC%20RE%20Final%20Report%207%20-
+%20Biomass%20&%20MSW.pdf).
+
+6. Operating overhead is assumed to be 10% of total operational cost.
+
+8. Banagrass yield estimation for irrigated prime lands (warm moist regime) based on Ogoshi, R. 
+2008.
+
+---
+
+## The Potential for Biofuels Production in Appendix A.
+
+**Hawai’i**
+
+9. Ethanol yield for a ton of Banagrass dry matter (67 gallons) was based on Gieskes and Hackett (2003). Variable conversion rates were considered as follows: Scenario 1: Conversion rate of ethanol per ton of dry matter = 67 gallons Scenario 2: Conversion rate of ethanol per ton of dry matter = 80 gallons Scenario 3: Conversion rate of ethanol per ton of dry matter = 100 gallons Scenario 4: Variable conversion rates of ethanol per ton of dry matter over time. For 1-5 years (67/65 gallons), for 6-10 years (80 gallons), for 11-15 years (90 gallons), for 16-20 years (100 gallons), for 21-25 years (110 gallons)
+10. It is assumed that harvesting cycle of Banagrass is 8 months.
+11. Processing cost for Banagrass is assumed to be the same as ethanol produced from corn stover. Total processing ethanol from lignocellulose source like corn stover = $1.50/gallon less $0.49 stover cost/gallon (McAloon et al. 2000) = $1.01/gallon (in 1999$).The processing cost for Banagrass ethanol processing inflated to 2007$ by a factor of
+1.24 = $ 1.255 (US CPI average 1999-2007) and adjusted to the price in Honolulu by multiplying a factor of 1.083 (CPI adjusted factor for Honolulu as compared to the US average) = $ 1.36.
+12. Price of ethanol in 2007 is $2.405523/gallon. This is rounded to $2.41/gallon
+13. Cost and revenue figures may differ slightly due to rounding.
+**A-7**
+
+──────── [TRUNCATED] ────────
+Showing 14,971 chars (head) + 4,945 chars (tail) of 373,974 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/energy.hawaii.gov-0c8009af8f.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/energy.hawaii.gov-0c8009af8f.md" offset=377 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

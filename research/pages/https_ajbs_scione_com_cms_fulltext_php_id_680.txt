@@ -1,0 +1,233 @@
+|     |
+| --- |
+| **Research Article \| Open Access**<br>Volume 16 \| Issue 3 \| [https://doi.org/10.3923/ajbs.2023.294.301](https://doi.org/10.3923/ajbs.2023.294.301) |
+
+# A Study on Yield and Gut Flora Diversity on Vermicomposting of Bio-Waste Using _Eisenia fetida_
+
+Rahtinabala Kanagaraj
+
+
+
+Research Centre, Department of Botany, Thiagarajar College, Madurai, Tamil Nadu 625009, India
+
+Muthupandi Guru
+
+
+
+Botany Student, Research Centre, Department of Botany, Thiagarajar College, Madurai, Tamil Nadu 625009, India
+
+Dorai Pandian Kannan
+[![LiveDNA](https://ajbs.scione.com/cms/ldna.avif)](https://livedna.org/91.2153)[![ORCID](https://ajbs.scione.com/cms/orcid.png)](https://orcid.org/0000-0002-0537-3469)
+
+Incubation Centre ‘Thiagarajar College Solid and Liquid Waste Management’ and Head, Research Centre, Department of Botany, Thiagarajar College, Madurai, Tamil Nadu 625009, India
+
+|     |     |     |
+| --- | --- | --- |
+| **Received**<br>15 Mar, 2023 | **Accepted**<br>15 Jun, 2023 | **Published**<br>30 Sep, 2023 |
+
+**Background and Objective:** Management of accumulated refuse materials can be made effective through vermicomposting. The study aims to find the yield of compost from different bio-wastes and biochemical characterization of microbes present in the gut region. **Materials and Methods:** Collected and dried biowastes were spread over concrete tanks for composting. Addition of cow dung slurry for pre-treating the biowastes. _Eisenia fetida_ was inoculated into the tanks in a ratio of 10:1 and left for vermicomposting. About one gram of earthworm tissue was dissected and taken for analysis. Microbiological methods were employed to isolate, identify and characterize the vermin bacteria. **Results:** Degradation of hard fibrous sugarcane bagasse resulted relatively in a higher vermicompost production (55.79 and 70.34%) and an increased percentage (29%) of earthworm when compared to other wastes used in the study. As 70.34% recovery during the second study period was obtained because of the longer pre-composting period. Eight different bacterial isolates identified from the gut region were found to be present in the soil, which has plant growth-regulating functions. **Conclusion:** The results of the work can be applicable in multi-faceted fields, including natural resources conservation, organic farming, recycling and reuse of solid and agro-wastes.
+
+|     |
+| --- |
+| Copyright © 2023<br> Kanagaraj _et al._ <br>This is an open-access article distributed under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. |
+
+### INTRODUCTION
+
+Waste management through the vermicomposting process is a suitable way to produce organic manure[1](https://ajbs.scione.com/cms/fulltext.php?id=680#55209_op). On considering the importance of soil health and the production of quality agro produces and industrial products, the organic farming system spans widely in the recent past[2](https://ajbs.scione.com/cms/fulltext.php?id=680#1402868_ja). Vermicomposting can produce better quality compost in a cost-effective manner when compared with other composting methods. Quality vermicompost production is essentially required to attain a sustainable environment and effective soil-use management practices. Bio-waste materials viz, plant debris, vegetable and kitchen waste, fruit skin, pulp waste, crushed cane waste and flower petals are easily bio-degradable wastes, which can be reused by recycling them as bio-composts. These compost products enhance the soil nutrient status, water holding capacity and soil microflora and their activities altogether are very useful in agriculture, horticulture, gardens and plantation crops.
+
+Earthworms act as a catalyst and therefore speed up the process of decomposition. The excreted fecal wastes are called “worm castings[3](https://ajbs.scione.com/cms/fulltext.php?id=680#1847621_ja)”. The utilization of earthworms for waste management has been practised for many years to improve soil ecology and its functioning towards crop improvement. The conversion of nutrients into soluble and available form with high amounts of major nutrients like nitrogen, potassium, calcium, magnesium and phosphorous and minor nutrients like iron, molybdenum, zinc and copper[4](https://ajbs.scione.com/cms/fulltext.php?id=680#2317668_ja). The selection of appropriate species of earthworm is very much important for the composting process. According to previous studies, native earthworms like _Lampito mauritii_ haveless have potential in the rate of reproduction and cocoon formation when compared with _Eisenia fetida_ [5](https://ajbs.scione.com/cms/fulltext.php?id=680#299035_ja). _Eisenia fetida_ is an epigeic earthworm with a high rate of proliferation followed by growth and they are suitable to Indian conditions for agro-practices[6](https://ajbs.scione.com/cms/fulltext.php?id=680#2327526_ja). The quality and composition of the substrate used for vermicomposting technique also influence the efficiency of earthworms, as well as the vermicompost quality.
+
+The gut region of earthworms abodes with the symbiotic association of microfungi, bacteria, protozoa, etc. The nature and role of microbiota present in the earthworm gut comprise mucus, organic and mineral matter and enzymes. The earthworm casts will have highly colonizing bacteria which indicates that the earthworm gut forms into an ideal condition for the development of microorganisms, benefiting the soil quality. The bacterial diversity in the gut and casts has been reduced by earthworms[7](https://ajbs.scione.com/cms/fulltext.php?id=680#157166_op). Some of the varieties of vermin bacteria thriving in the intestine of earthworms were studied previously and identified as _Klebsiella_, _Bacillus_, _Azotobacter_, _Pseudomonas_, _Aeromonas_, _Serratia_ and _Enterobacter_ [8](https://ajbs.scione.com/cms/fulltext.php?id=680#2327527_ja), [9](https://ajbs.scione.com/cms/fulltext.php?id=680#99481_ja). The present study focuses on the microbial population thriving in the gut region of _Eisenia fetida_ and the biochemical characterization of isolated microorganisms. The quantity of vermicomposting produced and the rate of earthworm reproduced from sugarcane bagasse waste, vegetable waste and flower waste for one complete cycle were also studied.
+
+### MATERIALS AND METHODS
+
+The degradation of solid waste materials through vermicomposting activity was done in the compost yard, Incubation Centre at Thiagarajar College, Madurai. The vegetable waste (7 kg) and flower waste (7 kg) materials were collected from the Central Market, Mattuthavanai, Madurai and sugarcane waste (7 kg) was obtained from a street cane juice vending shop, near Thiagarajar College. The study was conducted between December, 2019 and March, 2020, October, 2022 and February, 2023. Collected wastes were shade dried and shredded into small bits. The initial weight of sugarcane waste after drying was recorded and mixed with cow dung slurry. African red earthworm- _Eisenia fetida_ was chosen, as it has proven with a high multiplication rate, thereby has the faster means of vermicompost production. The moisture level was maintained by sprinkling water over the bed and aeration was facilitated by gentle mixing until the fair decomposition through heat stability and colour transformation of the composting materials into brownish-black colour occurred. An appropriate quantity of _Eisenia fetida_ 10:1 ratio (W/W) was introduced to the partly decomposed material kept in the vermin bed. Cow dung slurry was applied initially after the worm’s introduction and thereafter water was sprinkled to keep the appropriate moisture level. After daily monitoring of the composting bed, the complete formation of composting was started within 15-20 days.
+
+**Harvesting of earthworms and vermicompost:** Vermicompost was collected by separating the multiplied earthworms from the chamber. The collected compost was air-dried for a day and then weighed. Similarly, the multiplied earthworms collected after the harvest were also weighed:
+
+|     |
+| --- |
+| ![](https://docsdrive.com/images/scienceinternational/ajbs/2023/e1.2k23.680.680.gif) |
+
+**Earthworm gut flora analysis:** Ten earthworms from each of the composting beds, on the tenth day after introduction into the bed were collected for microbial analysis. The worms were washed with sterile water and then placed on a Petri plate, covered with moistened filter paper for 24 hrs. After 24 hrs, before dissection, the surface of the earthworm was cleaned with 70% ethanol and stored in a clean plastic bottle kept in a cool condition for further analysis.
+
+One gram of tissue was collected from the stored specimen of earthworm gut region and using a sterile surgeon razor the gut region tissue was cut open. The tissue was homogenized for 5 min using a vortex mixture (CM 101, Remi Equipment’s Ltd.) by adding 0.85% of NaCl solution.
+
+The bacteria present in the gut region of earthworms were isolated through serial dilution. One-gram gut region of earthworm was excised and suspended in 10 mL of 0.85% NaCl solution, serially diluted (10–1 to 10–7). From the serially diluted tubes, 0.1 mL of the solution was taken from each tube and spread over the Petri plate-containing nutrient agar medium. The culture plates were incubated at room temperature for 24 hrs, to observe the growth of bacterial community over the spread plate.
+
+**Morphological and biochemical characterization of bacteria:** The morphology of the colonies was identified using Gram staining. Further biochemical characterization of vermi-bacteria through catalase Test (addition of hydrogen peroxide), Indole production test (addition of Kovac’s reagent), methyl red (MR) Test (addition of methyl red), Voges-Proskauer (VP) Test (addition of Barrit A and B), Citrate utilization test (positive if the medium colour changes to green from blue), production of H2S (appearance of deep black colour) was performed to identify vermi-bacteria.
+
+### RESULTS AND DISCUSSION
+
+**Vermicompost production:** The yield of vermicompost was higher in sugarcane bagasse waste material ( [Table 1](https://ajbs.scione.com/cms/fulltext.php?id=680#t1)), as this bio-waste material contains 30-40% of pith fibre vermicomposting is generally done using several agro-waste materials like sugarcane bagasse and rice straw[2](https://ajbs.scione.com/cms/fulltext.php?id=680#1402868_ja), cow manure and kitchen waste[5](https://ajbs.scione.com/cms/fulltext.php?id=680#299035_ja) and paper waste[10](https://ajbs.scione.com/cms/fulltext.php?id=680#2135697_ja), bagasse[11](https://ajbs.scione.com/cms/fulltext.php?id=680#55207_op), cow dung and domestic sludge[12](https://ajbs.scione.com/cms/fulltext.php?id=680#170889_op) etc. Pre-composting of bagasse, using cow dung slurry was found to be improved the growth of earthworm _Eisenia fetida_ [11](https://ajbs.scione.com/cms/fulltext.php?id=680#55207_op) to the composting condition. The weight of sugarcane bagasse partially decomposed was noted and a further vermicomposting process was initiated by introducing earthworms _Eisenia fetida_. The ideal ratio suitable for the growth and proliferation of _E. fetida_ was 50:50, as reported by Hu _et al_.[12](https://ajbs.scione.com/cms/fulltext.php?id=680#170889_op). However, 50% recovery was achieved in flower waste material in a shorter period of time.
+
+**Earthworm production:** An appreciable rate of earthworm production was noticed with the use of pre-composted bagasse with a 29% increase in earthworm weight, during the period of vermicompost collection ( [Table 2](https://ajbs.scione.com/cms/fulltext.php?id=680#t2)). The growth and reproduction of earthworms throughout the cycle were found influenced by the type of feeding material and this report is in agreement with the previous report[13](https://ajbs.scione.com/cms/fulltext.php?id=680#2317672_ja). While using cow dung and sawdust as substrates, significantly higher production of earthworms and cocoons was observed in the study implying cow dung is essential for earthworms which contain easily digestible organic matter[14](https://ajbs.scione.com/cms/fulltext.php?id=680#2210641_ja). The mixture of cow dung and sugarcane bagasse in different compositions resulted in an increase in the number of earthworms from the 60th day of study and reached the maximum of 105th days[12](https://ajbs.scione.com/cms/fulltext.php?id=680#170889_op). An increase in the fresh weight of total and individual worms was noted in the second study period of sugarcane bagasse waste which confirms the fact that the enhanced production of earthworms could be achieved through the suitable selection of feedstock material, provided to the earthworms as described by Chaudhuri and Bhattacharjee[15](https://ajbs.scione.com/cms/fulltext.php?id=680#2252065_ja) and Mupambwa _et al_.[16](https://ajbs.scione.com/cms/fulltext.php?id=680#2327542_ja).
+
+|     |     |
+| --- | --- |
+| Table 1: | Initial quantity and yield of vermicompost from flower waste, vegetable waste, sugarcane waste in two different study periods |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| Parameters | Flower<br> waste | Vegetable<br> waste | Sugarcane waste<br> (2019-2020) | Sugarcane waste<br> (2022-2023) |
+| Dry weight (kg) | 4.15 | 6.79 | 4.8 | 4.91 |
+| Cow dung applied (kg/per time) | 2.180<br> (2 times at<br> 5 days interval) | 3.39<br> (2 times at<br> 5 days interval) | 2.500<br> (4 times at<br> 5 days interval) | 3.000 (for pre-composting)<br> 1.500 (for vermicomposting) |
+| Earthworm introduced (kg) | 0.25 | 0.25 | 0.25 | 0.18 |
+| Compost Yield (kg) | 2.111 | 2.1 | 2.678 | 3.741 |
+| Yield (%) | 50.86 | 30.92 | 55.79 | 70.34 |
+| Number of days required | 33 | 51 | 61 | 44 (for pre-composting) |
+|  |  |  |  | 77 (for vermicomposting) |
+
+|     |     |
+| --- | --- |
+| Table 2: | Weight gaining of _Eisenia fetida_ earthworms during the vermicomposting of flower, vegetable and sugarcane waste decomposition |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Substrate | Initial weight of<br>earthworms (g) | Final weight of<br>earthworms (g) | Increase (%) |
+| Flower waste | 250 | 151.44 | Negative |
+| Vegetable waste | 250 | - | - |
+| Sugarcane waste (2019-2020) | 250 | 254.28 | 1.71 |
+| Sugarcane waste (2022-2023) | 180 | 233.5 | 29.72 |
+
+|     |     |
+| --- | --- |
+| Table 3: | Biochemical characterization of bacterial colony isolated from the gut region of _Eisenia fetida_ |
+
+|     |     |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bacteria<br> number | Shape of<br> bacteria | Gram<br>staining | Motility<br>test | Catalase<br>test | Indole<br>test | Methyl red<br>test | VP<br>test\* | Citrate<br>test | H2S<br>production | Bacteria |
+| B1 | Rod | - | - | + | + | + | - | - | - | _Pseudomonas_ sp. |
+| B2 | Rod | - | + | + | + | + | - | - | - | _E. coli_ |
+| B3 | Rod | - | - | + | - | - | + | - | - | _Klebsiella_ sp. |
+| B4 | Cocci | + | - | - | - | - | + | - | - | _Entrococcus_ sp. |
+| B6 | Rod | - | - | + | + | + | + | + | - | _Pseudomonas_ sp. |
+| B7 | Cocci | + | - | + | + | - | + | + | - | _Staphylococcus_ sp. |
+| B8 | Rod | - | + | - | - | + | - | + | + | _Proteus_ sp. |
+| B10 | Cocci | + | + | - | + | + | - | + | + | _Pediococcus_ sp. |
+| \*VP test: Voges-Proskauer Test |
+
+The occurrence of fungi on the feeding material during vermicomposting adds additional food to the worms which could be one of the reasons for the increment in the weight of worms[17](https://ajbs.scione.com/cms/fulltext.php?id=680#2317673_ja). This is being achieved through the various activities of earthworms such as ingestion, breaking down and digestion of the biodegradable wastes, as feed materials, engulfed by the earthworms, which converts into finer humified microbially active material. A higher yield of the compost was obtained in cow dung as a substrate since it is easily metabolized by earthworms[14](https://ajbs.scione.com/cms/fulltext.php?id=680#2210641_ja).
+
+**Gut microbial analysis:** The gut region of earthworms contains numerous microbes like bacteria, fungi, protozoa and yeast. Ten different bacterial isolates were screened using serial dilution. Among them, only eight isolates were able to sub-culture ( [Table 3](https://ajbs.scione.com/cms/fulltext.php?id=680#t3)). The reason behind the absence of two isolates was not studied. Rod (B1, B2, B3, B6, B8) and cocci shaped (B4, B7, B10) bacteria were identified. The identified bacteria might be from the gut region of earthworm, cow dung and soil agreed with the findings. _Klebsiella_ was found in different substrates like loamy soil, cow dung and press mud. _Escherichia coli_ present in the gut region of different earthworms grown using cow dung as substrate, absent in cast. _Enterobacter_ sp., thrives on the gut region of all the earthworms employed[18](https://ajbs.scione.com/cms/fulltext.php?id=680#627977_ja).
+
+**Biochemical characterization of bacteria:** In the catalase test bubble production of bacterial colonies when placed on the glass slide containing hydrogen peroxide was noted positive (B1, B2, B3, B6 and B7) due to the production of enzyme catalase[19](https://ajbs.scione.com/cms/fulltext.php?id=680#79070_bc). And the colony does not produce bubbles that remained negative. The development of stable red color on the surface of the broth indicates sufficient acid production in the methyl red test to lower pH to 4.4 and constitutes a positive. The culture B1, B2, B6, B8 and B10 was observed positive. The microbiological test commonly used for acetoin production is Voges-Proskauer Test (VP test). Positive reaction as emphasized[20](https://ajbs.scione.com/cms/fulltext.php?id=680#2317675_ja), as represented by the development of red colour in the experiment, indicating the presence of diacetyl, an oxidation product of acetoin. Cultures of B3, B4, B6 and B7 were found positive and B1, B2 and B8 remain negative to the VP test. The citrate test identifies the use of citrate as the sole carbon source since there is no other nutrient in the medium. The basic end products cause the bromothymol blue indicator in the medium to change into bright blue colour from green colour. The cultures established as B6, B7, B8 and B10 in the experiment were found to be positive for the citrate test. The production of H2S was observed in the test tubes, indicated by the colour change. The positive result for bacteria was observed by the development of deep black colour (B8 and B10).
+
+While adding Kovac reagent to the tubes containing two days old stab culture the appearance of a pink colour layer indicated the positive result for the indole production test (B1, B2, B6, B7 and B10) and green colour indicated the negative result (B3, B4 and B8). The bacterial culture tested positive for indole test is plant growth promoting bacteria agreed with the earlier reports[21](https://ajbs.scione.com/cms/fulltext.php?id=680#170888_op), showed the avoidance of root and stem rots disease in plants and also enhancing the seed germination and further growth and development of plants.
+
+
+[... middle omitted — see footer ...]
+
+17. Pramanik, P. and Y.R. Chung, 2011. Changes in fungal population of fly ash and vinasse mixture during vermicomposting by _Eudrilus eugeniae_ and _Eisenia fetida_: Documentation of cellulase isozymes in vermicompost. [Waste Manage., 31: 1169-1175](http://dx.doi.org/10.1016/j.wasman.2010.12.017).
+18. Parthasarathi, K., L.S. Ranganathan, V. Anandi and J. Zeyer, 2007. Diversity of microflora in the gut and casts of tropical composting earthworms reared on different substrates. [J. Environ. Biol., 28: 87-97](http://www.ncbi.nlm.nih.gov/pubmed/17717992).
+19. Bhumbla, U., 2018. Identification of Bacteria by Biochemical Reactions. In: Workbook for Practical Microbiology, Bhumbla, U. (Ed.), Jaypee Brothers Medical Publishers (P) Ltd., Chandigarh, India, ISBN: 9789352703098, pp: 84-99.
+
+20. Speckman, R.A. and E.B. Collins, 1982. Specificity of the westerfeld adaptation of the voges-proskauer test. [Appl. Environ. Microbiol., 44: 40-43](http://dx.doi.org/10.1128/aem.44.1.40-43.1982).
+21. Andleeb, S., I. Shafique, A. Naseer, W.A. Abbasi and S. Ejaz _et al_., 2022\. Molecular characterization of plant growth-promoting vermi-bacteria associated with _Eisenia fetida_ gastrointestinal tract. [PLoS ONE, 17: 0269946](https://doi.org/10.1371/journal.pone.0269946).
+22. Drake, H.L. and M.A. Horn, 2007. As the worm turns: The earthworm gut as a transient habitat for soil microbial biomes. [Ann. Rev. Microbiol., 61: 169-189.](http://dx.doi.org/10.1146/annurev.micro.61.080706.093139)
+23. Toyota, K. and M. Kimura, 2000. Microbial community indigenous to the earthworm _Eisenia foetida_. [Biol. Fertil. Soils, 31: 187-190](http://dx.doi.org/10.1007/s003740050644).
+24. Valle-Molinares, R., S. Borges and C. Rios-Velazquez, 2007. Characterization of possible symbionts in _Onychochaeta borincana_ (Annelida: Glossoscolecidae). [Eur. J. Soil Biol., 43: S14-S18](http://dx.doi.org/10.1016/j.ejsobi.2007.08.057).
+25. Huang, K., F. Li, Y. Wei, X. Chen and X. Fu, 2013. Changes of bacterial and fungal community compositions during vermicomposting of vegetable wastes by _Eisenia foetida_. [Bioresour. Technol., 150: 235-241](http://dx.doi.org/10.1016/j.biortech.2013.10.006).
+26. Estrada-de los Santos, P., L. Martínez-Aguilar, I.M. López-Lara and J. Caballero-Mellado, 2012. _Cupriavidus alkaliphilus_ sp. nov., a new species associated with agricultural plants that grow in alkaline soils. [Syst. Appl. Microbiol., 35: 310-314](http://dx.doi.org/10.1016/j.syapm.2012.05.005).
+27. Thakur, A., A. Kumar, C.V. Kumar, B.S. Kiran, S. Kumar and V. Athokpam, 2021. A review on vermicomposting: By-products and its importance. [Plant Cell Biotechnol. Mol. Biol., 22: 156-164](https://www.ikprress.org/index.php/PCBMB/article/view/5993).
+28. Gupta, C., D. Prakash, S. Gupta and M.A. Nazareno, 2019. Role of Vermicomposting in Agricultural Waste Management. In: Sustainable Green Technologies for Environmental Management, Shah, S., V. Venkatramanan and R. Prasad (Eds.), Springer, Singapore, ISBN: 978-981-13-2772-8, pp: 283-295.
+
+29. Kumar G.V., G. Renuka and Y. Anoop, 2008. Potential of Vermicomposting Technology in Solid Waste Management. In: Current Developments in Solid-state Fermentation. Pandey A., C.R. Soccol and C. Larroche (Eds.), Springer, New York, NY, pp: 468-511.
+
+
+### How to Cite this paper?
+
+**APA-7 Style**
+
+Kanagaraj,
+R., Guru,
+M., Kannan,
+D.P. (2023). A Study on Yield and Gut Flora Diversity on Vermicomposting of Bio-Waste Using _Eisenia fetida_. [_Asian Journal of Biological Sciences_, 16(3), 294-301](https://doi.org/10.3923/ajbs.2023.294.301). https://doi.org/10.3923/ajbs.2023.294.301
+
+
+
+**ACS Style**
+
+Kanagaraj,
+R.; Guru,
+M.; Kannan,
+D.P. A Study on Yield and Gut Flora Diversity on Vermicomposting of Bio-Waste Using _Eisenia fetida_. [_Asian J. Biol. Sci_ 2023, 16, 294-301](https://doi.org/10.3923/ajbs.2023.294.301). https://doi.org/10.3923/ajbs.2023.294.301
+
+
+**AMA Style**
+
+Kanagaraj
+R, Guru
+M, Kannan
+DP. A Study on Yield and Gut Flora Diversity on Vermicomposting of Bio-Waste Using _Eisenia fetida_. [_Asian Journal of Biological Sciences_. 2023; 16(3): 294-301](https://doi.org/10.3923/ajbs.2023.294.301). https://doi.org/10.3923/ajbs.2023.294.301
+
+
+**Chicago/Turabian Style**
+
+Kanagaraj, Rahtinabala, Muthupandi Guru, and Dorai Pandian Kannan.
+2023\. "A Study on Yield and Gut Flora Diversity on Vermicomposting of Bio-Waste Using _Eisenia fetida_" [_Asian Journal of Biological Sciences_ 16, no. 3: 294-301](https://doi.org/10.3923/ajbs.2023.294.301). https://doi.org/10.3923/ajbs.2023.294.301
+
+
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+Information
+
+- ![For Authors](https://ajbs.scione.com/cms/content_management_files/arrow.gif)[For Authors](https://ajbs.scione.com/cms/policy.php?id=authors)
+- ![For Editors](https://ajbs.scione.com/cms/content_management_files/arrow.gif)[For Editors](https://ajbs.scione.com/cms/policy.php?id=editors)
+- ![For Reviewers](https://ajbs.scione.com/cms/content_management_files/arrow.gif)[For Reviewers](https://ajbs.scione.com/cms/policy.php?id=reviewers)
+- ![For Librarians](https://ajbs.scione.com/cms/content_management_files/arrow.gif)[For Librarians](https://ajbs.scione.com/cms/policy.php?id=librarian)
+- ![Abstracting & Indexing](https://ajbs.scione.com/cms/content_management_files/arrow.gif)[Abstracting & Indexing](https://ajbs.scione.com/cms/about.php?id=indexedin)
+- ![Journal Metrics](https://ajbs.scione.com/cms/content_management_files/arrow.gif)[Journal Metrics](https://ajbs.scione.com/cms/metrics.php)
+
+|     |
+| --- |
+| Keywords<br> Vermicomposting<br> <br> biowaste recycling<br> <br> sugarcane bagasse<br> <br> African red earthworm<br> <br> Eisenia fetida<br> <br> earthworm gut flora |
+
+|     |     |
+| --- | --- |
+| [**PDF**](https://ajbs.scione.com/cms/pdf.php?artid=680) | [**Abstract**](https://ajbs.scione.com/cms/abstract.php?id=680) |
+
+|     |     |
+| --- | --- |
+| Views<br>4043 | Shares<br>1101 |
+| Downloads<br>621 | Citations<br>0 |
+
+[1\\
+\\
+CITATION\\
+\\
+![1 citation on Dimensions.](https://badge.dimensions.ai/badge?count=1)\\
+\\
+1Total citation\\
+\\
+0Recent citations\\
+\\
+n/aField Citation Ratio\\
+\\
+n/aRelative Citation Ratio](https://badge.dimensions.ai/details/doi/10.3923/ajbs.2023.294.301?domain=https://ajbs.scione.com)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+|  |  |  |  |
+
+Facebook
+
+**Asian Journal of Biological Sciences**
+
+Science International
+
+Dubai Silicon Oasis Headquarters Building 4th Floor, C & D Wing,
+
+Dubai Sillicon Oasis, Dubai, UAE
+
+**ISSN:** 1996-3351
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+──────── [TRUNCATED] ────────
+Showing 19,318 chars (head) + 6,856 chars (tail) of 36,390 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/ajbs.scione.com-9810315e89.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/ajbs.scione.com-9810315e89.md" offset=118 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────
